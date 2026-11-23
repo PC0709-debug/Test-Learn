@@ -1,0 +1,162 @@
+[
+  {
+    "id": "philo-03-02",
+    "source": 28,
+    "match": 29,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 95,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica and Cambridge Descartes Lexicon both confirm Discourse 1637 (je pense, donc je suis) and Principles 1644 (ego cogito, ergo sum). Minor: 'first state' rests on first published formulation.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/cogito-ergo-sum",
+      "https://www.cambridge.org/core/books/cambridge-descartes-lexicon/cogito-ergo-sum/9B3FCAB85CDB86C31D68A824E20F699F"
+    ]
+  },
+  {
+    "id": "philo-03-03",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica confirms Hobbes authored Leviathan, first published 1651; social-contract summary matches Britannica Q&A page.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Leviathan-by-Hobbes",
+      "https://www.britannica.com/topic/How-did-Thomas-Hobbes-describe-the-state-of-nature"
+    ]
+  },
+  {
+    "id": "philo-03-05",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica (white paper quote, Essay 1689) and SEP (tabula rasa / blank sheet) both confirmed.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/tabula-rasa",
+      "https://plato.stanford.edu/entries/locke/"
+    ]
+  },
+  {
+    "id": "philo-03-10",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica summary and SEP agree: born Königsberg, studied and taught there; SEP confirms renamed Kaliningrad, part of Russia.",
+    "verifiedUrls": [
+      "https://www.britannica.com/summary/Immanuel-Kant",
+      "https://plato.stanford.edu/entries/kant"
+    ]
+  },
+  {
+    "id": "philo-03-16",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica confirms Übermensch, will to power, God is dead in Zarathustra; Philosophy Now confirms term not invented by Nietzsche; SEP also gives Overman.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Thus-Spake-Zarathustra",
+      "https://philosophynow.org/issues/93/Nietzsches_Ubermensch_A_Hero_of_Our_Time"
+    ]
+  },
+  {
+    "id": "philo-03-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "SEP (repackage line, 1946) and Britannica (Nausea 1938 stemmed from belief) both confirmed verbatim.",
+    "verifiedUrls": [
+      "https://plato.stanford.edu/entries/existentialism",
+      "https://www.britannica.com/biography/Jean-Paul-Sartre"
+    ]
+  },
+  {
+    "id": "philo-03-20",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica and IEP quotes both found verbatim; Sisyphus condemned to roll boulder/rock.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/The-Myth-of-Sisyphus",
+      "https://iep.utm.edu/existent/"
+    ]
+  },
+  {
+    "id": "philo-03-22",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "SEP confirms PI posthumous 1953 and language-games; IEP confirms ordinary language philosophy influence. Tractatus distractor was published in his lifetime.",
+    "verifiedUrls": [
+      "https://plato.stanford.edu/entries/wittgenstein",
+      "https://iep.utm.edu/wittgens"
+    ]
+  },
+  {
+    "id": "philo-03-23",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica confirms 1967 essay by British philosopher Foot and 'as Thomson called it'; SEP Foot confirms essay title 1967. Ellipsed Thomson 1976 sentence not in excerpt but consistent.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/trolley-problem",
+      "https://plato.stanford.edu/entries/philippa-foot/"
+    ]
+  },
+  {
+    "id": "philo-03-26",
+    "source": 30,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica (Pensées 1657-58, game theory, belief rational) and SEP (four arguments in single section) confirmed. Accept 'Thoughts' is the English translation of title.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Pascals-wager",
+      "https://plato.stanford.edu/entries/pascal-wager"
+    ]
+  }
+]

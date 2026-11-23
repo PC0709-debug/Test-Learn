@@ -7,7 +7,7 @@
 //
 // When you change any file, bump VERSION so phones fetch the new copies.
 
-const VERSION = 'ticker-v1';
+const VERSION = 'ticker-v2';
 const FILES = [
   './', 'index.html', 'style.css', 'manifest.webmanifest',
   'js/cards-data.js', 'js/srs.js', 'js/store.js', 'js/answer.js', 'js/fx.js', 'js/theme.js', 'js/art.js', 'js/app.js',

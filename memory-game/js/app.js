@@ -465,7 +465,7 @@
         <button class="btn" data-action="export">Copy save to clipboard</button>
         <button class="btn" data-action="import">Paste a save</button>
         <button class="btn danger" data-action="reset">Erase all progress</button>
-        <p class="sub">${ALL.length} cards in this edition. Each passed a source-traced check scored 90+/100.</p>
+        <p class="sub">${ALL.length} cards in this edition. Each passed an independent source-traced check scored 90+/100.</p>
       </section>`);
   }
 
