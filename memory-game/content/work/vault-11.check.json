@@ -1,0 +1,409 @@
+[
+  {
+    "id": "vault-11-01",
+    "source": 26,
+    "match": 24,
+    "unique": 13,
+    "current": 15,
+    "precise": 8,
+    "total": 86,
+    "hardFail": null,
+    "pass": false,
+    "issue": "Sources say 'one- or two-slide summary', not 'one- or two-page'; change q to 'one- or two-slide' (or 'short'). Accept term 'blind profile' is not supported by any cited source; remove it or cite a source using it.",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/what-is-an-investment-teaser",
+      "https://corporatefinanceinstitute.com/resources/valuation/investment-teaser-template"
+    ]
+  },
+  {
+    "id": "vault-11-02",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/sell-side-process",
+      "https://www.wallstreetprep.com/knowledge/investment-bankers-guide-ma-due-diligence"
+    ]
+  },
+  {
+    "id": "vault-11-03",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/sell-side-process"
+    ]
+  },
+  {
+    "id": "vault-11-04",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/letter-of-intent-loi-template"
+    ]
+  },
+  {
+    "id": "vault-11-05",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/fairness-opinions-whats-dont-really-tell-much"
+    ]
+  },
+  {
+    "id": "vault-11-06",
+    "source": 30,
+    "match": 30,
+    "unique": 8,
+    "current": 15,
+    "precise": 10,
+    "total": 93,
+    "hardFail": "Distractor 'Event' could be argued correct: 'material adverse event' is used in some agreements as a synonym of MAC/MAE.",
+    "pass": false,
+    "issue": "Replace distractor 'Event' with something clearly wrong (e.g. 'Expense' or 'Exposure').",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/material-adverse-change-mac",
+      "https://www.wallstreetprep.com/knowledge/material-adverse-change-mac"
+    ]
+  },
+  {
+    "id": "vault-11-07",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/break-fees-reverse-termination-fees-ma"
+    ]
+  },
+  {
+    "id": "vault-11-08",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/break-fees-reverse-termination-fees-ma"
+    ]
+  },
+  {
+    "id": "vault-11-09",
+    "source": 20,
+    "match": 30,
+    "unique": 15,
+    "current": 12,
+    "precise": 8,
+    "total": 85,
+    "hardFail": "Explain cites 83%/41% (Houlihan Lokey survey, 126 targets) from a single source (WSP); numbers need two independent sources. The survey is also dated (2015).",
+    "pass": false,
+    "issue": "Remove the percentages from explain, or add the Houlihan Lokey study itself as a second source and note its date.",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/break-fees-reverse-termination-fees-ma"
+    ]
+  },
+  {
+    "id": "vault-11-10",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/no-shop-go-shop-ma",
+      "https://corporatefinanceinstitute.com/resources/valuation/no-shop-provision"
+    ]
+  },
+  {
+    "id": "vault-11-11",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/no-shop-go-shop-ma",
+      "https://corporatefinanceinstitute.com/resources/valuation/no-shop-provision"
+    ]
+  },
+  {
+    "id": "vault-11-12",
+    "source": 20,
+    "match": 24,
+    "unique": 13,
+    "current": 12,
+    "precise": 6,
+    "total": 75,
+    "hardFail": "Explain's Weil 2017 study figures (22 go-privates, 50%) rest on a single source; the claim 'go-shops generally appear with financial (PE) buyers' was not found on the cited page.",
+    "pass": false,
+    "issue": "Drop the Weil numbers and the PE claim from explain, or cite a second independent source (e.g. the Weil study) for each.",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/no-shop-go-shop-ma"
+    ]
+  },
+  {
+    "id": "vault-11-13",
+    "source": 26,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/no-shop-provision"
+    ]
+  },
+  {
+    "id": "vault-11-14",
+    "source": 26,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 95,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/no-shop-provision"
+    ]
+  },
+  {
+    "id": "vault-11-15",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process",
+      "https://www.ftc.gov/sites/default/files/attachments/premerger-introductory-guides/guide1.pdf",
+      "https://www.ftc.gov/legal-library/browse/statutes/hart-scott-rodino-antitrust-improvements-act-1976"
+    ]
+  },
+  {
+    "id": "vault-11-16",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process",
+      "https://www.ftc.gov/sites/default/files/attachments/premerger-introductory-guides/guide1.pdf",
+      "https://www.ftc.gov/enforcement/competition-matters/2017/08/getting-sync-hsr-timing-considerations"
+    ]
+  },
+  {
+    "id": "vault-11-17",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process",
+      "https://www.ftc.gov/sites/default/files/attachments/premerger-introductory-guides/guide1.pdf"
+    ]
+  },
+  {
+    "id": "vault-11-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process",
+      "https://www.ftc.gov/enforcement/competition-matters/2017/08/getting-sync-hsr-timing-considerations",
+      "https://www.ftc.gov/sites/default/files/attachments/premerger-introductory-guides/guide1.pdf"
+    ]
+  },
+  {
+    "id": "vault-11-19",
+    "source": 30,
+    "match": 30,
+    "unique": 6,
+    "current": 10,
+    "precise": 9,
+    "total": 85,
+    "hardFail": "Distractor '10 business days' is arguable: the SEC's April 16, 2026 exemptive order permits a 10-business-day minimum offering period for many equity tender offers (including negotiated Reg 14D offers).",
+    "pass": false,
+    "issue": "Replace distractor '10 business days' (e.g. with '30 business days'); keep q anchored to the text of Rule 14e-1(a); remove '20 days' from accept (rule says business days).",
+    "verifiedUrls": [
+      "https://ecfr.gov/current/title-17/section-240.14e-1",
+      "https://www.sec.gov/files/rules/exorders/2026/exemptive-order-tender-offers-equity-securities-041626.pdf"
+    ]
+  },
+  {
+    "id": "vault-11-20",
+    "source": 30,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://ecfr.gov/current/title-17/section-240.14e-2"
+    ]
+  },
+  {
+    "id": "vault-11-21",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.sec.gov/about/divisions-offices/division-corporation-finance/information-certain-types-transactions-filers"
+    ]
+  },
+  {
+    "id": "vault-11-22",
+    "source": 10,
+    "match": 20,
+    "unique": 10,
+    "current": 15,
+    "precise": 8,
+    "total": 63,
+    "hardFail": "No cited source states that Rule 14d-10 is commonly called the 'best price rule' (eCFR only gives the title 'Equal treatment of security holders'); accept 'equal treatment rule' also unsupported as a common name.",
+    "pass": false,
+    "issue": "Cite an SEC release or law-firm/treatise source that names it the 'best-price rule' (e.g. SEC 2006 amendments to the best-price rule), and reconsider accept 'equal treatment rule'.",
+    "verifiedUrls": [
+      "https://www.ecfr.gov/current/title-17/chapter-II/part-240/section-240.14d-10"
+    ]
+  },
+  {
+    "id": "vault-11-23",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.investor.gov/introduction-investing/investing-basics/glossary/schedules-13d-and-13g",
+      "https://www.sec.gov/newsroom/press-releases/2023-219"
+    ]
+  },
+  {
+    "id": "vault-11-24",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.sec.gov/newsroom/press-releases/2023-219",
+      "https://www.ecfr.gov/current/title-17/section-240.13d-1"
+    ]
+  },
+  {
+    "id": "vault-11-25",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.sec.gov/newsroom/press-releases/2023-219",
+      "https://www.ecfr.gov/current/title-17/section-240.13d-1"
+    ]
+  },
+  {
+    "id": "vault-11-26",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.sec.gov/about/divisions-offices/division-corporation-finance/information-certain-types-transactions-filers",
+      "https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations-cfis/going-private-transactions-exchange-act-rule-13e-3-schedule-13e-3"
+    ]
+  }
+]

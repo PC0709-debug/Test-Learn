@@ -1,0 +1,73 @@
+[
+  {
+    "id": "vault-12-03",
+    "deck": "vault",
+    "topic": "Fund structure: fees",
+    "q": "In the fee shorthand \"2 and 20\", what does the 20 refer to?",
+    "a": "Carried interest",
+    "accept": [
+      "carry",
+      "20% carried interest",
+      "performance fee",
+      "20% performance fee",
+      "incentive fee"
+    ],
+    "wrong": [
+      "Management fee",
+      "Hurdle rate",
+      "GP commitment"
+    ],
+    "explain": "Per the SEC, \"2 and 20\" means a 2% yearly management fee plus a 20% performance fee on profits, and that performance fee is often called carried interest.",
+    "hook": "2 for running the fund, 20 for winning.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/resources-small-businesses/glossary",
+        "title": "SEC.gov | Glossary",
+        "quote": "For example, a private equity fund manager typically uses a fee structure that includes a yearly management fee based on committed capital or invested capital (for example, 1%, 2%, etc.) and a performance fee based on the profits made above a certain benchmark (for example, 10%, 20%, etc.). The latter is often referred to as “carried interest.” These arrangements are often referred to by these percentages (for example, a 2% management fee and 20% performance fee is referred to as “2 and 20”)."
+      },
+      {
+        "url": "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf",
+        "title": "The Economics of Private Equity: A Critical Review (CFA Institute Research Foundation)",
+        "quote": "level of the annual management fee the GP is to be paid (often, 1%–2% of committed capital) as well as the share of the fund’s profits to which the GP is entitled (called the carried interest or carry, often 20%)"
+      }
+    ]
+  },
+  {
+    "id": "vault-12-16",
+    "deck": "vault",
+    "topic": "Fund lifecycle: term",
+    "q": "A private equity fund structured as a limited partnership typically has a fixed term of how many years, before any extensions?",
+    "a": "10 years",
+    "accept": [
+      "10",
+      "ten",
+      "ten years"
+    ],
+    "wrong": [
+      "3 years",
+      "5 years",
+      "25 years"
+    ],
+    "explain": "Buyout-style PE funds typically have a fixed life of 10 years, which can be extended by pre-set periods (e.g., two one-year extensions).",
+    "hook": "A decade-long marriage between GP and LPs.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf",
+        "title": "The Economics of Private Equity: A Critical Review (CFA Institute Research Foundation)",
+        "quote": "fund’s term, which is usually limited to 10 years but often can be extended for a year or two before the fund must be liquidated;"
+      },
+      {
+        "url": "http://www.gipsstandards.org/wp-content/uploads/2021/03/private_equity_gs_2006.pdf",
+        "title": "Private Equity - GIPS Standards (Interpretive Guidance for Private Equity)",
+        "quote": "These funds typically have a fixed life of 10 years that can be extended by a pre-set number of defined periods (e.g., two one-year periods) upon agreement of the investors."
+      },
+      {
+        "url": "https://files.pitchbook.com/website/files/pdf/2025_US_Private_Equity_Outlook.pdf",
+        "title": "PitchBook 2025 US Private Equity Outlook",
+        "quote": "A typical buyout fund has a lifespan of 10 years, with an ability to extend the fund term for two one-year periods as needed to create more value for its assets."
+      }
+    ]
+  }
+]

@@ -1,0 +1,721 @@
+[
+  {
+    "id": "telegraph-01-01",
+    "deck": "telegraph",
+    "topic": "Box model",
+    "q": "In the CSS box model, which layer is the outermost one?",
+    "a": "margin",
+    "accept": [
+      "the margin",
+      "margin box"
+    ],
+    "wrong": [
+      "padding",
+      "border",
+      "content"
+    ],
+    "explain": "The margin wraps the content, padding and border as whitespace between the box and other elements.",
+    "hook": "Inside out: Content, Padding, Border, Margin.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model",
+        "title": "The box model - Learn web development | MDN",
+        "quote": "Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using margin and related properties."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-02",
+    "deck": "telegraph",
+    "topic": "Box model",
+    "q": "In the CSS box model, which layer sits directly around the content as white space, inside the border?",
+    "a": "padding",
+    "accept": [
+      "the padding",
+      "padding box"
+    ],
+    "wrong": [
+      "margin",
+      "outline",
+      "gap"
+    ],
+    "explain": "Padding sits around the content; the border then wraps the content and any padding.",
+    "hook": "Padding is the cushion right against the content.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model",
+        "title": "The box model - Learn web development | MDN",
+        "quote": "Padding box: The padding sits around the content as white space; size it using padding and related properties."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model",
+        "title": "The box model - Learn web development | MDN",
+        "quote": "Border box: The border box wraps the content and any padding; size it using border and related properties."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-03",
+    "deck": "telegraph",
+    "topic": "Box model",
+    "q": "What is the default (initial) value of the CSS box-sizing property?",
+    "a": "content-box",
+    "accept": [],
+    "wrong": [
+      "border-box",
+      "padding-box",
+      "margin-box"
+    ],
+    "explain": "With content-box, width and height include only the content, not padding, border or margin.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing",
+        "title": "box-sizing CSS property - CSS | MDN",
+        "quote": "content-box This is the initial and default value as specified by the CSS standard. The width and height properties include the content, but does not include the padding, border, or margin."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-04",
+    "deck": "telegraph",
+    "topic": "Box model",
+    "q": "With the default box-sizing, how wide does .box {width: 350px; border: 10px solid black;} render?",
+    "a": "370px",
+    "accept": [
+      "370",
+      "370 px"
+    ],
+    "wrong": [
+      "350px",
+      "360px",
+      "330px"
+    ],
+    "explain": "Under content-box, border is added outside the set width: 350 + 10 + 10 = 370px.",
+    "hook": "Default box: borders get added on top.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing",
+        "title": "box-sizing CSS property - CSS | MDN",
+        "quote": "For example, .box {width: 350px; border: 10px solid black;} renders a box that is 370px wide."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing",
+        "title": "box-sizing CSS property - CSS | MDN",
+        "quote": "If the element has any border or padding, this is then added to the width and height to arrive at the size of the box that's rendered on the screen."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-05",
+    "deck": "telegraph",
+    "topic": "Box model",
+    "q": "With box-sizing: border-box, how wide does .box {width: 350px; border: 10px solid black;} render?",
+    "a": "350px",
+    "accept": [
+      "350",
+      "350 px"
+    ],
+    "wrong": [
+      "370px",
+      "360px",
+      "330px"
+    ],
+    "explain": "border-box includes padding and border inside the set width, so the content area shrinks to 330px instead.",
+    "hook": "border-box: the border stays inside the box you asked for.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing",
+        "title": "box-sizing CSS property - CSS | MDN",
+        "quote": "For example, .box {width: 350px; border: 10px solid black;} renders a box that is 350px wide, with the area for content being 330px wide."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model",
+        "title": "The box model - Learn web development | MDN",
+        "quote": "The alternative box model (accessed via box-sizing: border-box) and how it differs from the regular box model."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-06",
+    "deck": "telegraph",
+    "topic": "Dark mode",
+    "q": "Which CSS media feature detects whether the user has requested a light or dark color theme?",
+    "a": "prefers-color-scheme",
+    "accept": [
+      "prefers color scheme"
+    ],
+    "wrong": [
+      "prefers-contrast",
+      "color-gamut",
+      "prefers-reduced-motion"
+    ],
+    "explain": "Users set this preference through an operating system or user agent setting, such as light or dark mode.",
+    "hook": "The user 'prefers' a 'color scheme'.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme",
+        "title": "prefers-color-scheme CSS media feature - CSS | MDN",
+        "quote": "The prefers-color-scheme CSS media feature is used to detect if a user has requested light or dark color themes."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media",
+        "title": "@media CSS at-rule - CSS | MDN",
+        "quote": "prefers-color-scheme Detect if the user prefers a light or dark color scheme."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-07",
+    "deck": "telegraph",
+    "topic": "Dark mode",
+    "q": "Which prefers-color-scheme value matches when the user has not expressed an active preference?",
+    "a": "light",
+    "accept": [],
+    "wrong": [
+      "dark",
+      "no-preference",
+      "auto"
+    ],
+    "explain": "The light value matches both an explicit light preference and the case where no active preference was expressed.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme",
+        "title": "prefers-color-scheme CSS media feature - CSS | MDN",
+        "quote": "light Indicates that user has notified that they prefer an interface that has a light theme, or has not expressed an active preference."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-08",
+    "deck": "telegraph",
+    "topic": "Dark mode",
+    "q": "Which CSS property lets an element indicate which color schemes it can comfortably be rendered in?",
+    "a": "color-scheme",
+    "accept": [
+      "color scheme"
+    ],
+    "wrong": [
+      "prefers-color-scheme",
+      "background-color",
+      "accent-color"
+    ],
+    "explain": "Declaring color-scheme: light dark on :root opts the whole page into the user's preference; browser UI such as scrollbars and form controls then adapt.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme",
+        "title": "color-scheme - CSS | MDN",
+        "quote": "The color-scheme CSS property allows an element to indicate which color schemes it can comfortably be rendered in."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme",
+        "title": "color-scheme - CSS | MDN",
+        "quote": "To opt the entire page into the user's color scheme preferences, declare color-scheme on the :root element."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-09",
+    "deck": "telegraph",
+    "topic": "HTML attributes",
+    "q": "Which <img> attribute holds a text replacement for the image that screen readers read out?",
+    "a": "alt",
+    "accept": [
+      "alt attribute"
+    ],
+    "wrong": [
+      "title",
+      "src",
+      "label"
+    ],
+    "explain": "Alt text is also shown on the page if the image fails to load.",
+    "hook": "alt = alternative text.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img",
+        "title": "<img> HTML image embed element - HTML | MDN",
+        "quote": "The alt attribute holds a textual replacement for the image, which is mandatory and incredibly useful for accessibility — screen readers read the attribute value out to their users so they know what the image means."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-10",
+    "deck": "telegraph",
+    "topic": "HTML elements",
+    "q": "Which attribute gives the <a> element the URL its hyperlink points to?",
+    "a": "href",
+    "accept": [
+      "href attribute"
+    ],
+    "wrong": [
+      "src",
+      "link",
+      "url"
+    ],
+    "explain": "With href, the <a> (anchor) element creates a hyperlink to pages, files, email addresses and more.",
+    "hook": "href = hypertext reference.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a",
+        "title": "<a> HTML anchor element - HTML | MDN",
+        "quote": "The <a> HTML element (or anchor element), with its href attribute, creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a",
+        "title": "<a> HTML anchor element - HTML | MDN",
+        "quote": "href The URL that the hyperlink points to."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-11",
+    "deck": "telegraph",
+    "topic": "CSS selectors",
+    "q": "Which character starts a CSS class selector, as in ___spacious?",
+    "a": ".",
+    "accept": [
+      "period",
+      "dot",
+      "full stop"
+    ],
+    "wrong": [
+      "#",
+      "*",
+      "@"
+    ],
+    "explain": "A class selector matches elements based on the contents of their class attribute.",
+    "hook": "Dot for class.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors",
+        "title": "Class selectors - CSS: Cascading Style Sheets | MDN",
+        "quote": "The CSS class selector matches elements based on the contents of their class attribute."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors",
+        "title": "Class selectors - CSS: Cascading Style Sheets | MDN",
+        "quote": ".class_name { /* … */ }"
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-12",
+    "deck": "telegraph",
+    "topic": "Flexbox",
+    "q": "Along which axis does justify-content distribute space in a flex container?",
+    "a": "main axis",
+    "accept": [
+      "main",
+      "the main axis"
+    ],
+    "wrong": [
+      "cross axis",
+      "block axis",
+      "z-axis"
+    ],
+    "explain": "justify-content works on the main axis of flex containers; align-items handles the cross axis.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content",
+        "title": "justify-content CSS property - CSS | MDN",
+        "quote": "The CSS justify-content property defines how the browser distributes space between and around content items along the main axis of a flex container and the inline axis of grid and multicol containers."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-13",
+    "deck": "telegraph",
+    "topic": "Flexbox",
+    "q": "What is the default value of the flex-direction property?",
+    "a": "row",
+    "accept": [],
+    "wrong": [
+      "column",
+      "row-reverse",
+      "column-reverse"
+    ],
+    "explain": "With row, the flex container's main axis follows the text direction.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction",
+        "title": "flex-direction CSS property - CSS | MDN",
+        "quote": "The default value is row. By default, or when row is explicitly set, the flex container's main-axis is defined to be the same as the text direction."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-14",
+    "deck": "telegraph",
+    "topic": "Flexbox",
+    "q": "Which CSS shorthand property sets the gaps (gutters) between rows and columns in flex and grid containers?",
+    "a": "gap",
+    "accept": [],
+    "wrong": [
+      "margin",
+      "padding",
+      "spacing"
+    ],
+    "explain": "gap is shorthand for row-gap and column-gap and also applies to multi-column containers.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/gap",
+        "title": "gap - CSS | MDN",
+        "quote": "The gap CSS shorthand property sets the gaps (also called gutters) between rows and columns."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/gap",
+        "title": "gap - CSS | MDN",
+        "quote": "This property applies to multi-column, flex, and grid containers."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-15",
+    "deck": "telegraph",
+    "topic": "Flexbox",
+    "q": "When an element is set to display: flex, what do its direct children become?",
+    "a": "flex items",
+    "accept": [
+      "flex item"
+    ],
+    "wrong": [
+      "flex containers",
+      "grid items",
+      "inline boxes"
+    ],
+    "explain": "display: flex changes the inner display type; the element itself still uses the outer display type block.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model",
+        "title": "The box model - Learn web development | MDN",
+        "quote": "You can change the inner display type by setting an inner display value, for example display: flex;. The element will still use the outer display type block but this changes the inner display type to flex. Any direct children of this box will become flex items and behave according to the Flexbox specification."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-16",
+    "deck": "telegraph",
+    "topic": "Media queries",
+    "q": "Which CSS at-rule applies part of a style sheet based on the result of media queries?",
+    "a": "@media",
+    "accept": [
+      "media"
+    ],
+    "wrong": [
+      "@import",
+      "@supports",
+      "@font-face"
+    ],
+    "explain": "For example, @media screen and (width >= 900px) applies rules only on screens at least 900px wide.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media",
+        "title": "@media CSS at-rule - CSS | MDN",
+        "quote": "The @media CSS at-rule can be used to apply part of a style sheet based on the result of one or more media queries."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-17",
+    "deck": "telegraph",
+    "topic": "Media queries",
+    "q": "Which media feature tests the width of the viewport, including the scrollbar?",
+    "a": "width",
+    "accept": [],
+    "wrong": [
+      "max-content",
+      "inline-size",
+      "resolution"
+    ],
+    "explain": "Responsive layouts commonly use it, e.g. @media screen and (width >= 900px).",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media",
+        "title": "@media CSS at-rule - CSS | MDN",
+        "quote": "width Width of the viewport including width of scrollbar."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media",
+        "title": "@media CSS at-rule - CSS | MDN",
+        "quote": "@media screen and (width >= 900px) {"
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-18",
+    "deck": "telegraph",
+    "topic": "JS variables",
+    "q": "Which JavaScript keyword declares a block-scoped variable that cannot be reassigned?",
+    "a": "const",
+    "accept": [],
+    "wrong": [
+      "var",
+      "let",
+      "static"
+    ],
+    "explain": "A const object's properties can still be changed; only the variable identifier cannot be reassigned.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
+        "title": "const - JavaScript | MDN",
+        "quote": "The const declaration declares block-scoped local variables. The value of a constant can't be changed through reassignment using the assignment operator, but if a constant is an object, its properties can be added, updated, or removed."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-19",
+    "deck": "telegraph",
+    "topic": "JS arrays",
+    "q": "Which array method adds elements to the end of a JavaScript array?",
+    "a": "push()",
+    "accept": [
+      "push",
+      "Array.prototype.push()"
+    ],
+    "wrong": [
+      "shift()",
+      "unshift()",
+      "slice()"
+    ],
+    "explain": "push() mutates the array, changing its length and content.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push",
+        "title": "Array.prototype.push() - JavaScript | MDN",
+        "quote": "The push() method of Array instances adds the specified elements to the end of an array and returns the new length of the array."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-20",
+    "deck": "telegraph",
+    "topic": "JS arrays",
+    "q": "What does the JavaScript array method push() return?",
+    "a": "the new length",
+    "accept": [
+      "new length",
+      "length",
+      "the array's new length"
+    ],
+    "wrong": [
+      "the added element",
+      "the updated array",
+      "undefined"
+    ],
+    "explain": "In MDN's example, pushing \"cows\" onto a 3-item array returns 4.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push",
+        "title": "Array.prototype.push() - JavaScript | MDN",
+        "quote": "The push() method of Array instances adds the specified elements to the end of an array and returns the new length of the array."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push",
+        "title": "Array.prototype.push() - JavaScript | MDN",
+        "quote": "Return value The new length property of the object upon which the method was called."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-21",
+    "deck": "telegraph",
+    "topic": "JS objects",
+    "q": "What does Object.keys() return for an object?",
+    "a": "an array of property names",
+    "accept": [
+      "array of keys",
+      "an array of keys",
+      "array of property names",
+      "array"
+    ],
+    "wrong": [
+      "an array of values",
+      "the number of properties",
+      "a string of keys"
+    ],
+    "explain": "It returns the object's own enumerable string-keyed property names, e.g. [\"a\", \"b\", \"c\"].",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys",
+        "title": "Object.keys() - JavaScript | MDN",
+        "quote": "The Object.keys() static method returns an array of a given object's own enumerable string-keyed property names."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-22",
+    "deck": "telegraph",
+    "topic": "JS functions",
+    "q": "What does the arrow function const add = (a, b) => a + b; return without a return keyword?",
+    "a": "a + b",
+    "accept": [
+      "the sum of a and b",
+      "a+b"
+    ],
+    "wrong": [
+      "undefined",
+      "a",
+      "nothing"
+    ],
+    "explain": "An arrow function with an expression body implicitly returns that expression; a block body needs an explicit return.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
+        "title": "Arrow function expressions - JavaScript | MDN",
+        "quote": "// Expression body const add = (a, b) => a + b; // Implicitly returns a + b"
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
+        "title": "Arrow function expressions - JavaScript | MDN",
+        "quote": "return a + b; // Must explicitly return a value"
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-23",
+    "deck": "telegraph",
+    "topic": "JSON",
+    "q": "What does the acronym JSON stand for?",
+    "a": "JavaScript Object Notation",
+    "accept": [
+      "Javascript Object Notation"
+    ],
+    "wrong": [
+      "JavaScript Online Network",
+      "Java Serialized Object Notation",
+      "JavaScript Ordered Nodes"
+    ],
+    "explain": "JSON is a data-interchange format that closely resembles a subset of JavaScript syntax.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/JSON",
+        "title": "JSON - Glossary | MDN",
+        "quote": "JavaScript Object Notation (JSON) is a data-interchange format. Although not a strict subset, JSON closely resembles a subset of JavaScript syntax."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-24",
+    "deck": "telegraph",
+    "topic": "JSON",
+    "q": "Which JavaScript method turns a JSON string into a JavaScript value or object?",
+    "a": "JSON.parse()",
+    "accept": [
+      "JSON.parse",
+      "parse"
+    ],
+    "wrong": [
+      "JSON.stringify()",
+      "JSON.load()",
+      "JSON.decode()"
+    ],
+    "explain": "JSON.stringify() does the reverse, converting a JavaScript value into a JSON string.",
+    "hook": "Parse reads in; stringify writes out.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse",
+        "title": "JSON.parse() - JavaScript | MDN",
+        "quote": "The JSON.parse() static method parses a JSON string, constructing the JavaScript value or object described by the string."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+        "title": "JSON.stringify() - JavaScript | MDN",
+        "quote": "The JSON.stringify() static method converts a JavaScript value to a JSON string, optionally replacing values if a replacer function is specified or optionally including only the specified properties if a replacer array is specified."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-25",
+    "deck": "telegraph",
+    "topic": "JSON",
+    "q": "What does JSON.stringify([NaN, null, Infinity]) return?",
+    "a": "'[null,null,null]'",
+    "accept": [
+      "[null,null,null]"
+    ],
+    "wrong": [
+      "'[NaN,null,Infinity]'",
+      "'[0,null,0]'",
+      "'[]'"
+    ],
+    "explain": "JSON has no NaN or Infinity values, so JSON.stringify() serializes them as null.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+        "title": "JSON.stringify() - JavaScript | MDN",
+        "quote": "JSON.stringify([NaN, null, Infinity]); // '[null,null,null]'"
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-26",
+    "deck": "telegraph",
+    "topic": "DOM",
+    "q": "What does document.querySelector() return when no element matches the selector?",
+    "a": "null",
+    "accept": [],
+    "wrong": [
+      "undefined",
+      "an empty array",
+      "false"
+    ],
+    "explain": "When there is a match, it returns the first Element in the document that matches the CSS selector.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector",
+        "title": "Document: querySelector() method - Web APIs | MDN",
+        "quote": "The Document method querySelector() returns the first Element within the document that matches the specified CSS selector, or group of CSS selectors. If no matches are found, null is returned."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-27",
+    "deck": "telegraph",
+    "topic": "Events",
+    "q": "Which Event method stops the browser's default action, such as following a link?",
+    "a": "preventDefault()",
+    "accept": [
+      "preventDefault",
+      "event.preventDefault()"
+    ],
+    "wrong": [
+      "stopPropagation()",
+      "removeEventListener()",
+      "cancelBubble()"
+    ],
+    "explain": "It tells the user agent the event is being handled explicitly, so default actions like page scrolling, link navigation or pasting text are not taken.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault",
+        "title": "Event: preventDefault() method - Web APIs | MDN",
+        "quote": "The preventDefault() method of the Event interface tells the user agent that the event is being explicitly handled, so its default action, such as page scrolling, link navigation, or pasting text, should not be taken."
+      }
+    ]
+  }
+]

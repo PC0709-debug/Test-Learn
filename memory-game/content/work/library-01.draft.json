@@ -1,0 +1,836 @@
+[
+  {
+    "id": "library-01-01",
+    "deck": "library",
+    "topic": "Mesopotamia",
+    "q": "Ancient Mesopotamia lay between which two rivers?",
+    "a": "Tigris and Euphrates",
+    "accept": [
+      "Euphrates and Tigris",
+      "Tigris & Euphrates",
+      "Euphrates & Tigris"
+    ],
+    "wrong": [
+      "Nile and Jordan",
+      "Indus and Ganges",
+      "Danube and Rhine"
+    ],
+    "explain": "The name Mesopotamia comes from Greek and means 'between rivers'; the region covers modern Iraq and parts of Syria and Turkey.",
+    "hook": "Meso = middle, potamos = river: the land in the middle of two rivers.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/place/Mesopotamia-historical-region-Asia",
+        "title": "History of Mesopotamia | Britannica",
+        "quote": "Mesopotamia, a historical region in southwestern Asia , is situated between the Tigris and Euphrates rivers . Its name, derived from Greek, means \"between rivers.\""
+      },
+      {
+        "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia",
+        "title": "Mesopotamia | British Museum",
+        "quote": "Mesopotamia is the land between the Tigris and Euphrates rivers (now Iraq, north-east Syria and part of south-east Turkey)."
+      }
+    ]
+  },
+  {
+    "id": "library-01-02",
+    "deck": "library",
+    "topic": "Mesopotamia",
+    "q": "Which ancient people of southern Mesopotamia are credited with the earliest attested cuneiform writing?",
+    "a": "Sumerians",
+    "accept": [
+      "the Sumerians",
+      "Sumerian"
+    ],
+    "wrong": [
+      "Phoenicians",
+      "Hittites",
+      "Minoans"
+    ],
+    "explain": "The earliest written records in Sumerian are pictographic tablets from Uruk; the name cuneiform comes from the Latin for 'wedge'.",
+    "hook": "Cuneiform = wedge-form, pressed into clay with a reed stylus.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/cuneiform",
+        "title": "Cuneiform | Definition, History, & Facts | Britannica",
+        "quote": "While it does not follow that they were the earliest inhabitants of the region or the true originators of their system of writing, it is to them that the first attested traces of cuneiform writing are conclusively assigned. The earliest written records in the Sumerian language are pictographic tablets from Uruk (Erech)"
+      },
+      {
+        "url": "https://kids.britannica.com/students/article/Sumer/337656",
+        "title": "Sumer - Britannica Kids (Students)",
+        "quote": "This kind of writing on clay is called cuneiform , from a Latin word meaning “wedge-shaped.”"
+      }
+    ]
+  },
+  {
+    "id": "library-01-03",
+    "deck": "library",
+    "topic": "Mesopotamia",
+    "q": "What is the name for the pyramidal stepped temple tower typical of ancient Mesopotamian cities?",
+    "a": "Ziggurat",
+    "accept": [
+      "ziggurat",
+      "zikkurat"
+    ],
+    "wrong": [
+      "Obelisk",
+      "Mastaba",
+      "Stupa"
+    ],
+    "explain": "Ziggurats were built with a mud-brick core and a baked-brick exterior; among the best-preserved is the ziggurat of Ur in southern Iraq.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/ziggurat",
+        "title": "Ziggurat | Definition, History, & Facts | Britannica",
+        "quote": "ziggurat , pyramidal stepped temple tower that is an architectural and religious structure characteristic of the major cities of Mesopotamia (now mainly in Iraq) from approximately 2200 until 500 bce . The ziggurat was always built with a core of mud brick and an exterior covered with baked brick."
+      },
+      {
+        "url": "https://www.britannica.com/technology/ziggurat",
+        "title": "Ziggurat | Britannica",
+        "quote": "Among the best-preserved examples are the ziggurat of Ur (c. 2100 bce ) in southern Iraq and the ziggurat at Choghā Zanbīl (c. 1250 bce ) in southwestern Iran."
+      }
+    ]
+  },
+  {
+    "id": "library-01-04",
+    "deck": "library",
+    "topic": "Mesopotamia",
+    "q": "In the Epic of Gilgamesh, Gilgamesh is the king of which Sumerian city?",
+    "a": "Uruk",
+    "accept": [
+      "Erech"
+    ],
+    "wrong": [
+      "Thebes",
+      "Carthage",
+      "Mycenae"
+    ],
+    "explain": "The fullest version of the epic comes from tablets found in the library of the Assyrian king Ashurbanipal at Nineveh.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Epic-of-Gilgamesh",
+        "title": "Epic of Gilgamesh | Britannica",
+        "quote": "The Epic of Gilgamesh is an ancient Mesopotamian epic poem written in the Akkadian language about Gilgamesh , a king of Uruk. The fullest version comes from tablets discovered in the library of King Ashurbanipal."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/gilgamesh",
+        "title": "Gilgamesh - The Metropolitan Museum of Art",
+        "quote": "The tale revolves around a legendary hero named Gilgamesh (Bilgames in Sumerian), who was said to be the king of the Sumerian city of Uruk."
+      }
+    ]
+  },
+  {
+    "id": "library-01-05",
+    "deck": "library",
+    "topic": "Code of Hammurabi",
+    "q": "Hammurabi, known for his law code, was king of which city?",
+    "a": "Babylon",
+    "accept": [
+      "Babylonia"
+    ],
+    "wrong": [
+      "Nineveh",
+      "Memphis",
+      "Persepolis"
+    ],
+    "explain": "Hammurabi was the sixth and best-known ruler of the 1st (Amorite) dynasty of Babylon.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Hammurabi",
+        "title": "Hammurabi | Britannica",
+        "quote": "Hammurabi (born, Babylon [now in Iraq]—died c. 1750 bce ) was the sixth and best-known ruler of the 1st (Amorite) dynasty of Babylon (reigning c. 1792–1750 bce ), noted for his surviving set of laws"
+      },
+      {
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi",
+        "title": "The Code of Hammurabi | Louvre",
+        "quote": "It contains 282 legal judgements handed down by Hammurabi, king of Babylon, which are organised in overarching chapters related to areas like family, property, trade and labour."
+      }
+    ]
+  },
+  {
+    "id": "library-01-06",
+    "deck": "library",
+    "topic": "Code of Hammurabi",
+    "q": "How many laws (legal judgements) does the Code of Hammurabi contain?",
+    "a": "282",
+    "accept": [
+      "two hundred eighty-two",
+      "two hundred and eighty-two"
+    ],
+    "wrong": [
+      "10",
+      "613",
+      "1,000"
+    ],
+    "explain": "The laws cover economic matters, family law, criminal law and civil law, and each opens with a conditional such as 'if a man...'.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Code-of-Hammurabi",
+        "title": "Code of Hammurabi | Britannica",
+        "quote": "These 282 laws include economic provisions (prices, tariffs, trade, and commerce), family law (marriage and divorce), criminal law (assault and theft), and civil law (slavery and debt)."
+      },
+      {
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi",
+        "title": "The Code of Hammurabi | Louvre",
+        "quote": "It contains 282 legal judgements handed down by Hammurabi, king of Babylon"
+      }
+    ]
+  },
+  {
+    "id": "library-01-07",
+    "deck": "library",
+    "topic": "Code of Hammurabi",
+    "q": "In which museum is the stela of the Code of Hammurabi kept today?",
+    "a": "Louvre",
+    "accept": [
+      "the Louvre",
+      "Musée du Louvre",
+      "Louvre Museum"
+    ],
+    "wrong": [
+      "British Museum",
+      "Metropolitan Museum of Art",
+      "Pergamon Museum"
+    ],
+    "explain": "The stela has been on display at the Louvre in Paris since 1904, in its Department of Near Eastern Antiquities.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Code-of-Hammurabi",
+        "title": "Code of Hammurabi | Britannica",
+        "quote": "The Code of Hammurabi is principally known from a stela that was discovered at Susa in late 1901 or early 1902 by the French Orientalist Jean-Vincent Scheil and now preserved in the Louvre ."
+      },
+      {
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi",
+        "title": "The Code of Hammurabi | Louvre",
+        "quote": "The stela has been on display at the Louvre since 1904, where it is one of the key pieces in the Department of Near Eastern Antiquities."
+      }
+    ]
+  },
+  {
+    "id": "library-01-08",
+    "deck": "library",
+    "topic": "Code of Hammurabi",
+    "q": "At which ancient site, in present-day Iran, was the Code of Hammurabi stela discovered by French excavators?",
+    "a": "Susa",
+    "accept": [
+      "Shush"
+    ],
+    "wrong": [
+      "Ur",
+      "Nineveh",
+      "Persepolis"
+    ],
+    "explain": "The stela had been carried to Susa as a spoil of war by the Elamite king Shutruk-Nahhunte, centuries after it was made.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi",
+        "title": "The Code of Hammurabi | Louvre",
+        "quote": "The stela was discovered in 1902 during French excavations in Susa, Iran. It had been brought there as a spoil of war by the Elamite king Shutruk-Nahhunte (reigned around 1185–1160 BC), many centuries after it was made."
+      },
+      {
+        "url": "https://www.britannica.com/topic/Code-of-Hammurabi",
+        "title": "Code of Hammurabi | Britannica",
+        "quote": "The Code of Hammurabi is principally known from a stela that was discovered at Susa in late 1901 or early 1902 by the French Orientalist Jean-Vincent Scheil and now preserved in the Louvre ."
+      }
+    ]
+  },
+  {
+    "id": "library-01-09",
+    "deck": "library",
+    "topic": "Ancient Egypt",
+    "q": "For which pharaoh was the Great Pyramid of Giza built?",
+    "a": "Khufu",
+    "accept": [
+      "Cheops",
+      "Khufu (Cheops)"
+    ],
+    "wrong": [
+      "Ramses II",
+      "Tutankhamun",
+      "Akhenaten"
+    ],
+    "explain": "Khufu, known to the Greeks as Cheops, was the second king of Egypt's 4th dynasty; his is the largest of the three Giza pyramids.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Great-Pyramid-of-Giza",
+        "title": "Great Pyramid of Giza | Britannica",
+        "quote": "It was built by Khufu (Cheops), the second king of Egypt’s 4th dynasty (c. 2543–c. 2436 bce ), and was completed in the early 25th century bce ."
+      },
+      {
+        "url": "https://www.si.edu/spotlight/ancient-egypt/pyramid",
+        "title": "The Egyptian Pyramid | Smithsonian Institution",
+        "quote": "The largest and most famous of all the pyramids, the Great Pyramid at Giza, was commissioned by Snefru's son, Khufu, known also as Cheops, the later Greek form of his name."
+      }
+    ]
+  },
+  {
+    "id": "library-01-10",
+    "deck": "library",
+    "topic": "Ancient Egypt",
+    "q": "The Step Pyramid at Saqqara was built for which Egyptian king?",
+    "a": "Djoser",
+    "accept": [
+      "Zoser",
+      "Netjerykhet"
+    ],
+    "wrong": [
+      "Khafre",
+      "Hatshepsut",
+      "Thutmose III"
+    ],
+    "explain": "Djoser was the first king of the 3rd dynasty, and his Step Pyramid is regarded as the oldest important stone building in Egypt.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Step-Pyramid-of-Djoser",
+        "title": "Step Pyramid of Djoser | Britannica",
+        "quote": "The first of them was this step pyramid, designed for Djoser , first king of the 3rd dynasty, by the world’s first named architect, Imhotep"
+      },
+      {
+        "url": "https://egymonuments.gov.eg/en/monuments/the-step-pyramid-complex-of-djoser",
+        "title": "The Step Pyramid Complex of Djoser - Egypt Ministry of Tourism and Antiquities",
+        "quote": "It was built in the early Third Dynasty, during the reign of King Netjerykhet ( c. 2667–2648 BC), who is now more well-known as Djoser."
+      }
+    ]
+  },
+  {
+    "id": "library-01-11",
+    "deck": "library",
+    "topic": "Ancient Egypt",
+    "q": "Who was the architect of King Djoser's Step Pyramid?",
+    "a": "Imhotep",
+    "accept": [],
+    "wrong": [
+      "Senenmut",
+      "Hemiunu",
+      "Manetho"
+    ],
+    "explain": "Imhotep is described as the world's first named architect and is also a key figure in the history of medicine; the pyramid was built from six stacked mastabas.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Step-Pyramid-of-Djoser",
+        "title": "Step Pyramid of Djoser | Britannica",
+        "quote": "The first of them was this step pyramid, designed for Djoser , first king of the 3rd dynasty, by the world’s first named architect, Imhotep , who is also a key figure in the history of medicine."
+      },
+      {
+        "url": "https://egymonuments.gov.eg/en/monuments/the-step-pyramid-complex-of-djoser",
+        "title": "The Step Pyramid Complex of Djoser - Egypt Ministry of Tourism and Antiquities",
+        "quote": "The Step Pyramid is composed of six stacked mastabas, thus creating the stepped effect. Imhotep, its architect, may very well have been responsible for this major innovation."
+      },
+      {
+        "url": "https://www.si.edu/spotlight/ancient-egypt/pyramid",
+        "title": "The Egyptian Pyramid | Smithsonian Institution",
+        "quote": "King Djoser's architect, Imhotep, built the first pyramid by placing six mastabas, each smaller than the one beneath, in a stack to form a pyramid rising in steps."
+      }
+    ]
+  },
+  {
+    "id": "library-01-12",
+    "deck": "library",
+    "topic": "Ancient Egypt",
+    "q": "In which museum is the Rosetta Stone displayed today?",
+    "a": "British Museum",
+    "accept": [
+      "the British Museum"
+    ],
+    "wrong": [
+      "Louvre",
+      "Egyptian Museum in Cairo",
+      "Vatican Museums"
+    ],
+    "explain": "The stone passed into British hands after the French surrender of Egypt in 1801 and is now in the British Museum in London.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Rosetta-Stone",
+        "title": "Rosetta Stone | Britannica",
+        "quote": "After the French surrender of Egypt in 1801, it passed into British hands and is now in the British Museum in London."
+      },
+      {
+        "url": "https://www.britishmuseum.org/collection/egypt/explore-rosetta-stone",
+        "title": "Explore the Rosetta Stone | British Museum",
+        "quote": "That object was the Rosetta Stone, perhaps the most famous piece of rock in the world. This fragment of an ancient stela (an inscribed slab) became the key that unlocked the mysterious hieroglyphic script of ancient Egypt."
+      }
+    ]
+  },
+  {
+    "id": "library-01-13",
+    "deck": "library",
+    "topic": "Ancient Egypt",
+    "q": "Which French scholar announced the decipherment of Egyptian hieroglyphs in 1822?",
+    "a": "Champollion",
+    "accept": [
+      "Jean-François Champollion",
+      "Jean-Francois Champollion"
+    ],
+    "wrong": [
+      "Howard Carter",
+      "Auguste Mariette",
+      "Flinders Petrie"
+    ],
+    "explain": "Building on work by Thomas Young and others, Champollion recognised that hieroglyphs formed a phonetic script, not just symbols.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/hieroglyphic-writing/Discovery-of-the-Rosetta-Stone",
+        "title": "Hieroglyphic writing - Rosetta Stone | Britannica",
+        "quote": "This task of complete decipherment was first accomplished by the Frenchman Jean-François Champollion (1790–1832) in 1822, after long years of intensive work and many setbacks. His success was due to the recognition that hieroglyphic writing, exactly like the hieratic and demotic scripts derived from it, did not constitute a writing system of symbols but rather a phonetic script."
+      },
+      {
+        "url": "https://www.britishmuseum.org/exhibitions/hieroglyphs-unlocking-ancient-egypt/egyptian-hieroglyphs-decipherment-timeline",
+        "title": "How Egyptian hieroglyphs were decoded, a timeline to decipherment | British Museum",
+        "quote": "The public reading of this letter on 27 September 1822 is considered the moment of decipherment."
+      }
+    ]
+  },
+  {
+    "id": "library-01-14",
+    "deck": "library",
+    "topic": "Ancient Egypt",
+    "q": "In what year was the Rosetta Stone discovered by soldiers of Napoleon's expedition to Egypt?",
+    "a": "1799",
+    "accept": [
+      "AD 1799"
+    ],
+    "wrong": [
+      "1789",
+      "1815",
+      "1822"
+    ],
+    "explain": "French soldiers found it while rebuilding a fort at Rashid (Rosetta); it carries the same decree in hieroglyphic, demotic and Greek.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/hieroglyphic-writing/Discovery-of-the-Rosetta-Stone",
+        "title": "Hieroglyphic writing - Rosetta Stone | Britannica",
+        "quote": "By accident, a stone that exhibited three different scripts—hieroglyphic, demotic, and Greek—was discovered by members of Napoleon’s expedition to Egypt in 1799 near Rashīd (French: Rosette; English: Rosetta ) on the Mediterranean coast."
+      },
+      {
+        "url": "https://www.britishmuseum.org/exhibitions/hieroglyphs-unlocking-ancient-egypt/egyptian-hieroglyphs-decipherment-timeline",
+        "title": "How Egyptian hieroglyphs were decoded, a timeline to decipherment | British Museum",
+        "quote": "In July 1799, French soldiers who were repairing a fort in the port city of Rashid pulled a large broken stone from the rubble of its foundations. On the stone were carved three distinct scripts: hieroglyphic, demotic and Greek."
+      }
+    ]
+  },
+  {
+    "id": "library-01-15",
+    "deck": "library",
+    "topic": "Persia",
+    "q": "Which king founded the Achaemenid (first Persian) Empire?",
+    "a": "Cyrus the Great",
+    "accept": [
+      "Cyrus II",
+      "Cyrus"
+    ],
+    "wrong": [
+      "Xerxes I",
+      "Nebuchadnezzar II",
+      "Ashurbanipal"
+    ],
+    "explain": "Cyrus II inherited his father's throne in Anshan in 559 BCE; his defeat of King Astyages of Media began the empire's formation.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Achaemenian-Empire",
+        "title": "Achaemenid Empire | Britannica",
+        "quote": "The Achaemenid Empire was founded by Cyrus II , also known as Cyrus the Great. He inherited his father’s throne in Anshan in 559 bce and quickly began to expand and consolidate power."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+        "title": "The Achaemenid Persian Empire (550–330 B.C.) - The Metropolitan Museum of Art",
+        "quote": "Its formation began in 550 B.C., when King Astyages of Media, who dominated much of Iran and eastern Anatolia (Turkey), was defeated by his southern neighbor Cyrus II (“the Great”), king of Persia (r. 559–530 B.C.)."
+      }
+    ]
+  },
+  {
+    "id": "library-01-16",
+    "deck": "library",
+    "topic": "Persia",
+    "q": "Which Persian king founded Persepolis as a capital of the Achaemenid Empire?",
+    "a": "Darius I",
+    "accept": [
+      "Darius the Great",
+      "Darius"
+    ],
+    "wrong": [
+      "Cambyses II",
+      "Artaxerxes III",
+      "Cyrus the Great"
+    ],
+    "explain": "Persepolis replaced Pasargadae, the burial place of Cyrus the Great; Alexander the Great burned Xerxes' palace there in 330 BCE.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/114",
+        "title": "Persepolis - UNESCO World Heritage Centre",
+        "quote": "Founded by Darius I in 518 B.C., Persepolis was the capital of the Achaemenid Empire."
+      },
+      {
+        "url": "https://www.britannica.com/place/Persepolis/History",
+        "title": "Persepolis - History | Britannica",
+        "quote": "inscriptions indicate that construction of the city began under Darius I , who, as a member of a new branch of the royal house, made Persepolis the capital of Persia proper, replacing Pasargadae , the burial place of Cyrus II (the Great)."
+      }
+    ]
+  },
+  {
+    "id": "library-01-17",
+    "deck": "library",
+    "topic": "Persia",
+    "q": "What was the title of a provincial governor in the Achaemenid Persian Empire?",
+    "a": "Satrap",
+    "accept": [
+      "satrap"
+    ],
+    "wrong": [
+      "Pharaoh",
+      "Consul",
+      "Archon"
+    ],
+    "explain": "Darius I completed the division of the empire into provinces (satrapies); satraps collected taxes and served as the supreme judicial authority in their province.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/satrap",
+        "title": "Satrap | Britannica",
+        "quote": "satrap , provincial governor in the Achaemenid Empire . The division of the empire into provinces (satrapies) was completed by Darius I (reigned 522–486 bce ), who established 20 satrapies with their annual tribute."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+        "title": "The Achaemenid Persian Empire (550–330 B.C.) - The Metropolitan Museum of Art",
+        "quote": "Under Darius the empire was stabilized, with roads for communication and a system of governors (satraps) established."
+      }
+    ]
+  },
+  {
+    "id": "library-01-18",
+    "deck": "library",
+    "topic": "Persia",
+    "q": "Which Persian king, the last of the Achaemenid dynasty, was defeated by Alexander the Great at Issus and Gaugamela?",
+    "a": "Darius III",
+    "accept": [
+      "Darius 3",
+      "Darius the Third"
+    ],
+    "wrong": [
+      "Darius I",
+      "Xerxes I",
+      "Cyrus the Great"
+    ],
+    "explain": "After fleeing Gaugamela, Darius III was deposed and killed in 330 BCE by the Bactrian satrap Bessus.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Darius-III",
+        "title": "Darius III | Britannica",
+        "quote": "Darius III (died 330 bce , Bactria) was the last king (reigned 336–330 bce ) of the Achaemenid Empire . ... Darius finally advanced against him but was defeated at Issus in the autumn of 333. ... On October 1, 331, he was decisively defeated"
+      },
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Gaugamela",
+        "title": "Battle of Gaugamela | Britannica",
+        "quote": "The Battle of Gaugamela occurred on October 1, 331 BCE, between Alexander the Great and Darius III , deciding the fate of the Persian Achaemenian Empire."
+      },
+      {
+        "url": "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc",
+        "title": "ALEXANDER THE GREAT - Encyclopaedia Iranica",
+        "quote": "On 1 October 331 the two armies met at the village of Gaugamela, east of the Tigris in the district of Arbela (Erbel) ( Figure 1 ). Once again Darius was defeated and put to flight"
+      }
+    ]
+  },
+  {
+    "id": "library-01-19",
+    "deck": "library",
+    "topic": "Classical Greece",
+    "q": "In what year BCE did the Athenians defeat the Persians at the Battle of Marathon?",
+    "a": "490 BCE",
+    "accept": [
+      "490",
+      "490 BC",
+      "490 B.C."
+    ],
+    "wrong": [
+      "480 BCE",
+      "431 BCE",
+      "331 BCE"
+    ],
+    "explain": "Led by Miltiades, about 10,000 Athenians and 1,000 Plataeans repulsed the first Persian invasion of Greece.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Marathon",
+        "title": "Battle of Marathon | Britannica",
+        "quote": "Battle of Marathon , (September 490 bce ), in the Greco-Persian Wars , decisive battle fought on the Marathon plain of northeastern Attica in which the Athenians, in a single afternoon, repulsed the first Persian invasion of Greece ."
+      },
+      {
+        "url": "https://2500years.culture.gov.gr/en/chapters/i-machi-tou-marathona/chalkinos-levitas-marathonomachon",
+        "title": "The Battle of Marathon | 2500 Years (Hellenic Ministry of Culture)",
+        "quote": "It was the beginning of the year of the archon Phaenippus (early September 490 BC), when the Persian army with 600 ships disembarked at Marathon."
+      }
+    ]
+  },
+  {
+    "id": "library-01-20",
+    "deck": "library",
+    "topic": "Classical Greece",
+    "q": "Which Spartan king led the Greek forces at the Battle of Thermopylae in 480 BCE?",
+    "a": "Leonidas",
+    "accept": [
+      "Leonidas I",
+      "King Leonidas"
+    ],
+    "wrong": [
+      "Pericles",
+      "Lycurgus",
+      "Pausanias"
+    ],
+    "explain": "The Greeks held the narrow pass against Xerxes' much larger army until they were outflanked; Leonidas stayed behind with a small force and was killed.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Thermopylae-Greek-history-480-BC",
+        "title": "Battle of Thermopylae | Britannica",
+        "quote": "A Persian army led by Xerxes I defeated Greek forces led by the Spartan king Leonidas in the Battle of Thermopylae."
+      },
+      {
+        "url": "https://2500years.culture.gov.gr/en/chapters/i-machi-ton-thermopilon",
+        "title": "The Battle of Thermopylae | 2500 Years (Hellenic Ministry of Culture)",
+        "quote": "The army, led by Leonidas, king of Sparta, feinted a retreat in order to drag the Persians to the spot that was proper for counterattack."
+      }
+    ]
+  },
+  {
+    "id": "library-01-21",
+    "deck": "library",
+    "topic": "Classical Greece",
+    "q": "Which Athenian commander led the Greek fleet to victory over the Persians at Salamis in 480 BCE?",
+    "a": "Themistocles",
+    "accept": [],
+    "wrong": [
+      "Miltiades",
+      "Alcibiades",
+      "Leonidas"
+    ],
+    "explain": "Themistocles lured the larger Persian fleet into the narrow strait at Salamis, where its ships could not maneuver.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Salamis",
+        "title": "Battle of Salamis | Britannica",
+        "quote": "The Greek commander, Themistocles , then lured the Persian fleet into the narrow waters of the strait at Salamis, where the massed Persian ships had difficulty maneuvering."
+      },
+      {
+        "url": "https://clmaxnikias.usc.edu/2020/10/01/nikias-highlights-international-webinar-celebrating-the-2500-year-anniversary-of-the-battle-of-salamis",
+        "title": "Nikias Highlights International Webinar Celebrating the 2,500 Year Anniversary of the Battle of Salamis - USC",
+        "quote": "On September 29, 480 BCE, a heavily outnumbered force of Greek triremes led by the Athenian Themistocles defeated the Persian Empire’s navy in the straits between mainland Greece and the island of Salamis near Athens."
+      }
+    ]
+  },
+  {
+    "id": "library-01-22",
+    "deck": "library",
+    "topic": "Classical Greece",
+    "q": "To which goddess was the Parthenon on the Athenian Acropolis dedicated?",
+    "a": "Athena",
+    "accept": [
+      "Athena Parthenos",
+      "Athene"
+    ],
+    "wrong": [
+      "Aphrodite",
+      "Hera",
+      "Artemis"
+    ],
+    "explain": "Built in the mid-5th century BCE as part of Pericles' building program, it honored Athena Parthenos ('Athena the Virgin'), patron of Athens.",
+    "hook": "Parthenos = virgin: the Parthenon is the temple of the virgin goddess.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Parthenon",
+        "title": "Parthenon | Britannica",
+        "quote": "Parthenon , temple that dominates the hill of the Acropolis at Athens . It was built in the mid-5th century bce and dedicated to the Greek goddess Athena Parthenos (“Athena the Virgin”)."
+      },
+      {
+        "url": "http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=912",
+        "title": "Parthenon | Hellenic Ministry of Culture and Sports",
+        "quote": "The Parthenon, dedicated by the Athenians to Athena Parthenos, the patron of their city, is the most magnificent creation of Athenian democracy at the height of its power."
+      }
+    ]
+  },
+  {
+    "id": "library-01-23",
+    "deck": "library",
+    "topic": "Classical Greece",
+    "q": "In what year BCE was the philosopher Socrates tried and executed in Athens?",
+    "a": "399 BCE",
+    "accept": [
+      "399",
+      "399 BC",
+      "399 B.C."
+    ],
+    "wrong": [
+      "480 BCE",
+      "323 BCE",
+      "431 BCE"
+    ],
+    "explain": "Convicted of impiety and corrupting the youth, Socrates was put to death by drinking poison, probably hemlock.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/summary/Socrates",
+        "title": "Socrates’ life and contributions to philosophy | Britannica",
+        "quote": "Socrates was tried on charges of impiety and corrupting the youth and condemned to death by poisoning (the poison probably being hemlock) in 399 bce ; he submitted to the sentence willingly."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/socrates/",
+        "title": "Socrates (Stanford Encyclopedia of Philosophy)",
+        "quote": "This brings us to the spring and summer of 399, to Socrates’s trial and execution."
+      }
+    ]
+  },
+  {
+    "id": "library-01-24",
+    "deck": "library",
+    "topic": "Alexander the Great",
+    "q": "Which Greek philosopher tutored the young Alexander the Great?",
+    "a": "Aristotle",
+    "accept": [],
+    "wrong": [
+      "Plato",
+      "Socrates",
+      "Pythagoras"
+    ],
+    "explain": "King Philip II of Macedonia summoned Aristotle to Pella to tutor his 13-year-old son Alexander.",
+    "hook": "Socrates taught Plato, Plato taught Aristotle, Aristotle taught Alexander.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Alexander-the-Great",
+        "title": "Alexander the Great | Britannica",
+        "quote": "From age 13 to 16 he was taught by the Greek philosopher Aristotle , who inspired his interest in philosophy, medicine, and scientific investigation."
+      },
+      {
+        "url": "https://plato.stanford.edu/ENTRIES/aristotle/",
+        "title": "Aristotle (Stanford Encyclopedia of Philosophy)",
+        "quote": "In 343, upon the request of Philip, the king of Macedon, Aristotle left Lesbos for Pella, the Macedonian capital, in order to tutor the king’s thirteen-year-old son, Alexander—the boy who was eventually to become Alexander the Great."
+      }
+    ]
+  },
+  {
+    "id": "library-01-25",
+    "deck": "library",
+    "topic": "Alexander the Great",
+    "q": "In which city did Alexander the Great die in 323 BCE?",
+    "a": "Babylon",
+    "accept": [],
+    "wrong": [
+      "Alexandria",
+      "Pella",
+      "Athens"
+    ],
+    "explain": "Alexander died in Babylon, near modern Al-Hillah in Iraq, after conquering the whole Persian empire.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Alexander-the-Great",
+        "title": "Alexander the Great | Britannica",
+        "quote": "Alexander the Great (born 356 bce , Pella, Macedonia [northwest of Thessaloníki, Greece]—died June 13, 323 bce , Babylon [near Al-Ḥillah, Iraq]) was the king of Macedonia (336–323 bce )"
+      },
+      {
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/alexandergreat.html",
+        "title": "Alexander the Great - Digital Egypt for Universities (UCL)",
+        "quote": "In 323 BC he died in Babylon after he had conquered the whole Persian empire including westernmost India."
+      }
+    ]
+  },
+  {
+    "id": "library-01-26",
+    "deck": "library",
+    "topic": "Alexander the Great",
+    "q": "In what year BCE did Alexander the Great decisively defeat Darius III at the Battle of Gaugamela?",
+    "a": "331 BCE",
+    "accept": [
+      "331",
+      "331 BC",
+      "331 B.C."
+    ],
+    "wrong": [
+      "333 BCE",
+      "490 BCE",
+      "323 BCE"
+    ],
+    "explain": "Gaugamela, fought on October 1, 331 BCE, effectively ended the Achaemenid Empire and left Alexander master of southwest Asia.",
+    "hook": "Issus 333, Gaugamela 331: two years apart, counting down.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Gaugamela",
+        "title": "Battle of Gaugamela | Britannica",
+        "quote": "The Battle of Gaugamela occurred on October 1, 331 BCE, between Alexander the Great and Darius III , deciding the fate of the Persian Achaemenian Empire."
+      },
+      {
+        "url": "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc",
+        "title": "ALEXANDER THE GREAT - Encyclopaedia Iranica",
+        "quote": "On 1 October 331 the two armies met at the village of Gaugamela, east of the Tigris in the district of Arbela (Erbel) ( Figure 1 ). Once again Darius was defeated and put to flight"
+      }
+    ]
+  },
+  {
+    "id": "library-01-27",
+    "deck": "library",
+    "topic": "Alexander the Great",
+    "q": "What was the name of Alexander the Great's famous horse?",
+    "a": "Bucephalus",
+    "accept": [
+      "Bucephalas",
+      "Boukephalas"
+    ],
+    "wrong": [
+      "Pegasus",
+      "Incitatus",
+      "Marengo"
+    ],
+    "explain": "Alexander rode Bucephalus until the horse's death at the Battle of the Hydaspes and named a city, Bucephala, in its honor.",
+    "hook": "Bous + kephalos = ox-head.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.colorado.edu/classics/2018/06/19/alexander-and-bucephalus",
+        "title": "Alexander and Bucephalus | Department of Classics | University of Colorado Boulder",
+        "quote": "Bucephalus was Alexander's horse and one of the most famous horses in world history. ... Alexander rode Bucephalus until the horse's death at the Battle of the Hydaspes in 326 B.C.E. In his honor, Alexander named a local city, Bucephala"
+      },
+      {
+        "url": "https://kids.britannica.com/students/article/Alexander-the-Great/272799",
+        "title": "Alexander the Great - Britannica Kids (Students)",
+        "quote": "As a boy, Alexander excelled in hunting and loved riding his horse Bucephalus."
+      }
+    ]
+  }
+]

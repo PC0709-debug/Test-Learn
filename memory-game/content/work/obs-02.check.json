@@ -1,0 +1,430 @@
+[
+ {
+  "id": "obs-02-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/Newtons-laws-of-motion",
+   "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/Newtons-laws-of-motion",
+   "https://www.grc.nasa.gov/www/k-12/BGP/newton.html"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-03",
+  "source": 20,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 88,
+  "hardFail": "Cited quote 'for every action (force) in nature there is an equal and opposite reaction' is not on the cited www1.grc.nasa.gov page",
+  "issue": "The NASA quote is on https://www.grc.nasa.gov/www/k-12/BGP/newton.html, not the www1 Beginner's Guide page (which says 'the second object exerts an equal and opposite force on the first'). Fix the URL or the quote.",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/Newtons-laws-of-motion",
+   "https://www.grc.nasa.gov/www/k-12/BGP/newton.html"
+  ],
+  "pass": false
+ },
+ {
+  "id": "obs-02-04",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://physics.nist.gov/cuu/Constants/Value/c.html",
+   "https://www.britannica.com/science/speed-of-light"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-05",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/special-relativity",
+   "https://educationalgames.nobelprize.org/educational/physics/relativity/history-1.html"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 3,
+  "total": 93,
+  "hardFail": "Hook claims c stands for Latin 'celeritas'; no cited source supports it and the origin of the symbol c is disputed",
+  "issue": "Answer is verified. Replace the hook with something the sources support (e.g. 'c is the constant that links mass and energy').",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/speed-of-light",
+   "https://guides.loc.gov/einstein-annus-mirabilis/1905-papers"
+  ],
+  "pass": false
+ },
+ {
+  "id": "obs-02-07",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://asd.gsfc.nasa.gov/blueshift/index.php/2015/11/25/100-years-of-general-relativity",
+   "https://educationalgames.nobelprize.org/educational/physics/relativity/history-1.html"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-08",
+  "source": 18,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 88,
+  "hardFail": "Date and name (1927, Heisenberg) rest on two Britannica articles from the same publisher, so they are not independent sources",
+  "issue": "Add an independent authoritative source (e.g. AIP history, APS, or a university physics page) confirming Heisenberg formulated the principle in 1927.",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/uncertainty-principle"
+  ],
+  "pass": false
+ },
+ {
+  "id": "obs-02-09",
+  "source": 15,
+  "match": 25,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 80,
+  "hardFail": "The 1900 date (q) and 1918 Nobel (explain) are stated only by Britannica's Planck biography; the second cited source does not state either",
+  "issue": "Add an independent source for 1900 and the 1918 Nobel, e.g. https://www.nobelprize.org/prizes/physics/1918/planck/facts/ (and note the 1918 prize was awarded in 1919).",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Max-Planck",
+   "https://www.britannica.com/science/quantum-mechanics-physics/Einstein-and-the-photoelectric-effect"
+  ],
+  "pass": false
+ },
+ {
+  "id": "obs-02-10",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nobelprize.org/prizes/physics/1921/einstein/facts"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-11",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/thermodynamics",
+   "https://www.britannica.com/science/laws-of-thermodynamics"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-12",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/laws-of-thermodynamics",
+   "https://www.britannica.com/science/thermodynamics"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-13",
+  "source": 12,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 82,
+  "hardFail": "Only one source cited for a number (-273.15 °C, -459.67 °F)",
+  "issue": "Add a second independent source, e.g. NIST/BIPM SI brochure stating 0 K = -273.15 °C.",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/laws-of-thermodynamics"
+  ],
+  "pass": false
+ },
+ {
+  "id": "obs-02-14",
+  "source": 18,
+  "match": 26,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 84,
+  "hardFail": "Explain's attribution 'named by Ralph Fowler in the 1930s' (name + date) has only one source",
+  "issue": "Add an independent source for Fowler naming the zeroth law, or remove the Fowler/1930s claim from explain.",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/laws-of-thermodynamics",
+   "https://www.britannica.com/science/thermodynamics"
+  ],
+  "pass": false
+ },
+ {
+  "id": "obs-02-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/story/when-was-the-periodic-table-invented",
+   "https://www.aip.org/library/a-look-at-the-first-published-periodic-table"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://periodic-table.rsc.org/element/84/Polonium",
+   "https://www.britannica.com/summary/Marie-Curie"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nobelprize.org/prizes/facts/facts-on-the-nobel-prize-in-chemistry-2",
+   "https://www.britannica.com/summary/Marie-Curie"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-18",
+  "source": 28,
+  "match": 20,
+  "unique": 15,
+  "current": 15,
+  "precise": 4,
+  "total": 82,
+  "hardFail": "Explain says radium 'was isolated in December 1898' and 'named because it glowed in the dark'; RSC Education says radium was announced Dec 1898 and only isolated (as RaCl2) in 1902, Britannica credits isolating pure radium to later work; naming claim is disputed (from Latin radius, 'ray')",
+  "issue": "Answer is correct. Rewrite explain: 'The Curies announced radium in December 1898; Marie isolated radium chloride in 1902.' Drop the 'glowed in the dark' naming claim.",
+  "verifiedUrls": [
+   "https://edu.rsc.org/feature/four-curie-centennial-elements/2020149.article",
+   "https://periodic-table.rsc.org/element/84/Polonium",
+   "https://www.britannica.com/summary/Marie-Curie"
+  ],
+  "pass": false
+ },
+ {
+  "id": "obs-02-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://pubchem.ncbi.nlm.nih.gov/element/79",
+   "https://periodic-table.rsc.org/element/79/gold"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-20",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "issue": "Only one URL cited (PubChem, which aggregates Jefferson Lab and LANL); consider adding Britannica noble gas page ('most plentiful element in the universe except hydrogen') as a second citation.",
+  "verifiedUrls": [
+   "https://pubchem.ncbi.nlm.nih.gov/element/1",
+   "https://www.britannica.com/science/noble-gas"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-21",
+  "source": 12,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 82,
+  "hardFail": "Only one source cited for a number (Group 18)",
+  "issue": "Add a second independent source, e.g. RSC periodic table or IUPAC, confirming noble gases are Group 18.",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/noble-gas"
+  ],
+  "pass": false
+ },
+ {
+  "id": "obs-02-22",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://periodic-table.rsc.org/about",
+   "https://www.britannica.com/story/when-was-the-periodic-table-invented"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-23",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://engage.aps.org/dpp/resources/what-is-plasma",
+   "https://www.britannica.com/science/plasma-state-of-matter"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-24",
+  "source": 25,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 95,
+  "hardFail": null,
+  "issue": "Single source; acceptable for a definitional term, but a second citation would strengthen it.",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/sublimation-phase-change"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-25",
+  "source": 18,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 88,
+  "hardFail": "Date and name (J.J. Thomson, 1897) rest on two Britannica articles from the same publisher, not independent sources",
+  "issue": "Add an independent source, e.g. AIP 'Discovery of the Electron' exhibit or Nobel Prize 1906 Thomson facts page.",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/atom/Discovery-of-electrons",
+   "https://www.britannica.com/science/atomic-model"
+  ],
+  "pass": false
+ },
+ {
+  "id": "obs-02-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.aps.org/apsnews/2007/05/may-1932-chadwick-discovery-neutron",
+   "https://www.britannica.com/science/atomic-model"
+  ],
+  "pass": true
+ },
+ {
+  "id": "obs-02-27",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nobelprize.org/prizes/physics/1935/chadwick/facts/",
+   "https://www.aps.org/apsnews/2007/05/may-1932-chadwick-discovery-neutron"
+  ],
+  "pass": true
+ }
+]

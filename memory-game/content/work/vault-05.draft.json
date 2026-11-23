@@ -1,0 +1,808 @@
+[
+  {
+    "id": "vault-05-01",
+    "deck": "vault",
+    "topic": "Trading comps",
+    "q": "Comparable company analysis (trading comps) is what category of valuation method?",
+    "a": "Relative valuation",
+    "accept": [
+      "relative",
+      "relative valuation method"
+    ],
+    "wrong": [
+      "Intrinsic valuation",
+      "Liquidation valuation",
+      "Replacement cost valuation"
+    ],
+    "explain": "Comps value a company relative to how similar public companies are priced, unlike a DCF, which is an intrinsic method.",
+    "hook": "Comps = compare to relatives.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/comparable-company-analysis",
+        "title": "Comparable Company Analysis - Complete Guide",
+        "quote": "Comps is a relative form of valuation, unlike a discounted cash flow (DCF) analysis, which is an intrinsic form of valuation ."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/comparable-company-analysis-comps",
+        "title": "Comparable Company Analysis | Trading Comps Tutorial",
+        "quote": "Comparable Company Analysis is a relative valuation method in which a company’s value is derived from comparisons to the current stock prices of similar companies in the market."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-02",
+    "deck": "vault",
+    "topic": "Precedent transactions",
+    "q": "Which premium is embedded in precedent transaction multiples but not in trading comps multiples?",
+    "a": "Control premium",
+    "accept": [
+      "takeover premium",
+      "control",
+      "purchase premium"
+    ],
+    "wrong": [
+      "Liquidity premium",
+      "Equity risk premium",
+      "Size premium"
+    ],
+    "explain": "Precedents look at prices paid to acquire companies, so the multiples include the premium paid to gain control; comps reflect current public trading prices.",
+    "hook": "Buying the whole company costs extra for the steering wheel.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/precedent-transaction-analysis/",
+        "title": "Precedent Transaction Analysis - Definition, Steps",
+        "quote": "However, “comps” are current multiples that can be observed in the public markets, while “precedents” include a takeover premium that took place in the past."
+      },
+      {
+        "url": "https://macabacus.com/valuation/precedent-transactions",
+        "title": "Precedent Transactions Analysis - Examples, Templates | Macabacus",
+        "quote": "The purpose is similar to that of comparable companies analysis, except that examining prior acquisitions can give a sense of the premium paid to gain control of the target (the “control premium”)."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-03",
+    "deck": "vault",
+    "topic": "Precedent transactions",
+    "q": "Because of the control premium, which are generally higher: transaction multiples or trading multiples?",
+    "a": "Transaction multiples",
+    "accept": [
+      "transaction",
+      "precedent multiples",
+      "precedents",
+      "transaction comps"
+    ],
+    "wrong": [
+      "Trading multiples",
+      "They are always equal",
+      "Neither; it depends only on leverage"
+    ],
+    "explain": "Acquirers pay a control premium over the unaffected price, so precedent transaction multiples are generally higher than trading multiples.",
+    "hook": "Control costs more than a single share.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://macabacus.com/valuation/precedent-transactions",
+        "title": "Precedent Transactions Analysis - Examples, Templates | Macabacus",
+        "quote": "Because of the control premium, transaction multiples are generally higher than trading multiples."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/precedent-transaction-analysis",
+        "title": "Precedent Transaction Analysis | Transaction Comps Tutorial",
+        "quote": "Transaction comps analysis typically yields the highest valuation because it looks at valuations for companies that were acquired – meaning that a control premium is included in the offer price."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-04",
+    "deck": "vault",
+    "topic": "Control premium",
+    "q": "Control premium (%) equals the offer price per share divided by which share price, minus 1?",
+    "a": "Unaffected share price",
+    "accept": [
+      "unaffected stock price",
+      "unaffected price",
+      "unaffected market price"
+    ],
+    "wrong": [
+      "52-week high share price",
+      "IPO share price",
+      "Book value per share"
+    ],
+    "explain": "The control premium is what the acquirer pays over the unaffected market trading price, i.e. the price before the deal news affected it.",
+    "hook": "Premium over the price the deal hasn't touched yet.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/precedent-transaction-analysis",
+        "title": "Precedent Transaction Analysis | Transaction Comps Tutorial",
+        "quote": "A control premium is defined as the amount that an acquirer paid over the unaffected market trading share price of the company being acquired, typically expressed as a percentage. Control Premium (%) = (Offer Price Per Share ÷ “Unaffected” Stock Price) – 1"
+      }
+    ]
+  },
+  {
+    "id": "vault-05-05",
+    "deck": "vault",
+    "topic": "Calendarization",
+    "q": "What is the adjustment of a company's financial data to align with the calendar year-end (December 31) called?",
+    "a": "Calendarization",
+    "accept": [
+      "calendarisation",
+      "calendarizing"
+    ],
+    "wrong": [
+      "Annualization",
+      "Normalization",
+      "Amortization"
+    ],
+    "explain": "Calendarization standardizes peers with different fiscal year-ends so their multiples cover the same period and are truly comparable.",
+    "hook": "Calendar-ize: line everyone up on the same calendar.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/calendarization",
+        "title": "Calendarization | Financial Definition + Example",
+        "quote": "Calendarization is the adjustment of a company’s financial data and operating performance to align with the calendar year-end date, i.e. December 31."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/accounting/calendarization",
+        "title": "Calendarization - Overview, Formula, How it Works",
+        "quote": "However, calendarization adjusts the fiscal year to the fiscal year of the parent or valuing company so that there is a “clean” basis for comparison."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-06",
+    "deck": "vault",
+    "topic": "Calendarization",
+    "q": "In the calendarization formula, what value of 'Month' is used for a company whose fiscal year ends June 30?",
+    "a": "6",
+    "accept": [
+      "six"
+    ],
+    "wrong": [
+      "12",
+      "3",
+      "9"
+    ],
+    "explain": "'Month' is the month in which the fiscal year ends; June is month six, so half the calendar year comes from the fiscal year actual and half from the next fiscal year.",
+    "hook": "June = 6th month.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/calendarization",
+        "title": "Calendarization | Financial Definition + Example",
+        "quote": "Here, the term \"Month\" refers to the month the company's fiscal year ends, e.g. if the fiscal year ends on June 30, the month will be six."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/accounting/calendarization",
+        "title": "Calendarization - Overview, Formula, How it Works",
+        "quote": "Month # is the month when the company’s financial year ends"
+      }
+    ]
+  },
+  {
+    "id": "vault-05-07",
+    "deck": "vault",
+    "topic": "LTM / NTM",
+    "q": "In comps analysis, what does the abbreviation LTM stand for?",
+    "a": "Last twelve months",
+    "accept": [
+      "last 12 months",
+      "trailing twelve months",
+      "TTM"
+    ],
+    "wrong": [
+      "Long-term multiple",
+      "Latest trading month",
+      "Levered total margin"
+    ],
+    "explain": "LTM, often used interchangeably with trailing twelve months (TTM), measures a metric over the most recent twelve-month period and is backward-looking.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/last-twelve-months-ltm",
+        "title": "Last Twelve Months (LTM) | Formula + Calculator",
+        "quote": "LTM stands for “Last Twelve Months” and measures the performance of a metric, most often revenue, as of the trailing twelve-month period."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/ltm-vs-ntm-valuation-multiples?adgroupid&adid&campaignid=17756089871",
+        "title": "Valuation Multiples - Using LTM vs NTM Multiples in Valuation",
+        "quote": "LTM stands for Last Twelve Months and TTM stands for Trailing Twelve Months , which is basically the historic or backward-looking multiple."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-08",
+    "deck": "vault",
+    "topic": "LTM / NTM",
+    "q": "LTM equals the last fiscal year figure plus the recent year-to-date figure minus what?",
+    "a": "Prior year-to-date figure",
+    "accept": [
+      "prior YTD",
+      "prior YTD data",
+      "prior year YTD",
+      "prior-year YTD"
+    ],
+    "wrong": [
+      "Next fiscal year estimate",
+      "Latest quarter figure",
+      "Two-years-prior fiscal year figure"
+    ],
+    "explain": "You add the stub period after the fiscal year-end and subtract the matching period from the prior year, so the total still covers twelve months.",
+    "hook": "Add this year's stub, drop last year's matching stub.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/last-twelve-months-ltm",
+        "title": "Last Twelve Months (LTM) | Formula + Calculator",
+        "quote": "Last Twelve Months (LTM) = Last Fiscal Year Financial Data + Recent Year-to-Date Data – Prior YTD Data"
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/ltm-vs-ntm-multiples",
+        "title": "LTM vs. NTM Multiples | Formula + Calculator",
+        "quote": "Last Twelve Months (LTM) = Latest Fiscal Year Financial Data + Recent Year-to-Date Data – Prior YTD Data"
+      }
+    ]
+  },
+  {
+    "id": "vault-05-09",
+    "deck": "vault",
+    "topic": "LTM / NTM",
+    "q": "What is the step of adding the period after the fiscal year-end and subtracting the matching prior period called in an LTM calculation?",
+    "a": "Stub period adjustment",
+    "accept": [
+      "stub adjustment",
+      "stub period"
+    ],
+    "wrong": [
+      "Pro forma adjustment",
+      "Purchase price adjustment",
+      "Working capital adjustment"
+    ],
+    "explain": "The stub periods added and subtracted must match in timing covered so the LTM figure spans exactly twelve months.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/last-twelve-months-ltm",
+        "title": "Last Twelve Months (LTM) | Formula + Calculator",
+        "quote": "The process of adding the period beyond the fiscal year ending date (and subtracting the matching period) is called the “stub period” adjustment."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/ltm-vs-ntm-multiples",
+        "title": "LTM vs. NTM Multiples | Formula + Calculator",
+        "quote": "The process of adding the period past the latest fiscal year and subtracting the matching period is referred to as the “stub period” adjustment."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-10",
+    "deck": "vault",
+    "topic": "LTM / NTM",
+    "q": "For a U.S. public company, which SEC filing provides the year-to-date figures used in an LTM calculation?",
+    "a": "10-Q",
+    "accept": [
+      "Form 10-Q",
+      "10Q"
+    ],
+    "wrong": [
+      "DEF 14A",
+      "Form 4",
+      "S-4"
+    ],
+    "explain": "The latest annual data come from the 10-K, while the current and prior YTD figures come from the quarterly 10-Q filings.",
+    "hook": "Q for quarterly.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/ltm-vs-ntm-multiples",
+        "title": "LTM vs. NTM Multiples | Formula + Calculator",
+        "quote": "The latest annual filing data can be found in its 10-K filings if the company is publicly traded. In contrast, the most recent year-to-date (YTD) and corresponding YTD data to deduct are recorded in the 10-Q filings."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/last-twelve-months-ltm",
+        "title": "Last Twelve Months (LTM) | Formula + Calculator",
+        "quote": "If the company is publicly traded, the latest annual filing data can be found in its 10-K filings, whereas the most recent YTD and corresponding YTD financial metrics to deduct can be found in the 10-Q filings."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-11",
+    "deck": "vault",
+    "topic": "LTM / NTM",
+    "q": "What does NTM stand for when describing forward valuation multiples?",
+    "a": "Next twelve months",
+    "accept": [
+      "next 12 months"
+    ],
+    "wrong": [
+      "Net trading multiple",
+      "Normalized total margin",
+      "Nominal twelve-month return"
+    ],
+    "explain": "NTM multiples are formulated from projected figures, whereas LTM multiples are backward-looking and based on historical performance.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/ltm-vs-ntm-multiples",
+        "title": "LTM vs. NTM Multiples | Formula + Calculator",
+        "quote": "Last Twelve Months (LTM) and Next Twelve Months (NTM) are standard forms in which valuation multiples are presented in trading and transaction comps analyses. While LTM multiples are backward-looking and based on historical performance, NTM multiples are formulated from projected figures."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/forward-multiple",
+        "title": "Forward Multiple | Formula + Calculator - Wall Street Prep",
+        "quote": "Moreover, forward multiples are commonly based on a company’s estimated next twelve months (NTM) performance, but can be extended even further out."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-12",
+    "deck": "vault",
+    "topic": "Trading comps",
+    "q": "Why is the median often preferred over the mean when summarizing a comps peer group's multiples?",
+    "a": "It screens out outliers",
+    "accept": [
+      "outliers",
+      "removes outlier distortion",
+      "less affected by outliers"
+    ],
+    "wrong": [
+      "It weights larger companies more",
+      "It always produces a higher value",
+      "It adjusts for leverage"
+    ],
+    "explain": "Using the median removes the distortion caused by outliers; Macabacus calls it generally the most meaningful summary metric for that reason.",
+    "hook": "Median = the middle, unbothered by extremes.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/comparable-company-analysis-comps",
+        "title": "Comparable Company Analysis | Trading Comps Tutorial",
+        "quote": "Median → Using the median removes the distortion caused by outliers, which increases in tandem with the number of comparable companies included."
+      },
+      {
+        "url": "https://macabacus.com/valuation/comparable-companies",
+        "title": "Comparable Companies Analysis - Trading Comps Examples | Macabacus",
+        "quote": "The median is generally the most meaningful metric, because it naturally screens outliers."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-13",
+    "deck": "vault",
+    "topic": "Valuation multiples",
+    "q": "Which valuation multiple is the most commonly used in practice, especially in M&A?",
+    "a": "EV/EBITDA",
+    "accept": [
+      "EV / EBITDA",
+      "EBITDA multiple",
+      "enterprise value to EBITDA"
+    ],
+    "wrong": [
+      "P/B",
+      "EV/Invested Capital",
+      "PEG ratio"
+    ],
+    "explain": "EV/EBITDA is the most used enterprise value multiple, with EBITDA serving as a proxy for cash flow available to the firm.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/valuation-multiples",
+        "title": "Valuation Multiples Primer | Formula + Calculator",
+        "quote": "In practice, the EV/EBITDA multiple is the most commonly used, followed by EV/EBIT, especially in the context of M&A."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/types-of-valuation-multiples",
+        "title": "Types of Valuation Multiples – Equity & Enterprise Value Multiples",
+        "quote": "EV/EBITDA – EBITDA can be used as a substitute of free cash flows; is the most used enterprise value multiple; computed as Enterprise Value / Earnings before Interest, Tax, Depreciation & Amortization"
+      }
+    ]
+  },
+  {
+    "id": "vault-05-14",
+    "deck": "vault",
+    "topic": "Valuation multiples",
+    "q": "Enterprise value multiples allow comparison of firms regardless of what, unlike equity value multiples?",
+    "a": "Capital structure",
+    "accept": [
+      "leverage",
+      "financial leverage",
+      "capital structure differences"
+    ],
+    "wrong": [
+      "Industry classification",
+      "Fiscal year-end",
+      "Geography"
+    ],
+    "explain": "Enterprise value represents all capital providers, so EV multiples are capital structure neutral; equity value multiples such as P/E are influenced by leverage.",
+    "hook": "EV sees debt and equity alike.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://macabacus.com/valuation/multiples",
+        "title": "Valuation Multiples: Enterprise vs Equity, P/E, EBITDA, EBIT, Sales | Macabacus",
+        "quote": "Enterprise value multiples are better than equity value multiples because the former allow for direct comparison of different firms, regardless of capital structure."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/comparable-company-analysis-comps",
+        "title": "Comparable Company Analysis | Trading Comps Tutorial",
+        "quote": "the most commonly used multiples in the industry are based on enterprise value, as such multiples are independent of the capital structure and focus on the core operations of the company."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-15",
+    "deck": "vault",
+    "topic": "Valuation multiples",
+    "q": "Expressed in aggregate terms, the P/E multiple equals equity value divided by what?",
+    "a": "Net income",
+    "accept": [
+      "net earnings",
+      "earnings"
+    ],
+    "wrong": [
+      "EBITDA",
+      "Revenue",
+      "EBIT"
+    ],
+    "explain": "P/E is an equity value multiple, so its denominator must be a metric belonging to shareholders: net income (or EPS on a per-share basis).",
+    "hook": "Equity numerator, equity denominator.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/valuation-multiples",
+        "title": "Valuation Multiples Primer | Formula + Calculator",
+        "quote": "P/E Ratio = Equity Value ÷ Net Income"
+      },
+      {
+        "url": "https://macabacus.com/valuation/multiples",
+        "title": "Valuation Multiples: Enterprise vs Equity, P/E, EBITDA, EBIT, Sales | Macabacus",
+        "quote": "Note that the P/E multiple equals the ratio of equity value to net Income, in which the numerator and denominator are both are divided by the number of fully diluted shares."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-16",
+    "deck": "vault",
+    "topic": "Valuation multiples",
+    "q": "EV/Revenue is an enterprise value multiple; which revenue-based multiple is its equity value counterpart?",
+    "a": "Price-to-sales",
+    "accept": [
+      "P/S",
+      "price to sales ratio",
+      "P/S ratio",
+      "market cap to sales"
+    ],
+    "wrong": [
+      "EV/EBITDA",
+      "Price-to-book",
+      "EV/Gross profit"
+    ],
+    "explain": "Price-to-sales divides market capitalization by sales, so it values equity only; EV/Revenue values the firm for all stakeholders.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/revenue-multiple/",
+        "title": "Revenue Multiple | Formula + Calculator",
+        "quote": "Price-to-Sales (P/S) = Market Capitalization ÷ Sales"
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/revenue-multiple/",
+        "title": "Revenue Multiple | Formula + Calculator",
+        "quote": "Price-to-Sales → Equity Value Multiple"
+      }
+    ]
+  },
+  {
+    "id": "vault-05-17",
+    "deck": "vault",
+    "topic": "Software valuation",
+    "q": "Which multiple is generally used to value unprofitable companies when EBITDA or EBIT is negative?",
+    "a": "EV/Revenue",
+    "accept": [
+      "EV / Revenue",
+      "EV/Sales",
+      "revenue multiple",
+      "enterprise value to revenue"
+    ],
+    "wrong": [
+      "EV/EBITDA",
+      "P/E",
+      "EV/EBIT"
+    ],
+    "explain": "When earnings are negative, earnings-based multiples become meaningless, so EV/Revenue is often the only meaningful option, common for early-stage, high-growth companies.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/ev-revenue-multiple",
+        "title": "EV/Revenue Multiple | Formula + Calculator",
+        "quote": "Generally, the EV/Revenue multiple is used for unprofitable companies with negative profit margins, or limited profitability, rendering other valuation multiples to be meaningless."
+      },
+      {
+        "url": "https://macabacus.com/valuation/multiples",
+        "title": "Valuation Multiples: Enterprise vs Equity, P/E, EBITDA, EBIT, Sales | Macabacus",
+        "quote": "When a company has negative EBITDA, the EV/EBITDA and EV/EBIT multiples will not be material. In such cases, EV/Sales may be the most appropriate multiple to use."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-18",
+    "deck": "vault",
+    "topic": "Software valuation",
+    "q": "In the basic formula, annual recurring revenue (ARR) equals monthly recurring revenue (MRR) multiplied by what number?",
+    "a": "12",
+    "accept": [
+      "twelve",
+      "12 months"
+    ],
+    "wrong": [
+      "4",
+      "10",
+      "52"
+    ],
+    "explain": "ARR is conceptually the annualized MRR of a subscription business, so MRR is multiplied by twelve months.",
+    "hook": "Twelve months in a year.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/annual-recurring-revenue-arr",
+        "title": "Annual Recurring Revenue (ARR) | Formula + Calculator",
+        "quote": "Annual Recurring Revenue (ARR) = Monthly Recurring Revenue (MRR) × 12 Months"
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/annual-recurring-revenue-arr",
+        "title": "Annual Recurring Revenue (ARR) - Calculation and Examples",
+        "quote": "Annual Recurring Revenue (ARR) = Monthly Recurring Revenue (MRR) × 12"
+      }
+    ]
+  },
+  {
+    "id": "vault-05-19",
+    "deck": "vault",
+    "topic": "Software valuation",
+    "q": "The ARR multiple divides which value measure by annual recurring revenue?",
+    "a": "Enterprise value",
+    "accept": [
+      "EV",
+      "TEV",
+      "total enterprise value"
+    ],
+    "wrong": [
+      "Market capitalization",
+      "Book value of equity",
+      "Net debt"
+    ],
+    "explain": "The ARR multiple (EV/ARR) shows how much investors pay for each dollar of recurring revenue; enterprise value, not market cap, is used because it represents the total acquisition cost.",
+    "hook": "EV over ARR.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/arr-multiple/",
+        "title": "ARR Multiple: Definition, Formula, and Examples | CFI",
+        "quote": "The ARR multiple is enterprise value divided by annual recurring revenue (ARR). It shows how much investors pay for each dollar of recurring revenue."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/arr-multiple/",
+        "title": "ARR Multiple: Definition, Formula, and Examples | CFI",
+        "quote": "Use enterprise value (not market cap) because it represents the total acquisition cost."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-20",
+    "deck": "vault",
+    "topic": "Rule of 40",
+    "q": "Under the Rule of 40, a SaaS company's revenue growth rate plus profit margin should be at least what percentage?",
+    "a": "40%",
+    "accept": [
+      "40",
+      "40 percent",
+      "forty percent"
+    ],
+    "wrong": [
+      "20%",
+      "30%",
+      "50%"
+    ],
+    "explain": "The Rule of 40 is a rule-of-thumb benchmark for balancing growth against profitability in SaaS companies.",
+    "hook": "The name is the answer.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/rule-of-40",
+        "title": "The SaaS Rule of 40 Explained | CFI",
+        "quote": "The Rule of 40 says that the sum of the revenue growth rate and the profit margin should be 40% or higher."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/rule-of-40",
+        "title": "The Rule of 40 (Brad Feld) | SaaS Formula + Calculator",
+        "quote": "The Rule of 40 states that if an SaaS company’s revenue growth rate is added to its profit margin, the combined value should exceed 40%."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-21",
+    "deck": "vault",
+    "topic": "Rule of 40",
+    "q": "Which profit margin is most commonly used in the Rule of 40 calculation?",
+    "a": "EBITDA margin",
+    "accept": [
+      "EBITDA"
+    ],
+    "wrong": [
+      "Gross margin",
+      "Net income margin",
+      "Contribution margin"
+    ],
+    "explain": "EBITDA margin is the most common choice because most growth-stage companies are unprofitable or barely profitable on GAAP metrics such as EBIT.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/rule-of-40",
+        "title": "The Rule of 40 (Brad Feld) | SaaS Formula + Calculator",
+        "quote": "As for the profit margin, the most common metric used is the EBITDA margin in the corresponding period."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/rule-of-40",
+        "title": "The SaaS Rule of 40 Explained | CFI",
+        "quote": "Additionally, there are different profit margin calculations, with EBITDA margin being the most common approach."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-22",
+    "deck": "vault",
+    "topic": "Rule of 40",
+    "q": "For the growth component of the Rule of 40, analysts typically favor growth in which type of revenue?",
+    "a": "Recurring revenue",
+    "accept": [
+      "ARR",
+      "MRR",
+      "ARR or MRR",
+      "recurring revenue growth"
+    ],
+    "wrong": [
+      "One-time license revenue",
+      "Professional services revenue",
+      "Hardware revenue"
+    ],
+    "explain": "The growth rate typically refers to MRR or ARR growth rather than gross or net revenue, since GAAP metrics often fail to capture SaaS performance.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/rule-of-40",
+        "title": "The Rule of 40 (Brad Feld) | SaaS Formula + Calculator",
+        "quote": "The revenue growth rate, rather than referring to the gross or net revenue of a company, typically refers to the monthly recurring revenue ( MRR ) or annual recurring revenue ( ARR )."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/rule-of-40",
+        "title": "The SaaS Rule of 40 Explained | CFI",
+        "quote": "There are different ways to calculate revenue growth, but most analysts favor using a recurring revenue stream."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-23",
+    "deck": "vault",
+    "topic": "Rule of 40",
+    "q": "What is the Rule of 40 score of a SaaS company with 100% revenue growth and a negative 60% profit margin?",
+    "a": "40%",
+    "accept": [
+      "40",
+      "40 percent"
+    ],
+    "wrong": [
+      "160%",
+      "60%",
+      "-60%"
+    ],
+    "explain": "100% + (-60%) = 40%, which technically meets the rule; CFI uses this case to show the Rule of 40 is only a benchmark and needs further analysis.",
+    "hook": "Add the two, sign included.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/rule-of-40",
+        "title": "The SaaS Rule of 40 Explained | CFI",
+        "quote": "Of course, the above scenarios are likely more preferable compared to a company with a 100% revenue growth rate but a negative 60% profit margin, which would technically meet the Rule of 40 (100% + -60%)."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/rule-of-40",
+        "title": "The Rule of 40 (Brad Feld) | SaaS Formula + Calculator",
+        "quote": "Rule of 40 (%) = Recurring Revenue Growth Rate (%) + EBITDA Margin (%)"
+      }
+    ]
+  },
+  {
+    "id": "vault-05-24",
+    "deck": "vault",
+    "topic": "Precedent transactions",
+    "q": "Compared with trading comps, what timing weakness do precedent transactions have?",
+    "a": "They become outdated quickly",
+    "accept": [
+      "stale",
+      "outdated",
+      "they become stale",
+      "they quickly become old"
+    ],
+    "wrong": [
+      "They exclude control premiums",
+      "They rely only on projected figures",
+      "They ignore deal size"
+    ],
+    "explain": "Precedent multiples reflect past deals and can become stale as markets move, whereas comps reflect current public market prices.",
+    "hook": "Precedents age; comps are live.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/precedent-transaction-analysis/",
+        "title": "Precedent Transaction Analysis - Definition, Steps",
+        "quote": "Timing (precedents quickly become old– comps are current)"
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/valuation-methods",
+        "title": "Valuation Methods - Three Main Approaches to Value a Business",
+        "quote": "They are useful for M&A transactions but can easily become stale and no longer reflect the current market as time passes."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-25",
+    "deck": "vault",
+    "topic": "Valuation multiples",
+    "q": "In the industry-specific multiple EV/EBITDAR, what cost does the 'R' add back to EBITDA?",
+    "a": "Rent",
+    "accept": [
+      "rental costs",
+      "rental expense",
+      "rent expense"
+    ],
+    "wrong": [
+      "Research and development",
+      "Restructuring charges",
+      "Royalties"
+    ],
+    "explain": "EV/EBITDAR adds back rental costs and is most used in the hotel and transportation sectors.",
+    "hook": "R for Rent: airlines and hotels lease a lot.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/types-of-valuation-multiples",
+        "title": "Types of Valuation Multiples – Equity & Enterprise Value Multiples",
+        "quote": "EV/EBITDAR – most used in industries in the hotel and transport sectors; computed as the proportion of Enterprise Value to Earnings before Interest, Tax, Depreciation & Amortization, and Rental Costs"
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/valuation-multiples",
+        "title": "Valuation Multiples Primer | Formula + Calculator",
+        "quote": "For example, EV/EBITDAR is frequently seen in the transportation industry (i.e. rental costs are added back to EBITDA), while EV/(EBITDA – Capex ) is frequently used for industrials and other capital-intensive industries like manufacturing."
+      }
+    ]
+  },
+  {
+    "id": "vault-05-26",
+    "deck": "vault",
+    "topic": "Valuation multiples",
+    "q": "The justified EV/EBITDA multiple has an inverse relationship with which fundamental driver?",
+    "a": "WACC",
+    "accept": [
+      "weighted average cost of capital",
+      "cost of capital"
+    ],
+    "wrong": [
+      "Expected FCFF growth rate",
+      "Profitability",
+      "Revenue growth"
+    ],
+    "explain": "Per CFA Institute, justified EV/EBITDA rises with expected FCFF growth and profitability and falls as the weighted average cost of capital rises.",
+    "hook": "Higher discount rate, lower multiple.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/market-based-valuation-price-enterprise-value-multiples",
+        "title": "Market-Based Valuation: Price and Enterprise Value Multiples | CFA Institute",
+        "quote": "The fundamental drivers of EV/EBITDA are the expected growth rate in free cash flow to the firm, profitability, and the weighted average cost of capital. The justified EV/EBITDA based on fundamentals bears a positive relationship to the first two factors and an inverse relationship to the third."
+      }
+    ]
+  }
+]

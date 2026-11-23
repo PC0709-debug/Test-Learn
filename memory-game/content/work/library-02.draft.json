@@ -1,0 +1,807 @@
+[
+  {
+    "id": "library-02-01",
+    "deck": "library",
+    "topic": "Founding legend",
+    "q": "According to Roman tradition, in what year was Rome founded?",
+    "a": "753 BCE",
+    "accept": [
+      "753 BC",
+      "753"
+    ],
+    "wrong": [
+      "509 BCE",
+      "390 BCE",
+      "264 BCE"
+    ],
+    "explain": "By the end of the Republic, Romans generally accepted 753 BCE as the city's founding date; it is a traditional date, not a proven historical one.",
+    "hook": "7-5-3: the she-wolf's year.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/place/ancient-Rome/Romes-foundation-myth",
+        "title": "Ancient Rome - Foundation Myth, Romulus & Remus | Britannica",
+        "quote": "By the end of the republic, it was generally accepted that Rome had been founded in 753 bc and that the republic had begun in 509 bc ."
+      },
+      {
+        "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+        "title": "Introduction to ancient Rome | British Museum",
+        "quote": "According to legend, Rome was founded in 753 BC by Romulus, son of the Roman god of war, Mars."
+      }
+    ]
+  },
+  {
+    "id": "library-02-02",
+    "deck": "library",
+    "topic": "Founding legend",
+    "q": "In Roman legend, what was the name of Romulus's twin brother?",
+    "a": "Remus",
+    "accept": [],
+    "wrong": [
+      "Numitor",
+      "Amulius",
+      "Faustulus"
+    ],
+    "explain": "Romulus and Remus are the legendary founders of Rome; in the legend Romulus killed Remus and the city was named after Romulus.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Romulus-and-Remus",
+        "title": "Romulus and Remus | Story, Myth, Definition, Statue, & Facts | Britannica",
+        "quote": "Romulus and Remus are the legendary founders of Rome."
+      },
+      {
+        "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+        "title": "Introduction to ancient Rome | British Museum",
+        "quote": "The myth states a threatened local King ordered Romulus, and his twin brother Remus, to be abandoned on the bank of the river Tiber."
+      }
+    ]
+  },
+  {
+    "id": "library-02-03",
+    "deck": "library",
+    "topic": "Founding legend",
+    "q": "In the Roman founding legend, what animal nursed the abandoned twins Romulus and Remus?",
+    "a": "She-wolf",
+    "accept": [
+      "wolf",
+      "a she-wolf"
+    ],
+    "wrong": [
+      "Bear",
+      "Eagle",
+      "Lioness"
+    ],
+    "explain": "The 'Wolf and Twins' image became a powerful symbol throughout the Roman Empire.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Romulus-and-Remus",
+        "title": "Romulus and Remus | Story, Myth, Definition, Statue, & Facts | Britannica",
+        "quote": "Rescued and nurtured by a she-wolf and a woodpecker, they were later found by the herdsman Faustulus and his wife, Acca Larentia, who raised them."
+      },
+      {
+        "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+        "title": "Introduction to ancient Rome | British Museum",
+        "quote": "Although infants, the pair survived on the site that would become Rome, thanks to the kindness from locals, the god Tiberinus and most famously, care from a she-wolf who provided shelter and milk for the youngsters."
+      }
+    ]
+  },
+  {
+    "id": "library-02-04",
+    "deck": "library",
+    "topic": "Kings of Rome",
+    "q": "Who was traditionally the seventh and last king of Rome?",
+    "a": "Tarquinius Superbus",
+    "accept": [
+      "Tarquin",
+      "Tarquin the Proud",
+      "Lucius Tarquinius Superbus"
+    ],
+    "wrong": [
+      "Numa Pompilius",
+      "Servius Tullius",
+      "Tarquinius Priscus"
+    ],
+    "explain": "Tradition dates his reign to 534-509 BCE; his expulsion ended the monarchy, and 'Superbus' means 'the proud.'",
+    "hook": "Superbus = superb-ly proud, and out.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Tarquin-king-of-Rome-534-509-BC",
+        "title": "Tarquin | Etruscan Ruler, Last King, Tyrant | Britannica",
+        "quote": "Tarquin (flourished 6th century bc —died 495 bc , Cumae [near modern Naples, Italy]) was traditionally the seventh and last king of Rome, accepted by some scholars as a historical figure."
+      },
+      {
+        "url": "https://www.britannica.com/topic/Roman-Republic",
+        "title": "Roman Republic | Definition, Dates, History, Government, Map, & Facts | Britannica",
+        "quote": "By the end of the republic, however, it was generally accepted that Rome had been founded in 753 bce and that the republic had begun in 509 bce , following the overthrow of Lucius Tarquinius Superbus , the last of Rome’s seven kings."
+      }
+    ]
+  },
+  {
+    "id": "library-02-05",
+    "deck": "library",
+    "topic": "Roman Republic",
+    "q": "In what year did the Roman Republic traditionally begin?",
+    "a": "509 BCE",
+    "accept": [
+      "509 BC",
+      "509"
+    ],
+    "wrong": [
+      "753 BCE",
+      "264 BCE",
+      "146 BCE"
+    ],
+    "explain": "The Republic began when the Romans replaced their monarchy with elected magistrates and lasted until 27 BCE.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Roman-Republic",
+        "title": "Roman Republic | Definition, Dates, History, Government, Map, & Facts | Britannica",
+        "quote": "Roman Republic , (509–27 bce ), the ancient state centred on the city of Rome that began in 509 bce , when the Romans replaced their monarchy with elected magistrates, and lasted until 27 bce , when the Roman Empire was established."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-roman-republic",
+        "title": "The Roman Republic - The Metropolitan Museum of Art",
+        "quote": "From its inauspicious beginnings as a small cluster of huts in the tenth century B.C., Rome developed into a city-state, first ruled by kings, then, from 509 B.C. onward, by a new form of government—the Republic."
+      }
+    ]
+  },
+  {
+    "id": "library-02-06",
+    "deck": "library",
+    "topic": "Roman Republic",
+    "q": "What were the two annually elected magistrates who replaced the king in the Roman Republic called?",
+    "a": "Consuls",
+    "accept": [
+      "consul",
+      "consules"
+    ],
+    "wrong": [
+      "Quaestors",
+      "Aediles",
+      "Lictors"
+    ],
+    "explain": "The two consuls held office for one year, each could veto the other, and they commanded Rome's armies.",
+    "hook": "Two consuls, one year, mutual veto.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Roman-Republic",
+        "title": "Roman Republic | Definition, Dates, History, Government, Map, & Facts | Britannica",
+        "quote": "Rather than restoring their king, the Romans replaced the kingship with two annually elected magistrates called consuls ."
+      },
+      {
+        "url": "https://www.britannica.com/topic/consul-ancient-Roman-official",
+        "title": "Consul | Magistrates, Duties & Powers | Britannica",
+        "quote": "Consul , in ancient Rome , either of the two highest of the ordinary magistracies in the ancient Roman Republic ."
+      }
+    ]
+  },
+  {
+    "id": "library-02-07",
+    "deck": "library",
+    "topic": "Punic Wars",
+    "q": "How many Punic Wars did Rome fight against Carthage?",
+    "a": "Three",
+    "accept": [
+      "3"
+    ],
+    "wrong": [
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "explain": "The three Punic Wars were fought in 264-241, 218-201 and 149-146 BCE.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/summary/Punic-Wars",
+        "title": "Causes and the outcome of the Punic Wars | Britannica",
+        "quote": "Punic Wars , or Carthaginian Wars , Three wars (264–241, 218–201, 149–146 bce ) between Rome and Carthage ."
+      },
+      {
+        "url": "https://www.britannica.com/event/Punic-Wars",
+        "title": "Punic Wars | Summary, Causes, Battles, & Maps | Britannica",
+        "quote": "The Punic Wars were a series of three conflicts between the Roman Republic and the Carthaginian (Punic) empire from 264 to 146 BCE."
+      }
+    ]
+  },
+  {
+    "id": "library-02-08",
+    "deck": "library",
+    "topic": "Punic Wars",
+    "q": "Which Carthaginian general led an army, with war elephants, over the Alps into Italy in the Second Punic War?",
+    "a": "Hannibal",
+    "accept": [
+      "Hannibal Barca"
+    ],
+    "wrong": [
+      "Hamilcar Barca",
+      "Masinissa",
+      "Scipio Africanus"
+    ],
+    "explain": "In 218 BCE Hannibal marched from Spain through the Pyrenees and Alps into Italy.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Punic-Wars",
+        "title": "Punic Wars | Summary, Causes, Battles, & Maps | Britannica",
+        "quote": "Hannibal is famous for his strategic brilliance, particularly demonstrated in his crossing of the Alps to invade Italy."
+      },
+      {
+        "url": "http://www.metmuseum.org/toah/ht/04/afw.html",
+        "title": "Western North Africa, 1000 B.C.–1 A.D. | Chronology | Heilbrunn Timeline of Art History | The Metropolitan Museum of Art",
+        "quote": "Hannibal (247–183 B.C. ), commander of the Carthaginian forces, leads his troops from Spain through the passes of the Pyrenees and Alps into Italy. With him are thirty-seven elephants of war."
+      }
+    ]
+  },
+  {
+    "id": "library-02-09",
+    "deck": "library",
+    "topic": "Punic Wars",
+    "q": "In what year did Hannibal crush the Roman army at the Battle of Cannae?",
+    "a": "216 BCE",
+    "accept": [
+      "216 BC",
+      "216"
+    ],
+    "wrong": [
+      "202 BCE",
+      "146 BCE",
+      "264 BCE"
+    ],
+    "explain": "Cannae, fought in southeastern Italy during the Second Punic War, was a devastating Roman defeat.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Cannae",
+        "title": "Battle of Cannae | Map, Casualties, Location, Summary, & Tactics | Britannica",
+        "quote": "Battle of Cannae , (August 216 bce ), battle fought near the ancient village of Cannae, in southern Apulia (modern Puglia ), southeastern Italy , between the forces of Rome and Carthage during the Second Punic War ."
+      },
+      {
+        "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+        "title": "Introduction to ancient Rome | British Museum",
+        "quote": "The coin shows a war elephant, which formed part of the Carthaginian general Hannibal's army which crossed the Alps into Italy in 218 BC, defeating Roman armies at the battles of Ticinus, Trebia and Lake Trasimene in northern Italy, before the humiliating Roman defeat at Cannae in 216 BC."
+      }
+    ]
+  },
+  {
+    "id": "library-02-10",
+    "deck": "library",
+    "topic": "Punic Wars",
+    "q": "Military historians regard the Battle of Cannae as a classic example of what tactic?",
+    "a": "Double envelopment",
+    "accept": [
+      "a double envelopment"
+    ],
+    "wrong": [
+      "Frontal assault",
+      "Naval boarding",
+      "Testudo formation"
+    ],
+    "explain": "Hannibal let his centre be driven in while his cavalry wheeled round to take the Romans in flank and rear.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Cannae",
+        "title": "Battle of Cannae | Map, Casualties, Location, Summary, & Tactics | Britannica",
+        "quote": "One of the most significant battles in history, it is regarded by military historians as a classic example of a victorious double envelopment."
+      }
+    ]
+  },
+  {
+    "id": "library-02-11",
+    "deck": "library",
+    "topic": "Punic Wars",
+    "q": "Which Roman commander defeated Hannibal at the Battle of Zama in 202 BCE?",
+    "a": "Scipio Africanus",
+    "accept": [
+      "Scipio",
+      "Scipio Africanus the Elder",
+      "Publius Cornelius Scipio Africanus"
+    ],
+    "wrong": [
+      "Fabius Maximus",
+      "Gaius Marius",
+      "Pompey"
+    ],
+    "explain": "Zama was the last and decisive battle of the Second Punic War.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Zama-Roman-Carthaginian-history",
+        "title": "Battle of Zama | Biography & Facts | Britannica",
+        "quote": "Battle of Zama , (202 bce ), victory of the Romans led by Scipio Africanus the Elder over the Carthaginians commanded by Hannibal ."
+      },
+      {
+        "url": "http://www.metmuseum.org/toah/ht/04/afw.html",
+        "title": "Western North Africa, 1000 B.C.–1 A.D. | Chronology | Heilbrunn Timeline of Art History | The Metropolitan Museum of Art",
+        "quote": "The Roman general Scipio Africanus eventually destroys Hannibal’s forces at Zama, North Africa, in 202 B.C. , and the Roman terms of peace dismember the Carthaginian empire."
+      }
+    ]
+  },
+  {
+    "id": "library-02-12",
+    "deck": "library",
+    "topic": "Punic Wars",
+    "q": "In what year did Rome destroy the city of Carthage, ending the Third Punic War?",
+    "a": "146 BCE",
+    "accept": [
+      "146 BC",
+      "146"
+    ],
+    "wrong": [
+      "202 BCE",
+      "216 BCE",
+      "264 BCE"
+    ],
+    "explain": "The survivors were sold into slavery and Carthaginian territory became the Roman province of Africa.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Punic-Wars",
+        "title": "Punic Wars | Summary, Causes, Battles, & Maps | Britannica",
+        "quote": "The Romans completely destroyed Carthage in 146 BCE."
+      },
+      {
+        "url": "http://www.metmuseum.org/toah/ht/04/eust.html",
+        "title": "Italian Peninsula, 1000 B.C.–1 A.D. | Chronology | Heilbrunn Timeline of Art History | The Metropolitan Museum of Art",
+        "quote": "146 B.C. Bringing an end to the Third Punic War (149–146 B.C. ), Roman general Scipio Aemilianus destroys Carthage."
+      }
+    ]
+  },
+  {
+    "id": "library-02-13",
+    "deck": "library",
+    "topic": "Julius Caesar",
+    "q": "Which river did Julius Caesar cross with his army in 49 BCE, starting a civil war?",
+    "a": "Rubicon",
+    "accept": [
+      "Rubicon River",
+      "the Rubicon"
+    ],
+    "wrong": [
+      "Tiber",
+      "Danube",
+      "Nile"
+    ],
+    "explain": "The Rubicon marked the boundary between Gaul and Italy; crossing it with an army violated Roman law and began the Roman Civil War.",
+    "hook": "'Crossing the Rubicon' = point of no return.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/summary/Julius-Caesar-Roman-ruler",
+        "title": "Life and career of Julius Caesar | Britannica",
+        "quote": "When the Senate would not command Pompey to give up his command simultaneously, Caesar, against regulations, led his forces across the Rubicon River (49) between Gaul and Italy, precipitating the Roman Civil War."
+      },
+      {
+        "url": "https://www.britannica.com/today-in-history/January-10-Julius-Caesar-Crosses-the-Rubicon",
+        "title": "Today in History January 10 | Julius Caesar, Rubicon, The Die Is Cast | Britannica",
+        "quote": "On a starlit night in 49 bce , Julius Caesar and his army crossed the Rubicon River—which was more of a stream, really—to take control of the Roman Republic."
+      }
+    ]
+  },
+  {
+    "id": "library-02-14",
+    "deck": "library",
+    "topic": "Julius Caesar",
+    "q": "Julius Caesar was assassinated on the Ides of March; what calendar date is that?",
+    "a": "March 15",
+    "accept": [
+      "15 March",
+      "March 15th",
+      "15th March"
+    ],
+    "wrong": [
+      "March 1",
+      "March 13",
+      "April 15"
+    ],
+    "explain": "Caesar was killed in the Senate House on March 15, 44 BCE, by conspirators led by Cassius and Brutus.",
+    "hook": "Beware the Ides of March: the 15th.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler",
+        "title": "Julius Caesar | Conquests, Death, Assassination, Cleopatra, & Facts | Britannica",
+        "quote": "Julius Caesar was murdered in the Roman Senate House by a group of nobles on March 15, 44 bce ."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-roman-republic",
+        "title": "The Roman Republic - The Metropolitan Museum of Art",
+        "quote": "Rome experienced a long and bloody series of civil wars, political crises, and civil disturbances that culminated with the dictatorship of Julius Caesar and his assassination on March 15, 44 B.C."
+      }
+    ]
+  },
+  {
+    "id": "library-02-15",
+    "deck": "library",
+    "topic": "Julius Caesar",
+    "q": "Julius Caesar formed the First Triumvirate with Pompey and which other Roman?",
+    "a": "Crassus",
+    "accept": [
+      "Marcus Licinius Crassus",
+      "Marcus Crassus"
+    ],
+    "wrong": [
+      "Mark Antony",
+      "Lepidus",
+      "Cicero"
+    ],
+    "explain": "Caesar formed this alliance with Pompey and Marcus Licinius Crassus in 60 BCE.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/summary/Julius-Caesar-Roman-ruler",
+        "title": "Life and career of Julius Caesar | Britannica",
+        "quote": "He formed the First Triumvirate with Pompey and Marcus Licinius Crassus in 60 and was elected consul in 59 and proconsul in Gaul and Illyria in 58."
+      },
+      {
+        "url": "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler",
+        "title": "Julius Caesar | Conquests, Death, Assassination, Cleopatra, & Facts | Britannica",
+        "quote": "Julius Caesar crafted an alliance with Marcus Licinius Crassus and Pompey to form the First Triumvirate and challenge the power of the Roman Senate."
+      }
+    ]
+  },
+  {
+    "id": "library-02-16",
+    "deck": "library",
+    "topic": "Augustus",
+    "q": "In what year did Octavian defeat Mark Antony at the naval Battle of Actium?",
+    "a": "31 BCE",
+    "accept": [
+      "31 BC",
+      "31"
+    ],
+    "wrong": [
+      "44 BCE",
+      "27 BCE",
+      "49 BCE"
+    ],
+    "explain": "The victory off western Greece made Octavian the undisputed master of the Roman world.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Actium-ancient-Roman-history",
+        "title": "Battle of Actium | Britannica",
+        "quote": "The Battle of Actium was a naval battle on September 2, 31 BCE, where Octavian defeated Mark Antony, becoming the master of the Roman world."
+      },
+      {
+        "url": "https://www.britannica.com/summary/Augustus-Timeline",
+        "title": "Augustus | Timeline | Britannica",
+        "quote": "Octavian gets the Roman Senate to declare war on Cleopatra and wins a decisive victory over Antony’s fleet in the naval Battle of Actium , fought off the coast of western Greece, in 31 bc ."
+      }
+    ]
+  },
+  {
+    "id": "library-02-17",
+    "deck": "library",
+    "topic": "Augustus",
+    "q": "Before taking the title Augustus, Rome's first emperor is usually known by what name?",
+    "a": "Octavian",
+    "accept": [
+      "Octavianus",
+      "Gaius Octavius",
+      "Octavius"
+    ],
+    "wrong": [
+      "Tiberius",
+      "Caligula",
+      "Agrippa"
+    ],
+    "explain": "Born Gaius Octavius, he was adopted as heir by his great-uncle Julius Caesar and is habitually called Octavian until he became Augustus.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/summary/Augustus-Roman-emperor",
+        "title": "Caesar Augustus rise to power | Britannica",
+        "quote": "Caesar Augustus , or Octavian orig. Gaius Octavius later Gaius Julius Caesar Octavianus , (born Sept. 23, 63 bc —died Aug. 19, ad 14, Nola, near Naples), First Roman emperor."
+      },
+      {
+        "url": "https://www.britannica.com/summary/Augustus-Timeline",
+        "title": "Augustus | Timeline | Britannica",
+        "quote": "(Today, however, he is habitually described as Octavian from this point in his career until the date he assumes the designation Augustus.)"
+      }
+    ]
+  },
+  {
+    "id": "library-02-18",
+    "deck": "library",
+    "topic": "Augustus",
+    "q": "In what year did the Senate give Octavian the title Augustus, conventionally marking the start of the Roman Empire?",
+    "a": "27 BCE",
+    "accept": [
+      "27 BC",
+      "27"
+    ],
+    "wrong": [
+      "31 BCE",
+      "44 BCE",
+      "49 BCE"
+    ],
+    "explain": "The Roman Republic is dated 509-27 BCE; the honorific Augustus began the principate.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+        "title": "The Roman Empire (27 B.C.–393 A.D.) - The Metropolitan Museum of Art",
+        "quote": "In 27 B.C., Gaius Julius Caesar Octavianus was awarded the honorific title of Augustus by a decree of the Senate. So began the Roman empire and the principate of the Julio-Claudians"
+      },
+      {
+        "url": "https://www.britannica.com/topic/Roman-Republic",
+        "title": "Roman Republic | Definition, Dates, History, Government, Map, & Facts | Britannica",
+        "quote": "The Roman Republic was a state that lasted from the overthrow of the last Roman king, Tarquin , in 509 BCE, to the establishment of the Roman Empire , in 27 BCE, when Octavian was given the name Augustus and made princeps ."
+      }
+    ]
+  },
+  {
+    "id": "library-02-19",
+    "deck": "library",
+    "topic": "Augustus",
+    "q": "In what year did Augustus die?",
+    "a": "14 CE",
+    "accept": [
+      "AD 14",
+      "14 AD",
+      "14"
+    ],
+    "wrong": [
+      "37 CE",
+      "68 CE",
+      "79 CE"
+    ],
+    "explain": "Augustus ruled until 14 CE and was succeeded by Tiberius (r. 14-37 CE).",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/summary/Augustus-Roman-emperor",
+        "title": "Caesar Augustus rise to power | Britannica",
+        "quote": "(born Sept. 23, 63 bc —died Aug. 19, ad 14, Nola, near Naples), First Roman emperor."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+        "title": "The Roman Empire (27 B.C.–393 A.D.) - The Metropolitan Museum of Art",
+        "quote": "Augustus (r. 27 B.C.–14 A.D.), Tiberius (r. 14–37 A.D.)"
+      }
+    ]
+  },
+  {
+    "id": "library-02-20",
+    "deck": "library",
+    "topic": "Colosseum",
+    "q": "Which emperor dedicated the Colosseum (the Flavian Amphitheatre) in 80 CE?",
+    "a": "Titus",
+    "accept": [],
+    "wrong": [
+      "Nero",
+      "Hadrian",
+      "Trajan"
+    ],
+    "explain": "Construction began under his father Vespasian; the inauguration featured 100 days of games.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Colosseum",
+        "title": "Colosseum | Rome, Definition, Characteristics, History, & Facts | Britannica",
+        "quote": "Construction of the Colosseum began under the Roman emperor Vespasian between 70 and 72 ce . The completed structure was dedicated in 80 ce by Titus , Vespasian’s son and successor."
+      },
+      {
+        "url": "https://www.oxfordreference.com/display/10.1093/acref/9780195300826.001.0001/acref-9780195300826-e-0868",
+        "title": "Rome (Oxford Reference)",
+        "quote": "Work was begun by Vespasian ( reg ad 69–79) early in his reign on the site of the artificial lake of Nero’s Domus Aurea and continued by his son Titus, who inaugurated the amphitheatre in ad 80."
+      }
+    ]
+  },
+  {
+    "id": "library-02-21",
+    "deck": "library",
+    "topic": "Notable emperors",
+    "q": "In what year did construction of Hadrian's Wall in northern Britain begin?",
+    "a": "122 CE",
+    "accept": [
+      "AD 122",
+      "122 AD",
+      "122"
+    ],
+    "wrong": [
+      "43 CE",
+      "79 CE",
+      "410 CE"
+    ],
+    "explain": "Hadrian visited Britain in 122 CE; the wall ran about 73 miles (80 Roman miles) coast to coast.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Hadrians-Wall",
+        "title": "Hadrian’s Wall | Roman History, England, UK | Britannica",
+        "quote": "Construction began in 122 CE during the reign of Emperor Hadrian and stretched 73 miles (118 km) coast to coast across northern Britain"
+      },
+      {
+        "url": "https://www.english-heritage.org.uk/faqs-hadrians-wall",
+        "title": "Hadrian's Wall facts and FAQs | English Heritage",
+        "quote": "The Romans began to build Hadrian’s Wall in AD 122."
+      }
+    ]
+  },
+  {
+    "id": "library-02-22",
+    "deck": "library",
+    "topic": "Notable emperors",
+    "q": "Which emperor reorganized the Roman Empire into a tetrarchy, a rule shared by four men?",
+    "a": "Diocletian",
+    "accept": [],
+    "wrong": [
+      "Trajan",
+      "Augustus",
+      "Nero"
+    ],
+    "explain": "Diocletian (284-305) shared power with Maximian as co-Augustus and Galerius and Constantius as Caesars.",
+    "hook": "Tetra = four; Diocletian divided it.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Roman-Empire",
+        "title": "Roman Empire | Definition, History, Time Period, Map, & Facts | Britannica",
+        "quote": "His most notable adjustment was the reorganization of the empire into a tetrarchy, wherein power was divided among himself, Maximian (who became Augustus , or emperor, in 286), Constantius (who became Caesar, or hereditary prince, in 293), and Galerius (who also became Caesar in 293)."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+        "title": "The Roman Empire (27 B.C.–393 A.D.) - The Metropolitan Museum of Art",
+        "quote": "He established the Tetrarchy (293 A.D.), naming Maximianus as co-Augustus, and Galerius and Constantius as two subordinate Caesars."
+      }
+    ]
+  },
+  {
+    "id": "library-02-23",
+    "deck": "library",
+    "topic": "Byzantium",
+    "q": "In what year did Constantine inaugurate Constantinople as the empire's new capital?",
+    "a": "330 CE",
+    "accept": [
+      "AD 330",
+      "330 AD",
+      "330"
+    ],
+    "wrong": [
+      "313 CE",
+      "410 CE",
+      "476 CE"
+    ],
+    "explain": "Constantine refounded Byzantium on the Bosporus and renamed it Constantinople (now Istanbul).",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/place/Istanbul/Constantinople",
+        "title": "Istanbul - Crossroads, Bosphorus, Byzantium | Britannica",
+        "quote": "Within three weeks of his victory, the foundation rites of New Rome were performed, and the much-enlarged city was officially inaugurated on May 11, 330."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+        "title": "The Roman Empire (27 B.C.–393 A.D.) - The Metropolitan Museum of Art",
+        "quote": "He then founded a new capital on the Bosporus at Byzantium, which was renamed Constantinople in his honor in 330 A.D."
+      }
+    ]
+  },
+  {
+    "id": "library-02-24",
+    "deck": "library",
+    "topic": "Fall of the West",
+    "q": "Who is commonly known as the last Roman emperor of the West, deposed in 476 CE?",
+    "a": "Romulus Augustulus",
+    "accept": [
+      "Romulus Augustus"
+    ],
+    "wrong": [
+      "Constantine XI",
+      "Nero",
+      "Hadrian"
+    ],
+    "explain": "He was deposed by the Germanic leader Odoacer (also spelled Odovacer), completing the fall of the Western Empire.",
+    "hook": "Romulus started Rome; Romulus Augustulus ended the West.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Roman-Empire",
+        "title": "Roman Empire | Definition, History, Time Period, Map, & Facts | Britannica",
+        "quote": "The fall of Rome was completed in 476, when the German chieftain Odoacer deposed the last Roman emperor of the West, Romulus Augustulus ."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+        "title": "The Roman Empire (27 B.C.–393 A.D.) - The Metropolitan Museum of Art",
+        "quote": "in 476 A.D., the German Odovacer advanced on the city and deposed Romulus Augustulus (r. 475–476 A.D.), commonly known as the last Roman emperor of the West."
+      }
+    ]
+  },
+  {
+    "id": "library-02-25",
+    "deck": "library",
+    "topic": "Byzantium",
+    "q": "Which Byzantine emperor had the Hagia Sophia rebuilt in Constantinople between 532 and 537?",
+    "a": "Justinian I",
+    "accept": [
+      "Justinian"
+    ],
+    "wrong": [
+      "Diocletian",
+      "Hadrian",
+      "Marcus Aurelius"
+    ],
+    "explain": "Justinian ruled 527-565 and is also remembered for the Code of Justinian.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Hagia-Sophia",
+        "title": "Hagia Sophia | Britannica",
+        "quote": "It was built as an Eastern Orthodox church between 532 and 537 ce under the direction of the Byzantine emperor Justinian I ."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/hagia-sophia-532-37",
+        "title": "Hagia Sophia, 532–37 - The Metropolitan Museum of Art",
+        "quote": "Immediately after the riots, Emperor Justinian I (r. 527–65) ordered the church rebuilt. The new building was inaugurated on December 27, 537."
+      }
+    ]
+  },
+  {
+    "id": "library-02-26",
+    "deck": "library",
+    "topic": "Byzantium",
+    "q": "In what year did Constantinople fall to the Ottoman Turks, ending the Byzantine Empire?",
+    "a": "1453",
+    "accept": [
+      "1453 CE",
+      "AD 1453"
+    ],
+    "wrong": [
+      "1066",
+      "1389",
+      "1492"
+    ],
+    "explain": "The Eastern Roman (Byzantine) Empire survived the fall of the West by nearly 1,000 years.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/place/Timeline-of-the-Roman-Empire",
+        "title": "Timeline of the Roman Empire | Britannica",
+        "quote": "1453 ce : Mehmed II takes Constantinople , ending Byzantine rule and expanding the Ottoman Empire ."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+        "title": "The Roman Empire (27 B.C.–393 A.D.) - The Metropolitan Museum of Art",
+        "quote": "The Eastern Roman provinces survived the fall of the Western Roman Empire in 476 A.D., developing into the Byzantine empire , which itself survived until the Ottoman capture of Constantinople in 1453."
+      }
+    ]
+  },
+  {
+    "id": "library-02-27",
+    "deck": "library",
+    "topic": "Byzantium",
+    "q": "Which Ottoman sultan captured Constantinople in 1453?",
+    "a": "Mehmed II",
+    "accept": [
+      "Mehmed the Conqueror",
+      "Mehmet II"
+    ],
+    "wrong": [
+      "Suleiman I",
+      "Osman I",
+      "Selim I"
+    ],
+    "explain": "The final assault came on May 29, 1453; the last Byzantine emperor, Constantine XI, was killed in battle.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/place/Timeline-of-the-Roman-Empire",
+        "title": "Timeline of the Roman Empire | Britannica",
+        "quote": "1453 ce : Mehmed II takes Constantinople , ending Byzantine rule and expanding the Ottoman Empire ."
+      },
+      {
+        "url": "https://www.britannica.com/place/Istanbul/Constantinople",
+        "title": "Istanbul - Crossroads, Bosphorus, Byzantium | Britannica",
+        "quote": "In 1452 another Ottoman sultan, Mehmed II , proceeded to blockade the Bosporus by the erection of a strong fortress at its narrowest point"
+      }
+    ]
+  }
+]

@@ -1,0 +1,808 @@
+[
+  {
+    "id": "philo-01-01",
+    "deck": "library",
+    "topic": "Zeno of Citium",
+    "q": "Who founded the Stoic school of philosophy?",
+    "a": "Zeno of Citium",
+    "accept": [
+      "Zeno"
+    ],
+    "wrong": [
+      "Epicurus",
+      "Diogenes of Sinope",
+      "Pythagoras"
+    ],
+    "explain": "Zeno of Citium founded the Stoic school in Athens around 300 BCE.",
+    "hook": "Stoicism starts at Z-for-Zero: Zeno.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Stoicism",
+        "title": "Stoicism | Britannica",
+        "quote": "Stoicism is a school of Hellenistic philosophy founded by Zeno of Citium in Athens."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "The Stoic school was founded around 300 BCE by Zeno of Citium, a voracious reader of Socratic dialogues, who also studied under the Cynic Crates"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-02",
+    "deck": "library",
+    "topic": "Stoa Poikile",
+    "q": "The Stoics take their name from the Stoa Poikile; what does that name mean in English?",
+    "a": "Painted Porch",
+    "accept": [
+      "painted colonnade",
+      "painted stoa"
+    ],
+    "wrong": [
+      "Marble Hall",
+      "Sacred Grove",
+      "Covered Market"
+    ],
+    "explain": "Zeno taught in the Stoa Poikile (Painted Colonnade or painted porch) in Athens, which gave the school its name.",
+    "hook": "Stoa = porch; Poikile = painted.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Zeno-of-Citium",
+        "title": "Zeno of Citium | Britannica",
+        "quote": "Arriving at his own philosophy, he began to teach in the Stoa Poikile (Painted Colonnade), whence the name of his philosophy."
+      },
+      {
+        "url": "https://iep.utm.edu/stoicism/",
+        "title": "Stoicism | Internet Encyclopedia of Philosophy",
+        "quote": "The name comes from the Stoa Poikile, or painted porch, an open market in Athens where the original Stoics used to meet and teach philosophy."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-03",
+    "deck": "library",
+    "topic": "Zeno of Citium",
+    "q": "Around what date was the Stoic school founded?",
+    "a": "c. 300 BCE",
+    "accept": [
+      "300 BCE",
+      "300 BC",
+      "around 300 BC",
+      "c. 300 BC"
+    ],
+    "wrong": [
+      "c. 500 BCE",
+      "c. 50 BCE",
+      "c. 100 CE"
+    ],
+    "explain": "Zeno founded the Stoa in Athens around 300 BCE, shortly after Epicurus founded his school there.",
+    "hook": "Round number for a round porch: 300 BCE.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Stoicism",
+        "title": "Stoicism | Britannica",
+        "quote": "The Stoic school of philosophy was founded by Zeno of Citium around 300 BCE."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "The Stoic school was founded around 300 BCE by Zeno of Citium"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-04",
+    "deck": "library",
+    "topic": "Cleanthes",
+    "q": "Who succeeded Zeno of Citium as head of the Stoic school?",
+    "a": "Cleanthes",
+    "accept": [
+      "Cleanthes of Assos"
+    ],
+    "wrong": [
+      "Epicurus",
+      "Aristotle",
+      "Plato"
+    ],
+    "explain": "Cleanthes of Assos headed the Stoa after Zeno's death, and was in turn succeeded by Chrysippus.",
+    "hook": "Order of heads: Z, C, C (Zeno, Cleanthes, Chrysippus).",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Cleanthes",
+        "title": "Cleanthes | Britannica",
+        "quote": "Cleanthes (born 331/330 bc, Assos in the Troad, Asia Minor—died 232/231) was a Stoic philosopher who became head of the Stoic school (263–232 bc) after the death of Zeno of Citium."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "Zeno was succeeded in the leadership of the Stoa first by Cleanthes of Assos and then by Chrysippus of Soli"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-05",
+    "deck": "library",
+    "topic": "Cleanthes",
+    "q": "Which Stoic added 'with nature' to Zeno's formula for the goal of life, 'living in agreement'?",
+    "a": "Cleanthes",
+    "accept": [
+      "Cleanthes of Assos"
+    ],
+    "wrong": [
+      "Seneca",
+      "Epictetus",
+      "Marcus Aurelius"
+    ],
+    "explain": "Zeno defined the end as 'living in agreement'; his first successor Cleanthes made it 'living in agreement with nature'.",
+    "hook": "Cleanthes cleaned up the formula: add nature.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "Cleanthes, [Zeno’s] first successor, added ‘with nature’, and represented it as follows: ‘the end is living in agreement with nature’."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/marcus-aurelius/",
+        "title": "Marcus Aurelius (Stanford Encyclopedia of Philosophy)",
+        "quote": "After Zeno, founder of the Stoa, lays down the goal (telos) as ‘living in agreement’, Cleanthes specifies ‘living in agreement with nature’"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-06",
+    "deck": "library",
+    "topic": "Chrysippus",
+    "q": "Which third head of the Stoa is regarded as the principal systematizer of Stoic philosophy?",
+    "a": "Chrysippus",
+    "accept": [
+      "Chrysippus of Soli"
+    ],
+    "wrong": [
+      "Socrates",
+      "Plato",
+      "Epicurus"
+    ],
+    "explain": "Chrysippus of Soli succeeded Cleanthes and is described as the Stoa's foremost theorist and systematizer.",
+    "hook": "Chrysippus = the 'system' guy.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Chrysippus",
+        "title": "Chrysippus | Britannica",
+        "quote": "Chrysippus (born c. 280 bc—died c. 206) was a Greek philosopher from Soli (Soloi) who was the principal systematizer of Stoic philosophy."
+      },
+      {
+        "url": "https://iep.utm.edu/epictetu/",
+        "title": "Epictetus | Internet Encyclopedia of Philosophy",
+        "quote": "of Chrysippus (c.290–207 B.C.E.) the extremely influential third head of the Stoa"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-07",
+    "deck": "library",
+    "topic": "Chrysippus",
+    "q": "Chrysippus came from which city?",
+    "a": "Soli",
+    "accept": [
+      "Soloi"
+    ],
+    "wrong": [
+      "Athens",
+      "Rome",
+      "Sparta"
+    ],
+    "explain": "He is known as Chrysippus of Soli and headed the Stoa from around 230 until 206 BCE.",
+    "hook": "Chrysippus stood solo at the top: Soli.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Chrysippus",
+        "title": "Chrysippus | Britannica",
+        "quote": "Chrysippus (born c. 280 bc—died c. 206) was a Greek philosopher from Soli (Soloi)"
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "then by Chrysippus of Soli, who headed the school from around 230 until 206 BCE and was by all accounts its foremost theorist and systematizer."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-08",
+    "deck": "library",
+    "topic": "Seneca",
+    "q": "Seneca served as tutor and adviser to which Roman emperor?",
+    "a": "Nero",
+    "accept": [],
+    "wrong": [
+      "Augustus",
+      "Hadrian",
+      "Trajan"
+    ],
+    "explain": "Seneca became tutor to the future emperor Nero and was highly influential in the early years of Nero's reign.",
+    "hook": "Seneca and Nero: the tutor and the tyrant.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Lucius-Annaeus-Seneca-Roman-philosopher-and-statesman",
+        "title": "Seneca | Britannica",
+        "quote": "As Nero’s tutor, Seneca had considerable political influence in the early years of that emperor’s reign."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "a generation later Seneca served as advisor to Nero."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-09",
+    "deck": "library",
+    "topic": "Seneca",
+    "q": "To which friend did Seneca address his Moral Letters?",
+    "a": "Lucilius",
+    "accept": [],
+    "wrong": [
+      "Julius Caesar",
+      "Brutus",
+      "Nero"
+    ],
+    "explain": "Seneca's Moral Letters to Lucilius (Epistulae morales) discuss a wide range of moral problems.",
+    "hook": "Letters to Lucilius: L for Letters, L for Lucilius.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Lucius-Annaeus-Seneca-Roman-philosopher-and-statesman",
+        "title": "Seneca | Britannica",
+        "quote": "Seneca wrote Stoic philosophical treatises, such as the Moral Letters to Lucilius, a series of essays which discuss a range of moral problems."
+      },
+      {
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/L/bo20612233.html",
+        "title": "Letters on Ethics: To Lucilius (University of Chicago Press)",
+        "quote": "Letters on Ethics includes vivid descriptions of town and country life in Nero’s Italy, discussions of poetry and oratory, and philosophical training for Seneca’s friend Lucilius."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-10",
+    "deck": "library",
+    "topic": "Seneca",
+    "q": "How many letters make up Seneca's Moral Letters to Lucilius?",
+    "a": "124",
+    "accept": [
+      "one hundred twenty-four"
+    ],
+    "wrong": [
+      "12",
+      "52",
+      "365"
+    ],
+    "explain": "The Moral Letters to Lucilius comprise 124 letters treating a range of moral problems.",
+    "hook": "Think 1-2-4 letters to Lucilius.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Moral-Letters-to-Lucilius",
+        "title": "Moral Letters to Lucilius | Britannica",
+        "quote": "Ad Lucilium epistulae morales ( Moral Letters to Lucilius ). Those 124 brilliant essays treat a range of moral problems not easily reduced to a single formula."
+      },
+      {
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/L/bo20612233.html",
+        "title": "Letters on Ethics: To Lucilius (University of Chicago Press)",
+        "quote": "123      Resisting external influences 124      The criterion for the human good Fragments of other letters"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-11",
+    "deck": "library",
+    "topic": "Seneca",
+    "q": "In what year did Seneca die?",
+    "a": "65 CE",
+    "accept": [
+      "65",
+      "AD 65",
+      "65 AD"
+    ],
+    "wrong": [
+      "14 CE",
+      "117 CE",
+      "180 CE"
+    ],
+    "explain": "In 65 CE Seneca was accused of involvement in a conspiracy to murder Nero and was ordered to commit suicide.",
+    "hook": "Seneca: sixty-five.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Lucius-Annaeus-Seneca-Roman-philosopher-and-statesman",
+        "title": "Seneca | Britannica",
+        "quote": "In 65 Seneca’s enemies denounced him as having been a party to a conspiracy to murder Nero, and he was ordered to commit suicide."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/seneca/",
+        "title": "Seneca (Stanford Encyclopedia of Philosophy)",
+        "quote": "Lucius Annaeus Seneca (c. 1 BCE – CE 65) was born in Corduba (Spain) and educated—in rhetoric and philosophy—in Rome."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-12",
+    "deck": "library",
+    "topic": "Epictetus",
+    "q": "What was Epictetus's legal status as a boy?",
+    "a": "Slave",
+    "accept": [
+      "a slave",
+      "enslaved"
+    ],
+    "wrong": [
+      "Senator",
+      "Soldier",
+      "Emperor"
+    ],
+    "explain": "Epictetus was a slave as a boy, attended lectures by the Stoic Musonius Rufus, and later became a freedman.",
+    "hook": "From chains to the most famous lessons on freedom.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+        "title": "Epictetus | Britannica",
+        "quote": "As a boy he was a slave but managed to attend lectures by the Stoic Musonius Rufus. He later became a freedman"
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "Epictetus, a former slave, was expelled from Rome by Domitian along with other"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-13",
+    "deck": "library",
+    "topic": "Epictetus",
+    "q": "Which pupil wrote down the teachings of Epictetus?",
+    "a": "Arrian",
+    "accept": [],
+    "wrong": [
+      "Plutarch",
+      "Cicero",
+      "Tacitus"
+    ],
+    "explain": "Epictetus wrote nothing himself; his pupil Arrian transmitted his teachings in the Discourses and the Encheiridion.",
+    "hook": "Arrian arranged Epictetus's words.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+        "title": "Epictetus | Britannica",
+        "quote": "As far as is known, Epictetus wrote nothing. His teachings were transmitted by Arrian, his pupil, in two works: Discourses, of which four books are extant; and the Encheiridion, or Manual, a condensed aphoristic version of the main doctrines."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/marcus-aurelius/",
+        "title": "Marcus Aurelius (Stanford Encyclopedia of Philosophy)",
+        "quote": "Arrian, who wrote down Epictetus’ teachings, named them hupomnêmata"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-14",
+    "deck": "library",
+    "topic": "Epictetus",
+    "q": "What is the Greek name of Epictetus's short 'Manual' or 'Handbook'?",
+    "a": "Enchiridion",
+    "accept": [
+      "Encheiridion",
+      "Enchiridion of Epictetus"
+    ],
+    "wrong": [
+      "Republic",
+      "Meditations",
+      "Organon"
+    ],
+    "explain": "The Encheiridion, or Manual, is a condensed aphoristic version of Epictetus's main doctrines, compiled by Arrian.",
+    "hook": "Enchiridion: a handbook small enough to keep 'in hand'.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+        "title": "Epictetus | Britannica",
+        "quote": "the Encheiridion, or Manual, a condensed aphoristic version of the main doctrines."
+      },
+      {
+        "url": "http://classics.mit.edu/Epictetus/epicench.html",
+        "title": "The Internet Classics Archive | The Enchiridion by Epictetus",
+        "quote": "The Enchiridion By Epictetus ... Translated by Elizabeth Carter"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-15",
+    "deck": "library",
+    "topic": "Epictetus",
+    "q": "In which Greek city did Epictetus run his own school after leaving Rome?",
+    "a": "Nicopolis",
+    "accept": [
+      "Nikopolis"
+    ],
+    "wrong": [
+      "Sparta",
+      "Alexandria",
+      "Carthage"
+    ],
+    "explain": "After his expulsion from Rome, Epictetus spent the rest of his life teaching at Nicopolis in Epirus, Greece.",
+    "hook": "Nicopolis: a 'nice city' for a school.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+        "title": "Epictetus | Britannica",
+        "quote": "The rest of his life Epictetus spent at Nicopolis."
+      },
+      {
+        "url": "https://iep.utm.edu/epictetu/",
+        "title": "Epictetus | Internet Encyclopedia of Philosophy",
+        "quote": "He lived and worked, first as a student in Rome, and then as a teacher with his own school in Nicopolis in Greece."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-16",
+    "deck": "library",
+    "topic": "Epictetus",
+    "q": "Which Roman emperor expelled Epictetus and other philosophers from Rome?",
+    "a": "Domitian",
+    "accept": [],
+    "wrong": [
+      "Augustus",
+      "Hadrian",
+      "Marcus Aurelius"
+    ],
+    "explain": "In AD 90 Domitian expelled philosophers from Rome, irritated by Stoic sympathy for opponents of his tyranny.",
+    "hook": "Domitian dominated, so the philosophers departed.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+        "title": "Epictetus | Britannica",
+        "quote": "In ad 90 he was expelled from Rome with other philosophers by the emperor Domitian, who was irritated by the favourable reception given by Stoics to opponents of his tyranny."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "Epictetus, a former slave, was expelled from Rome by Domitian along with other"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-17",
+    "deck": "library",
+    "topic": "Dichotomy of control",
+    "q": "In Elizabeth Carter's translation, the Enchiridion opens: 'Some things are in our ___ and others not.' What is the missing word?",
+    "a": "control",
+    "accept": [],
+    "wrong": [
+      "past",
+      "dreams",
+      "favor"
+    ],
+    "explain": "This opening line is Epictetus's famous dichotomy of control: opinion, desire and aversion are in our control; body, property and reputation are not.",
+    "hook": "Dichotomy of control: two piles, one word.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "http://classics.mit.edu/Epictetus/epicench.html",
+        "title": "The Internet Classics Archive | The Enchiridion by Epictetus",
+        "quote": "1. Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions."
+      },
+      {
+        "url": "https://iep.utm.edu/stoicism/",
+        "title": "Stoicism | Internet Encyclopedia of Philosophy",
+        "quote": "The starting point for Epictetus was the famous dichotomy of control, as expressed at the very beginning of the Enchiridion"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-18",
+    "deck": "library",
+    "topic": "Epictetus quotes",
+    "q": "Who wrote or taught: 'Men are disturbed, not by things, but by the principles and notions which they form concerning things'?",
+    "a": "Epictetus",
+    "accept": [],
+    "wrong": [
+      "Epicurus",
+      "Aristotle",
+      "Plato"
+    ],
+    "explain": "This is section 5 of Epictetus's Enchiridion (Handbook), in Elizabeth Carter's translation.",
+    "hook": "It's not the thing, it's your take on the thing: Epictetus.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "http://classics.mit.edu/Epictetus/epicench.html",
+        "title": "The Internet Classics Archive | The Enchiridion by Epictetus",
+        "quote": "5. Men are disturbed, not by things, but by the principles and notions which they form concerning things."
+      },
+      {
+        "url": "https://iep.utm.edu/marcus/",
+        "title": "Aurelius, Marcus | Internet Encyclopedia of Philosophy",
+        "quote": "As Epictetus put it, what upsets people are not things themselves but rather their judgements about things (see Handbook 5)."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-19",
+    "deck": "library",
+    "topic": "Marcus Aurelius",
+    "q": "Which Roman emperor wrote the Meditations?",
+    "a": "Marcus Aurelius",
+    "accept": [
+      "Marcus"
+    ],
+    "wrong": [
+      "Seneca",
+      "Hadrian",
+      "Augustus"
+    ],
+    "explain": "The Meditations are Marcus Aurelius's Stoic reflections, probably written while on military campaign.",
+    "hook": "Emperor by day, journaler by night.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Marcus-Aurelius-Roman-emperor",
+        "title": "Marcus Aurelius | Britannica",
+        "quote": "Marcus Aurelius ... was a Roman emperor (161–180), best known for his Meditations on Stoic philosophy."
+      },
+      {
+        "url": "https://iep.utm.edu/marcus/",
+        "title": "Aurelius, Marcus | Internet Encyclopedia of Philosophy",
+        "quote": "The philosophy of the Roman Emperor Marcus Aurelius can be found in a collection of personal writings known as the Meditations."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-20",
+    "deck": "library",
+    "topic": "Meditations",
+    "q": "In what language did Marcus Aurelius write the Meditations?",
+    "a": "Greek",
+    "accept": [
+      "Ancient Greek"
+    ],
+    "wrong": [
+      "Latin",
+      "Aramaic",
+      "Hebrew"
+    ],
+    "explain": "Though written by a Roman emperor, the Meditations were written in ancient Greek; the Greek manuscript title is ta eis heauton.",
+    "hook": "A Roman thinking in Greek.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Meditations-by-Marcus-Aurelius",
+        "title": "Meditations | Britannica",
+        "quote": "Strikingly, though they comprise the innermost thoughts of a Roman, the Meditations were written in ancient Greek—to such an extent had the union of cultures become a reality."
+      },
+      {
+        "url": "https://iep.utm.edu/marcus-aurelius",
+        "title": "Aurelius, Marcus | Internet Encyclopedia of Philosophy",
+        "quote": "The current Greek title— ta eis heauton (‘to himself’)—derives from a manuscript now lost and may be a later addition"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-21",
+    "deck": "library",
+    "topic": "Meditations",
+    "q": "What does the Greek manuscript title of Marcus Aurelius's Meditations, ta eis heauton, mean?",
+    "a": "To Himself",
+    "accept": [
+      "to himself",
+      "things to himself"
+    ],
+    "wrong": [
+      "To the Romans",
+      "On the Gods",
+      "To My Son"
+    ],
+    "explain": "The title Meditations is modern; the manuscripts carry ta eis heauton, 'to himself', which may not go back to Marcus himself.",
+    "hook": "A diary addressed to its own author.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://iep.utm.edu/marcus-aurelius",
+        "title": "Aurelius, Marcus | Internet Encyclopedia of Philosophy",
+        "quote": "The current Greek title— ta eis heauton (‘to himself’)—derives from a manuscript now lost and may be a later addition (it is first recorded c. 900 by Arethas)."
+      },
+      {
+        "url": "https://academic.oup.com/edited-volume/61673/chapter/548202858",
+        "title": "Aurelius, Marcus, Meditations | Oxford Classical Dictionary",
+        "quote": "The title Meditations is purely modern: τά εἰς ἑαυτὸν (‘to himself’), found in our MSS, may not go back to the author, but is surely accurate."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-22",
+    "deck": "library",
+    "topic": "Virtue as the only good",
+    "q": "According to the Stoics, what is the only true good?",
+    "a": "Virtue",
+    "accept": [
+      "arete"
+    ],
+    "wrong": [
+      "Wealth",
+      "Pleasure",
+      "Health"
+    ],
+    "explain": "Stoics held that virtue is the only good, while things like wealth, health, and even life are indifferent.",
+    "hook": "Only virtue is on the scoreboard.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Stoicism",
+        "title": "Stoicism | Britannica",
+        "quote": "Stoics believe that virtue is the only true good, and external factors like wealth, health, or life itself are indifferent."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "This sketch of Stoic eudaimonism allows us to better appreciate two of their most contentious ethical doctrines: (1) human happiness is fully in our power and (2) virtue is the only good."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-23",
+    "deck": "library",
+    "topic": "Cardinal virtues",
+    "q": "The four cardinal virtues are wisdom, courage, justice and what?",
+    "a": "Temperance",
+    "accept": [
+      "moderation",
+      "self-control",
+      "sophrosyne"
+    ],
+    "wrong": [
+      "Faith",
+      "Hope",
+      "Charity"
+    ],
+    "explain": "The Stoics recognized the four cardinal virtues of wisdom, courage, justice and temperance (moderation).",
+    "hook": "W-C-J-T: Wise Courageous Just Temperate.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://iep.utm.edu/stoicism/",
+        "title": "Stoicism | Internet Encyclopedia of Philosophy",
+        "quote": "the four cardinal virtues of wisdom, courage, justice and temperance, are the only good."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "The virtues – prudence, justice, courage, moderation and the rest – are good."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-24",
+    "deck": "library",
+    "topic": "Indifferents",
+    "q": "What did the Stoics call things such as health, wealth and reputation that are neither good nor bad?",
+    "a": "Indifferents",
+    "accept": [
+      "indifferent",
+      "adiaphora",
+      "preferred indifferents"
+    ],
+    "wrong": [
+      "Vices",
+      "Passions",
+      "Virtues"
+    ],
+    "explain": "Things that neither benefit nor harm, like life, health and wealth, are indifferents; some are 'preferred' and may be pursued unless they compromise virtue.",
+    "hook": "Nice to have, not needed to be good: indifferent.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "Everything which neither does benefit nor harms is neither of these: for instance, life, health, pleasure, beauty, strength, wealth, reputation, noble birth"
+      },
+      {
+        "url": "https://iep.utm.edu/stoicism/",
+        "title": "Stoicism | Internet Encyclopedia of Philosophy",
+        "quote": "Proēgmena = preferred indifferents, externals, outside of virtue that—other things being equal—can be pursued unless they compromise one’s virtue."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-25",
+    "deck": "library",
+    "topic": "Amor fati",
+    "q": "What does the Latin phrase 'amor fati' mean?",
+    "a": "Love of fate",
+    "accept": [
+      "love of one's fate",
+      "love fate"
+    ],
+    "wrong": [
+      "Fear of death",
+      "Love of wisdom",
+      "Seize the day"
+    ],
+    "explain": "Amor fati means love of fate: the welcoming of all life's experiences as good.",
+    "hook": "Amor = love, fati = fate.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/amor%20fati",
+        "title": "AMOR FATI Definition & Meaning - Merriam-Webster",
+        "quote": ": love of fate : the welcoming of all life's experiences as good"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-26",
+    "deck": "library",
+    "topic": "Memento mori",
+    "q": "What does the Latin phrase 'memento mori' literally mean?",
+    "a": "Remember you must die",
+    "accept": [
+      "remember that you must die",
+      "remember you will die",
+      "remember death"
+    ],
+    "wrong": [
+      "Seize the day",
+      "Know thyself",
+      "Love your fate"
+    ],
+    "explain": "Memento mori is Latin for 'remember that you must die'; in English it names a reminder of mortality.",
+    "hook": "Memento = remember; mori = to die.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/memento%20mori",
+        "title": "MEMENTO MORI Definition & Meaning - Merriam-Webster",
+        "quote": "Memento mori literally means \"Remember you must die\"."
+      }
+    ]
+  },
+  {
+    "id": "philo-01-27",
+    "deck": "library",
+    "topic": "Premeditatio malorum",
+    "q": "In the practice Cicero called praemeditatio futurorum malorum, what does one rehearse in advance?",
+    "a": "Future evils",
+    "accept": [
+      "future misfortunes",
+      "future bad things",
+      "future hardships"
+    ],
+    "wrong": [
+      "Past pleasures",
+      "Present joys",
+      "Future rewards"
+    ],
+    "explain": "Praemeditatio futurorum malorum is the pre-rehearsal of future evils to soften their arrival; Cicero reports it from the Cyrenaics, and the Roman Stoics adopted it.",
+    "hook": "Pre-meditate the bad so it can't ambush you.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10222963/1/CagnoliFiecconiAppropriate.pdf",
+        "title": "Appropriate Beliefs or Surrogate Satisfaction? Ancient Greek and Roman Perspectives on Imagining Future Evils (UCL)",
+        "quote": "For this reason, they recommended the practice of imaginative pre-rehearsal of future evils (praemeditatio futurorum malorum)."
+      },
+      {
+        "url": "https://bmcr.brynmawr.edu/2015/2015.09.54",
+        "title": "Seneca philosophus - Bryn Mawr Classical Review",
+        "quote": "They propose the “premeditation of future evils” ( praemeditatio futurorum malorum ) to alert us to our daily problems and the principles with which to address them."
+      }
+    ]
+  }
+]

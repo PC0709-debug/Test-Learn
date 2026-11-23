@@ -1,0 +1,863 @@
+[
+ {
+  "id": "floor-03-01",
+  "deck": "floor",
+  "topic": "CPI vs PCE",
+  "q": "Which U.S. agency publishes the Consumer Price Index (CPI)?",
+  "a": "BLS",
+  "accept": [
+   "Bureau of Labor Statistics",
+   "U.S. Bureau of Labor Statistics",
+   "the BLS"
+  ],
+  "wrong": [
+   "BEA",
+   "Census Bureau",
+   "Federal Reserve"
+  ],
+  "explain": "The CPI is produced by the Bureau of Labor Statistics and measures the average change over time in prices paid by consumers for a basket of goods and services.",
+  "hook": "CPI comes from the Labor folks: BLS.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/cpi/questions-and-answers.htm",
+    "title": "Consumer Price Index Frequently Asked Questions : U.S. Bureau of Labor Statistics",
+    "quote": "The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by consumers for a representative basket of consumer goods and services."
+   },
+   {
+    "url": "http://bea.gov/resources/learning-center/what-to-know-prices-inflation",
+    "title": "Prices & Inflation | U.S. Bureau of Economic Analysis (BEA)",
+    "quote": "It's similar to the Bureau of Labor Statistics' consumer price index for urban consumers."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-02",
+  "deck": "floor",
+  "topic": "CPI vs PCE",
+  "q": "Which U.S. agency publishes the personal consumption expenditures (PCE) price index?",
+  "a": "BEA",
+  "accept": [
+   "Bureau of Economic Analysis",
+   "U.S. Bureau of Economic Analysis",
+   "the BEA"
+  ],
+  "wrong": [
+   "BLS",
+   "Census Bureau",
+   "Federal Reserve"
+  ],
+  "explain": "The PCE price index is a BEA measure; it is released monthly in the Personal Income and Outlays report, with quarterly and annual data in the GDP release.",
+  "hook": "PCE and GDP both come from the Economic Analysis shop: BEA.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "http://bea.gov/resources/learning-center/what-to-know-prices-inflation",
+    "title": "Prices & Inflation | U.S. Bureau of Economic Analysis (BEA)",
+    "quote": "BEA's closely followed personal consumption expenditures price index , or PCE price index, is a narrower measure. It looks at the changing prices of goods and services purchased by consumers in the United States."
+   },
+   {
+    "url": "http://www.bea.gov/data/personal-consumption-expenditures-price-index",
+    "title": "Personal Consumption Expenditures Price Index | U.S. Bureau of Economic Analysis (BEA)",
+    "quote": "The PCE price index, released each month in the Personal Income and Outlays report, reflects changes in the prices of goods and services purchased by consumers in the United States. Quarterly and annual data are included in the GDP release."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-03",
+  "deck": "floor",
+  "topic": "Core vs headline inflation",
+  "q": "Which two categories are excluded from a price index to get core CPI or core PCE inflation?",
+  "a": "Food and energy",
+  "accept": [
+   "energy and food",
+   "food & energy",
+   "food, energy"
+  ],
+  "wrong": [
+   "Housing and medical care",
+   "Apparel and transportation",
+   "Shelter and used cars"
+  ],
+  "explain": "Core measures exclude food and energy because their prices are volatile; BLS publishes 'all items less food and energy' and BEA publishes the PCE price index excluding food and energy.",
+  "hook": "Core strips out what you eat and what you burn.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "http://www.bea.gov/help/faq/518",
+    "title": "What is the Core PCE price index? | U.S. Bureau of Economic Analysis (BEA)",
+    "quote": "The \"core\" PCE price index is defined as personal consumption expenditures (PCE) prices excluding food and energy prices."
+   },
+   {
+    "url": "https://www.bls.gov/opub/hom/cpi/concepts.htm",
+    "title": "Concepts : U.S. Bureau of Labor Statistics",
+    "quote": "The CPI for all items less food and energy gets considerable attention as a measure of underlying core inflation, which is not subject to the volatile movements of food and energy prices."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-04",
+  "deck": "floor",
+  "topic": "CPI vs PCE",
+  "q": "Which price index does the Federal Reserve use to define its longer-run inflation goal?",
+  "a": "PCE price index",
+  "accept": [
+   "PCE",
+   "personal consumption expenditures price index",
+   "PCE index"
+  ],
+  "wrong": [
+   "CPI",
+   "PPI",
+   "GDP deflator"
+  ],
+  "explain": "The FOMC's goal is stated in terms of the annual change in the price index for personal consumption expenditures; the Fed notes PCE more quickly adapts to changes in spending patterns than CPI.",
+  "hook": "The Fed's target lives in BEA's index, not BLS's.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.federalreserve.gov/economy-at-a-glance-inflation-pce.htm",
+    "title": "The Fed - Inflation (PCE)",
+    "quote": "The Federal Reserve seeks to achieve inflation at the rate of 2 percent over the longer run as measured by the annual change in the price index for personal consumption expenditures (PCE)."
+   },
+   {
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf",
+    "title": "Statement on Longer-Run Goals and Monetary Policy Strategy",
+    "quote": "The Committee reaffirms its judgment that inflation at the rate of 2 percent, as measured by the annual change in the price index for personal consumption expenditures, is most consistent over the longer run with the Federal Reserve's statutory maximum employment and price stability mandates."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-05",
+  "deck": "floor",
+  "topic": "CPI vs PCE",
+  "q": "What annual inflation rate does the FOMC judge most consistent with its mandate over the longer run?",
+  "a": "2%",
+  "accept": [
+   "2 percent",
+   "two percent",
+   "2"
+  ],
+  "wrong": [
+   "1%",
+   "3%",
+   "4%"
+  ],
+  "explain": "The FOMC first stated the 2 percent goal in January 2012 and reaffirms it in its Statement on Longer-Run Goals and Monetary Policy Strategy.",
+  "hook": "Two percent, measured by PCE.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf",
+    "title": "Statement on Longer-Run Goals and Monetary Policy Strategy",
+    "quote": "The Committee reaffirms its judgment that inflation at the rate of 2 percent, as measured by the annual change in the price index for personal consumption expenditures, is most consistent over the longer run with the Federal Reserve's statutory maximum employment and price stability mandates."
+   },
+   {
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125c.htm",
+    "title": "Federal Reserve Board - Federal Reserve issues FOMC statement of longer-run goals and policy strategy",
+    "quote": "The Committee judges that inflation at the rate of 2 percent, as measured by the annual change in the price index for personal consumption expenditures, is most consistent over the longer run with the Federal Reserve's statutory mandate."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-06",
+  "deck": "floor",
+  "topic": "CPI vs PCE",
+  "q": "In the headline CPI-U, what does the 'U' population stand for?",
+  "a": "All Urban Consumers",
+  "accept": [
+   "all urban consumers",
+   "urban consumers",
+   "urban"
+  ],
+  "wrong": [
+   "Urban Wage Earners and Clerical Workers",
+   "Unadjusted",
+   "United States residents"
+  ],
+  "explain": "The broadest CPI is the All Items CPI for All Urban Consumers (CPI-U); the CPI-W covers Urban Wage Earners and Clerical Workers, a subset of the CPI-U population.",
+  "hook": "U = Urban, all of it; W = Wage earners.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/cpi/questions-and-answers.htm",
+    "title": "Consumer Price Index Frequently Asked Questions : U.S. Bureau of Labor Statistics",
+    "quote": "The broadest and most comprehensive CPI is called the All Items Consumer Price Index for All Urban Consumers (CPI-U) for the U.S. City Average, 1982-84=100."
+   },
+   {
+    "url": "https://www.bls.gov/cpi/technical-notes",
+    "title": "CPI News Release Technical Note : U.S. Bureau of Labor Statistics",
+    "quote": "Consumer inflation for all urban consumers is measured by two indexes, namely, the Consumer Price Index for All Urban Consumers (CPI-U) and the Chained Consumer Price Index for All Urban Consumers (C-CPI-U)."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-07",
+  "deck": "floor",
+  "topic": "CPI vs PCE",
+  "q": "Roughly what share of the U.S. population does the CPI-U population represent?",
+  "a": "Over 90%",
+  "accept": [
+   "over 90 percent",
+   "more than 90%",
+   "90%+",
+   ">90%",
+   "over 90"
+  ],
+  "wrong": [
+   "About 30%",
+   "About 50%",
+   "About 70%"
+  ],
+  "explain": "BLS says the all urban consumer group represents over 90 percent of the U.S. population; the narrower CPI-W population is about 30 percent.",
+  "hook": "CPI-U is the 90-percent club; CPI-W is about a third of that.",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/cpi/technical-notes",
+    "title": "CPI News Release Technical Note : U.S. Bureau of Labor Statistics",
+    "quote": "The all urban consumer group represents over 90 percent of the total U.S. population."
+   },
+   {
+    "url": "https://www.bls.gov/opub/hom/cpi/concepts.htm",
+    "title": "Concepts : U.S. Bureau of Labor Statistics",
+    "quote": "The CPI for all urban consumers (CPI-U) is the broadest measure and is the most widely used CPI. It is based on the expenditure patterns of a sample of urban consumers representing over 90 percent of the population."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-08",
+  "deck": "floor",
+  "topic": "GDP",
+  "q": "Which U.S. agency publishes the official GDP estimates?",
+  "a": "BEA",
+  "accept": [
+   "Bureau of Economic Analysis",
+   "U.S. Bureau of Economic Analysis",
+   "the BEA"
+  ],
+  "wrong": [
+   "BLS",
+   "Federal Reserve",
+   "Treasury"
+  ],
+  "explain": "Quarterly GDP estimates are released by the U.S. Bureau of Economic Analysis.",
+  "hook": "Economic Analysis = economy-wide output.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+    "title": "Gross Domestic Product | U.S. Bureau of Economic Analysis (BEA)",
+    "quote": "Real gross domestic product (GDP) increased at an annual rate of 3.4 percent in the third quarter of 2026 (July, August, and September), according to the advance estimate released today by the U.S. Bureau of Economic Analysis (BEA)."
+   },
+   {
+    "url": "https://www.bea.gov/help/glossary/gross-domestic-product-gdp",
+    "title": "Gross domestic product (GDP) | U.S. Bureau of Economic Analysis (BEA)",
+    "quote": "Gross domestic product (GDP) measures the value of final goods and services produced within the United States."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-09",
+  "deck": "floor",
+  "topic": "GDP components",
+  "q": "In GDP = C + I + G + NX, net exports (NX) equals exports minus what?",
+  "a": "Imports",
+  "accept": [
+   "imports of goods and services",
+   "imports"
+  ],
+  "wrong": [
+   "Tariffs",
+   "Government spending",
+   "Foreign investment"
+  ],
+  "explain": "BEA defines net exports as U.S. exports of goods and services less U.S. imports of goods and services; imports are a subtraction in the calculation of GDP.",
+  "hook": "Out minus in.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.bea.gov/resources/methodologies/nipa-handbook/pdf/chapter-08.pdf",
+    "title": "NIPA Handbook Chapter 8: Net Exports of Goods and Services",
+    "quote": "Net exports of goods and services is the difference between U.S. exports of goods and services and U.S. imports of goods and services."
+   },
+   {
+    "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+    "title": "Gross Domestic Product | U.S. Bureau of Economic Analysis (BEA)",
+    "quote": "Imports, which are a subtraction in the calculation of GDP, increased."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-10",
+  "deck": "floor",
+  "topic": "GDP components",
+  "q": "In BEA's terms, what does the 'G' in GDP = C + I + G + NX stand for?",
+  "a": "Government consumption expenditures and gross investment",
+  "accept": [
+   "government spending",
+   "government consumption and gross investment",
+   "government consumption expenditures and gross investment"
+  ],
+  "wrong": [
+   "Gross private domestic investment",
+   "Gross national product",
+   "Government transfer payments"
+  ],
+  "explain": "BEA states GDP equals personal consumption expenditures, gross private domestic investment, net exports, and government consumption expenditures and gross investment.",
+  "hook": "G = what governments buy and build, not what they transfer.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.bea.gov/help/glossary/gross-domestic-product-gdp",
+    "title": "Gross domestic product (GDP) | U.S. Bureau of Economic Analysis (BEA)",
+    "quote": "GDP is also equal to the sum of personal consumption expenditures, gross private domestic investment, net exports of goods and services, and government consumption expenditures and gross investment."
+   },
+   {
+    "url": "https://www.bea.gov/resources/methodologies/nipa-handbook/pdf/chapter-08.pdf",
+    "title": "NIPA Handbook Chapter 8: Net Exports of Goods and Services",
+    "quote": "purchases of imported goods and services, as well as purchases of domestic goods and services, are included in personal consumption expenditures (PCE), gross private domestic investment, and government consumption expenditures and gross investment"
+   }
+  ]
+ },
+ {
+  "id": "floor-03-11",
+  "deck": "floor",
+  "topic": "GDP components",
+  "q": "In BEA's terms, what does the 'I' in GDP = C + I + G + NX stand for?",
+  "a": "Gross private domestic investment",
+  "accept": [
+   "private investment",
+   "gross private domestic investment",
+   "investment"
+  ],
+  "wrong": [
+   "Imports",
+   "Interest income",
+   "Industrial production"
+  ],
+  "explain": "Gross private domestic investment is one of the four final expenditure components BEA sums to get GDP; imports are a separate subtraction within net exports.",
+  "hook": "I is investment, not imports; imports hide inside NX.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.bea.gov/help/glossary/gross-domestic-product-gdp",
+    "title": "Gross domestic product (GDP) | U.S. Bureau of Economic Analysis (BEA)",
+    "quote": "GDP is also equal to the sum of personal consumption expenditures, gross private domestic investment, net exports of goods and services, and government consumption expenditures and gross investment."
+   },
+   {
+    "url": "https://www.bea.gov/resources/methodologies/nipa-handbook/pdf/chapter-08.pdf",
+    "title": "NIPA Handbook Chapter 8: Net Exports of Goods and Services",
+    "quote": "purchases of imported goods and services, as well as purchases of domestic goods and services, are included in personal consumption expenditures (PCE), gross private domestic investment, and government consumption expenditures and gross investment"
+   }
+  ]
+ },
+ {
+  "id": "floor-03-12",
+  "deck": "floor",
+  "topic": "GDP releases",
+  "q": "What is BEA's first published estimate of a quarter's GDP called?",
+  "a": "Advance estimate",
+  "accept": [
+   "advance",
+   "the advance estimate"
+  ],
+  "wrong": [
+   "Flash estimate",
+   "Preliminary estimate",
+   "Benchmark estimate"
+  ],
+  "explain": "BEA publishes an advance estimate about a month after the quarter ends, followed by second and third estimates.",
+  "hook": "Advance, then second, then third.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://apps.bea.gov/scb/issues/2026/09-september/0926-nipa-methodologies.htm",
+    "title": "SCB, Updated Summary of NIPA Methodologies, September 2026",
+    "quote": "For most components, information about the advance quarterly estimates, which are prepared about a month after the end of the quarter, is provided because more attention tends to be focused on this first look at GDP for a quarter. Major source data that become available for the second or third quarterly estimates for some NIPA components are also noted."
+   },
+   {
+    "url": "https://www.bea.gov/sites/default/files/2026-09/gdp2q26-3rd.pdf",
+    "title": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026",
+    "quote": "Real GDP and Related Measures [Percent change (SAAR) from 2026:Q1 to 2026:Q2] Advance estimate Second estimate Third estimate"
+   }
+  ]
+ },
+ {
+  "id": "floor-03-13",
+  "deck": "floor",
+  "topic": "Jobs report",
+  "q": "Which agency publishes the monthly Employment Situation (jobs) report?",
+  "a": "BLS",
+  "accept": [
+   "Bureau of Labor Statistics",
+   "U.S. Bureau of Labor Statistics",
+   "the BLS"
+  ],
+  "wrong": [
+   "BEA",
+   "Department of Commerce",
+   "Federal Reserve"
+  ],
+  "explain": "BLS publishes national employment estimates from both the household and payroll surveys in the Employment Situation news release each month.",
+  "hook": "Labor data from the Labor statisticians.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/web/empsit/ces_cps_trends.htm",
+    "title": "Comparing employment from the BLS household and payroll surveys",
+    "quote": "National employment estimates from both the household and payroll surveys are published in the Employment Situation news release each month."
+   },
+   {
+    "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+    "title": "Employment Situation News Release - 2026 M09 Results",
+    "quote": "It is a sample survey of about 60,000 eligible households conducted by the U.S. Census Bureau for the U.S. Bureau of Labor Statistics (BLS)."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-14",
+  "deck": "floor",
+  "topic": "Jobs report",
+  "q": "Nonfarm payroll employment comes from which BLS survey?",
+  "a": "Establishment survey",
+  "accept": [
+   "payroll survey",
+   "CES",
+   "Current Employment Statistics",
+   "establishment survey (CES)"
+  ],
+  "wrong": [
+   "Household survey",
+   "JOLTS",
+   "Current Population Survey"
+  ],
+  "explain": "The Current Employment Statistics survey, also called the payroll or establishment survey, samples businesses and government agencies and is best known for the monthly change in nonfarm payroll employment.",
+  "hook": "Payrolls come from payroll records: businesses.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/web/empsit/ces_cps_trends.htm",
+    "title": "Comparing employment from the BLS household and payroll surveys",
+    "quote": "The payroll survey (CES) is designed to measure employment, hours, and earnings in the nonfarm sector, with industry and geographic detail. The survey is best known for providing a highly reliable gauge of monthly change in nonfarm payroll employment."
+   },
+   {
+    "url": "https://www.bls.gov/web/empsit/cesfaq.htm",
+    "title": "CES Frequently Asked Questions",
+    "quote": "The Current Employment Statistics (CES) program is a monthly survey of business establishments (or jobs). CES produces estimates on the number of employees on nonfarm payrolls, average hourly earnings, average weekly earnings, and average weekly hours."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-15",
+  "deck": "floor",
+  "topic": "Jobs report",
+  "q": "The national unemployment rate comes from which BLS survey?",
+  "a": "Household survey",
+  "accept": [
+   "CPS",
+   "Current Population Survey",
+   "household survey (CPS)"
+  ],
+  "wrong": [
+   "Establishment survey",
+   "JOLTS",
+   "Current Employment Statistics"
+  ],
+  "explain": "The Current Population Survey (household survey) measures labor force status of people; the national unemployment rate is its best-known statistic.",
+  "hook": "Ask people at home whether they are looking for work.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/web/empsit/ces_cps_trends.htm",
+    "title": "Comparing employment from the BLS household and payroll surveys",
+    "quote": "The household survey (CPS) is designed to measure the labor force status of the civilian noninstitutional population with demographic detail. The national unemployment rate is the best-known statistic produced from the household survey."
+   },
+   {
+    "url": "https://www.bls.gov/web/empsit/cesfaq.htm",
+    "title": "CES Frequently Asked Questions",
+    "quote": "The household survey produces estimates about the labor force, the employed, the unemployed, the unemployment rate, and demographic information about the employed and unemployed."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-16",
+  "deck": "floor",
+  "topic": "Jobs report",
+  "q": "Which agency conducts the Current Population Survey on behalf of BLS?",
+  "a": "Census Bureau",
+  "accept": [
+   "U.S. Census Bureau",
+   "Census",
+   "the Census Bureau",
+   "Bureau of the Census"
+  ],
+  "wrong": [
+   "BEA",
+   "Social Security Administration",
+   "Federal Reserve"
+  ],
+  "explain": "The CPS is a monthly household survey conducted by the U.S. Census Bureau for the Bureau of Labor Statistics.",
+  "hook": "Census knocks on doors; BLS publishes the numbers.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/cps/cps_over.htm",
+    "title": "Labor Force Statistics from the Current Population Survey Overview : U.S. Bureau of Labor Statistics",
+    "quote": "The Current Population Survey (CPS), also referred to as the household survey, is a monthly sample survey of 60,000 eligible households conducted by the U.S. Census Bureau for the Bureau of Labor Statistics"
+   },
+   {
+    "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+    "title": "Employment Situation News Release - 2026 M09 Results",
+    "quote": "It is a sample survey of about 60,000 eligible households conducted by the U.S. Census Bureau for the U.S. Bureau of Labor Statistics (BLS)."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-17",
+  "deck": "floor",
+  "topic": "Jobs report",
+  "q": "About how many eligible households are in the monthly household survey (CPS) sample?",
+  "a": "60,000",
+  "accept": [
+   "60000",
+   "about 60,000",
+   "60k",
+   "sixty thousand"
+  ],
+  "wrong": [
+   "6,000",
+   "119,000",
+   "600,000"
+  ],
+  "explain": "The CPS samples about 60,000 eligible households; the payroll survey, by contrast, samples about 119,000 businesses and government agencies.",
+  "hook": "Household 60k vs payroll 119k businesses.",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/bls/empsitquickguide.htm",
+    "title": "Monthly Employment Situation Report: Quick Guide to Methods and Measurement Issues : U.S. Bureau of Labor Statistics",
+    "quote": "The Current Population Survey (CPS), also referred to as the household survey, is a monthly sample survey of about 60,000 eligible households."
+   },
+   {
+    "url": "https://www.bls.gov/web/empsit/ces_cps_trends.htm",
+    "title": "Comparing employment from the BLS household and payroll surveys",
+    "quote": "Monthly sample survey of approximately 60,000 eligible households | Monthly sample survey of approximately 119,000 businesses and government agencies, representing about 622,000 individual worksites"
+   }
+  ]
+ },
+ {
+  "id": "floor-03-18",
+  "deck": "floor",
+  "topic": "Jobs report",
+  "q": "The BLS household and payroll surveys both use a reference period that includes which day of the month?",
+  "a": "12th",
+  "accept": [
+   "the 12th",
+   "12",
+   "twelfth"
+  ],
+  "wrong": [
+   "1st",
+   "15th",
+   "Last day"
+  ],
+  "explain": "The household survey generally uses the calendar week including the 12th; the payroll survey uses the employer pay period including the 12th.",
+  "hook": "Jobs data are a snapshot around the 12th.",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/web/empsit/ces_cps_trends.htm",
+    "title": "Comparing employment from the BLS household and payroll surveys",
+    "quote": "Reference period | Generally the calendar week that includes the 12th of the month (see note below ) | Employer pay period that includes the 12th of the month (could be weekly, biweekly, monthly, or other)"
+   },
+   {
+    "url": "https://www.bls.gov/web/empsit/cesfaq.htm",
+    "title": "CES Frequently Asked Questions",
+    "quote": "The reference period for the CES survey is the pay period which includes the 12th of the month."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-19",
+  "deck": "floor",
+  "topic": "U-3 vs U-6",
+  "q": "Which of BLS's U-1 through U-6 measures is the official unemployment rate?",
+  "a": "U-3",
+  "accept": [
+   "U3",
+   "U 3"
+  ],
+  "wrong": [
+   "U-1",
+   "U-5",
+   "U-6"
+  ],
+  "explain": "U-3 is total unemployed as a percent of the civilian labor force; U-1 and U-2 are narrower and U-4 through U-6 are broader.",
+  "hook": "Three is the official one.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/cps/definitions.htm",
+    "title": "Concepts and Definitions (CPS) : U.S. Bureau of Labor Statistics",
+    "quote": "U-3 is the official unemployment rate ."
+   },
+   {
+    "url": "https://www.bls.gov/webapps/legacy/cpsatab15.htm",
+    "title": "Table A-15. Alternative measures of labor underutilization",
+    "quote": "U-3 Total unemployed, as a percent of the civilian labor force ( official unemployment rate )"
+   }
+  ]
+ },
+ {
+  "id": "floor-03-20",
+  "deck": "floor",
+  "topic": "U-3 vs U-6",
+  "q": "Besides the marginally attached, which group does U-6 add that U-5 does not include?",
+  "a": "Part time for economic reasons",
+  "accept": [
+   "involuntary part-time workers",
+   "employed part time for economic reasons",
+   "involuntary part-timers",
+   "part-time for economic reasons"
+  ],
+  "wrong": [
+   "Discouraged workers",
+   "Self-employed workers",
+   "Workers on unpaid leave"
+  ],
+  "explain": "U-6, the broadest measure of labor underutilization, adds people at work part time for economic reasons (involuntary part-time workers) to the unemployed plus all marginally attached.",
+  "hook": "U-6 counts the underemployed, not just the unemployed.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/cps/definitions.htm",
+    "title": "Concepts and Definitions (CPS) : U.S. Bureau of Labor Statistics",
+    "quote": "U-6 is the broadest measure of labor underutilization. In addition to the total number of unemployed and all people marginally attached to the labor force, U-6 includes people at work part time for economic reasons (also called involuntary part-time workers)"
+   },
+   {
+    "url": "https://www.bls.gov/webapps/legacy/cpsatab15.htm",
+    "title": "Table A-15. Alternative measures of labor underutilization",
+    "quote": "U-6 Total unemployed, plus all persons marginally attached to the labor force, plus total employed part time for economic reasons, as a percent of the civilian labor force plus all persons marginally attached to the labor force"
+   }
+  ]
+ },
+ {
+  "id": "floor-03-21",
+  "deck": "floor",
+  "topic": "U-3 vs U-6",
+  "q": "Which alternative measure equals total unemployed plus discouraged workers, as a percent of the labor force plus discouraged workers?",
+  "a": "U-4",
+  "accept": [
+   "U4",
+   "U 4"
+  ],
+  "wrong": [
+   "U-2",
+   "U-3",
+   "U-6"
+  ],
+  "explain": "U-4 adds discouraged workers to U-3; U-5 adds all other marginally attached; U-6 further adds involuntary part-timers. Discouraged workers are a subset of the marginally attached.",
+  "hook": "Each step from U-3 to U-6 adds a wider group.",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/webapps/legacy/cpsatab15.htm",
+    "title": "Table A-15. Alternative measures of labor underutilization",
+    "quote": "U-4 Total unemployed plus discouraged workers, as a percent of the civilian labor force plus discouraged workers"
+   },
+   {
+    "url": "https://www.bls.gov/news.release/empsit.t15.htm",
+    "title": "Table A-15. Alternative measures of labor underutilization",
+    "quote": "U-4 Total unemployed plus discouraged workers, as a percent of the civilian labor force plus discouraged workers"
+   }
+  ]
+ },
+ {
+  "id": "floor-03-22",
+  "deck": "floor",
+  "topic": "ISM PMIs",
+  "q": "An ISM Manufacturing PMI reading above what level indicates the manufacturing sector is generally expanding?",
+  "a": "50%",
+  "accept": [
+   "50",
+   "50 percent",
+   "fifty"
+  ],
+  "wrong": [
+   "0",
+   "47.5%",
+   "100"
+  ],
+  "explain": "ISM PMIs are diffusion indexes: above 50 percent indicates expansion and below 50 percent contraction for the sector. The Services PMI uses the same 50 percent line.",
+  "hook": "The 50 line splits growth from contraction.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/september",
+    "title": "ISM Manufacturing PMI Report - September",
+    "quote": "A Manufacturing PMI ® reading above 50 percent indicates that the manufacturing economy is generally expanding; below 50 percent indicates that it is generally declining."
+   },
+   {
+    "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october",
+    "title": "ISM Services PMI Report - October",
+    "quote": "An index reading above 50 percent indicates that the services economy is generally expanding; below 50 percent indicates that it is generally declining."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-23",
+  "deck": "floor",
+  "topic": "ISM PMIs",
+  "q": "What was the ISM Services PMI Report formerly called?",
+  "a": "Non-Manufacturing ISM Report On Business",
+  "accept": [
+   "Non-Manufacturing",
+   "Non-Manufacturing Report On Business",
+   "Non-Manufacturing ISM Report",
+   "NMI",
+   "Non-Manufacturing Index"
+  ],
+  "wrong": [
+   "Chicago PMI",
+   "Beige Book",
+   "Empire State Survey"
+  ],
+  "explain": "ISM renamed its Non-Manufacturing Report On Business the Services PMI Report; its panel was formerly the Non-Manufacturing Business Survey Committee.",
+  "hook": "Services = the old 'non-manufacturing'.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october",
+    "title": "ISM Services PMI Report - October",
+    "quote": "The ISM ® Services PMI ® Report (formerly the Non-Manufacturing ISM ® Report On Business ® ) is based on data compiled from purchasing and supply executives nationwide."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-24",
+  "deck": "floor",
+  "topic": "JOLTS",
+  "q": "What does the BLS acronym JOLTS stand for?",
+  "a": "Job Openings and Labor Turnover Survey",
+  "accept": [
+   "Job Openings and Labor Turnover",
+   "job openings & labor turnover survey"
+  ],
+  "wrong": [
+   "Jobs Outlook and Labor Trends Survey",
+   "Joint Occupational Labor Tracking System",
+   "Jobless Office Labor Tally Statistics"
+  ],
+  "explain": "The BLS JOLTS program produces monthly and annual estimates of job openings, hires, and separations for the nation.",
+  "hook": "Openings in, turnover out.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/jlt",
+    "title": "JOLTS Home : U.S. Bureau of Labor Statistics",
+    "quote": "The Job Openings and Labor Turnover Survey (JOLTS) program of the Bureau of Labor Statistics (BLS) produces monthly and annual estimates of job openings, hires, and separations for the nation."
+   },
+   {
+    "url": "https://www.bls.gov/opub/hom/jlt/concepts.htm",
+    "title": "Job Openings and Labor Turnover Survey: Concepts",
+    "quote": "JOLTS data elements include job openings, hires, and separations. The components of separations include quits, layoffs and discharges, and other separations."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-25",
+  "deck": "floor",
+  "topic": "JOLTS",
+  "q": "In JOLTS, which type of separation captures employees who left their jobs voluntarily?",
+  "a": "Quits",
+  "accept": [
+   "quit",
+   "quits"
+  ],
+  "wrong": [
+   "Layoffs and discharges",
+   "Other separations",
+   "Hires"
+  ],
+  "explain": "Quits are voluntary separations (excluding retirements and transfers); BLS notes the quits rate can serve as a measure of workers' willingness or ability to leave jobs.",
+  "hook": "Quits = workers' choice; layoffs = employer's choice.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.bls.gov/opub/hom/jlt/concepts.htm",
+    "title": "Job Openings and Labor Turnover Survey: Concepts",
+    "quote": "Quits include employees who left voluntarily with the exception of retirements or transfers to other locations."
+   },
+   {
+    "url": "https://www.bls.gov/news.release/archives/jolts_09292026.htm",
+    "title": "Job Openings and Labor Turnover Survey News Release - 2026 M08 Results",
+    "quote": "Quits are generally voluntary separations initiated by the employee. Therefore, the quits rate can serve as a measure of workers’ willingness or ability to leave jobs."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-26",
+  "deck": "floor",
+  "topic": "Recession definition",
+  "q": "Which NBER committee maintains the official chronology of U.S. business cycle peaks and troughs?",
+  "a": "Business Cycle Dating Committee",
+  "accept": [
+   "NBER Business Cycle Dating Committee",
+   "Business Cycle Dating Committee",
+   "dating committee"
+  ],
+  "wrong": [
+   "Federal Open Market Committee",
+   "Council of Economic Advisers",
+   "Joint Economic Committee"
+  ],
+  "explain": "Recessions are not defined in statute; the NBER's Business Cycle Dating Committee identifies the peak and trough months, and NBER is generally credited with determining U.S. recession dates.",
+  "hook": "NBER dates the cycle; the government does not.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.nber.org/research/business-cycle-dating",
+    "title": "Business Cycle Dating | NBER",
+    "quote": "The NBER’s Business Cycle Dating Committee maintains a chronology of US business cycles. The chronology identifies the months of peaks and troughs of economic activity."
+   },
+   {
+    "url": "https://www.congress.gov/crs-product/IF12774",
+    "title": "Defining Recession | Congress.gov | Library of Congress",
+    "quote": "Recessions are not determined by the federal government and are not defined in statute. The National Bureau of Economic Research (NBER)—an independent nonprofit organization that conducts and disseminates economic research—is generally credited with determining recession start and end dates in the United States."
+   }
+  ]
+ },
+ {
+  "id": "floor-03-27",
+  "deck": "floor",
+  "topic": "Recession definition",
+  "q": "What three criteria does the NBER weigh when determining whether a recession has occurred?",
+  "a": "Depth, diffusion, duration",
+  "accept": [
+   "depth diffusion and duration",
+   "depth, diffusion, and duration",
+   "the three Ds"
+  ],
+  "wrong": [
+   "GDP, GDI, payrolls",
+   "Inflation, rates, unemployment",
+   "Two negative GDP quarters"
+  ],
+  "explain": "NBER defines a recession as a significant decline in economic activity that is spread across the economy and lasts more than a few months; strength on one criterion can partially offset weakness on another.",
+  "hook": "The three Ds: how deep, how wide, how long.",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.nber.org/research/business-cycle-dating/business-cycle-dating-procedure-frequently-asked-questions",
+    "title": "Business Cycle Dating Procedure: Frequently Asked Questions | NBER",
+    "quote": "The NBER's traditional definition of a recession is that it is a significant decline in economic activity that is spread across the economy and that lasts more than a few months. The committee's view is that while each of the three criteria—depth, diffusion, and duration—needs to be met individually to some degree, extreme conditions revealed by one criterion may partially offset weaker indications from another."
+   },
+   {
+    "url": "https://www.congress.gov/crs-product/IF12774",
+    "title": "Defining Recession | Congress.gov | Library of Congress",
+    "quote": "Instead, NBER evaluates three criteria—depth, diffusion, and duration—using a variety of monthly economic indicators including income, employment, consumption, sales, and industrial production."
+   }
+  ]
+ }
+]

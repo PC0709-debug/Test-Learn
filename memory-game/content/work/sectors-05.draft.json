@@ -1,0 +1,434 @@
+[
+  {
+    "id": "sectors-05-01",
+    "deck": "sectors",
+    "topic": "Medicare Part A",
+    "q": "Which part of Medicare is called 'Hospital Insurance'?",
+    "a": "Part A",
+    "accept": ["Medicare Part A", "A"],
+    "wrong": ["Part B", "Part C", "Part D"],
+    "explain": "Part A (Hospital Insurance) helps cover inpatient hospital care, skilled nursing facility care, hospice care and home health care.",
+    "hook": "A for Admitted to the hospital.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare", "title": "Parts of Medicare | Medicare", "quote": "Part A helps cover inpatient care in hospitals, skilled nursing facility care, hospice care, and home health care."},
+      {"url": "https://www.cms.gov/files/document/medicare-medicaid-basics.pdf", "title": "MLN909330 – Medicare & Medicaid Basics", "quote": "Part A – Hospital Insurance Inpatient hospital, inpatient skilled nursing facility (SNF), hospice, and some home health services"}
+    ]
+  },
+  {
+    "id": "sectors-05-02",
+    "deck": "sectors",
+    "topic": "Medicare Part B",
+    "q": "Which part of Medicare is called 'Medical Insurance' and covers doctors' services and outpatient care?",
+    "a": "Part B",
+    "accept": ["Medicare Part B", "B"],
+    "wrong": ["Part A", "Part C", "Part D"],
+    "explain": "Part B (Medical Insurance) helps cover physician services, outpatient care, durable medical equipment and many preventive services; most people pay a monthly Part B premium.",
+    "hook": "B for Bills from doctors.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.cms.gov/files/document/medicare-medicaid-basics.pdf", "title": "MLN909330 – Medicare & Medicaid Basics", "quote": "Part B – Medical Insurance Physician services, outpatient care, DME, lab and X-ray services, home health services, and many preventive services"},
+      {"url": "http://cms.hhs.gov/about-cms/what-we-do/medicare", "title": "Medicare Program - General Information | CMS", "quote": "Medicare Part B (Medical Insurance) - Part B helps cover doctors' services and outpatient care."}
+    ]
+  },
+  {
+    "id": "sectors-05-03",
+    "deck": "sectors",
+    "topic": "Medicare Part C",
+    "q": "What is Medicare Part C also called?",
+    "a": "Medicare Advantage",
+    "accept": ["MA", "Medicare Advantage Plans", "Medicare Advantage Plan"],
+    "wrong": ["Medigap", "Original Medicare", "Medicaid"],
+    "explain": "Medicare Advantage plans are Medicare-approved plans from private companies that bundle Part A, Part B and usually Part D as an alternative to Original Medicare.",
+    "hook": "C for Commercial insurers running the plan.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.medicare.gov/publications/12207-a-quick-guide-to-medicare-medicaid.pdf", "title": "A Quick Guide to Medicare & Medicaid", "quote": "Medicare Advantage Plans (also called “Part C” or “MA Plans\") are Medicare- approved plans from private companies that offer an alternative to Original Medicare. These plans bundle together your Part A, Part B, and usually Part D."},
+      {"url": "https://www.cms.gov/files/document/medicare-medicaid-basics.pdf", "title": "MLN909330 – Medicare & Medicaid Basics", "quote": "Part C – Medicare Advantage (MA) (like Health Maintenance Organizations (HMOs) or Preferred Provider Organizations (PPOs)) Medicare-approved private insurance companies provide all Part A and Part B services"}
+    ]
+  },
+  {
+    "id": "sectors-05-04",
+    "deck": "sectors",
+    "topic": "Medicare Part D",
+    "q": "Which lettered part of Medicare is the prescription drug benefit?",
+    "a": "Part D",
+    "accept": ["Medicare Part D", "D"],
+    "wrong": ["Part A", "Part B", "Part C"],
+    "explain": "Part D helps cover the cost of prescription drugs; plans offering it are run by Medicare-approved private insurance companies.",
+    "hook": "D for Drugs.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.cms.gov/files/document/medicare-medicaid-basics.pdf", "title": "MLN909330 – Medicare & Medicaid Basics", "quote": "Part D – Prescription Drug Benefit Medicare-approved private insurance companies provide outpatient prescription drug coverage"},
+      {"url": "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare", "title": "Parts of Medicare | Medicare", "quote": "Part D helps cover the cost of prescription drugs."}
+    ]
+  },
+  {
+    "id": "sectors-05-05",
+    "deck": "sectors",
+    "topic": "Medicare Part D",
+    "q": "In what year did Medicare Part D prescription drug coverage first take effect?",
+    "a": "2006",
+    "accept": ["January 1, 2006"],
+    "wrong": ["2003", "1997", "2010"],
+    "explain": "The Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (MMA) created Part D, with coverage effective January 1, 2006.",
+    "hook": "Signed in '03, pills in '06.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.congress.gov/crs-product/R40611", "title": "Medicare Part D Prescription Drug Benefit | Congress.gov", "quote": "The Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (MMA; P.L. 108-173 ) established a voluntary, outpatient prescription drug benefit under Medicare Part D, effective January 1, 2006."},
+      {"url": "https://www.cms.gov/about-cms/who-we-are/history", "title": "History | CMS", "quote": "The MMA also expanded Medicare to include an optional prescription drug benefit, “Part D,” which went into effect in 2006."}
+    ]
+  },
+  {
+    "id": "sectors-05-06",
+    "deck": "sectors",
+    "topic": "Medicare eligibility",
+    "q": "At what age do people generally become eligible for Medicare based on age?",
+    "a": "65",
+    "accept": ["age 65", "65 years"],
+    "wrong": ["62", "67", "60"],
+    "explain": "Medicare covers people age 65 or older, plus certain younger people with disabilities or End-Stage Renal Disease.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "http://cms.hhs.gov/about-cms/what-we-do/medicare", "title": "Medicare Program - General Information | CMS", "quote": "Medicare is a health insurance program for: * People age 65 or older. * People under age 65 with certain disabilities. * People of all ages with End-Stage Renal Disease"},
+      {"url": "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare", "title": "Parts of Medicare | Medicare", "quote": "Medicare is federal health insurance for anyone age 65 and older, and some people under 65 with certain disabilities or conditions."}
+    ]
+  },
+  {
+    "id": "sectors-05-07",
+    "deck": "sectors",
+    "topic": "Medicare and Medicaid history",
+    "q": "In what year were Medicare and Medicaid enacted?",
+    "a": "1965",
+    "accept": [],
+    "wrong": ["1935", "1972", "2003"],
+    "explain": "Both programs were created by the same law, the Social Security Amendments of 1965.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.cms.gov/about-cms/who-we-are/history", "title": "History | CMS", "quote": "On July 30, 1965, President Lyndon B. Johnson signed into law the bill that led to the Medicare and Medicaid."},
+      {"url": "https://www.congress.gov/crs-product/R43357", "title": "Medicaid: An Overview | Congress.gov", "quote": "Medicaid was enacted in 1965 as part of the same law that created the Medicare program (the Social Security Amendments of 1965; P.L. 89-97)."}
+    ]
+  },
+  {
+    "id": "sectors-05-08",
+    "deck": "sectors",
+    "topic": "Medicaid",
+    "q": "Who jointly funds Medicaid?",
+    "a": "Federal and state governments",
+    "accept": ["the federal government and the states", "federal and state", "states and the federal government"],
+    "wrong": ["The federal government only", "The states only", "Private insurers"],
+    "explain": "Medicaid is a joint federal-state program; each state administers its own program, sets eligibility standards and payment rates within federal guidelines.",
+    "hook": "Medicare = federal; Medicaid = federal + state.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.congress.gov/crs-product/R43357", "title": "Medicaid: An Overview | Congress.gov", "quote": "The federal government and the states jointly finance Medicaid."},
+      {"url": "https://www.cms.gov/files/document/medicare-medicaid-basics.pdf", "title": "MLN909330 – Medicare & Medicaid Basics", "quote": "Medicaid is a network of statewide programs the federal and state governments fund. Each state administers their own program, following broad national federal guidelines, statutes, regulations, and policies."}
+    ]
+  },
+  {
+    "id": "sectors-05-09",
+    "deck": "sectors",
+    "topic": "CMS",
+    "q": "What does CMS stand for in U.S. healthcare?",
+    "a": "Centers for Medicare & Medicaid Services",
+    "accept": ["Centers for Medicare and Medicaid Services"],
+    "wrong": ["Center for Medical Standards", "Council of Medicare Suppliers", "Centers for Medical Services"],
+    "explain": "CMS is an agency within the Department of Health and Human Services (HHS) that administers Medicare, Medicaid and other federal health care programs.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.cms.gov/newsroom/fact-sheets/accountable-care-organizations-what-providers-need-know", "title": "ACCOUNTABLE CARE ORGANIZATIONS: WHAT PROVIDERS NEED TO KNOW | CMS", "quote": "the Centers for Medicare & Medicaid Services (CMS), an agency within the Department of Health and Human Services (HHS)"},
+      {"url": "https://www.cms.gov/files/document/medicare-medicaid-basics.pdf", "title": "MLN909330 – Medicare & Medicaid Basics", "quote": "CMS administers Medicare, Medicaid, and other federal health care programs and services."}
+    ]
+  },
+  {
+    "id": "sectors-05-10",
+    "deck": "sectors",
+    "topic": "HIPAA",
+    "q": "In what year was HIPAA (the Health Insurance Portability and Accountability Act) enacted?",
+    "a": "1996",
+    "accept": [],
+    "wrong": ["1991", "2003", "2009"],
+    "explain": "HIPAA (Public Law 104-191) was enacted on August 21, 1996; its Administrative Simplification provisions led to national privacy, security and electronic-transaction standards.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations", "title": "Summary of the HIPAA Privacy Rule | HHS.gov", "quote": "The Health Insurance Portability and Accountability Act of 1996 (HIPAA), Public Law 104-191, was enacted on August 21, 1996."},
+      {"url": "https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/covered-entities", "title": "Are You a Covered Entity? | CMS", "quote": "HIPAA, or the Health Insurance Portability and Accountability Act of 1996 , covers both individuals and organizations."}
+    ]
+  },
+  {
+    "id": "sectors-05-11",
+    "deck": "sectors",
+    "topic": "HIPAA covered entities",
+    "q": "Besides health plans and health care providers, what is the third type of HIPAA covered entity?",
+    "a": "Health care clearinghouses",
+    "accept": ["clearinghouses", "clearinghouse", "health care clearinghouse", "healthcare clearinghouses"],
+    "wrong": ["Business associates", "Pharmaceutical manufacturers", "Employers"],
+    "explain": "Clearinghouses process nonstandard health information into a standard format (or vice versa) on behalf of other organizations. Business associates are a separate category that work for covered entities under contract.",
+    "hook": "Plans, Providers, and the Pipes (clearinghouses) between them.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "http://www.hhs.gov/hipaa/for-professionals/covered-entities/index.html", "title": "Covered Entities and Business Associates | HHS.gov", "quote": "A Covered Entity is one of the following: * A Health Care Provider | A Health Plan | A Health Care Clearinghouse"},
+      {"url": "https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/covered-entities", "title": "Are You a Covered Entity? | CMS", "quote": "HIPAA covered entities include health plans, clearinghouses, and certain health care providers as follows:"}
+    ]
+  },
+  {
+    "id": "sectors-05-12",
+    "deck": "sectors",
+    "topic": "HIPAA Privacy Rule",
+    "q": "What term does the HIPAA Privacy Rule use for the individually identifiable health information it protects?",
+    "a": "Protected health information",
+    "accept": ["PHI"],
+    "wrong": ["Personally identifiable information", "Nonpublic personal information", "Electronic health record"],
+    "explain": "The Privacy Rule sets national standards for how covered entities use and disclose individuals' health information, called protected health information.",
+    "hook": "PHI: the 'H' is for Health.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations", "title": "Summary of the HIPAA Privacy Rule | HHS.gov", "quote": "The Privacy Rule standards address the use and disclosure of individuals' health information—called \"protected health information\" by organizations subject to the Privacy Rule — called \"covered entities,\""}
+    ]
+  },
+  {
+    "id": "sectors-05-13",
+    "deck": "sectors",
+    "topic": "EHR vs EMR",
+    "q": "Per HealthIT.gov, which term describes digital versions of the paper charts kept within one clinician office, clinic or hospital?",
+    "a": "EMR",
+    "accept": ["electronic medical record", "electronic medical records", "EMRs"],
+    "wrong": ["PHR", "HIE", "EOB"],
+    "explain": "EMRs hold information collected by and for clinicians in one office, clinic or hospital; EHRs go further, holding information from all clinicians involved in a patient's care and sharing it across providers.",
+    "hook": "EMR stays in the Medical office; EHR follows the patient's whole Health journey.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.healthit.gov/faq/what-are-differences-between-electronic-medical-records-electronic-health-records-and-personal", "title": "What are the differences between electronic medical records, electronic health records, and personal health records? | HealthIT.gov", "quote": "Electronic medical records (EMRs) are digital versions of the paper charts in clinician offices, clinics, and hospitals. EMRs contain notes and information collected by and for the clinicians in that office, clinic, or hospital and are mostly used by providers for diagnosis and treatment."},
+      {"url": "https://healthit.gov/health-it-basics/benefits-ehrs", "title": "Benefits of EHRs - ONC", "quote": "EMRs are usually limited to a single provider or practice, while EHRs cover patient records across different care settings and providers."}
+    ]
+  },
+  {
+    "id": "sectors-05-14",
+    "deck": "sectors",
+    "topic": "Fee-for-service",
+    "q": "What payment method pays doctors and other providers for each service performed, such as tests and office visits?",
+    "a": "Fee-for-service",
+    "accept": ["fee for service", "FFS"],
+    "wrong": ["Capitation", "Bundled payment", "Shared savings"],
+    "explain": "Under fee-for-service, each service is paid separately; Original Medicare (Parts A and B) is itself described as a fee-for-service program.",
+    "hook": "Every service, a fee.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.healthcare.gov/glossary/fee-for-service", "title": "Fee for Service - Glossary | HealthCare.gov", "quote": "A method in which doctors and other health care providers are paid for each service performed. Examples of services include tests and office visits."},
+      {"url": "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare", "title": "Parts of Medicare | Medicare", "quote": "Original Medicare A fee-for-service health insurance program that has 2 parts: Part A and Part B."}
+    ]
+  },
+  {
+    "id": "sectors-05-15",
+    "deck": "sectors",
+    "topic": "ACOs",
+    "q": "In value-based care, what does ACO stand for?",
+    "a": "Accountable Care Organization",
+    "accept": ["Accountable Care Organizations"],
+    "wrong": ["Affordable Care Organization", "Ambulatory Care Office", "Associated Care Operator"],
+    "explain": "ACOs are groups of doctors, hospitals and other providers who come together voluntarily to give coordinated, high-quality care and can share in the savings they achieve for Medicare.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "http://cms.gov/priorities/innovation/innovation-models/aco", "title": "Accountable Care Organizations (ACOs): General Information | CMS", "quote": "Accountable Care Organizations (ACOs) are groups of doctors, hospitals, and other health care providers, who come together voluntarily to give coordinated high quality care to the Medicare patients they serve."},
+      {"url": "http://cms.gov/priorities/innovation/key-concepts/accountable-care-and-accountable-care-organizations", "title": "Accountable Care and Accountable Care Organizations | CMS", "quote": "Accountable Care Organizations (ACOs): Groups of doctors, hospitals, and other health care professionals that work together to give patients high-quality, coordinated service and health care, improve health outcomes, and manage costs."}
+    ]
+  },
+  {
+    "id": "sectors-05-16",
+    "deck": "sectors",
+    "topic": "ACOs",
+    "q": "What is the name of the voluntary Medicare program through which ACOs can share in the savings they achieve for Medicare fee-for-service beneficiaries?",
+    "a": "Medicare Shared Savings Program",
+    "accept": ["Shared Savings Program", "MSSP"],
+    "wrong": ["Quality Payment Program", "Medicare Advantage", "Merit-based Incentive Payment System"],
+    "explain": "CMS describes the Shared Savings Program as an alternative payment model that moves its payment system away from volume and toward value and outcomes.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.cms.gov/medicare/payment/fee-for-service-providers/shared-savings-program-ssp-acos/about", "title": "About the Program | CMS", "quote": "The Shared Savings Program offers providers and suppliers (e.g., physicians, hospitals, and others involved in patient care) an opportunity to create an Accountable Care Organization (ACO). An ACO agrees to be held accountable for the quality, cost, and experience of care of an assigned Medicare fee-for-service (FFS) beneficiary population."},
+      {"url": "https://www.cms.gov/medicare/payment/shared-savings-program", "title": "Shared Savings Program | CMS", "quote": "When an ACO succeeds in both delivering high-quality care and spending health care dollars more wisely, the ACO may be eligible to share in the savings it achieves for the Medicare program (also known as performance payments)."}
+    ]
+  },
+  {
+    "id": "sectors-05-17",
+    "deck": "sectors",
+    "topic": "Value-based care",
+    "q": "Medicare's Quality Payment Program has two tracks: Advanced Alternative Payment Models (APMs) and which other?",
+    "a": "MIPS",
+    "accept": ["Merit-based Incentive Payment System", "Merit-Based Incentive Payment System"],
+    "wrong": ["Sustainable Growth Rate", "Hospital Readmissions Reduction Program", "Inpatient Prospective Payment System"],
+    "explain": "MIPS stands for Merit-based Incentive Payment System. The Quality Payment Program was created by MACRA (2015), which ended the Sustainable Growth Rate formula.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://qpp.cms.gov/about/qpp-overview", "title": "About QPP - Quality Payment Program (QPP) - CMS", "quote": "The program offers 2 payment tracks: the Merit-based Incentive Payment System (MIPS) and Advanced Alternative Payment Models (APMs)."},
+      {"url": "https://www.cms.gov/medicare/quality/value-based-programs/quality-payment-program", "title": "Quality Payment Program | CMS", "quote": "The Medicare Access and CHIP Reauthorization Act of 2015 (MACRA) ended the Sustainable Growth Rate (PDF) (SGR) formula, which would have significantly cut payment rates for participating Medicare clinicians. MACRA requires us to implement an incentive program, the Quality Payment Program. There are 2 ways clinicians can choose to participate in the Quality Payment Program:"}
+    ]
+  },
+  {
+    "id": "sectors-05-18",
+    "deck": "sectors",
+    "topic": "ICD-10",
+    "q": "On what date did the U.S. health care industry transition from ICD-9 to ICD-10 codes?",
+    "a": "October 1, 2015",
+    "accept": ["Oct 1 2015", "10/1/2015", "1 October 2015", "Oct. 1, 2015"],
+    "wrong": ["October 1, 2013", "October 1, 2014", "January 1, 2016"],
+    "explain": "ICD-10 has been used to code services provided on or after October 1, 2015, and applies to all HIPAA-covered parties, not just Medicare or Medicaid billers.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.cms.gov/medicare/coding-billing/icd-10-codes", "title": "ICD-10 | CMS", "quote": "On October 1, 2015, the health care industry transitioned from ICD-9 to ICD-10 codes for diagnoses and inpatient procedures."},
+      {"url": "https://www.ecfr.gov/current/title-45/part-162", "title": "45 CFR PART 162—ADMINISTRATIVE REQUIREMENTS", "quote": "(c) For the period on and after October 1, 2015: ... (2) International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM)"}
+    ]
+  },
+  {
+    "id": "sectors-05-19",
+    "deck": "sectors",
+    "topic": "ICD-10-CM",
+    "q": "What does the ICD-10-CM code set classify?",
+    "a": "Diagnoses",
+    "accept": ["diagnosis", "diagnosis codes", "diseases"],
+    "wrong": ["Physician procedures", "Drug prices", "Medical supplies"],
+    "explain": "ICD-10-CM is the diagnosis code set used by all providers in every setting; procedures performed by physicians are reported with CPT, and inpatient hospital procedures with ICD-10-PCS.",
+    "hook": "ICD = what the patient has; CPT = what the doctor did.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.cms.gov/cms-guide-medical-technology-companies-and-other-interested-parties/coding/overview-coding-classification-systems", "title": "Overview of Coding & Classification Systems | CMS", "quote": "ICD-10 Clinical Modification (ICD-10-CM): Used by all providers in every healthcare setting; codes for diagnoses; developed and maintained by the Centers for Disease Control & Prevention (CDC), National Center for Health Statistics (NCHS)."},
+      {"url": "https://www.ama-assn.org/practice-management/cpt/cpt-code-set-overview", "title": "CPT® code set overview - American Medical Association", "quote": "The Current Procedural Terminology (CPT®) code set is a listing of terms and five-digit codes that primarily describe medical services and procedures performed by physicians and other qualified health care professionals."}
+    ]
+  },
+  {
+    "id": "sectors-05-20",
+    "deck": "sectors",
+    "topic": "CPT codes",
+    "q": "Which organization owns and maintains the CPT (Current Procedural Terminology) code set?",
+    "a": "American Medical Association",
+    "accept": ["AMA", "the AMA", "the American Medical Association"],
+    "wrong": ["Centers for Medicare & Medicaid Services", "World Health Organization", "Centers for Disease Control and Prevention"],
+    "explain": "CPT codes are five-digit codes describing medical services and procedures; the code set is maintained by the AMA-convened CPT Editorial Panel and copyrighted by the AMA.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.cms.gov/cms-guide-medical-technology-companies-and-other-interested-parties/coding/overview-coding-classification-systems", "title": "Overview of Coding & Classification Systems | CMS", "quote": "HCPCS Level I codes are part of the Current Procedural Terminology (CPT®) code set maintained by the CPT® Editorial Panel and copyrighted by the American Medical Association (AMA)."},
+      {"url": "https://www.hhs.gov/guidance/document/cms-hcpcs-general-information", "title": "CMS HCPCS - General Information | Guidance Portal", "quote": "HCPCS Level I : Comprised of Current Procedural Terminology (CPT ® ), a numeric coding system maintained by the American Medical Association (AMA)."}
+    ]
+  },
+  {
+    "id": "sectors-05-21",
+    "deck": "sectors",
+    "topic": "HCPCS",
+    "q": "HCPCS Level I consists of which code set?",
+    "a": "CPT",
+    "accept": ["Current Procedural Terminology", "CPT codes", "CPT-4"],
+    "wrong": ["ICD-10-PCS", "NDC", "ICD-10-CM"],
+    "explain": "HCPCS Level II codes, maintained by CMS, cover products, supplies and services not in CPT, such as ambulance services and durable medical equipment.",
+    "hook": "Level I is the AMA's; Level II is CMS's.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.cms.gov/cms-guide-medical-technology-companies-and-other-interested-parties/coding/overview-coding-classification-systems", "title": "Overview of Coding & Classification Systems | CMS", "quote": "HCPCS Level I codes are part of the Current Procedural Terminology (CPT®) code set maintained by the CPT® Editorial Panel and copyrighted by the American Medical Association (AMA). HCPCS Level II codes are established and maintained by CMS."},
+      {"url": "https://www.hhs.gov/guidance/document/cms-hcpcs-general-information", "title": "CMS HCPCS - General Information | Guidance Portal", "quote": "HCPCS Level II : A standardized coding system that is used primarily to identify products, supplies, and services not included in the CPT® codes, such as ambulance services or durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) when used outside a physician's office."}
+    ]
+  },
+  {
+    "id": "sectors-05-22",
+    "deck": "sectors",
+    "topic": "Revenue cycle: NPI",
+    "q": "How many digits does a National Provider Identifier (NPI) have?",
+    "a": "10",
+    "accept": ["ten", "10 digits"],
+    "wrong": ["9", "11", "12"],
+    "explain": "The NPI is a HIPAA standard unique identifier for health care providers that health plans require in administrative and financial transactions such as claims.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.cms.gov/Regulations-and-Guidance/Administrative-Simplification/NationalProvIdentStand/", "title": "National Provider Identifier Standard (NPI) | CMS", "quote": "The NPI is a 10-position, intelligence-free numeric identifier (10-digit number)."},
+      {"url": "https://www.cms.gov/files/document/npi-fact-sheet.pdf", "title": "NPI Fact Sheet", "quote": "The National Provider Identifier (NPI) is the 10-digit standard unique health identifier for health care providers."}
+    ]
+  },
+  {
+    "id": "sectors-05-23",
+    "deck": "sectors",
+    "topic": "Revenue cycle: inpatient payment",
+    "q": "Under Medicare's Inpatient Prospective Payment System (IPPS), each hospital discharge is classified into what kind of group?",
+    "a": "MS-DRG",
+    "accept": ["Medicare Severity Diagnosis Related Group", "DRG", "diagnosis related group", "MS-DRGs"],
+    "wrong": ["APC", "RVU", "HCC"],
+    "explain": "IPPS pays acute care hospitals a predetermined rate per discharge: a base payment rate multiplied by the MS-DRG relative weight, rather than paying for each item or service.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.cms.gov/cms-guide-medical-technology-companies-and-other-interested-parties/payment/ipps", "title": "IPPS | CMS", "quote": "Under the IPPS, Medicare payment for hospital inpatient operating and capital-related costs is made at predetermined, specific rates for each hospital discharge. Discharges are classified according to a list of Medicare Severity Diagnosis Related Groups (MS-DRGs)."}
+    ]
+  },
+  {
+    "id": "sectors-05-24",
+    "deck": "sectors",
+    "topic": "PBMs",
+    "q": "In healthcare, what does PBM stand for?",
+    "a": "Pharmacy benefit manager",
+    "accept": ["pharmacy benefit managers", "pharmacy benefits manager"],
+    "wrong": ["Provider billing manager", "Patient benefit marketplace", "Prescription billing monitor"],
+    "explain": "The FTC describes PBMs as middlemen at the center of the pharmaceutical distribution chain, negotiating the terms and conditions for access to prescription drugs.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.ftc.gov/system/files/ftc_gov/pdf/pharmacy-benefit-managers-staff-report.pdf", "title": "Pharmacy Benefit Managers: The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies", "quote": "PBMs are at the center of the complex pharmaceutical distribution chain that delivers a wide variety of medicines from manufacturers to patients. PBMs serve as middlemen, negotiating the terms and conditions for access to prescription drugs for hundreds of millions of Americans."}
+    ]
+  },
+  {
+    "id": "sectors-05-25",
+    "deck": "sectors",
+    "topic": "Epic",
+    "q": "In which town is Epic Systems headquartered?",
+    "a": "Verona, Wisconsin",
+    "accept": ["Verona", "Verona WI", "Verona, WI"],
+    "wrong": ["Kansas City, Missouri", "Austin, Texas", "Chicago, Illinois"],
+    "explain": "Epic's headquarters campus is in Verona, just outside Madison, Wisconsin.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.epic.com/contact", "title": "Contact | Epic", "quote": "Intergalactic Headquarters ... 1979 Milky Way Verona, Wisconsin 53593"},
+      {"url": "https://www.epic.com/epic/post/our-farm", "title": "Our Farm | Epic", "quote": "Located in the rolling farmland of Verona, Wisconsin, just outside of Madison, is our headquarters"},
+      {"url": "https://www.uwalumni.com/news/judith-faulkner", "title": "Judith Faulkner MS’67 | Wisconsin Alumni Association", "quote": "Faulkner has kept the company privately held and has built a sustainable corporate campus in Verona."}
+    ]
+  },
+  {
+    "id": "sectors-05-26",
+    "deck": "sectors",
+    "topic": "Epic",
+    "q": "Who founded the EHR company Epic Systems in 1979?",
+    "a": "Judy Faulkner",
+    "accept": ["Judith Faulkner", "Faulkner"],
+    "wrong": ["Larry Ellison", "Neal Patterson", "Glen Tullman"],
+    "explain": "Faulkner started Epic in 1979 in the basement of an apartment building and has kept the company privately held.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.uwalumni.com/news/judith-faulkner", "title": "Judith Faulkner MS’67 | Wisconsin Alumni Association", "quote": "Judy Faulkner is the founder and CEO of Epic Systems, which she began in 1979 in the basement of an apartment house with $70,000 in startup money and two part-time assistants."},
+      {"url": "https://www.epic.com/epic/post/with-the-patient-at-the-center-judy-faulkner-on-epics-enduring-values", "title": "With the Patient at the Center: Judy Faulkner on Epic's Enduring Values | Epic", "quote": "Judy shares how a basement startup launched in 1979 grew into one of the most widely used electronic health record systems—without ever going public or taking outside investment."},
+      {"url": "https://www.epic.com/about", "title": "About | Epic", "quote": "Founded in a basement in 1979 with three half-time employees, Epic develops software to help people get well, help people stay well, and help future generations be healthier."}
+    ]
+  },
+  {
+    "id": "sectors-05-27",
+    "deck": "sectors",
+    "topic": "Oracle Health (Cerner)",
+    "q": "In what year did Oracle complete its acquisition of Cerner?",
+    "a": "2022",
+    "accept": ["June 2022", "June 8, 2022"],
+    "wrong": ["2019", "2020", "2024"],
+    "explain": "Oracle completed the all-cash acquisition of Cerner, a provider of digital information systems for hospitals and health systems, on June 8, 2022; the deal was announced on December 20, 2021.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312522169835/d290344d8k.htm", "title": "Oracle Corporation Form 8-K (June 8, 2022)", "quote": "On June 8, 2022, Oracle Corporation, a Delaware corporation (“Oracle”), completed its acquisition of Cerner Corporation, a Delaware corporation (“Cerner”), pursuant to the Agreement and Plan of Merger (the “Merger Agreement”), dated December 20, 2021"},
+      {"url": "https://www.oracle.com/corporate/acquisitions/cerner", "title": "Oracle and Cerner", "quote": "On December 20, 2021, Oracle Corporation and Cerner Corporation jointly announced an agreement for Oracle to acquire Cerner through an all-cash tender offer for $95.00 per share, or approximately $28.3 billion in equity value. ... The deal closed on June 8, 2022."},
+      {"url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/orcl-20230531.htm", "title": "Oracle Corporation Form 10-K (fiscal year ended May 31, 2023)", "quote": "On June 8, 2022, we completed our acquisition of Cerner Corporation (Cerner), a provider of digital information systems used within hospitals and health systems"}
+    ]
+  }
+]

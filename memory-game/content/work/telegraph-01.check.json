@@ -1,0 +1,410 @@
+[
+  {
+    "id": "telegraph-01-01",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model"
+    ]
+  },
+  {
+    "id": "telegraph-01-02",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model"
+    ]
+  },
+  {
+    "id": "telegraph-01-03",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing"
+    ]
+  },
+  {
+    "id": "telegraph-01-04",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": "Number (370px) rests on a single source: both citations are the same MDN box-sizing page, so there are not two independent sources.",
+    "pass": false,
+    "issue": "Add an independent second source stating the 370px result (e.g. W3C CSS Box Sizing spec or the MDN Box model guide's standard-model arithmetic) or drop the numeric example.",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing"
+    ]
+  },
+  {
+    "id": "telegraph-01-05",
+    "source": 26,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 96,
+    "hardFail": "Number (350px / 330px content) is stated only on the MDN box-sizing page; the second cited page (Box model guide) does not state 350px, so no two independent agreeing sources.",
+    "pass": false,
+    "issue": "Replace the second source with one that states the border-box width result (e.g. W3C CSS Box Sizing spec), or reword the card to not hinge on the number.",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing",
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model"
+    ]
+  },
+  {
+    "id": "telegraph-01-06",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme",
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/@media"
+    ]
+  },
+  {
+    "id": "telegraph-01-07",
+    "source": 30,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Minor: 'no-preference' was a value in earlier spec drafts but has been removed; acceptable as distractor today.",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme"
+    ]
+  },
+  {
+    "id": "telegraph-01-08",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme"
+    ]
+  },
+  {
+    "id": "telegraph-01-09",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img"
+    ]
+  },
+  {
+    "id": "telegraph-01-10",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Second quote ('The URL that the hyperlink points to') not seen in fetched excerpts; first quote alone confirms the answer.",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a"
+    ]
+  },
+  {
+    "id": "telegraph-01-11",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors"
+    ]
+  },
+  {
+    "id": "telegraph-01-12",
+    "source": 20,
+    "match": 26,
+    "unique": 15,
+    "current": 15,
+    "precise": 6,
+    "total": 82,
+    "hardFail": "The cited intro sentence could not be confirmed in the fetched page excerpts (only value definitions mentioning 'main axis' were returned), and the explain claim that align-items handles the cross axis has no cited source.",
+    "pass": false,
+    "issue": "Cite the MDN 'Basic concepts of flexbox' page (states justify-content on main axis, align-items on cross axis) as a second source, or drop the align-items clause.",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content"
+    ]
+  },
+  {
+    "id": "telegraph-01-13",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction"
+    ]
+  },
+  {
+    "id": "telegraph-01-14",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/gap"
+    ]
+  },
+  {
+    "id": "telegraph-01-15",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model"
+    ]
+  },
+  {
+    "id": "telegraph-01-16",
+    "source": 30,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/@media"
+    ]
+  },
+  {
+    "id": "telegraph-01-17",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/@media"
+    ]
+  },
+  {
+    "id": "telegraph-01-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const"
+    ]
+  },
+  {
+    "id": "telegraph-01-19",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"
+    ]
+  },
+  {
+    "id": "telegraph-01-20",
+    "source": 30,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"
+    ]
+  },
+  {
+    "id": "telegraph-01-21",
+    "source": 30,
+    "match": 30,
+    "unique": 3,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": null,
+    "pass": false,
+    "issue": "Accept list includes bare 'array', which is not equivalent to 'an array of property names' and would also match the distractor 'an array of values'. Remove 'array' from accept.",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys"
+    ]
+  },
+  {
+    "id": "telegraph-01-22",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions"
+    ]
+  },
+  {
+    "id": "telegraph-01-23",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/JSON"
+    ]
+  },
+  {
+    "id": "telegraph-01-24",
+    "source": 30,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse",
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify"
+    ]
+  },
+  {
+    "id": "telegraph-01-25",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify"
+    ]
+  },
+  {
+    "id": "telegraph-01-26",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector"
+    ]
+  },
+  {
+    "id": "telegraph-01-27",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "floor-04-27",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 99,
+    "hardFail": false,
+    "pass": true,
+    "issue": "None material. Federal Register (NYSE filing), NYSE article and CFTC DMO deck all independently confirm four MWCB Level 1 halts on March 9, 12, 16 and 18, 2020, each on a 7% S&P 500 drop. Distractors One/Two/Seven are definitely wrong. Historical fact, unchanged as of Nov 2026.",
+    "verifiedUrls": [
+      "https://www.federalregister.gov/documents/2020/10/14/2020-22715/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-and-immediate",
+      "https://www.nyse.com/article/assessing-nyse-model-performance",
+      "https://www.cftc.gov/media/3656/EEMAC032420_DMOMarketIntelligenceBranch/download"
+    ]
+  }
+]

@@ -1,0 +1,409 @@
+[
+ {
+  "id": "vault-09-01",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/senior-debt/",
+   "https://corporatefinanceinstitute.com/resources/commercial-lending/revolving-credit-facility/"
+  ]
+ },
+ {
+  "id": "vault-09-02",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/senior-debt/",
+   "https://corporatefinanceinstitute.com/resources/commercial-lending/revolving-credit-facility/"
+  ]
+ },
+ {
+  "id": "vault-09-03",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/senior-debt/",
+   "https://www.iosco.org/library/pubdocs/pdf/IOSCOPD766.pdf"
+  ]
+ },
+ {
+  "id": "vault-09-04",
+  "source": 27,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 94,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Passes, but WSP gives a 1% to 5% range and OCC says 1% was common; consider citing an additional source that names 1% directly.",
+  "verifiedUrls": [
+   "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/leveraged-lending/pub-ch-leveraged-lending.pdf",
+   "https://www.wallstreetprep.com/knowledge/senior-debt/"
+  ]
+ },
+ {
+  "id": "vault-09-05",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/leveraged-lending/pub-ch-leveraged-lending.pdf",
+   "https://www.iosco.org/library/pubdocs/pdf/IOSCOPD766.pdf"
+  ]
+ },
+ {
+  "id": "vault-09-06",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/fixed-income/high-yield-bond/",
+   "https://www.wallstreetprep.com/knowledge/high-yield-bonds/"
+  ]
+ },
+ {
+  "id": "vault-09-07",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/high-yield-bonds/",
+   "https://www.wallstreetprep.com/knowledge/subordinated-debt/",
+   "https://www.wallstreetprep.com/knowledge/senior-debt/"
+  ]
+ },
+ {
+  "id": "vault-09-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-41.pdf",
+   "https://www.wallstreetprep.com/knowledge/covenant-lite-loans"
+  ]
+ },
+ {
+  "id": "vault-09-09",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/covenant-lite-loans",
+   "https://www.wallstreetprep.com/knowledge/leverage-ratio/",
+   "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-41.pdf"
+  ]
+ },
+ {
+  "id": "vault-09-10",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/leveraged-lending/pub-ch-leveraged-lending.pdf",
+   "https://www.wallstreetprep.com/knowledge/covenant-lite-loans"
+  ]
+ },
+ {
+  "id": "vault-09-11",
+  "source": 28,
+  "match": 30,
+  "unique": 5,
+  "current": 15,
+  "precise": 9,
+  "total": 87,
+  "hardFail": "Distractor 'Affirmative covenant' can be argued correct: many sources classify financial-ratio maintenance requirements as affirmative covenants.",
+  "pass": false,
+  "issue": "Replace 'Affirmative covenant' (and ideally 'Negative covenant') with clearly wrong options, e.g. 'Call protection' or 'Make-whole provision'.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/covenant-lite-loans",
+   "https://www.wallstreetprep.com/knowledge/debt-covenants/"
+  ]
+ },
+ {
+  "id": "vault-09-12",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/commercial-lending/unitranche-debt/",
+   "https://www.wallstreetprep.com/knowledge/unitranche-debt/"
+  ]
+ },
+ {
+  "id": "vault-09-13",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/commercial-lending/unitranche-debt/",
+   "https://www.wallstreetprep.com/knowledge/unitranche-debt/"
+  ]
+ },
+ {
+  "id": "vault-09-14",
+  "source": 25,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 94,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Single source (WSP); acceptable for a concept but a second source would strengthen it.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/unitranche-debt/"
+  ]
+ },
+ {
+  "id": "vault-09-15",
+  "source": 25,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 94,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Single source (WSP); quote confirmed on page.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/unitranche-debt/"
+  ]
+ },
+ {
+  "id": "vault-09-16",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/pik-interest-paid-in-kind/"
+  ]
+ },
+ {
+  "id": "vault-09-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/leveraged-lending/pub-ch-leveraged-lending.pdf",
+   "https://www.wallstreetprep.com/knowledge/pik-interest-paid-in-kind/"
+  ]
+ },
+ {
+  "id": "vault-09-18",
+  "source": 25,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Single source but pure arithmetic from stated inputs.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/pik-interest-paid-in-kind/"
+  ]
+ },
+ {
+  "id": "vault-09-19",
+  "source": 25,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Single source but pure arithmetic from stated inputs.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/fccr-fixed-charge-coverage-ratio/"
+  ]
+ },
+ {
+  "id": "vault-09-20",
+  "source": 25,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 92,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Explain says 'net interest expense'; source says EBIT / interest expense. Consider dropping 'net'.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/interest-coverage-ratio/"
+  ]
+ },
+ {
+  "id": "vault-09-21",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/leverage-ratio/"
+  ]
+ },
+ {
+  "id": "vault-09-22",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/senior-debt/"
+  ]
+ },
+ {
+  "id": "vault-09-23",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/subordinated-debt/",
+   "https://www.wallstreetprep.com/knowledge/senior-debt/"
+  ]
+ },
+ {
+  "id": "vault-09-24",
+  "source": 25,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 94,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Single source (CFI); quote confirmed.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/fixed-income/call-protection/"
+  ]
+ },
+ {
+  "id": "vault-09-25",
+  "source": 25,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 94,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Single source (CFI); quote confirmed.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/fixed-income/call-protection/"
+  ]
+ },
+ {
+  "id": "vault-09-26",
+  "source": 25,
+  "match": 30,
+  "unique": 5,
+  "current": 15,
+  "precise": 9,
+  "total": 84,
+  "hardFail": "Accept list includes 'remaining coupons', which omits principal and is not equivalent to the answer.",
+  "pass": false,
+  "issue": "Remove 'remaining coupons' from accept (and arguably 'remaining payments' is fine).",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/fixed-income/make-whole-call-provision/"
+  ]
+ }
+]

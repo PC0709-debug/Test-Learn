@@ -1,0 +1,436 @@
+[
+ {
+  "id": "obs-01-01",
+  "source": 22,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 84,
+  "hardFail": "Numbers in explain (about 11 times wider, 142,984 km diameter) appear on only one cited page (NASA planet sizes); the second source does not state them",
+  "pass": false,
+  "issue": "Add a second independent source for the diameter/width ratio (e.g. NSSDC Jupiter fact sheet or Britannica) or drop the figures from explain.",
+  "verifiedUrls": [
+   "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system",
+   "https://science.nasa.gov/solar-system/planets/"
+  ]
+ },
+ {
+  "id": "obs-01-02",
+  "source": 22,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 84,
+  "hardFail": "Explain's 88-Earth-day orbit and 'fastest planet' are stated only on the NASA Mercury facts page; second cited source does not give them",
+  "pass": false,
+  "issue": "Add a second source for the 88-day orbit (e.g. Britannica Mercury) or remove it from explain.",
+  "verifiedUrls": [
+   "https://science.nasa.gov/Mercury/facts/",
+   "https://science.nasa.gov/solar-system/planets/"
+  ]
+ },
+ {
+  "id": "obs-01-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://science.nasa.gov/venus/venus-facts/",
+   "https://science.nasa.gov/solar-system/temperatures-across-our-solar-system"
+  ]
+ },
+ {
+  "id": "obs-01-04",
+  "source": 18,
+  "match": 10,
+  "unique": 15,
+  "current": 15,
+  "precise": 6,
+  "total": 64,
+  "hardFail": "Explain's height 'more than 25 miles (40 km)' comes from NASA only and conflicts with the cited Britannica page, which gives a central edifice 22 km (14 miles) high",
+  "pass": false,
+  "issue": "Drop the height figure or say heights are quoted variously (about 22-26 km above surroundings); keep the volcano-on-Mars fact, which both sources confirm.",
+  "verifiedUrls": [
+   "https://science.nasa.gov/mars/facts",
+   "https://www.britannica.com/place/Olympus-Mons"
+  ]
+ },
+ {
+  "id": "obs-01-05",
+  "source": 22,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 84,
+  "hardFail": "Explain's tilt of 97.77 degrees and the collision hypothesis are stated only on the NASA Uranus facts page; the second NASA page does not give them",
+  "pass": false,
+  "issue": "Add a second independent source for 97.77 degrees (e.g. Britannica Uranus or NSSDC fact sheet) or drop the number.",
+  "verifiedUrls": [
+   "https://science.nasa.gov/Uranus/facts",
+   "https://science.nasa.gov/uranus/"
+  ]
+ },
+ {
+  "id": "obs-01-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program",
+   "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo.html",
+   "https://www.si.edu/newsdesk/factsheets/brief-history-apollo-program"
+  ]
+ },
+ {
+  "id": "obs-01-07",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.si.edu/newsdesk/factsheets/brief-history-apollo-program",
+   "https://www.britannica.com/story/how-many-people-have-been-to-the-moon"
+  ]
+ },
+ {
+  "id": "obs-01-08",
+  "source": 24,
+  "match": 25,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 87,
+  "hardFail": "Spacecraft names in explain (command module Columbia, lunar module Eagle) are stated only by the Smithsonian page; NASA cited page does not name them",
+  "pass": false,
+  "issue": "Add a second source naming Columbia and Eagle (e.g. Britannica Apollo 11 or NASA Apollo 11 mission page) or drop the module names.",
+  "verifiedUrls": [
+   "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program",
+   "https://www.si.edu/newsdesk/factsheets/brief-history-apollo-program"
+  ]
+ },
+ {
+  "id": "obs-01-09",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: bare '17' in accept is loose but unambiguous.",
+  "verifiedUrls": [
+   "https://www.nasa.gov/mission/apollo-17/",
+   "https://www.si.edu/newsdesk/factsheets/brief-history-apollo-program"
+  ]
+ },
+ {
+  "id": "obs-01-10",
+  "source": 24,
+  "match": 25,
+  "unique": 15,
+  "current": 14,
+  "precise": 8,
+  "total": 86,
+  "hardFail": "Explain's '24 astronauts in total traveled to the Moon during Apollo' is stated only by Britannica; NASA page gives only the 12",
+  "pass": false,
+  "issue": "Add a second source for 24 or drop it. Also note Britannica now says 28 people have been to the Moon including Artemis II (2026), so keep the 'during Apollo' qualifier.",
+  "verifiedUrls": [
+   "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program",
+   "https://www.britannica.com/story/how-many-people-have-been-to-the-moon"
+  ]
+ },
+ {
+  "id": "obs-01-11",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://science.nasa.gov/exoplanets/what-is-a-light-year/",
+   "https://www.britannica.com/science/light-year"
+  ]
+ },
+ {
+  "id": "obs-01-12",
+  "source": 24,
+  "match": 26,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 88,
+  "hardFail": "Explain's '2012 the IAU fixed it at exactly 149,597,870.7 km' is stated only by Britannica; NASA cosmic distances does not give it",
+  "pass": false,
+  "issue": "Add a second source (e.g. IAU 2012 Resolution B2) for the 2012 fixed value or drop it.",
+  "verifiedUrls": [
+   "https://www.britannica.com/science/astronomical-unit",
+   "https://science.nasa.gov/universe/cosmic-distances"
+  ]
+ },
+ {
+  "id": "obs-01-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://science.nasa.gov/universe/cosmic-distances",
+   "https://science.nasa.gov/learn/basics-of-space-flight/chapter1-1/"
+  ]
+ },
+ {
+  "id": "obs-01-14",
+  "source": 22,
+  "match": 18,
+  "unique": 15,
+  "current": 15,
+  "precise": 7,
+  "total": 77,
+  "hardFail": "Distance mismatch: explain says 4.24 light-years (NASA Sun facts) but the other cited source (NASA Imagine the Universe) says 4.25 light-years",
+  "pass": false,
+  "issue": "Use 'about 4.2 light-years', which both sources support, or cite two sources that agree on 4.24.",
+  "verifiedUrls": [
+   "https://imagine.gsfc.nasa.gov/features/cosmic/nearest_star_info.html",
+   "https://science.nasa.gov/sun/facts"
+  ]
+ },
+ {
+  "id": "obs-01-15",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: 'G2 5' in accept is an unusual form of G2 V.",
+  "verifiedUrls": [
+   "https://science.nasa.gov/sun/facts",
+   "https://science.nasa.gov/learn/basics-of-space-flight/chapter1-1"
+  ]
+ },
+ {
+  "id": "obs-01-16",
+  "source": 24,
+  "match": 25,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 87,
+  "hardFail": "Explain's core temperature 'top 15 million degrees Celsius' appears in only one cited source (solarscience.msfc 'about 15,000,000 C'); the basics-of-space-flight page gives no temperature",
+  "pass": false,
+  "issue": "Cite NASA Sun facts (which says temperatures top 15 million C) as a second source, or drop the figure.",
+  "verifiedUrls": [
+   "https://solarscience.msfc.nasa.gov/interior.shtml",
+   "https://science.nasa.gov/learn/basics-of-space-flight/chapter1-1"
+  ]
+ },
+ {
+  "id": "obs-01-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nasa.gov/universe/what-are-black-holes/",
+   "https://science.nasa.gov/universe/black-holes/anatomy"
+  ]
+ },
+ {
+  "id": "obs-01-18",
+  "source": 22,
+  "match": 24,
+  "unique": 8,
+  "current": 15,
+  "precise": 8,
+  "total": 77,
+  "hardFail": "Accept list includes 'Sagittarius A' and 'Sgr A', which name the wider radio-source complex, not the black hole Sgr A*; and explain's 27,000 light-years and 2022 image date are stated only by the EHT page",
+  "pass": false,
+  "issue": "Remove 'Sagittarius A' and 'Sgr A' from accept; add a second source for 27,000 light-years and the 2022 image (e.g. NASA or ESO release) or drop them.",
+  "verifiedUrls": [
+   "https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy",
+   "https://www.nasa.gov/universe/black-hole-image-makes-history-nasa-telescopes-coordinated-observations/"
+  ]
+ },
+ {
+  "id": "obs-01-19",
+  "source": 30,
+  "match": 30,
+  "unique": 13,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: 'M87*' in accept names the black hole rather than the galaxy; consider removing.",
+  "verifiedUrls": [
+   "https://www.nasa.gov/universe/what-are-black-holes/",
+   "https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy",
+   "https://www.nasa.gov/universe/black-hole-image-makes-history-nasa-telescopes-coordinated-observations/"
+  ]
+ },
+ {
+  "id": "obs-01-20",
+  "source": 15,
+  "match": 24,
+  "unique": 14,
+  "current": 15,
+  "precise": 8,
+  "total": 76,
+  "hardFail": "Only one source cited (Britannica); the 2.5 million light-year distance and 'nearest large galaxy' lack a second independent source",
+  "pass": false,
+  "issue": "Add a second authoritative source (e.g. NASA Messier 31 page) confirming nearest large galaxy and ~2.5 million light-years.",
+  "verifiedUrls": [
+   "https://www.britannica.com/place/Andromeda-Galaxy"
+  ]
+ },
+ {
+  "id": "obs-01-21",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nasa.gov/mission/sts-31/",
+   "https://www.britannica.com/topic/Hubble-Space-Telescope"
+  ]
+ },
+ {
+  "id": "obs-01-22",
+  "source": 25,
+  "match": 25,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 88,
+  "hardFail": "Explain's '1.5 million km' L2 distance is stated only by Britannica; the NASA launch page says only a 'million-mile journey' (about 1.6 million km)",
+  "pass": false,
+  "issue": "Cite NASA Webb orbit page as a second source for ~1.5 million km, or drop the number.",
+  "verifiedUrls": [
+   "https://science.nasa.gov/mission/webb/launch",
+   "https://www.britannica.com/science/James-Webb-Space-Telescope"
+  ]
+ },
+ {
+  "id": "obs-01-23",
+  "source": 26,
+  "match": 26,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 90,
+  "hardFail": "Explain's claim that Voyager 2 reached interstellar space in 2018 appears in only one cited source (NASA interstellar mission page); the 2013 NASA release predates it and JPL page does not say it",
+  "pass": false,
+  "issue": "Add a second source for Voyager 2 in 2018 (e.g. JPL Voyager 2 page or NASA Nov 2018 release) or drop it.",
+  "verifiedUrls": [
+   "https://science.nasa.gov/mission/voyager/interstellar-mission/",
+   "https://www.nasa.gov/news-release/nasa-spacecraft-embarks-on-historic-journey-into-interstellar-space",
+   "https://www.jpl.nasa.gov/missions/voyager-1/"
+  ]
+ },
+ {
+  "id": "obs-01-24",
+  "source": 15,
+  "match": 25,
+  "unique": 14,
+  "current": 15,
+  "precise": 8,
+  "total": 77,
+  "hardFail": "Only one source cited (JPL Voyager 1 page); the name and 12-inch gold-plated copper disk need a second independent source",
+  "pass": false,
+  "issue": "Add a second source (e.g. NASA Voyager Golden Record page science.nasa.gov/mission/voyager/golden-record) confirming the name and description.",
+  "verifiedUrls": [
+   "https://www.jpl.nasa.gov/missions/voyager-1/"
+  ]
+ },
+ {
+  "id": "obs-01-25",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.iau.org/IAU/Iau/News/PR2006/iau-2006-general-assembly-resolution-votes.aspx",
+   "https://www.britannica.com/place/Pluto-dwarf-planet",
+   "https://science.nasa.gov/solar-system/planets/"
+  ]
+ },
+ {
+  "id": "obs-01-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://science.nasa.gov/dwarf-planets/ceres/facts/",
+   "http://www.britannica.com/place/Ceres-dwarf-planet"
+  ]
+ },
+ {
+  "id": "obs-01-27",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.iau.org/IAU/Iau/News/PR2006/iau-2006-general-assembly-resolution-votes.aspx",
+   "https://www.britannica.com/story/why-is-pluto-no-longer-a-planet"
+  ]
+ }
+]

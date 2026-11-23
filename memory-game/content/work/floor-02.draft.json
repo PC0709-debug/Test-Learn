@@ -1,0 +1,434 @@
+[
+  {
+    "id": "floor-02-01",
+    "deck": "floor",
+    "topic": "Price/yield relationship",
+    "q": "When market interest rates rise, what happens to the prices of existing fixed-rate bonds?",
+    "a": "They fall",
+    "accept": ["Fall", "Falls", "Decrease", "They decrease", "Go down", "Prices fall"],
+    "wrong": ["They rise", "They stay unchanged", "They double"],
+    "explain": "Market interest rates and bond prices move in opposite directions; this is known as interest rate risk.",
+    "hook": "Seesaw: rates up, prices down.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-86", "title": "Investor Bulletin: Fixed Income Investments — When Interest Rates Go Up, Prices of Fixed-Rate Bonds Fall | Investor.gov", "quote": "A fundamental principle of bond investing is that market interest rates and bond prices generally move in opposite directions. When market interest rates rise, prices of fixed-rate bonds fall. This phenomenon is known as interest rate risk ."},
+      {"url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/what-are", "title": "What Are Corporate Bonds? | Investor.gov", "quote": "The price of a bond moves in the opposite direction than market interest rates—like opposing ends of a seesaw. When interest rates go up, the price of the bond goes down."}
+    ]
+  },
+  {
+    "id": "floor-02-02",
+    "deck": "floor",
+    "topic": "Price/yield relationship",
+    "q": "If a Treasury note's yield to maturity is greater than its interest (coupon) rate, is its price above par, at par, or below par?",
+    "a": "Below par",
+    "accept": ["Below", "Discount", "At a discount", "Below par value", "Less than par"],
+    "wrong": ["Above par", "At par", "At a premium"],
+    "explain": "When yield exceeds the coupon rate, the security sells at a discount to par; when yield is below the coupon, it sells at a premium.",
+    "hook": "Yield above coupon pushes price below par.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.treasurydirect.gov/marketable-securities/understanding-pricing?os=___", "title": "Understanding Pricing and Interest Rates — TreasuryDirect", "quote": "* greater than the interest rate | less than par value"},
+      {"url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/what-are", "title": "What Are Corporate Bonds? | Investor.gov", "quote": "|Price (as a % of face value) |100 |90 |110 | ... |Coupon rate |4\\.00% |4\\.00% |4\\.00% | |Yield to maturity |4\\.00% |5\\.31% |2\\.84% |"}
+    ]
+  },
+  {
+    "id": "floor-02-03",
+    "deck": "floor",
+    "topic": "Treasury bills",
+    "q": "What is the longest regular maturity at which the U.S. Treasury issues Treasury bills?",
+    "a": "52 weeks",
+    "accept": ["52-week", "1 year", "One year", "52 wks"],
+    "wrong": ["26 weeks", "13 weeks", "2 years"],
+    "explain": "Treasury bills are short-term securities sold for terms from 4 weeks to 52 weeks.",
+    "hook": "Bills last at most a year: 52 weeks.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.treasurydirect.gov/marketable-securities/treasury-bills", "title": "Treasury Bills — TreasuryDirect", "quote": "We sell Treasury Bills (Bills) for terms ranging from four weeks to 52 weeks."},
+      {"url": "https://www.treasurydirect.gov/marketable-securities", "title": "About Treasury Marketable Securities — TreasuryDirect", "quote": "Treasury Bills are short-term securities with five term options, from 4 weeks up to 52 weeks."}
+    ]
+  },
+  {
+    "id": "floor-02-04",
+    "deck": "floor",
+    "topic": "Treasury bills",
+    "q": "Treasury bills pay no periodic coupons, so how does an investor earn interest on them?",
+    "a": "Bought at a discount",
+    "accept": ["Discount", "At a discount", "Sold at a discount", "Discount to face value", "Bought below face value"],
+    "wrong": ["Semiannual coupons", "Quarterly coupons", "Monthly coupons"],
+    "explain": "Bills are bought at a discount from par and redeemed at face value at maturity; the difference is the interest.",
+    "hook": "Pay less now, get face value later.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.treasurydirect.gov/help-center/glossary-of-terms", "title": "Glossary of Terms — TreasuryDirect", "quote": "Investors buy Treasury bills at a discount from their par amount , then receive the par amount when the bill matures. The difference between purchase price and par amount is the interest."},
+      {"url": "https://www.treasurydirect.gov/forms/sec009.pdf", "title": "Investing Directly with the U.S. Treasury (FS Pub 009) - TreasuryDirect", "quote": "You typically buy bills at a discount from their par (or “face”) value. The difference between your original purchase price and par value is your interest; you don’t get interest payments during the life of the bill."}
+    ]
+  },
+  {
+    "id": "floor-02-05",
+    "deck": "floor",
+    "topic": "Treasury notes",
+    "q": "What is the longest maturity at which U.S. Treasury notes are issued?",
+    "a": "10 years",
+    "accept": ["10", "Ten years", "10-year", "10 yrs"],
+    "wrong": ["7 years", "20 years", "30 years"],
+    "explain": "Treasury notes are issued with maturities of 2, 3, 5, 7, and 10 years and pay interest every six months.",
+    "hook": "Notes top out at the 10-year benchmark.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.treasurydirect.gov/marketable-securities/treasury-notes", "title": "Treasury Notes — TreasuryDirect", "quote": "We sell Treasury Notes for a term of 2, 3, 5, 7, or 10 years."},
+      {"url": "https://www.treasurydirect.gov/help-center/glossary-of-terms", "title": "Glossary of Terms — TreasuryDirect", "quote": "A Treasury note is a government security issued for terms ranging from 2 years to 10 years."}
+    ]
+  },
+  {
+    "id": "floor-02-06",
+    "deck": "floor",
+    "topic": "Treasury bonds",
+    "q": "U.S. Treasury bonds are issued with a 30-year term and with which other term?",
+    "a": "20 years",
+    "accept": ["20", "Twenty years", "20-year", "20 yrs"],
+    "wrong": ["10 years", "15 years", "50 years"],
+    "explain": "Treasury bonds are long-term securities sold for a term of either 20 or 30 years and pay interest every six months.",
+    "hook": "Bonds: 20 or 30.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.treasurydirect.gov/marketable-securities/treasury-bonds/", "title": "Treasury Bonds — TreasuryDirect", "quote": "We sell Treasury Bonds for a term of either 20 or 30 years."},
+      {"url": "https://www.treasurydirect.gov/marketable-securities", "title": "About Treasury Marketable Securities — TreasuryDirect", "quote": "Historically a 30-year investment, Treasury Bonds are now offered in 20-year terms, as well."}
+    ]
+  },
+  {
+    "id": "floor-02-07",
+    "deck": "floor",
+    "topic": "TIPS",
+    "q": "Which inflation index is used to adjust the principal of Treasury Inflation-Protected Securities (TIPS)?",
+    "a": "CPI-U",
+    "accept": ["CPI", "Consumer Price Index", "Consumer Price Index for All Urban Consumers", "CPIU"],
+    "wrong": ["PCE price index", "Producer Price Index", "GDP deflator"],
+    "explain": "TIPS principal is indexed to the Consumer Price Index for All Urban Consumers (CPI-U), rising with inflation and falling with deflation.",
+    "hook": "TIPS track CPI-U: U for urban.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.treasurydirect.gov/help-center/glossary-of-terms", "title": "Glossary of Terms — TreasuryDirect", "quote": "One type of government security whose payments are tied to inflation; specifically, to the Consumer Price Index for All Urban Consumers (CPI-U) ."},
+      {"url": "https://www.treasurydirect.gov/forms/sec0042.pdf", "title": "Treasury Inflation-Protected Securities (TIPS)", "quote": "They’re based on a principal amount that is adjusted for inflation using the Consumer Price Index for Urban Consumers (CPI-U)."}
+    ]
+  },
+  {
+    "id": "floor-02-08",
+    "deck": "floor",
+    "topic": "TIPS",
+    "q": "What is the shortest term at which the U.S. Treasury currently issues TIPS?",
+    "a": "5 years",
+    "accept": ["5", "Five years", "5-year", "5 yrs"],
+    "wrong": ["1 year", "2 years", "3 years"],
+    "explain": "TIPS are currently sold in terms of 5, 10, and 30 years and pay interest every six months.",
+    "hook": "TIPS: 5, 10, 30.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.treasurydirect.gov/marketable-securities/tips/", "title": "TIPS — TreasuryDirect", "quote": "We sell TIPS for a term of 5, 10, or 30 years."},
+      {"url": "https://www.treasurydirect.gov/help-center/glossary-of-terms", "title": "Glossary of Terms — TreasuryDirect", "quote": "TIPS are issued in terms of 5, 10, and 30 years."}
+    ]
+  },
+  {
+    "id": "floor-02-09",
+    "deck": "floor",
+    "topic": "Treasury FRNs",
+    "q": "Interest payments on U.S. Treasury Floating Rate Notes (FRNs) rise and fall with the discount rates on which Treasury security?",
+    "a": "13-week Treasury bills",
+    "accept": ["13-week bills", "13-week T-bills", "13-week bill", "13-week Treasury bill"],
+    "wrong": ["10-year Treasury notes", "30-year Treasury bonds", "5-year TIPS"],
+    "explain": "Treasury FRNs are issued for a two-year term, pay interest quarterly, and their interest moves with 13-week bill discount rates.",
+    "hook": "FRN floats on the 13-week bill.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.treasurydirect.gov/marketable-securities", "title": "About Treasury Marketable Securities — TreasuryDirect", "quote": "Interest payments on an FRN rise and fall based on the discount rates for 13-week Treasury bills. FRNs are only issued for a term of two years and pay interest quarterly (every three months)."},
+      {"url": "https://www.treasurydirect.gov/forms/sec009.pdf", "title": "Investing Directly with the U.S. Treasury (FS Pub 009) - TreasuryDirect", "quote": "Interest payments for a FRN rise and fall with discount rates on 13-week Treasury bills."}
+    ]
+  },
+  {
+    "id": "floor-02-10",
+    "deck": "floor",
+    "topic": "Yield curve",
+    "q": "What is the slope of a normal yield curve?",
+    "a": "Upward sloping",
+    "accept": ["Upward", "Positive", "Upward-sloping", "Positively sloped", "Upsloping"],
+    "wrong": ["Downward sloping", "Inverted", "Vertical"],
+    "explain": "In a normal yield curve, longer-term rates are above shorter-term rates, so the curve slopes upward.",
+    "hook": "Normal: lend longer, earn more.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/money/what-is-the-yield-curve", "title": "What’s the yield curve? Charting interest rates and the economy | Britannica Money", "quote": "A normal yield curve slopes upward, meaning the interest rate on shorter-dated bonds is lower than the rate on longer-dated bonds."},
+      {"url": "https://www.fdic.gov/analysis/risk-review/2024-risk-review/2024-risk-review-glossary.pdf", "title": "2024 Risk Review - Glossary of Terms - FDIC", "quote": "Yield curves generally exhibit three different shapes—normal, flat, and inverted—which are characterized by long-term interest rates being above, similar to, or below short-term interest rates."}
+    ]
+  },
+  {
+    "id": "floor-02-11",
+    "deck": "floor",
+    "topic": "Yield curve inversion",
+    "q": "In an inverted yield curve, are short-term yields higher or lower than long-term yields?",
+    "a": "Higher",
+    "accept": ["Higher than long-term", "Above", "Short-term higher"],
+    "wrong": ["Lower", "Equal", "Always zero"],
+    "explain": "An inverted curve means long-term rates are below short-term rates, giving the curve a negative slope.",
+    "hook": "Inverted = upside down: short beats long.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.fdic.gov/analysis/risk-review/2024-risk-review/2024-risk-review-glossary.pdf", "title": "2024 Risk Review - Glossary of Terms - FDIC", "quote": "Yield curves generally exhibit three different shapes—normal, flat, and inverted—which are characterized by long-term interest rates being above, similar to, or below short-term interest rates."},
+      {"url": "https://www.britannica.com/money/what-is-the-yield-curve", "title": "What’s the yield curve? Charting interest rates and the economy | Britannica Money", "quote": "When the long-term yield “inverts,” or falls below short-term yields, that’s historically been a harbinger of recession."}
+    ]
+  },
+  {
+    "id": "floor-02-12",
+    "deck": "floor",
+    "topic": "Yield curve inversion",
+    "q": "The widely watched \"2/10\" yield curve spread compares the 2-year Treasury yield with the yield on which other Treasury maturity?",
+    "a": "10-year",
+    "accept": ["10 year", "10-year note", "10-year Treasury", "Ten-year", "10"],
+    "wrong": ["4-week bill", "13-week bill", "52-week bill"],
+    "explain": "Market watchers track the difference between the 2-year and 10-year Treasury yields; when they invert, it typically gets the market's attention.",
+    "hook": "2s10s: two and ten.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/money/what-is-the-yield-curve", "title": "What’s the yield curve? Charting interest rates and the economy | Britannica Money", "quote": "Keep an eye on the difference in yields between the two-year U.S. Treasury note and the 10-year U.S. Treasury bond, and track how much that difference narrows—or inverts. You’ll sometimes hear the difference between these two instruments called the “2/10,” or the “2-year/10-year spread.”"},
+      {"url": "https://www.finra.org/investors/insights/spread-word-what-you-need-know-about-bond-spreads", "title": "Spread the Word: What You Need to Know About Bond Spreads | FINRA.org", "quote": "For instance, the spread between a 10-year and a 2-year Treasury bond can indicate economic expectations; a widening spread often suggests expectation of stronger economic growth."}
+    ]
+  },
+  {
+    "id": "floor-02-13",
+    "deck": "floor",
+    "topic": "Yield curve inversion",
+    "q": "Historically, an inverted yield curve has often signaled the lead-up to what economic event?",
+    "a": "Recession",
+    "accept": ["A recession", "Economic slowdown", "Recession or slowdown"],
+    "wrong": ["Economic boom", "Hyperinflation", "Stronger growth"],
+    "explain": "Historically the yield curve has taken a negative slope in the lead-up to recessions and economic slowdowns.",
+    "hook": "Curve flips, economy dips.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/fixed-income/inverted-yield-curve", "title": "Inverted Yield Curve - Overview, Recessions, and What it Actually Means", "quote": "An inverted yield curve often indicates the lead-up to a recession or economic slowdown ."},
+      {"url": "https://www.britannica.com/money/what-is-the-yield-curve", "title": "What’s the yield curve? Charting interest rates and the economy | Britannica Money", "quote": "When the long-term yield “inverts,” or falls below short-term yields, that’s historically been a harbinger of recession."}
+    ]
+  },
+  {
+    "id": "floor-02-14",
+    "deck": "floor",
+    "topic": "Basis points",
+    "q": "One basis point equals what percentage?",
+    "a": "0.01%",
+    "accept": ["0.01 percent", "1/100 of 1%", "One hundredth of one percent", ".01%", "0.0001"],
+    "wrong": ["0.1%", "1%", "0.001%"],
+    "explain": "A basis point is 1/100th of 1 percent, so 100 basis points equal 1%.",
+    "hook": "100 bps = 1%.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/knowledge/finance/basis-points-bps-definition", "title": "Basis Points (BPS) - Finance Unit of Measurement 1/100th of 1%", "quote": "One basis point is equal to .01 percent or 1/100th of 1 percent."},
+      {"url": "https://www.finra.org/investors/insights/spread-word-what-you-need-know-about-bond-spreads", "title": "Spread the Word: What You Need to Know About Bond Spreads | FINRA.org", "quote": "Typically, these spreads are measured in basis points (bps) where 1 bps equals 0.01 percent."}
+    ]
+  },
+  {
+    "id": "floor-02-15",
+    "deck": "floor",
+    "topic": "Basis points",
+    "q": "How many basis points separate bond interest rates of 9.85% and 9.35%?",
+    "a": "50",
+    "accept": ["50 bps", "50 basis points", "50bp", "Fifty"],
+    "wrong": ["5", "500", "0.5"],
+    "explain": "The difference is 0.5 percentage points; multiplying a percentage by 100 converts it to basis points, giving 50.",
+    "hook": "Percent x 100 = bps.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/knowledge/finance/basis-points-bps-definition", "title": "Basis Points (BPS) - Finance Unit of Measurement 1/100th of 1%", "quote": "The difference between bond interest rates of 9.85 percent and 9.35 percent is 0.5 percent, equivalent to 50 basis points."},
+      {"url": "https://www.finra.org/investors/insights/spread-word-what-you-need-know-about-bond-spreads", "title": "Spread the Word: What You Need to Know About Bond Spreads | FINRA.org", "quote": "Typically, these spreads are measured in basis points (bps) where 1 bps equals 0.01 percent."}
+    ]
+  },
+  {
+    "id": "floor-02-16",
+    "deck": "floor",
+    "topic": "Credit spreads",
+    "q": "A corporate bond's credit spread is most commonly measured against the yield of what benchmark of the same maturity?",
+    "a": "U.S. Treasury",
+    "accept": ["Treasury", "Treasuries", "US Treasury", "Treasury bond", "U.S. Treasury bond", "Treasury note"],
+    "wrong": ["High-yield bond index", "S&P 500 dividend yield", "Commodity futures"],
+    "explain": "Because Treasuries are backed by the full faith and credit of the U.S. government, credit spreads are usually calculated against a Treasury of the same maturity.",
+    "hook": "Spread = corporate yield minus Treasury yield.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.finra.org/investors/insights/spread-word-what-you-need-know-about-bond-spreads", "title": "Spread the Word: What You Need to Know About Bond Spreads | FINRA.org", "quote": "The difference between a bond’s yield compared to that of a relatively risk-free U.S. Treasury bond of the same maturity is known as a credit spread."},
+      {"url": "https://corporatefinanceinstitute.com/resources/capital_markets/credit-spread", "title": "Credit Spread - Overview, How to Calculate, Example", "quote": "Credit spreads commonly use the difference in yield between a same-maturity Treasury bond and a corporate bond."}
+    ]
+  },
+  {
+    "id": "floor-02-17",
+    "deck": "floor",
+    "topic": "Credit spreads",
+    "q": "During deteriorating economic conditions, do corporate credit spreads over Treasuries typically widen or narrow?",
+    "a": "Widen",
+    "accept": ["Widens", "Wider", "They widen", "Increase"],
+    "wrong": ["Narrow", "Stay fixed", "Fall to zero"],
+    "explain": "In weak markets investors buy Treasuries (pushing their yields down) and sell corporates (pushing their yields up), so spreads widen.",
+    "hook": "Fear widens the gap.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/capital_markets/credit-spread", "title": "Credit Spread - Overview, How to Calculate, Example", "quote": "For example, investors tend to purchase U.S. Treasuries during deteriorating market conditions and sell their holdings in corporate bonds. ... In such a scenario, credit spreads between U.S. Treasuries and corporate bonds would widen."},
+      {"url": "https://www.finra.org/investors/insights/spread-word-what-you-need-know-about-bond-spreads", "title": "Spread the Word: What You Need to Know About Bond Spreads | FINRA.org", "quote": "Tough economic times also tend to shift credit spreads for corporate bonds higher. When the economy gets rocky, investors seek safe havens, such as U.S. Treasury bonds, which sends their yields lower."}
+    ]
+  },
+  {
+    "id": "floor-02-18",
+    "deck": "floor",
+    "topic": "Investment grade vs high yield",
+    "q": "What is the lowest S&P (or Fitch) rating that still counts as investment grade?",
+    "a": "BBB-",
+    "accept": ["BBB minus", "BBB−"],
+    "wrong": ["BB+", "B", "A-"],
+    "explain": "Investment-grade bonds are typically rated BBB- or above by S&P or Fitch; BB and below is high yield.",
+    "hook": "Triple-B minus is the last rung before junk.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.fdic.gov/analysis/risk-review/2024-risk-review/2024-risk-review-glossary.pdf", "title": "2024 Risk Review - Glossary of Terms - FDIC", "quote": "In the United States, investment-grade bonds are typically rated Baa3 or above by Moody’s or BBB- or above by Standard & Poor’s or Fitch."},
+      {"url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/high-yield-bond-or-junk-bond", "title": "High-yield Bond (or Junk Bond) | Investor.gov", "quote": "Bonds that are believed to have a higher risk of default and receive low ratings by credit rating agencies, namely bonds rated Ba or below (by Moody's) or BB or below (by S&P and Fitch)."}
+    ]
+  },
+  {
+    "id": "floor-02-19",
+    "deck": "floor",
+    "topic": "Investment grade vs high yield",
+    "q": "What is the lowest Moody's rating that still counts as investment grade?",
+    "a": "Baa3",
+    "accept": ["BAA3"],
+    "wrong": ["Ba1", "Baa1", "A3"],
+    "explain": "Investment-grade bonds are typically rated Baa3 or above by Moody's; Ba and below is high yield.",
+    "hook": "Moody's Baa3 lines up with S&P BBB-.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.fdic.gov/analysis/risk-review/2024-risk-review/2024-risk-review-glossary.pdf", "title": "2024 Risk Review - Glossary of Terms - FDIC", "quote": "In the United States, investment-grade bonds are typically rated Baa3 or above by Moody’s or BBB- or above by Standard & Poor’s or Fitch."},
+      {"url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/investment-grade-bond-or-high-grade-bond", "title": "Investment-grade Bond (or High-grade Bond) | Investor.gov", "quote": "Bonds that are believed to have a lower risk of default and receive higher ratings by the credit rating agencies, namely bonds rated Baa (by Moody's) or BBB (by S&P and Fitch) or above."}
+    ]
+  },
+  {
+    "id": "floor-02-20",
+    "deck": "floor",
+    "topic": "Investment grade vs high yield",
+    "q": "High-yield bonds are also commonly known by what informal name?",
+    "a": "Junk bonds",
+    "accept": ["Junk", "Junk bond"],
+    "wrong": ["Savings bonds", "Agency bonds", "Zero-coupon bonds"],
+    "explain": "High-yield (junk) bonds carry low credit ratings and a higher perceived default risk, so they are typically issued at higher yields.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/high-yield-bond-or-junk-bond", "title": "High-yield Bond (or Junk Bond) | Investor.gov", "quote": "High-yield Bond (or Junk Bond) ... Bonds that are believed to have a higher risk of default and receive low ratings by credit rating agencies, namely bonds rated Ba or below (by Moody's) or BB or below (by S&P and Fitch). These bonds typically are issued at a higher yield (for example, a higher interest rate) than more creditworthy bonds, reflecting the perceived higher risk to investors."}
+    ]
+  },
+  {
+    "id": "floor-02-21",
+    "deck": "floor",
+    "topic": "SOFR vs LIBOR",
+    "q": "SOFR measures the cost of borrowing cash overnight collateralized by what type of securities?",
+    "a": "U.S. Treasury securities",
+    "accept": ["Treasuries", "Treasury securities", "US Treasuries", "Treasury"],
+    "wrong": ["Corporate bonds", "Equities", "Municipal bonds"],
+    "explain": "SOFR is a broad measure of overnight borrowing costs in the Treasury repurchase agreement (repo) market, published by the New York Fed each business day.",
+    "hook": "Secured = backed by Treasuries.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.newyorkfed.org/markets/reference-rates/sofr", "title": "Secured Overnight Financing Rate Data - FEDERAL RESERVE BANK of NEW YORK", "quote": "The Secured Overnight Financing Rate (SOFR) is a broad measure of the cost of borrowing cash overnight collateralized by Treasury securities."},
+      {"url": "https://www.newyorkfed.org/arrc/sofr-transition", "title": "Transition from LIBOR - Alternative Reference Rates Committee", "quote": "SOFR is a broad measure of the cost of borrowing cash overnight collateralized by U.S. Treasury securities in the repurchase agreement (repo) market."}
+    ]
+  },
+  {
+    "id": "floor-02-22",
+    "deck": "floor",
+    "topic": "SOFR vs LIBOR",
+    "q": "On what date did the remaining USD LIBOR panel settings (overnight, 1-, 3-, 6- and 12-month) cease?",
+    "a": "June 30, 2023",
+    "accept": ["30 June 2023", "6/30/2023", "June 2023", "2023-06-30"],
+    "wrong": ["December 31, 2021", "June 30, 2022", "December 31, 2023"],
+    "explain": "June 30, 2023 marked the cessation of all USD LIBOR panel settings, the final major step in the transition to SOFR.",
+    "hook": "LIBOR's last day: mid-2023.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.newyorkfed.org/arrc/sofr-transition", "title": "Transition from LIBOR - Alternative Reference Rates Committee", "quote": "June 30, 2023 then marked the cessation of all USD LIBOR panel settings—the final major step in the transition. Today, SOFR is the dominant U.S. dollar interest rate benchmark."},
+      {"url": "https://www.federalregister.gov/documents/full_text/html/2023/06/30/2023-13890.html", "title": "Federal Register: Final regulations on transition from IBORs (TD 9976)", "quote": "On March 5, 2021, the administrator of LIBOR, Intercontinental Exchange (ICE) Benchmark Association, announced that publication of the overnight, one-month, three-month, six-month, and 12-month USD LIBORs would cease following the LIBOR publication on June 30, 2023."}
+    ]
+  },
+  {
+    "id": "floor-02-23",
+    "deck": "floor",
+    "topic": "SOFR vs LIBOR",
+    "q": "In what year did the Alternative Reference Rates Committee (ARRC) select SOFR as its preferred alternative to USD LIBOR?",
+    "a": "2017",
+    "accept": ["June 2017"],
+    "wrong": ["2014", "2018", "2021"],
+    "explain": "The ARRC, convened in 2014, selected SOFR in 2017; the New York Fed began publishing SOFR in April 2018.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.newyorkfed.org/arrc/sofr-transition", "title": "Transition from LIBOR - Alternative Reference Rates Committee", "quote": "In 2017, following consultation, the ARRC unanimously selected SOFR as its recommended alternative to USD LIBOR."},
+      {"url": "https://www.newyorkfed.org/medialibrary/microsites/arrc/files/ARRC-faq.pdf", "title": "Alternative Reference Rates Committee Frequently Asked Questions", "quote": "In June 2017, the ARRC, with the support of a significant majority of its Advisory Group, announced it had selected SOFR as its preferred alternative to USD LIBOR."},
+      {"url": "https://www.newyorkfed.org/medialibrary/Microsites/arrc/files/2021/users-guide-to-sofr2021-update.pdf", "title": "An Updated User’s Guide to SOFR (ARRC, February 2021)", "quote": "FRBNY, in cooperation with the Office of Financial Research, began publishing SOFR on April 3, 2018"}
+    ]
+  },
+  {
+    "id": "floor-02-24",
+    "deck": "floor",
+    "topic": "Duration",
+    "q": "Which duration measure is the slope (first derivative) of a bond's price with respect to its yield to maturity?",
+    "a": "Modified duration",
+    "accept": ["Modified"],
+    "wrong": ["Convexity", "Current yield", "Credit spread"],
+    "explain": "Modified duration measures the sensitivity of a bond's price to changes in its yield to maturity and can be calculated from Macaulay duration and yield.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/yield-based-bond-duration-measures-and-properties", "title": "Yield-Based Bond Duration Measures and Properties | CFA Institute", "quote": "Modified duration is the slope or first derivative of the price of a bond with respect to its yield-to-maturity, measuring the sensitivity of a bond’s price to changes in its yield-to-maturity. Modified duration can be calculated using a bond’s Macaulay duration and yield or through approximation."},
+      {"url": "https://www.treasurer.ca.gov/sites/default/files/cdiac/Duration_06-10.pdf", "title": "Duration Basics — CDIAC issue brief", "quote": "Modified Duration . This measure expands or modifies Macaulay duration to measure the re sponsiveness of a bond’s price to interest rate changes."}
+    ]
+  },
+  {
+    "id": "floor-02-25",
+    "deck": "floor",
+    "topic": "Convexity",
+    "q": "For an option-free fixed-rate bond, is convexity positive or negative?",
+    "a": "Positive",
+    "accept": ["Always positive", "+"],
+    "wrong": ["Negative", "Zero", "Undefined"],
+    "explain": "Positive convexity means price gains when yields fall are larger, and losses when yields rise are smaller, than duration alone suggests.",
+    "hook": "Convexity is the bondholder's friend.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/yield-based-bond-convexity-and-portfolio-properties", "title": "Yield-Based Bond Convexity and Portfolio Properties | CFA Institute", "quote": "Convexity is always positive for an option-free fixed-rate bond, such that estimated price increases from a decline in yields are higher than duration alone would suggest and estimated price decreases from an increase in yields are lower than duration alone would suggest."},
+      {"url": "https://www.treasurer.ca.gov/sites/default/files/2026-01/2-1.pdf", "title": "Day 2, Session 1 Slides | 2025 Advanced Public Funds Investing (California State Treasurer)", "quote": "Convexity is a positive attribute for a bond . Other things being equal, a more convex bond appreciates in price more than a less convex bond when yields fall and depreciates less when yields rise."}
+    ]
+  },
+  {
+    "id": "floor-02-26",
+    "deck": "floor",
+    "topic": "Duration",
+    "q": "All else equal, does a lower coupon rate increase or decrease a bond's duration?",
+    "a": "Increase",
+    "accept": ["Increases", "Higher", "Raises it", "Higher duration"],
+    "wrong": ["Decrease", "No effect", "Reduce it to zero"],
+    "explain": "Longer maturity, lower coupon, and lower yield to maturity each raise duration and therefore interest rate risk.",
+    "hook": "Less coupon, more of the value waits for maturity.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/yield-based-bond-duration-measures-and-properties", "title": "Yield-Based Bond Duration Measures and Properties | CFA Institute", "quote": "All else equal, a longer (shorter) time-to-maturity, a lower (higher) coupon rate, or a lower (higher) yield-to-maturity results in higher (lower) duration or higher (lower) interest rate risk."},
+      {"url": "https://www.treasurer.ca.gov/sites/default/files/2026-01/2-1.pdf", "title": "Day 2, Session 1 Slides | 2025 Advanced Public Funds Investing (California State Treasurer)", "quote": "For the same time-to-maturity, a lower-coupon bond has a greater percentage price change than a higher-coupon bond when their market discount rates change by the same amount (the coupon effect)."}
+    ]
+  },
+  {
+    "id": "floor-02-27",
+    "deck": "floor",
+    "topic": "Convexity",
+    "q": "Duration is the first-order effect of a yield change on a bond's price; what is the second-order effect called?",
+    "a": "Convexity",
+    "accept": ["Bond convexity"],
+    "wrong": ["Accrued interest", "Yield spread", "Coupon rate"],
+    "explain": "Duration assumes a linear price-yield relationship, while convexity captures the curvature of the true, non-linear relationship.",
+    "hook": "Duration is the line, convexity is the curve.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/yield-based-bond-convexity-and-portfolio-properties", "title": "Yield-Based Bond Convexity and Portfolio Properties | CFA Institute", "quote": "Convexity is a complementary risk metric that measures the second-order (non-linear) effect of yield changes on price for an option-free fixed-rate bond."},
+      {"url": "https://www.treasurer.ca.gov/sites/default/files/2026-01/2-1.pdf", "title": "Day 2, Session 1 Slides | 2025 Advanced Public Funds Investing (California State Treasurer)", "quote": "Duration is the primary, or first-order, effect on a bond’s percentage price change given a change in the yield-to- maturity. Convexity is the secondary, or second-order, effect."}
+    ]
+  }
+]

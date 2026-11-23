@@ -1,0 +1,18 @@
+[
+  {
+    "id": "vault-06-07",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow",
+      "https://corporatefinanceinstitute.com/resources/financial-modeling/free-cash-flow-to-firm-fcff"
+    ]
+  }
+]

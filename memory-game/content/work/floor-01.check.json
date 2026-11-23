@@ -1,0 +1,426 @@
+[
+ {
+  "id": "floor-01-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/fomc.htm",
+   "https://www.britannica.com/topic/Federal-Reserve-System"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Federal-Reserve-System",
+   "https://www.federalreserve.gov/monetarypolicy/discountrate.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm",
+   "https://www.britannica.com/topic/Federal-Reserve-System"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-04",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "issue": "Hook \"7 x 2 = 14\" is a mnemonic only, not a causal link; fine.",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm",
+   "https://www.britannica.com/money/federal-open-market-committee"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-05",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm",
+   "https://www.britannica.com/topic/Federal-Reserve-System"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm",
+   "https://www.britannica.com/money/federal-open-market-committee"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-07",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "issue": "Single official source; acceptable since no number/date/name is the answer.",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/fomc.htm",
+   "https://www.britannica.com/money/federal-open-market-committee"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/fomc.htm",
+   "https://www.britannica.com/money/federal-open-market-committee"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-10",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/fomc.htm",
+   "https://www.britannica.com/money/federal-open-market-committee"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-11",
+  "source": 15,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 85,
+  "hardFail": "Answer is a name (Cleveland) supported by only one cited source",
+  "issue": "Only fomc.htm cited. Add second source: britannica.com/money/federal-open-market-committee lists the group \"Cleveland and Chicago\".",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/fomc.htm"
+  ],
+  "pass": false
+ },
+ {
+  "id": "floor-01-12",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/fomc.htm",
+   "https://www.britannica.com/money/federal-open-market-committee"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-13",
+  "source": 30,
+  "match": 30,
+  "unique": 12,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "Accept \"full employment\" is a looser synonym than \"maximum employment\"; consider removing.",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/faqs/what-economic-goals-does-federal-reserve-seek-to-achieve-through-monetary-policy.htm",
+   "https://www.chicagofed.org/research/dual-mandate/dual-mandate"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/aboutthefed/section2a.htm",
+   "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125c.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/aboutthefed/section2a.htm",
+   "https://www.chicagofed.org/research/dual-mandate/dual-mandate"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/faqs/economy_14400.htm",
+   "https://www.chicagofed.org/research/dual-mandate/dual-mandate"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/faqs/what-economic-goals-does-federal-reserve-seek-to-achieve-through-monetary-policy.htm",
+   "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125c.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125c.htm",
+   "https://www.chicagofed.org/research/dual-mandate/dual-mandate"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/money/federal-open-market-committee",
+   "https://www.federalreserve.gov/monetarypolicy/fomc_projectionsfaqs.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-20",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/fomc_projectionsfaqs.htm",
+   "https://www.britannica.com/money/federal-open-market-committee"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-21",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "Single official source; acceptable (no number/date/person).",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/reserve-balances.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-22",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "Single official source; acceptable.",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/overnight-reverse-repurchase-agreements.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-23",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "issue": "Accept \"1 day\" is slightly loose but equivalent.",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
+   "https://www.chicagofed.org/research/dual-mandate/dual-mandate"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-24",
+  "source": 15,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 85,
+  "hardFail": "Date \"since March 2020\" supported by only one cited source",
+  "issue": "Only discountrate.htm cited for the March 2020 date. Add a second independent source (e.g. Fed March 15, 2020 press release or frbdiscountwindow.org) or drop the date from the question.",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/discountrate.htm"
+  ],
+  "pass": false
+ },
+ {
+  "id": "floor-01-25",
+  "source": 25,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 95,
+  "hardFail": null,
+  "issue": "Single Britannica source for a concept term; acceptable.",
+  "verifiedUrls": [
+   "https://www.britannica.com/money/federal-open-market-committee"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-26",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "issue": "Explain \"balance sheet reduction secondary\" is a mild paraphrase; page says reduction follows rate increases.",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/policy-normalization.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-01-27",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "Single official source; acceptable.",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/fomc.htm"
+  ],
+  "pass": true
+ }
+]

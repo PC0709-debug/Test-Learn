@@ -1,0 +1,828 @@
+[
+ {
+  "id": "vault-08-01",
+  "deck": "vault",
+  "topic": "Sources and uses",
+  "q": "In an LBO sources and uses table, total sources must equal what?",
+  "a": "Total uses",
+  "accept": [
+   "uses",
+   "total uses of funds"
+  ],
+  "wrong": [
+   "Total debt",
+   "Purchase equity value",
+   "Exit enterprise value"
+  ],
+  "explain": "The sources and uses table must balance: the funding raised (sources) equals the capital required (uses), similar to the balance sheet equation.",
+  "hook": "Every dollar spent needs a dollar raised.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+    "title": "Basics of an LBO Model | Training Tutorial",
+    "quote": "In the sources and uses of funds table, the total sources must equate to the total uses (Total Uses = Total Sources), akin to the fundamental balance sheet equation ."
+   },
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses",
+    "title": "LBO Model: Sources & Uses [Video Tutorial]",
+    "quote": "Finally, add up Total Sources at the bottom and ensure that it equals Total Uses."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-02",
+  "deck": "vault",
+  "topic": "Sources and uses",
+  "q": "Which line item is usually the plug that makes sources equal uses in an LBO?",
+  "a": "Sponsor equity",
+  "accept": [
+   "sponsor equity contribution",
+   "investor equity",
+   "equity contribution",
+   "the equity check",
+   "sponsor equity check"
+  ],
+  "wrong": [
+   "Senior debt",
+   "Transaction fees",
+   "Purchase enterprise value"
+  ],
+  "explain": "After the debt and other sources are set, the financial sponsor's equity contribution fills the remaining gap so that total sources equal total uses.",
+  "hook": "Debt first, equity fills the gap.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+    "title": "Basics of an LBO Model | Training Tutorial",
+    "quote": "The remaining amount for the Sources and Uses to be equal is the equity contribution by the financial sponsor (i.e. the equity investment to “plug” the remaining funds required)."
+   },
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses",
+    "title": "LBO Model: Sources & Uses [Video Tutorial]",
+    "quote": "Then, calculate Investor Equity by setting it equal to Total Uses — “Sources So Far” — all the sources of funding ABOVE the Investor Equity line item."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-03",
+  "deck": "vault",
+  "topic": "Sources and uses",
+  "q": "On which side of the sources and uses table do transaction fees and financing fees appear?",
+  "a": "Uses",
+  "accept": [
+   "uses side",
+   "the uses side"
+  ],
+  "wrong": [
+   "Sources",
+   "Neither side",
+   "Both sides"
+  ],
+  "explain": "Total uses include the purchase enterprise value plus transaction fees (advisory, legal, consulting) and financing fees (debt issuance costs).",
+  "hook": "Fees are money spent, so they are uses.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+    "title": "Basics of an LBO Model | Training Tutorial",
+    "quote": "Total Uses ➝ Purchase Enterprise Value (TEV), Transaction Fees, Financing Fees"
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/sources-and-uses-table",
+    "title": "Sources and Uses of Funds | Formula + Calculator",
+    "quote": "Uses → The “Uses” side calculates the total amount of capital required to make the acquisition (i.e. the purchase price and transaction fees)."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-04",
+  "deck": "vault",
+  "topic": "Sources and uses",
+  "q": "In the LBO sources and uses table, management rollover equity is shown as a source or a use of funds?",
+  "a": "Source",
+  "accept": [
+   "sources",
+   "a source",
+   "source of funds"
+  ],
+  "wrong": [
+   "Use",
+   "Transaction fee",
+   "Financing fee"
+  ],
+  "explain": "Rollover by the founder or management reduces how much the PE firm must pay, so it is treated as another source of funding.",
+  "hook": "Management's rolled stake helps fund the deal.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses",
+    "title": "LBO Model: Sources & Uses [Video Tutorial]",
+    "quote": "Founder or Management Rollover — If the Founder or management team owns a % of the company now and wants to keep it, this also reduces the amount the PE firm pays — and therefore it’s another Source of funding and only appears under Sources."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/management-buyout-mbo",
+    "title": "Management Buyout (MBO) | Transaction Structure + Examples",
+    "quote": "From the perspective of the financial sponsor, the rollover equity by management is a “source” of funds that reduce:"
+   }
+  ]
+ },
+ {
+  "id": "vault-08-05",
+  "deck": "vault",
+  "topic": "Sources and uses",
+  "q": "In a sources and uses schedule, debt that is assumed rather than refinanced appears on which side?",
+  "a": "Both sides",
+  "accept": [
+   "both",
+   "sources and uses",
+   "both sources and uses"
+  ],
+  "wrong": [
+   "Sources only",
+   "Uses only",
+   "Neither side"
+  ],
+  "explain": "Assumed debt simply stays on the balance sheet, so it is both a source and a use and has no impact on the cash required for the deal.",
+  "hook": "Assumed debt cancels itself out.",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses",
+    "title": "LBO Model: Sources & Uses [Video Tutorial]",
+    "quote": "Debt Assumed — This appears under BOTH the Sources AND the Uses sides and has no impact on the cash required to do the deal. It simply stays on the Balance Sheet, so it’s both a Source and a Use of funds and doesn’t impact us at all."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-06",
+  "deck": "vault",
+  "topic": "Sources and uses",
+  "q": "When the target uses its own excess cash to help fund the buyout, is that cash a source or a use of funds?",
+  "a": "Source",
+  "accept": [
+   "a source",
+   "source of funds",
+   "sources"
+  ],
+  "wrong": [
+   "Use",
+   "Transaction fee",
+   "Financing fee"
+  ],
+  "explain": "Excess cash used reduces the number of shares the PE firm must buy, and therefore the amount it must pay, so it is a source of funds.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses",
+    "title": "LBO Model: Sources & Uses [Video Tutorial]",
+    "quote": "Excess Cash Used — The company uses its own cash to purchase some of its shares required to complete the deal. This REDUCES the number of shares the PE firm must buy, and therefore reduces the amount the PE firm must pay, so it’s a Source of funds."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-07",
+  "deck": "vault",
+  "topic": "Returns",
+  "q": "Which return metric accounts for the time value of money: IRR or MOIC?",
+  "a": "IRR",
+  "accept": [
+   "internal rate of return",
+   "the IRR"
+  ],
+  "wrong": [
+   "MOIC",
+   "MoM",
+   "Cash-on-cash multiple"
+  ],
+  "explain": "IRR is an annualized return that depends on the timing of cash flows, while MOIC only compares proceeds to invested capital regardless of when the exit occurs.",
+  "hook": "IRR has a clock; MOIC does not.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/",
+    "title": "Multiple on Invested Capital (MOIC) | Formula + Calculator",
+    "quote": "The fact that the MOIC metric neglects the concept of time is the reason the internal rate of return (IRR) – i.e. a returns metric that considers the duration of the holding period – must be calculated as well to generate a complete picture of investment performance, inclusive of the passage of time."
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/wealth-management/moic-private-equity",
+    "title": "Maximizing Returns: Understanding MOIC in Private Equity",
+    "quote": "While IRR considers the time value of money and the timing of cash flows, MOIC focuses exclusively on the relationship between the realized value and the initial invested capital."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-08",
+  "deck": "vault",
+  "topic": "Returns",
+  "q": "What does the returns abbreviation MoM stand for?",
+  "a": "Multiple of money",
+  "accept": [
+   "multiple on money",
+   "multiple-on-money",
+   "multiple-of-money"
+  ],
+  "wrong": [
+   "Margin over market",
+   "Month over month",
+   "Mark of maturity"
+  ],
+  "explain": "MoM is another name for MOIC (multiple on invested capital), also called cash-on-cash.",
+  "hook": "",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/wealth-management/moic-private-equity",
+    "title": "Maximizing Returns: Understanding MOIC in Private Equity",
+    "quote": "MOIC is usually synonymous with the terms “cash-on-cash” and “multiple-on-money (MoM)”."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+    "title": "Basics of an LBO Model | Training Tutorial",
+    "quote": "After calculating the exit equity value because of the sponsor, the key LBO return metrics – i.e. the internal rate of return (IRR) and multiple of money (MoM) – can be estimated."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-09",
+  "deck": "vault",
+  "topic": "Returns",
+  "q": "A sponsor invests $100 million of equity and receives $300 million in total proceeds; what is the MOIC?",
+  "a": "3.0x",
+  "accept": [
+   "3x",
+   "3",
+   "3.0",
+   "3.0 x",
+   "3 x"
+  ],
+  "wrong": [
+   "2.0x",
+   "0.33x",
+   "4.0x"
+  ],
+  "explain": "MOIC equals total value returned divided by invested capital: $300m / $100m = 3.0x.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/wealth-management/moic-private-equity",
+    "title": "Maximizing Returns: Understanding MOIC in Private Equity",
+    "quote": "MOIC = Total Value / Invested Capital"
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+    "title": "Basics of an LBO Model | Training Tutorial",
+    "quote": "The multiple on invested capital (MOIC) is the ratio between the proceeds retrieved from an investment and the original investment."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-10",
+  "deck": "vault",
+  "topic": "Returns rules of thumb",
+  "q": "Roughly what IRR does doubling your money (2.0x) over 5 years imply?",
+  "a": "~15%",
+  "accept": [
+   "15%",
+   "15",
+   "15 percent",
+   "about 15%"
+  ],
+  "wrong": [
+   "~25%",
+   "~40%",
+   "~8%"
+  ],
+  "explain": "A 2.0x MOIC over a 5-year hold implies an IRR of about 15%; the Rule of 72 (72 / 5 ≈ 14) gives a similar estimate.",
+  "hook": "72 / 5 ≈ 15.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/",
+    "title": "Multiple on Invested Capital (MOIC) | Formula + Calculator",
+    "quote": "2.0x MOIC in 5 Years | * ~15% IRR"
+   },
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/how-to-calculate-irr-manually",
+    "title": "How To Quickly Calculate IRR in LBO Models [Video Tutorial]",
+    "quote": "Double Your Money in 5 Years = ~15% IRR"
+   }
+  ]
+ },
+ {
+  "id": "vault-08-11",
+  "deck": "vault",
+  "topic": "Returns rules of thumb",
+  "q": "Roughly what IRR does doubling your money (2.0x) over 3 years imply?",
+  "a": "~25%",
+  "accept": [
+   "25%",
+   "25",
+   "25 percent",
+   "about 25%"
+  ],
+  "wrong": [
+   "~15%",
+   "~45%",
+   "~33%"
+  ],
+  "explain": "A 2.0x MOIC over 3 years implies roughly a 25% IRR; 100% / 3 is about 33%, and compounding brings the true rate down to about 75% of that.",
+  "hook": "Double in three: a quarter a year.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/",
+    "title": "Multiple on Invested Capital (MOIC) | Formula + Calculator",
+    "quote": "2.0x MOIC in 3 Years | * ~25% IRR"
+   },
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/how-to-calculate-irr-manually",
+    "title": "How To Quickly Calculate IRR in LBO Models [Video Tutorial]",
+    "quote": "For example, if you double your money in 3 years, 100% / 3 = 33%. 75% of 33% is about 25%, which is the approximate IRR in this case."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-12",
+  "deck": "vault",
+  "topic": "Returns rules of thumb",
+  "q": "Roughly what IRR does tripling your money (3.0x) over 5 years imply?",
+  "a": "~25%",
+  "accept": [
+   "25%",
+   "25",
+   "25 percent",
+   "about 25%"
+  ],
+  "wrong": [
+   "~15%",
+   "~45%",
+   "~60%"
+  ],
+  "explain": "A 3.0x MOIC over a 5-year hold implies an IRR of about 25%, the same IRR as doubling money in 3 years.",
+  "hook": "Triple in five equals double in three.",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/",
+    "title": "Multiple on Invested Capital (MOIC) | Formula + Calculator",
+    "quote": "3.0x MOIC in 5 Years | * ~25% IRR"
+   },
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/how-to-calculate-irr-manually",
+    "title": "How To Quickly Calculate IRR in LBO Models [Video Tutorial]",
+    "quote": "Triple Your Money in 5 Years = ~25% IRR"
+   }
+  ]
+ },
+ {
+  "id": "vault-08-13",
+  "deck": "vault",
+  "topic": "Returns rules of thumb",
+  "q": "Roughly what IRR does tripling your money (3.0x) over 3 years imply?",
+  "a": "~45%",
+  "accept": [
+   "45%",
+   "45",
+   "45 percent",
+   "about 45%"
+  ],
+  "wrong": [
+   "~25%",
+   "~15%",
+   "~100%"
+  ],
+  "explain": "A 3.0x MOIC over 3 years implies an IRR of about 45%.",
+  "hook": "",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/",
+    "title": "Multiple on Invested Capital (MOIC) | Formula + Calculator",
+    "quote": "3.0x MOIC in 3 Years | * ~45% IRR"
+   },
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/how-to-calculate-irr-manually",
+    "title": "How To Quickly Calculate IRR in LBO Models [Video Tutorial]",
+    "quote": "Triple Your Money in 3 Years = ~45% IRR"
+   }
+  ]
+ },
+ {
+  "id": "vault-08-14",
+  "deck": "vault",
+  "topic": "Returns rules of thumb",
+  "q": "Which rule estimates the years needed to double an investment by dividing a number by the annual rate of return?",
+  "a": "Rule of 72",
+  "accept": [
+   "the rule of 72",
+   "72"
+  ],
+  "wrong": [
+   "Rule of 40",
+   "Rule of 100",
+   "Rule of 20"
+  ],
+  "explain": "The Rule of 72 is a back-of-the-envelope shortcut: divide 72 by the annual rate of return to estimate doubling time, which is handy for paper LBOs.",
+  "hook": "",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/wealth-management/rule-of-72-double-investment/",
+    "title": "Rule of 72 - Formula, Calculate the Time for an Investment to Double",
+    "quote": "The rule is a shortcut, or back-of-the-envelope, calculation to determine the amount of time for an investment to double in value. The simple calculation is dividing 72 by the annual interest rate."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/paper-lbo",
+    "title": "Paper LBO Tutorial | Practice Training Guide - Wall Street Prep",
+    "quote": "The approximate number of years necessary for the investment value to double in size can be determined by dividing 72 by the rate of return."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-15",
+  "deck": "vault",
+  "topic": "Returns rules of thumb",
+  "q": "Using the Rule of 72, about how many years does it take to double an investment at a 12% annual return?",
+  "a": "6 years",
+  "accept": [
+   "6",
+   "six",
+   "six years",
+   "~6 years"
+  ],
+  "wrong": [
+   "8 years",
+   "12 years",
+   "4 years"
+  ],
+  "explain": "72 divided by 12 equals 6, so the investment roughly doubles in about six years.",
+  "hook": "72 / 12 = 6.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/wealth-management/rule-of-72-double-investment/",
+    "title": "Rule of 72 - Formula, Calculate the Time for an Investment to Double",
+    "quote": "It will take approximately six years for John’s investment to double in value."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/paper-lbo",
+    "title": "Paper LBO Tutorial | Practice Training Guide - Wall Street Prep",
+    "quote": "The approximate number of years necessary for the investment value to double in size can be determined by dividing 72 by the rate of return."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-16",
+  "deck": "vault",
+  "topic": "Value creation",
+  "q": "Besides EBITDA growth and multiple expansion, what is the third classic driver of LBO returns?",
+  "a": "Debt paydown",
+  "accept": [
+   "deleveraging",
+   "debt repayment",
+   "paying down debt",
+   "debt paydown and cash generation"
+  ],
+  "wrong": [
+   "Dividend tax savings",
+   "Stock splits",
+   "Share issuance"
+  ],
+  "explain": "LBO returns come from EBITDA growth, multiple expansion, and using and repaying significant debt (or generating cash); as debt is paid down, equity value increases.",
+  "hook": "Grow it, re-rate it, pay it down.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/lbo-returns-attribution-analysis",
+    "title": "LBO - Returns Attribution Analysis (18:42) - BIWS",
+    "quote": "3. A significant amount of debt must be used and repaid and/or a significant amount of cash must be generated in the same period."
+   },
+   {
+    "url": "https://macabacus.com/valuation/lbo-creating-value",
+    "title": "LBO Value Creation Through Leverage & Ops | Guide | Macabacus",
+    "quote": "As the debt is paid down, the value of the equity increase and healthy returns are generated, as demonstrated below:"
+   }
+  ]
+ },
+ {
+  "id": "vault-08-17",
+  "deck": "vault",
+  "topic": "Value creation",
+  "q": "Multiple expansion means the exit EBITDA multiple is higher or lower than the purchase EBITDA multiple?",
+  "a": "Higher",
+  "accept": [
+   "higher than purchase",
+   "greater",
+   "above"
+  ],
+  "wrong": [
+   "Lower",
+   "Equal",
+   "Negative"
+  ],
+  "explain": "Multiple expansion is buying at one valuation multiple and selling at a higher one (buy low, sell high).",
+  "hook": "Buy low, sell high.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/lbo-returns-attribution-analysis",
+    "title": "LBO - Returns Attribution Analysis (18:42) - BIWS",
+    "quote": "2. There must be multiple expansion (exit EBITDA multiple is higher than the purchase EBITDA multiple)."
+   },
+   {
+    "url": "https://macabacus.com/valuation/lbo-creating-value",
+    "title": "LBO Value Creation Through Leverage & Ops | Guide | Macabacus",
+    "quote": "In addition, expansion of market valuation multiples (i.e. buy low, sell high) can create value for the financial sponsor."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-18",
+  "deck": "vault",
+  "topic": "Value creation",
+  "q": "Which LBO value creation lever is market-driven and largely outside the control of the company and sponsor?",
+  "a": "Multiple expansion",
+  "accept": [
+   "multiple arbitrage",
+   "exit multiple expansion"
+  ],
+  "wrong": [
+   "Debt paydown",
+   "Cost cutting",
+   "Organic EBITDA growth"
+  ],
+  "explain": "Multiple expansion depends on market valuations, so it is unreliable and hard to predict; sponsors prefer returns from EBITDA growth and debt paydown.",
+  "hook": "The market sets the multiple, not you.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://macabacus.com/valuation/lbo-creating-value",
+    "title": "LBO Value Creation Through Leverage & Ops | Guide | Macabacus",
+    "quote": "Note, however, that multiple expansion is market-driven and beyond the control of the company and the sponsor."
+   },
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/lbo-returns-attribution-analysis",
+    "title": "LBO - Returns Attribution Analysis (18:42) - BIWS",
+    "quote": "Ideally, we would prefer nothing from multiple expansion as it’s unreliable and hard to predict or take advantage of."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-19",
+  "deck": "vault",
+  "topic": "Value creation",
+  "q": "In returns attribution, the multiple expansion contribution equals (exit multiple minus purchase multiple) times which EBITDA figure?",
+  "a": "Final year EBITDA",
+  "accept": [
+   "final-year EBITDA",
+   "exit year EBITDA",
+   "exit EBITDA",
+   "final EBITDA"
+  ],
+  "wrong": [
+   "Initial EBITDA",
+   "Average EBITDA over the hold",
+   "Entry-year LTM EBITDA"
+  ],
+  "explain": "Multiple expansion = (Exit Multiple - Purchase Multiple) x Final Year EBITDA, capturing how much more value the final EBITDA contributes.",
+  "hook": "",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/lbo-returns-attribution-analysis",
+    "title": "LBO - Returns Attribution Analysis (18:42) - BIWS",
+    "quote": "(Exit Multiple – Purchase Multiple) * Final Year EBITDA"
+   }
+  ]
+ },
+ {
+  "id": "vault-08-20",
+  "deck": "vault",
+  "topic": "Value creation",
+  "q": "In returns attribution, the EBITDA growth contribution equals (final EBITDA minus initial EBITDA) times which multiple?",
+  "a": "Purchase multiple",
+  "accept": [
+   "EBITDA purchase multiple",
+   "entry multiple",
+   "purchase EBITDA multiple"
+  ],
+  "wrong": [
+   "Exit multiple",
+   "Leverage multiple",
+   "Interest coverage multiple"
+  ],
+  "explain": "EBITDA growth = (Final Year EBITDA - Initial EBITDA) x EBITDA Purchase Multiple; debt paydown and cash generation is backed into as the remainder.",
+  "hook": "Growth at entry price; re-rating on exit EBITDA.",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/lbo-returns-attribution-analysis",
+    "title": "LBO - Returns Attribution Analysis (18:42) - BIWS",
+    "quote": "(Final Year EBITDA – Initial EBITDA) * EBITDA Purchase Multiple"
+   }
+  ]
+ },
+ {
+  "id": "vault-08-21",
+  "deck": "vault",
+  "topic": "Value creation",
+  "q": "All else equal, does a smaller upfront sponsor equity contribution raise or lower LBO returns?",
+  "a": "Raises returns",
+  "accept": [
+   "raise",
+   "raises",
+   "higher",
+   "higher returns",
+   "raise returns"
+  ],
+  "wrong": [
+   "Lowers returns",
+   "No effect on returns",
+   "Makes returns negative"
+  ],
+  "explain": "Returns are a direct function of the equity required: the less equity the PE firm contributes, the higher the returns to the fund (and vice versa).",
+  "hook": "",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/sources-and-uses-table",
+    "title": "Sources and Uses of Funds | Formula + Calculator",
+    "quote": "All else being equal, the less equity contributed by the PE firm, the higher the returns to the fund (and vice versa)."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+    "title": "Basics of an LBO Model | Training Tutorial",
+    "quote": "All else being equal, the lower the required upfront equity contribution from the financial sponsor, the higher the returns."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-22",
+  "deck": "vault",
+  "topic": "Dividend recaps",
+  "q": "In a dividend recapitalization, what funds the special dividend paid to the sponsor?",
+  "a": "New debt",
+  "accept": [
+   "newly raised debt",
+   "debt",
+   "additional debt",
+   "new borrowing"
+  ],
+  "wrong": [
+   "Retained earnings",
+   "New equity issuance",
+   "Asset sale proceeds"
+  ],
+  "explain": "The portfolio company raises additional debt and uses the proceeds to pay a special one-time dividend; the dividends come from new debt, not the company's earnings.",
+  "hook": "Borrow to pay yourself.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/dividend-recap/",
+    "title": "Dividend Recapitalization (Recap) | LBO Transaction",
+    "quote": "In a dividend recapitalization transaction, often abbreviated as “dividend recap”, the post-LBO portfolio company of a financial sponsor raises more debt capital to issue its equity shareholders (i.e. the private equity firm) a special, one-time cash dividend."
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/management/dividend-recapitalization",
+    "title": "Dividend Recapitalization - Definition, Risks, Example",
+    "quote": "The source of the dividends distributed as a result of dividend recapitalization is newly incurred debt, not the company’s earnings."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-23",
+  "deck": "vault",
+  "topic": "Dividend recaps",
+  "q": "What effect does a dividend recap typically have on the fund's IRR?",
+  "a": "Increases it",
+  "accept": [
+   "increase",
+   "increases",
+   "raises it",
+   "higher IRR",
+   "boosts IRR"
+  ],
+  "wrong": [
+   "Decreases it",
+   "No effect",
+   "Makes it negative"
+  ],
+  "explain": "Because the sponsor receives proceeds earlier, a dividend recap raises IRR; it is a way to monetize the investment before a full exit.",
+  "hook": "Earlier cash, higher IRR.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/dividend-recap/",
+    "title": "Dividend Recapitalization (Recap) | LBO Transaction",
+    "quote": "In particular, a dividend recap can positively impact the fund’s internal rate of return (IRR) , since the IRR is positively affected by the earlier monetization and distribution of funds."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/lbo-returns-attribution-analysis-value-creation",
+    "title": "Returns Attribution Analysis | Formula + Calculator",
+    "quote": "Dividend recaps are performed to monetize profits from the LBO prior to a complete exit, and the timing of the recap has the additional benefit of increasing the fund’s IRR since the proceeds are received earlier."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-24",
+  "deck": "vault",
+  "topic": "Dividend recaps",
+  "q": "What happens to the portfolio company's leverage after a dividend recap?",
+  "a": "It increases",
+  "accept": [
+   "increases",
+   "higher",
+   "goes up",
+   "rises"
+  ],
+  "wrong": [
+   "It decreases",
+   "It is unchanged",
+   "It is eliminated"
+  ],
+  "explain": "A dividend recap adds new debt to fund the payout, so leverage rises along with the probability of default.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/management/dividend-recapitalization",
+    "title": "Dividend Recapitalization - Definition, Risks, Example",
+    "quote": "The recapitalization directly impacts the company’s capital structure since its leverage increases."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/dividend-recap/",
+    "title": "Dividend Recapitalization (Recap) | LBO Transaction",
+    "quote": "When a private equity firm completes a dividend recapitalization , additional debt financing is raised with the specific intent to issue a special, one-time dividend using the cash proceeds from the newly-raised debt."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-25",
+  "deck": "vault",
+  "topic": "Management rollover",
+  "q": "What is the term for sale proceeds that a seller reinvests into the equity of the post-acquisition company?",
+  "a": "Rollover equity",
+  "accept": [
+   "equity rollover",
+   "management rollover",
+   "rollover"
+  ],
+  "wrong": [
+   "Sponsor equity",
+   "Earnout",
+   "Seller note"
+  ],
+  "explain": "Rollover equity lets the seller (often management) keep a stake in the new entity, aligning incentives and signaling belief in further upside.",
+  "hook": "Roll your chips into the next hand.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/rollover-equity",
+    "title": "Rollover Equity | Formula + Calculator",
+    "quote": "The term “rollover equity” in M&A refers to the sale proceeds reinvested by the seller of a company into the equity of the post-acquisition company under new ownership."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/sources-and-uses-table",
+    "title": "Sources and Uses of Funds | Formula + Calculator",
+    "quote": "In short, management rollover is when the prior management team uses their equity (i.e., their stake of the pre-LBO company and exit proceeds from the sale) to help fund the transaction."
+   }
+  ]
+ },
+ {
+  "id": "vault-08-26",
+  "deck": "vault",
+  "topic": "Management rollover",
+  "q": "If an LBO's total equity requirement is $91.1 million and management rolls 10% of it, what is the management rollover amount?",
+  "a": "$9.1 million",
+  "accept": [
+   "9.1",
+   "$9.1m",
+   "9.1 million",
+   "$9.1mm",
+   "9.1m"
+  ],
+  "wrong": [
+   "$82.0 million",
+   "$0.91 million",
+   "$91.1 million"
+  ],
+  "explain": "Management rollover is approximated as the rollover % times the total required equity: 10% x $91.1m = $9.1m; the sponsor then funds the remaining $82m.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/sources-and-uses-table",
+    "title": "Sources and Uses of Funds | Formula + Calculator",
+    "quote": "Management Rollover = 10.0% × $91.1 million = $9.1 million"
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/sources-and-uses-table",
+    "title": "Sources and Uses of Funds | Formula + Calculator",
+    "quote": "Sponsor Equity Contribution = $266.1 million – $184.1 million = $82 million"
+   }
+  ]
+ }
+]

@@ -1,0 +1,430 @@
+[
+  {
+    "id": "sectors-02-01",
+    "deck": "sectors",
+    "topic": "Autodesk",
+    "q": "In what year was Autodesk founded?",
+    "a": "1982",
+    "accept": [],
+    "wrong": ["1978", "1985", "1990"],
+    "explain": "Autodesk was founded in 1982 and is headquartered in San Francisco, California.",
+    "hook": "AutoCAD and Autodesk share a birth year: '82.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.autodesk.com/company/newsroom/corporate-info", "title": "Corporate Info | Newsroom | Autodesk", "quote": "Founded: 1982 * Headquarters: San Francisco, California"},
+      {"url": "https://investors.autodesk.com/news-releases/news-release-details/autodesk-completes-acquisition-revit-technology-corporation", "title": "Autodesk Completes Acquisition of Revit Technology Corporation", "quote": "Founded in 1982, Autodesk, Inc., is the world's leading design and digital media creation, management, and distribution company."}
+    ]
+  },
+  {
+    "id": "sectors-02-02",
+    "deck": "sectors",
+    "topic": "Autodesk / BIM",
+    "q": "In what year did Autodesk complete its acquisition of Revit Technology Corporation?",
+    "a": "2002",
+    "accept": [],
+    "wrong": ["1997", "2007", "2012"],
+    "explain": "Autodesk bought Revit Technology Corporation, a developer of parametric building technology, for $133 million cash; the deal closed on April 1, 2002.",
+    "hook": "Revit arrived in 2002: Autodesk's bet on model-based building design.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://investors.autodesk.com/news-releases/news-release-details/autodesk-completes-acquisition-revit-technology-corporation", "title": "Autodesk Completes Acquisition of Revit Technology Corporation", "quote": "Autodesk completed the acquisition by purchasing Revit Technology Corporation, a privately held company, for $133 million cash. The transaction closed on April 1, 2002."},
+      {"url": "https://investors.autodesk.com/news-releases/news-release-details/autodesk-acquire-revit-technology-corporation-acquisition-adds", "title": "Autodesk to Acquire Revit Technology Corporation; Acquisition Adds Complementary Technology for Building Industry", "quote": "SAN RAFAEL, Calif. and WALTHAM, Mass., Feb 21, 2002 (BUSINESS WIRE) -- Autodesk, Inc. (Nasdaq: ADSK), the leading design software and digital content company, today announced its intention to acquire Revit Technology Corporation, a Massachusetts-based developer of parametric building technology for building design, construction, and management, for $133 million cash."}
+    ]
+  },
+  {
+    "id": "sectors-02-03",
+    "deck": "sectors",
+    "topic": "Construction software M&A",
+    "q": "For how much (net of cash) did Autodesk acquire construction productivity software provider PlanGrid in 2018?",
+    "a": "$875 million",
+    "accept": ["875 million", "$875M", "875M", "$875mm", "875"],
+    "wrong": ["$133 million", "$470 million", "$2.1 billion"],
+    "explain": "Autodesk completed the PlanGrid acquisition in December 2018 for $875 million net of cash, adding it alongside its BIM 360 construction management platform.",
+    "hook": "PlanGrid: 875 for the plans on the grid.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://investors.autodesk.com/news-releases/news-release-details/autodesk-completes-plangrid-acquisition", "title": "Autodesk Completes PlanGrid Acquisition | Autodesk, Inc.", "quote": "Autodesk, Inc. (NASDAQ: ADSK) has completed the acquisition of PlanGrid, a leading provider of construction productivity software, for $875 million net of cash."},
+      {"url": "https://investors.autodesk.com/news-releases/news-release-details/autodesk-acquire-plangrid-accelerate-construction-productivity", "title": "Autodesk to Acquire PlanGrid to Accelerate Construction Productivity | Autodesk, Inc.", "quote": "Autodesk, Inc. (NASDAQ: ADSK) has signed a definitive agreement to acquire PlanGrid, a leading provider of construction productivity software, for $875 million net of cash."}
+    ]
+  },
+  {
+    "id": "sectors-02-04",
+    "deck": "sectors",
+    "topic": "Construction coordination",
+    "q": "Which Autodesk product is used for 3D model review, coordination and clash detection on BIM projects?",
+    "a": "Navisworks",
+    "accept": ["Autodesk Navisworks", "Navisworks Manage"],
+    "wrong": ["Inventor", "Maya", "3ds Max"],
+    "explain": "Navisworks lets design and construction teams identify and resolve clash and interference problems in a federated model before construction begins.",
+    "hook": "Navisworks navigates the clashes.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.autodesk.com/products/navisworks/overview", "title": "Navisworks | Autodesk", "quote": "Navisworks: 3D model review, coordination, and clash detection. Connect design and construction teams and streamline clash detection and coordination in BIM."}
+    ]
+  },
+  {
+    "id": "sectors-02-05",
+    "deck": "sectors",
+    "topic": "Dassault Systemes",
+    "q": "In what year was Dassault Systemes founded?",
+    "a": "1981",
+    "accept": [],
+    "wrong": ["1975", "1988", "1993"],
+    "explain": "Dassault Systemes was founded in 1981 as a spin-off of a small team of engineers from Dassault Aviation.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.3ds.com/about/company/history", "title": "History | About - Dassault Systemes", "quote": "Founded in 1981 to revolutionize the aerospace industry with CAD, Dassault Systèmes has consistently built on our strong foundations to shape a brighter future for humankind."},
+      {"url": "https://dassault.fr/en/subsidiary/dassault-systemes", "title": "Dassault Systèmes – Dassault Group", "quote": "Our story began in 1981 with a small team of around 20 engineers, primarily supporting the aerospace industry with just one brand: CATIA."}
+    ]
+  },
+  {
+    "id": "sectors-02-06",
+    "deck": "sectors",
+    "topic": "Dassault Systemes",
+    "q": "What is Dassault Systemes' flagship brand, released in 1981 initially for the aerospace and automotive industries?",
+    "a": "CATIA",
+    "accept": ["Catia"],
+    "wrong": ["SOLIDWORKS", "ENOVIA", "DELMIA"],
+    "explain": "CATIA was Dassault Systemes' original brand, providing software for computer-aided design, manufacturing, CAE, 3D modeling and PLM.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.3ds.com/about/company/history", "title": "History | About - Dassault Systemes", "quote": "Dassault Systèmes’ flagship brand, CATIA, is released to provide multi-platform software for computer-aided design (CAD), manufacturing, computer-aided engineering (CAE), 3D modeling and product lifecycle management (PLM), initially for the aerospace and automotive industries."},
+      {"url": "https://dassault.fr/en/subsidiary/dassault-systemes", "title": "Dassault Systèmes – Dassault Group", "quote": "Our story began in 1981 with a small team of around 20 engineers, primarily supporting the aerospace industry with just one brand: CATIA."}
+    ]
+  },
+  {
+    "id": "sectors-02-07",
+    "deck": "sectors",
+    "topic": "CAD",
+    "q": "What does the CATIA brand name stand for?",
+    "a": "Computer-aided three-dimensional interactive application",
+    "accept": ["computer aided three dimensional interactive application", "computer-aided 3D interactive application"],
+    "wrong": ["Computer-assisted technical industrial analysis", "Computer-aided tooling and industrial automation", "Collaborative aerospace technical interface application"],
+    "explain": "Dassault Systemes sold its software under the CATIA brand through a distribution agreement with IBM, targeting the automotive and aviation industries.",
+    "hook": "C-A-T-I-A: Computer-Aided Three-dimensional Interactive Application.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.3ds.com/assets/invest/2025-10/dassault-systemes-corporate-media-backgrounder-2025-final.pdf", "title": "DASSAULT SYSTEMES corporate media backgrounder 2025", "quote": "The independent company entered into a distribution agreement with IBM to sell this software under the CATIA (computer-aided three-dimensional interactive application) brand to the automotive and aviation industries."}
+    ]
+  },
+  {
+    "id": "sectors-02-08",
+    "deck": "sectors",
+    "topic": "CAD M&A",
+    "q": "In what year did Dassault Systemes acquire SOLIDWORKS?",
+    "a": "1997",
+    "accept": [],
+    "wrong": ["1993", "2002", "2005"],
+    "explain": "SOLIDWORKS, founded in December 1993 and the creator of the first Windows-native mechanical design system, was acquired by Dassault Systemes in 1997.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.solidworks.com/sw/183_enu_html.htm", "title": "Company Information | About SOLIDWORKS", "quote": "Founded December 1993 ... Ownership Acquired in 1997 by Dassault Systèmes S.A."},
+      {"url": "https://www.3ds.com/assets/invest/2025-10/dassault-systemes-corporate-media-backgrounder-2025-final.pdf", "title": "DASSAULT SYSTEMES corporate media backgrounder 2025", "quote": "1997 − Acquisition of SOLIDWORKS, targeting the 2D to 3D migration market opportunity; creation of its professional sales and marketing channel to support SOLIDWORKS"}
+    ]
+  },
+  {
+    "id": "sectors-02-09",
+    "deck": "sectors",
+    "topic": "CAE / simulation",
+    "q": "Which Dassault Systemes brand provides simulation software for virtual testing of structures, fluid dynamics and electromagnetics?",
+    "a": "SIMULIA",
+    "accept": ["Simulia"],
+    "wrong": ["ENOVIA", "BIOVIA", "MEDIDATA"],
+    "explain": "SIMULIA was created in 2005, leveraging Dassault Systemes' acquisition of Abaqus, to add realistic simulation capabilities.",
+    "hook": "SIMULIA = SIMULation.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://discover.3ds.com/dassault-systemes-product-portfolio", "title": "Dassault Systèmes’ Software Portfolio: Unified by the 3DEXPERIENCE Platform", "quote": "SIMULIA Delivers realistic simulation applications for virtual testing. It helps you analyze structural integrity, fluid dynamics, and electromagnetics to understand how a product will perform before it is built."},
+      {"url": "https://www.3ds.com/about/company/history", "title": "History | About - Dassault Systemes", "quote": "Leveraging the acquisition of Abaqus, SIMULIA brand created to add realistic simulation, representing a significant expansion of Dassault Systèmes simulation capabilities."}
+    ]
+  },
+  {
+    "id": "sectors-02-10",
+    "deck": "sectors",
+    "topic": "Dassault Systemes",
+    "q": "In which French town is Dassault Systemes headquartered?",
+    "a": "Velizy-Villacoublay",
+    "accept": ["Vélizy-Villacoublay", "Velizy", "Vélizy", "Velizy Villacoublay"],
+    "wrong": ["Toulouse", "Lyon", "Grenoble"],
+    "explain": "Dassault Systemes' headquarters, its Paris Campus, is at 10 rue Marcel Dassault in Velizy-Villacoublay, France.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.3ds.com/assets/invest/2025-10/dassault-systemes-corporate-media-backgrounder-2025-final.pdf", "title": "DASSAULT SYSTEMES corporate media backgrounder 2025", "quote": "Headquarters 10, rue Marcel Dassault, 78140 Vélizy-Villacoublay, France"},
+      {"url": "https://dassault.fr/en/subsidiary/dassault-systemes", "title": "Dassault Systèmes – Dassault Group", "quote": "Dassault Systèmes Paris Campus 10, rue Marcel Dassault - Paris Campus Vélizy-Villacoublay, 78140 - France"}
+    ]
+  },
+  {
+    "id": "sectors-02-11",
+    "deck": "sectors",
+    "topic": "PTC",
+    "q": "What was PTC's former full company name?",
+    "a": "Parametric Technology Corporation",
+    "accept": ["Parametric Technology Corp", "Parametric Technology"],
+    "wrong": ["Product Technology Corporation", "Precision Tooling Company", "Pro Technology Corporation"],
+    "explain": "PTC Inc., formerly Parametric Technology Corporation, is headquartered in Boston and sells products such as Creo CAD and Windchill PLM.",
+    "hook": "The P in PTC is for Parametric.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.ptc.com/en/about/facts/ptc", "title": "Facts About PTC | PTC", "quote": "Official name PTC Inc. Former name Parametric Technology Corporation Founded May 15, 1985"}
+    ]
+  },
+  {
+    "id": "sectors-02-12",
+    "deck": "sectors",
+    "topic": "PTC",
+    "q": "In what year was PTC incorporated?",
+    "a": "1985",
+    "accept": [],
+    "wrong": ["1979", "1991", "1995"],
+    "explain": "PTC was incorporated in Massachusetts in 1985 and is headquartered in Boston.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/ptc-20250930.htm", "title": "PTC Inc. Form 10-K (fiscal year ended September 30, 2025)", "quote": "PTC was incorporated in Massachusetts in 1985 and is headquartered in Boston, Massachusetts."},
+      {"url": "https://www.ptc.com/en/about/facts/ptc", "title": "Facts About PTC | PTC", "quote": "Former name Parametric Technology Corporation Founded May 15, 1985"}
+    ]
+  },
+  {
+    "id": "sectors-02-13",
+    "deck": "sectors",
+    "topic": "PLM",
+    "q": "What is the name of PTC's product lifecycle management (PLM) software?",
+    "a": "Windchill",
+    "accept": ["PTC Windchill"],
+    "wrong": ["Teamcenter", "ENOVIA", "Vault"],
+    "explain": "PTC's main products include Creo CAD software and Windchill PLM software.",
+    "hook": "PTC pairs Creo (CAD) with Windchill (PLM).",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.ptc.com/en/about/facts/ptc", "title": "Facts About PTC | PTC", "quote": "Creo CAD Software – Details Windchill PLM Software – Details"},
+      {"url": "https://www.ptc.com/en/news/2019/ptc-completes-acquisition-onshape", "title": "PTC Completes Acquisition of Onshape | PTC", "quote": "“We expect our acquisition of Onshape will enhance the momentum we’re seeing with our Creo ® and Windchill ® products,” said Jim Heppelmann, president and CEO, PTC."}
+    ]
+  },
+  {
+    "id": "sectors-02-14",
+    "deck": "sectors",
+    "topic": "Cloud CAD M&A",
+    "q": "In what year did PTC complete its acquisition of SaaS CAD platform Onshape?",
+    "a": "2019",
+    "accept": [],
+    "wrong": ["2012", "2015", "2022"],
+    "explain": "PTC agreed in October 2019 to buy Onshape for about $470 million net of cash and completed the deal on November 1, 2019.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.ptc.com/en/news/2019/ptc-completes-acquisition-onshape", "title": "PTC Completes Acquisition of Onshape | PTC", "quote": "BOSTON – November 1, 2019 – PTC (NASDAQ: PTC) today announced it has completed its acquisition of Onshape, developer of the Onshape ® Software as a Service (SaaS) product development platform"},
+      {"url": "https://www.ptc.com/en/news/2019/ptc-to-acquire-leading-saas-product-development-platform-provider-onshape", "title": "PTC to Acquire SaaS Development Platform Leader Onshape | PTC", "quote": "PTC (NASDAQ: PTC) today announced that it has signed a definitive agreement to acquire Onshape ... for approximately $470 million, net of cash acquired. ... the transaction is expected to be completed in November 2019."}
+    ]
+  },
+  {
+    "id": "sectors-02-15",
+    "deck": "sectors",
+    "topic": "Bentley Systems",
+    "q": "In what year was Bentley Systems founded?",
+    "a": "1984",
+    "accept": [],
+    "wrong": ["1978", "1990", "1996"],
+    "explain": "Bentley Systems was founded in 1984 by the Bentley brothers and completed its IPO on September 25, 2020.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.sec.gov/Archives/edgar/data/1031308/000103130826000007/bsy-20251231.htm", "title": "Bentley Systems Form 10-K (fiscal year ended December 31, 2025)", "quote": "We were founded in 1984 by the Bentley brothers and on September 25, 2020, we completed our initial public offering (“IPO”)."},
+      {"url": "https://www.bentley.com/en/company/history/", "title": "History | Bentley Systems", "quote": "Founded in 1984, Bentley Systems was built by engineers for engineers, and our history reflects the digital evolution of the infrastructure profession."}
+    ]
+  },
+  {
+    "id": "sectors-02-16",
+    "deck": "sectors",
+    "topic": "Bentley Systems",
+    "q": "What is the name of Bentley Systems' foundational CAD software for infrastructure design?",
+    "a": "MicroStation",
+    "accept": ["Microstation", "Bentley MicroStation"],
+    "wrong": ["AutoCAD", "CATIA", "Archicad"],
+    "explain": "After launching Bentley Systems in 1984, the founders worked on developing MicroStation, which laid the foundation for the company's success; it is sold as infrastructure CAD software for 2D and 3D design.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.bentley.com/en/company/history/", "title": "History | Bentley Systems", "quote": "After recruiting their bothers Scott and Ray, they moved back across the country to Pennsylvania and worked tirelessly on developing MicroStation, laying the foundation for Bentley’s success."},
+      {"url": "https://www.bentley.com/", "title": "Bentley Systems | Infrastructure Engineering Software", "quote": "MicroStation ... Infrastructure CAD software for 2D and 3D design"}
+    ]
+  },
+  {
+    "id": "sectors-02-17",
+    "deck": "sectors",
+    "topic": "Bentley Systems",
+    "q": "In which Pennsylvania town is Bentley Systems' global headquarters?",
+    "a": "Exton",
+    "accept": ["Exton, Pennsylvania", "Exton, PA"],
+    "wrong": ["Pittsburgh", "Harrisburg", "Canonsburg"],
+    "explain": "Bentley opened offices in Exton, Pennsylvania, during its early growth years, and they remain its global headquarters.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.bentley.com/en/company/history/", "title": "History | Bentley Systems", "quote": "The oldest of the five Bentley brothers, Greg, joined his brothers to lead business development, and the company opened offices in Exton, Pennsylvania, which remain Bentley’s global headquarters."},
+      {"url": "https://investors.bentley.com/news-releases/news-release-details/bentley-systems-announces-pricing-initial-public-offering", "title": "Bentley Systems Announces Pricing of Initial Public Offering", "quote": "EXTON, Pa. --(BUSINESS WIRE)--Sep. 22, 2020-- Bentley Systems, Incorporated (“Bentley”) today announced the pricing of the initial public offering"}
+    ]
+  },
+  {
+    "id": "sectors-02-18",
+    "deck": "sectors",
+    "topic": "Ansys / CAE",
+    "q": "In what year was Ansys founded, originally as Swanson Analysis Systems?",
+    "a": "1970",
+    "accept": [],
+    "wrong": ["1965", "1982", "1994"],
+    "explain": "Ansys was founded in 1970 as Swanson Analysis Systems, Inc. and became a leader in computer-aided engineering (CAE) analysis software.",
+    "hook": "Ansys: a 1970 simulation pioneer.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://investors.ansys.com/node/7901/html", "title": "SEC Filing | ANSYS, Inc. (prospectus)", "quote": "Since its founding in 1970 as Swanson Analysis Systems, Inc. (\"Swanson Analysis\"), the Company has become a technology leader in the market for computer-aided engineering (\"CAE\") analysis software."},
+      {"url": "https://investors.ansys.com/company-information/why-invest", "title": "Why Invest | ANSYS, Inc.", "quote": "Founded in 1970, Ansys employs over 5,000 professionals"}
+    ]
+  },
+  {
+    "id": "sectors-02-19",
+    "deck": "sectors",
+    "topic": "Ansys / CAE",
+    "q": "Which company completed its acquisition of simulation software maker Ansys in July 2025?",
+    "a": "Synopsys",
+    "accept": ["Synopsys Inc", "Synopsys, Inc."],
+    "wrong": ["Cadence Design Systems", "Siemens", "Dassault Systemes"],
+    "explain": "On July 17, 2025, Synopsys completed its acquisition of Ansys, which became a wholly owned subsidiary of Synopsys.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.sec.gov/Archives/edgar/data/883241/000114036125026139/ef20051970_8k.htm", "title": "Synopsys, Inc. Form 8-K (July 17, 2025)", "quote": "On July 17, 2025, Synopsys completed its acquisition of Ansys pursuant to the Merger Agreement."},
+      {"url": "https://www.sec.gov/Archives/edgar/data/1013462/000114036125026141/ef20052066_8k.htm", "title": "ANSYS, Inc. Form 8-K (July 17, 2025)", "quote": "Pursuant to the Merger Agreement, Merger Sub was merged with and into the Company (the “ Merger ”), with the Company surviving the Merger as a wholly owned subsidiary of Synopsys."}
+    ]
+  },
+  {
+    "id": "sectors-02-20",
+    "deck": "sectors",
+    "topic": "Trimble",
+    "q": "In what year did Charlie Trimble found Trimble?",
+    "a": "1978",
+    "accept": [],
+    "wrong": ["1969", "1984", "1992"],
+    "explain": "Charlie Trimble founded the company in 1978; Trimble serves industries including construction and infrastructure.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.trimble.com/about", "title": "About Trimble | Industrial Technology & Positioning Solutions", "quote": "Since Charlie Trimble founded the company in 1978, Trimble has pursued a mission to transform the way the world works."},
+      {"url": "https://wedge.trimble.com/about-us", "title": "About Trimble - Trimble Wedge", "quote": "The company is founded in 1978"}
+    ]
+  },
+  {
+    "id": "sectors-02-21",
+    "deck": "sectors",
+    "topic": "Trimble / BIM",
+    "q": "Tekla Structures, a BIM software for structural engineering and steel detailing, is offered by which company?",
+    "a": "Trimble",
+    "accept": ["Trimble Inc"],
+    "wrong": ["Autodesk", "Bentley Systems", "Nemetschek"],
+    "explain": "Tekla Structures lets structural design engineers, detailers, fabricators and contractors create and share accurate models; Tekla is a Trimble brand.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.tekla.com/", "title": "Tekla | Industry leading model-based construction software | by Trimble", "quote": "Tekla Structures Structural design engineers, detailers, fabricators, contractors, and project managers can create, combine, manage and share accurate models for every project. ... Tekla | Industry leading model-based construction software | by Trimble"}
+    ]
+  },
+  {
+    "id": "sectors-02-22",
+    "deck": "sectors",
+    "topic": "Construction management software",
+    "q": "In what year was construction management software company Procore founded?",
+    "a": "2002",
+    "accept": [],
+    "wrong": ["1995", "2008", "2012"],
+    "explain": "Procore was incorporated in January 2002 (as Butterfly Lane, Inc.) and is headquartered in Carpinteria, California.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://mkt-cdn.procore.com/downloads/Procore-Corporate-Fact-Sheet.pdf", "title": "Procore Corporate Fact Sheet", "quote": "Founded: 2002 + Headquarters: Carpinteria, California"},
+      {"url": "https://www.sec.gov/Archives/edgar/data/1611052/000119312521169297/d564161d424b4.htm", "title": "Procore Technologies 424B4 Prospectus", "quote": "We were incorporated as Butterfly Lane, Inc. in California in January 2002, and changed our name to Procore Technologies, Inc. in May 2002."}
+    ]
+  },
+  {
+    "id": "sectors-02-23",
+    "deck": "sectors",
+    "topic": "Construction management software",
+    "q": "In which California town is Procore headquartered?",
+    "a": "Carpinteria",
+    "accept": ["Carpinteria, California", "Carpinteria, CA"],
+    "wrong": ["San Rafael", "Sunnyvale", "Santa Clara"],
+    "explain": "Procore's principal executive offices are at 6309 Carpinteria Avenue, Carpinteria, California.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://mkt-cdn.procore.com/downloads/Procore-Corporate-Fact-Sheet.pdf", "title": "Procore Corporate Fact Sheet", "quote": "Headquarters: Carpinteria, California"},
+      {"url": "https://www.sec.gov/Archives/edgar/data/1611052/000119312521169297/d564161d424b4.htm", "title": "Procore Technologies 424B4 Prospectus", "quote": "Our principal executive offices are located at 6309 Carpinteria Avenue, Carpinteria, CA 93013."}
+    ]
+  },
+  {
+    "id": "sectors-02-24",
+    "deck": "sectors",
+    "topic": "BIM",
+    "q": "In AEC software, what does the acronym BIM stand for?",
+    "a": "Building Information Modeling",
+    "accept": ["Building Information Modelling", "Building Information Model", "Building Information Management"],
+    "wrong": ["Built Infrastructure Mapping", "Building Inspection Method", "Basic Industrial Modeling"],
+    "explain": "The US National BIM Standard defines Building Information Modeling as generating and using a shared digital representation of a built environment asset to support design, construction and operation.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "http://nibs.org/nbims/v4/terms-and-definitions", "title": "NBIMS-US V4 - Terms and Definitions - National Institute of Building Sciences", "quote": "Building Information Modeling Generating and using a shared digital representation of a built environment asset to facilitate design, construction, and operation processes to form a reliable basis for decisions."},
+      {"url": "https://bim.psu.edu/bim-an-introduction/defining-bim", "title": "Defining BIM - BIM Planning - Penn State", "quote": "BIM is the acronym of \"Building Information Modeling,\" reflecting and emphasizing the process aspects, and not of \"Building Information Model.\""}
+    ]
+  },
+  {
+    "id": "sectors-02-25",
+    "deck": "sectors",
+    "topic": "BIM standards",
+    "q": "Under which ISO standard number is the open BIM data standard Industry Foundation Classes (IFC) published?",
+    "a": "ISO 16739",
+    "accept": ["16739", "ISO 16739-1"],
+    "wrong": ["ISO 19650", "ISO 9001", "ISO 14001"],
+    "explain": "IFC is an open, vendor-neutral standard maintained by buildingSMART International and published as ISO 16739; the latest version, IFC 4.3, is ISO 16739-1:2024.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes", "title": "Industry Foundation Classes (IFC) - buildingSMART International", "quote": "Industry Foundation Classes (IFC) are a set of standardized, digital descriptions of the built asset industry. It is an open, global standard published under a Creative Commons license, and as ISO 16739."},
+      {"url": "https://www.iso.org/standard/84123.html", "title": "ISO 16739-1:2024 - Industry Foundation Classes (IFC) for data sharing in the construction and facility management industries", "quote": "This document represents an open international standard for information used in Building Information Modeling (BIM) that is exchanged and shared among software applications used by the various participants in the construction or facility management industry sector."}
+    ]
+  },
+  {
+    "id": "sectors-02-26",
+    "deck": "sectors",
+    "topic": "EDA",
+    "q": "Which electronic design automation (EDA) software company did Siemens acquire in 2017?",
+    "a": "Mentor Graphics",
+    "accept": ["Mentor", "Mentor Graphics Corporation"],
+    "wrong": ["Cadence Design Systems", "Synopsys", "Ansys"],
+    "explain": "Siemens closed its acquisition of EDA leader Mentor Graphics in March 2017, making Mentor part of its PLM software business.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://press.siemens.com/global/en/pressrelease/siemens-closes-mentor-graphics-acquisition", "title": "Siemens closes Mentor Graphics acquisition | Press | Siemens", "quote": "With the recent closing of its acquisition of electronic design automation (EDA) software leader, Mentor Graphics Corporation (Mentor), Siemens sets out to underscore the significant customer value it envisions for both Electronic Systems and Integrated Circuit (IC) design tools. Mentor is now part of Siemens' product lifecycle management (PLM) software business"},
+      {"url": "https://press.siemens.com/global/en/pressrelease/siemens-drives-implementation-vision-2020-mentor-graphics-acquisition-and-gamesa", "title": "Siemens drives implementation of Vision 2020 with Mentor Graphics acquisition and Gamesa merger", "quote": "A few days ago, the company completed its acquisition of industry software provider Mentor Graphics earlier than originally planned."}
+    ]
+  },
+  {
+    "id": "sectors-02-27",
+    "deck": "sectors",
+    "topic": "Digital twins",
+    "q": "What term describes a computer model of a particular physical system, such as a machine or building, used to predict and monitor that system's behavior?",
+    "a": "Digital twin",
+    "accept": ["digital twins"],
+    "wrong": ["Point cloud", "Bill of materials", "Wireframe"],
+    "explain": "NIST describes a digital twin as a particular type of computer model of a physical system; digital twins primarily function to make predictions or act as a status indicator for the modeled system.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.nist.gov/digital-twins", "title": "Digital twins | NIST", "quote": "A digital twin is a particular type of computer model of a physical system, such as a machine or building, that has the potential for high accuracy, precision, and flexibility to model various aspects of a system. ... Digital twins primarily function to make predictions or as a status indicator for a system that is being modeled."},
+      {"url": "https://www.gov.uk/government/publications/digital-twin-definition/digital-twin-official", "title": "Digital Twin (official) - GOV.UK", "quote": "A digital twin is a digital representation of a real-world entity, environment or process that allows the inclusion of a 2-way communication ... flow into and out of the real world"}
+    ]
+  }
+]

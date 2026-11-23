@@ -1,0 +1,66 @@
+[
+  {
+    "id": "vault-02-13",
+    "deck": "vault",
+    "topic": "Deferred taxes",
+    "q": "Under ASC 740, \"more likely than not\" means a likelihood of more than what percentage?",
+    "a": "50%",
+    "accept": [
+      "50",
+      "50 percent",
+      "fifty percent"
+    ],
+    "wrong": [
+      "25%",
+      "75%",
+      "90%"
+    ],
+    "explain": "ASC 740-10 defines more likely than not as a likelihood of more than 50 percent; \"probable\" is a higher threshold.",
+    "hook": "Just over a coin flip.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/income_taxes/income_taxes__16_US/chapter_5_valuation__US/52_assessing_the_nee_US.html",
+        "title": "5.2 Assessing the need for a valuation allowance (PwC Viewpoint)",
+        "quote": "Reduce deferred tax assets by a valuation allowance if, based on the weight of available evidence, it is more likely than not (a likelihood of more than 50 percent) that some portion or all of the deferred tax assets will not be realized."
+      },
+      {
+        "url": "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/accounting-for-income-taxes-valuation-allowance1.pdf",
+        "title": "Accounting for Income Taxes - Valuation Allowance (RSM)",
+        "quote": "ASC 740-10-25-6 defines the term “more-likely-than-not” as a likelihood of more than 50%."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-15",
+    "deck": "vault",
+    "topic": "NOLs",
+    "q": "Under current U.S. federal law, for how long can a corporate NOL arising in a tax year beginning after 2020 generally be carried forward?",
+    "a": "Indefinitely",
+    "accept": [
+      "indefinitely",
+      "forever",
+      "no expiration",
+      "unlimited"
+    ],
+    "wrong": [
+      "5 years",
+      "15 years",
+      "20 years"
+    ],
+    "explain": "After the TCJA (as modified by the CARES Act), NOLs arising in tax years beginning after 2020 generally cannot be carried back but can be carried forward indefinitely.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.irs.gov/irm/part4/irm_04-011-011",
+        "title": "4.11.11 Net Operating Loss Cases (IRS)",
+        "quote": "An NOL from a taxable year beginning in 2021 can generally only be carried forward, but it can be carried forward indefinitely."
+      },
+      {
+        "url": "https://pro.bloombergtax.com/insights/federal-tax/net-operating-losses",
+        "title": "How to Calculate Net Operating Loss for Corporations (Bloomberg Tax)",
+        "quote": "Carrybacks are generally eliminated for NOLs arising in taxable years beginning after 2020, but may be carried forward indefinitely to subsequent taxable years."
+      }
+    ]
+  }
+]

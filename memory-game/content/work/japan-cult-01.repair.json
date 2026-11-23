@@ -1,0 +1,134 @@
+[
+  {
+    "id": "japan-cult-01-07",
+    "deck": "fareast",
+    "topic": "Heian period",
+    "q": "Who wrote The Tale of Genji, the Heian-era masterpiece often called the world's first novel?",
+    "a": "Murasaki Shikibu",
+    "accept": [
+      "Lady Murasaki",
+      "Murasaki"
+    ],
+    "wrong": [
+      "Sei Shōnagon",
+      "Matsuo Bashō",
+      "Ono no Komachi"
+    ],
+    "explain": "Murasaki Shikibu, a lady-in-waiting at the Heian court, wrote The Tale of Genji in the early 11th century.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/The-Tale-of-Genji",
+        "title": "The Tale of Genji | Britannica",
+        "quote": "The Tale of Genji , masterpiece of Japanese literature by Murasaki Shikibu . Written at the start of the 11th century, it is generally considered the world’s first novel ."
+      },
+      {
+        "url": "https://www.nippon.com/en/views/b09001/",
+        "title": "“The Tale of Genji”: Japan’s Literary Heavyweight | Nippon.com",
+        "quote": "The Tale of Genji by Murasaki Shikibu is the centerpiece of classic Japanese literature."
+      },
+      {
+        "url": "https://ii.umich.edu/cjs/portraits-of-feminism-in-japan/featured-feminists/murasaki-shikibu-.html",
+        "title": "Murasaki Shikibu 紫式部 | U-M LSA Center for Japanese Studies (CJS)",
+        "quote": "Murasaki Shikibu (973?–1014?) was an author, poet, and lady-in-waiting at court during the Heian period (794–1185). She is most famous as the author of The Tale of Genji (源氏物語),  an epic narrative that offers a critical perspective on social relations."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-13",
+    "deck": "fareast",
+    "topic": "Sakoku",
+    "q": "On which artificial island in Nagasaki were Dutch traders confined during Japan's sakoku seclusion policy?",
+    "a": "Dejima",
+    "accept": [
+      "Deshima"
+    ],
+    "wrong": [
+      "Hakodate",
+      "Okinawa",
+      "Sado"
+    ],
+    "explain": "Under sakoku the Dutch were confined to Dejima, which served as Japan’s only open window to Europe from 1636 to 1859.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/sakoku",
+        "title": "Sakoku | Britannica",
+        "quote": "the Dutch were allowed to remain in Japan, although after the Christian rebellion their presence was limited to a small artificial island in the Nagasaki harbour called Dejima (also known as Deshima)."
+      },
+      {
+        "url": "https://nagasakidejima.jp/english/history",
+        "title": "Dejima History | Dejima (official site)",
+        "quote": "The artificial island of Dejima served as Japan’s only open window to Europe from the time of construction in 1636 to the closing of the Dutch Factory in 1859"
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-17",
+    "deck": "fareast",
+    "topic": "Meiji Restoration",
+    "q": "In what year did the Meiji Restoration end the Tokugawa shogunate and restore imperial rule?",
+    "a": "1868",
+    "accept": [],
+    "wrong": [
+      "1853",
+      "1889",
+      "1912"
+    ],
+    "explain": "The Meiji Restoration of 1868 ended the shogunate; Edo was then renamed Tokyo and became the nation’s capital.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Meiji-Restoration",
+        "title": "Meiji Restoration | Britannica",
+        "quote": "Meiji Restoration , in Japanese history, the political revolution in 1868 that brought about the final demise of the Tokugawa shogunate (military government)—thus ending the Edo (Tokugawa) period (1603–1867)—and, at least nominally, returned control of the country to direct imperial rule under Mutsuhito (the emperor Meiji )."
+      },
+      {
+        "url": "https://www.nippon.com/en/views/b06902",
+        "title": "The Meiji Restoration: The End of the Shogunate and the Building of a Modern Japanese State | Nippon.com",
+        "quote": "While the year 1868 was crucial to the fall of the shogunate and the establishment of a new government, understanding the historical context requires a wider focus. ... Under the new government, the emperor also moved to Edo Castle, which became the Imperial Palace; Edo was renamed Tokyo and became the nation’s capital, and the era name was changed to Meiji."
+      },
+      {
+        "url": "https://japansociety.org/news/the-meiji-restoration-era-1868-1889",
+        "title": "The Meiji Restoration Era, 1868-1889 — Japan Society",
+        "quote": "From the day the teen-aged Mutsuhito claimed power on January 3, 1868 in a relatively tranquil coup called the “Meiji Restoration” (after his reign name) until his death forty-five years later"
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-18",
+    "deck": "fareast",
+    "topic": "Meiji Restoration",
+    "q": "What was the personal name of the Meiji emperor?",
+    "a": "Mutsuhito",
+    "accept": [],
+    "wrong": [
+      "Hirohito",
+      "Yoshihito",
+      "Akihito"
+    ],
+    "explain": "Mutsuhito reigned from 1867 to 1912 and took the name Meiji, by which his era is also known.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Meiji",
+        "title": "Meiji | Britannica",
+        "quote": "In 1868 his coronation ceremony was carried out, and he took the name Meiji, by which the era of his reign is also known."
+      },
+      {
+        "url": "https://www.npg.org.uk/collections/search/person/mp142904/meiji-emperor-of-japan",
+        "title": "Meiji, Emperor of Japan - Person - National Portrait Gallery",
+        "quote": "(1852-1912), Reigned 1867-1912 ... Emperor Mutsuhito was the 122nd Emperor of Japan."
+      },
+      {
+        "url": "https://japansociety.org/news/the-meiji-restoration-era-1868-1889",
+        "title": "The Meiji Restoration Era, 1868-1889 — Japan Society",
+        "quote": "From the day the teen-aged Mutsuhito claimed power on January 3, 1868 in a relatively tranquil coup called the “Meiji Restoration” (after his reign name)"
+      }
+    ]
+  }
+]

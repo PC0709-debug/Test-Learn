@@ -1,0 +1,435 @@
+[
+ {
+  "id": "sectors-01-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/annual-recurring-revenue-arr",
+   "https://corporatefinanceinstitute.com/learn/resources/valuation/annual-recurring-revenue-arr"
+  ]
+ },
+ {
+  "id": "sectors-01-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/annual-recurring-revenue-arr",
+   "https://corporatefinanceinstitute.com/learn/resources/valuation/annual-recurring-revenue-arr"
+  ]
+ },
+ {
+  "id": "sectors-01-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/net-revenue-retention-nrr",
+   "https://corporatefinanceinstitute.com/resources/valuation/nrr-meaning-calculation-guide"
+  ]
+ },
+ {
+  "id": "sectors-01-04",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: WSP 'expansion revenue ... is neglected' sentence not surfaced on fetch; WSP GRR formula (no expansion term) and CFI quote confirm the fact.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/gross-revenue-retention/",
+   "https://corporatefinanceinstitute.com/resources/valuation/grr-vs-nrr-saas-retention-metrics"
+  ]
+ },
+ {
+  "id": "sectors-01-05",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: WSP NRR page did not surface the 'or net dollar retention (NDR)' sentence; CFI NDR page confirms verbatim.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/net-dollar-retention-ndr",
+   "https://www.wallstreetprep.com/knowledge/net-revenue-retention-nrr"
+  ]
+ },
+ {
+  "id": "sectors-01-06",
+  "source": 15,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 85,
+  "hardFail": "Only one cited source for a numeric answer (WSP revenue-churn page)",
+  "pass": false,
+  "issue": "Quote verified on WSP, but a numeric card needs two independent cited sources. Add an independent source for Gross revenue churn = Churned MRR / Beginning MRR (e.g. CFI) and re-check.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/revenue-churn-mrr"
+  ]
+ },
+ {
+  "id": "sectors-01-07",
+  "source": 18,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 88,
+  "hardFail": "Both cited sources are the same publisher (Wall Street Prep); no independent second source for the numeric answer",
+  "pass": false,
+  "issue": "Quote and formula verified on WSP revenue-churn and recurring-revenue pages, but they are not independent. Add a non-WSP source (e.g. CFI) for Net revenue churn = (Churned MRR - Expansion MRR) / Beginning MRR.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/revenue-churn-mrr",
+   "https://www.wallstreetprep.com/knowledge/recurring-revenue"
+  ]
+ },
+ {
+  "id": "sectors-01-08",
+  "source": 24,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 92,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Single source (WSP); formula verified verbatim. Consider adding a second source.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/recurring-revenue"
+  ]
+ },
+ {
+  "id": "sectors-01-09",
+  "source": 25,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 94,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Both sources WSP; CAC formula verified on ltv-cac-ratio and recurring-revenue pages; the 'must count only the new customers' sentence was not surfaced.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/ltv-cac-ratio",
+   "https://www.wallstreetprep.com/knowledge/recurring-revenue"
+  ]
+ },
+ {
+  "id": "sectors-01-10",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/cac-payback-period",
+   "https://www.craftventures.com/articles/the-saas-metrics-that-matter"
+  ]
+ },
+ {
+  "id": "sectors-01-11",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Verified: WSP CAC page 'an LTV/CAC ratio of 3.0x is widely recognized as the standard target benchmark'; Craft 'at least 3x original CAC' supports.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/customer-acquisition-cost-cac",
+   "https://www.wallstreetprep.com/knowledge/recurring-revenue",
+   "https://www.craftventures.com/articles/the-saas-metrics-that-matter"
+  ]
+ },
+ {
+  "id": "sectors-01-12",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Both sources WSP; formula verified verbatim.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/ltv-cac-ratio",
+   "https://www.wallstreetprep.com/knowledge/customer-acquisition-cost-cac"
+  ]
+ },
+ {
+  "id": "sectors-01-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/saas-magic-number/",
+   "https://corporatefinanceinstitute.com/resources/valuation/saas-magic-number/",
+   "https://www.scalevp.com/insights/magic-number-math/"
+  ]
+ },
+ {
+  "id": "sectors-01-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/saas-magic-number/",
+   "https://www.wallstreetprep.com/knowledge/saas-magic-number/"
+  ]
+ },
+ {
+  "id": "sectors-01-15",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: accept alias 'SVP' is ambiguous; consider dropping.",
+  "verifiedUrls": [
+   "https://www.scalevp.com/insights/a-primer-on-saas-sales-efficiency",
+   "https://www.wallstreetprep.com/knowledge/saas-magic-number/"
+  ]
+ },
+ {
+  "id": "sectors-01-16",
+  "source": 18,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 87,
+  "hardFail": "Second cited source (CFI) quote 'above 0.75 ... below 0.5' not found on the CFI magic-number page; numeric answer rests on one confirmed source",
+  "pass": false,
+  "issue": "Scale 'Magic Number Math' confirms '.5x ... still has not figured out it's model' verbatim. Replace CFI with a second source that verifiably states the 0.5x threshold.",
+  "verifiedUrls": [
+   "https://www.scalevp.com/insights/magic-number-math/"
+  ]
+ },
+ {
+  "id": "sectors-01-17",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/rule-of-40",
+   "https://www.scalevp.com/insights/a-quick-primer-on-the-rule-of-40/",
+   "https://feld.com/archives/2015/02/rule-40-healthy-saas-company"
+  ]
+ },
+ {
+  "id": "sectors-01-18",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Verified Feld post (board meeting, late stage investor) and Scale primer crediting Brad Feld.",
+  "verifiedUrls": [
+   "https://feld.com/archives/2015/02/rule-40-healthy-saas-company",
+   "https://www.scalevp.com/insights/a-quick-primer-on-the-rule-of-40/",
+   "https://www.wallstreetprep.com/knowledge/rule-of-40/"
+  ]
+ },
+ {
+  "id": "sectors-01-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.craftventures.com/articles/the-burn-multiple",
+   "https://www.wallstreetprep.com/knowledge/burn-multiple/"
+  ]
+ },
+ {
+  "id": "sectors-01-20",
+  "source": 26,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 93,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Craft article (first person 'I call this the Burn Multiple') plus WSP title 'Burn Multiple (David Sacks)' support; WSP 'Popularized by David Sacks... co-founder of Craft Ventures' sentence not surfaced. Bessemer Efficiency Score = Net New ARR / Net Burn verified.",
+  "verifiedUrls": [
+   "https://www.craftventures.com/articles/the-burn-multiple",
+   "https://www.wallstreetprep.com/knowledge/burn-multiple/"
+  ]
+ },
+ {
+  "id": "sectors-01-21",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.craftventures.com/articles/the-burn-multiple",
+   "https://www.wallstreetprep.com/knowledge/burn-multiple/"
+  ]
+ },
+ {
+  "id": "sectors-01-22",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/cac-payback-period",
+   "https://www.craftventures.com/articles/the-saas-metrics-that-matter"
+  ]
+ },
+ {
+  "id": "sectors-01-23",
+  "source": 28,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/bookings",
+   "https://www.scalevp.com/insights/magic-number-math/"
+  ]
+ },
+ {
+  "id": "sectors-01-24",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://investor.fortinet.com/news-releases/news-release-details/fortinet-reports-strong-third-quarter-2026-financial-results",
+   "https://s206.q4cdn.com/200001835/files/doc_financials/2026/q1/VEEV-Q1-26-Earnings-Presentation.pdf"
+  ]
+ },
+ {
+  "id": "sectors-01-25",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm",
+   "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/crm-20260731.htm"
+  ]
+ },
+ {
+  "id": "sectors-01-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm",
+   "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/crm-20260731.htm"
+  ]
+ },
+ {
+  "id": "sectors-01-27",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/financial_statement_/financial_statement___18_US/Chapter-33--Revenue-and-contract-costs/33-4-Revenue-disclosures-ASC-606.html",
+   "https://www.grantthornton.com/content/dam/grantthornton/website/assets/content-page-files/audit/pdfs/2026/revenue-from-contracts-with-customers-navigating-the-guidance-in-asc-606-and-340-40-revised-april-2026.pdf"
+  ]
+ }
+]

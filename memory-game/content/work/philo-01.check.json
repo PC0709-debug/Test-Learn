@@ -1,0 +1,439 @@
+[
+ {
+  "id": "philo-01-01",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Stoicism",
+   "https://plato.stanford.edu/entries/stoicism/"
+  ]
+ },
+ {
+  "id": "philo-01-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Zeno-of-Citium",
+   "https://iep.utm.edu/stoicism/"
+  ]
+ },
+ {
+  "id": "philo-01-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Stoicism",
+   "https://plato.stanford.edu/entries/stoicism/"
+  ]
+ },
+ {
+  "id": "philo-01-04",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Cleanthes",
+   "https://plato.stanford.edu/entries/stoicism/"
+  ]
+ },
+ {
+  "id": "philo-01-05",
+  "source": 30,
+  "match": 30,
+  "unique": 13,
+  "current": 15,
+  "precise": 8,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: SEP notes the formula is elsewhere attributed to Zeno himself (Diogenes Laertius); consider 'According to Stobaeus, which Stoic added...'.",
+  "verifiedUrls": [
+   "https://plato.stanford.edu/entries/stoicism/",
+   "https://plato.stanford.edu/entries/marcus-aurelius/"
+  ]
+ },
+ {
+  "id": "philo-01-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Chrysippus",
+   "https://iep.utm.edu/epictetu/",
+   "https://plato.stanford.edu/entries/stoicism/"
+  ]
+ },
+ {
+  "id": "philo-01-07",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Chrysippus",
+   "https://plato.stanford.edu/entries/stoicism/"
+  ]
+ },
+ {
+  "id": "philo-01-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Lucius-Annaeus-Seneca-Roman-philosopher-and-statesman",
+   "https://plato.stanford.edu/entries/stoicism/",
+   "https://plato.stanford.edu/entries/seneca/"
+  ]
+ },
+ {
+  "id": "philo-01-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Lucius-Annaeus-Seneca-Roman-philosopher-and-statesman",
+   "https://press.uchicago.edu/ucp/books/book/chicago/L/bo20612233.html",
+   "https://www.britannica.com/topic/Moral-Letters-to-Lucilius"
+  ]
+ },
+ {
+  "id": "philo-01-10",
+  "source": 30,
+  "match": 30,
+  "unique": 13,
+  "current": 15,
+  "precise": 7,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: 124 is the surviving count (UChicago TOC also lists 'Fragments of other letters'); consider 'How many letters survive in...'.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Moral-Letters-to-Lucilius",
+   "https://www.britannica.com/biography/Lucius-Annaeus-Seneca-Roman-philosopher-and-statesman",
+   "https://press.uchicago.edu/ucp/books/book/chicago/L/bo20612233.html"
+  ]
+ },
+ {
+  "id": "philo-01-11",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Lucius-Annaeus-Seneca-Roman-philosopher-and-statesman",
+   "https://plato.stanford.edu/entries/seneca/"
+  ]
+ },
+ {
+  "id": "philo-01-12",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+   "https://plato.stanford.edu/entries/stoicism/",
+   "https://iep.utm.edu/epictetu/"
+  ]
+ },
+ {
+  "id": "philo-01-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+   "https://plato.stanford.edu/entries/marcus-aurelius/",
+   "https://iep.utm.edu/epictetu/"
+  ]
+ },
+ {
+  "id": "philo-01-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+   "http://classics.mit.edu/Epictetus/epicench.html"
+  ]
+ },
+ {
+  "id": "philo-01-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+   "https://iep.utm.edu/epictetu/"
+  ]
+ },
+ {
+  "id": "philo-01-16",
+  "source": 20,
+  "match": 15,
+  "unique": 15,
+  "current": 15,
+  "precise": 7,
+  "total": 72,
+  "hardFail": "Explain states 'In AD 90' with only one source (Britannica); IEP Epictetus page says 'in about 89', so the date is not confirmed by two agreeing sources.",
+  "pass": false,
+  "issue": "Remove the year from explain (e.g. 'Domitian expelled philosophers from Rome, irritated by...') or write 'c. AD 89-90' citing both Britannica and IEP.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+   "https://plato.stanford.edu/entries/stoicism/",
+   "https://iep.utm.edu/epictetu/"
+  ]
+ },
+ {
+  "id": "philo-01-17",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "http://classics.mit.edu/Epictetus/epicench.html",
+   "https://iep.utm.edu/stoicism/"
+  ]
+ },
+ {
+  "id": "philo-01-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "http://classics.mit.edu/Epictetus/epicench.html",
+   "https://iep.utm.edu/marcus-aurelius"
+  ]
+ },
+ {
+  "id": "philo-01-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Marcus-Aurelius-Roman-emperor",
+   "https://iep.utm.edu/marcus-aurelius"
+  ]
+ },
+ {
+  "id": "philo-01-20",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Meditations-by-Marcus-Aurelius",
+   "https://iep.utm.edu/marcus-aurelius"
+  ]
+ },
+ {
+  "id": "philo-01-21",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://iep.utm.edu/marcus-aurelius",
+   "https://academic.oup.com/edited-volume/61673/chapter/548202858"
+  ]
+ },
+ {
+  "id": "philo-01-22",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Stoicism",
+   "https://plato.stanford.edu/entries/stoicism/"
+  ]
+ },
+ {
+  "id": "philo-01-23",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://iep.utm.edu/stoicism/",
+   "https://plato.stanford.edu/entries/stoicism/"
+  ]
+ },
+ {
+  "id": "philo-01-24",
+  "source": 30,
+  "match": 30,
+  "unique": 12,
+  "current": 15,
+  "precise": 9,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: 'preferred indifferents' is a subclass, not strictly equivalent to 'indifferents'; acceptable for these examples but consider removing.",
+  "verifiedUrls": [
+   "https://plato.stanford.edu/entries/stoicism/",
+   "https://iep.utm.edu/stoicism/"
+  ]
+ },
+ {
+  "id": "philo-01-25",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.merriam-webster.com/dictionary/amor%20fati"
+  ]
+ },
+ {
+  "id": "philo-01-26",
+  "source": 27,
+  "match": 30,
+  "unique": 5,
+  "current": 15,
+  "precise": 8,
+  "total": 85,
+  "hardFail": null,
+  "pass": false,
+  "issue": "Question asks for the LITERAL meaning; accept entry 'remember death' is a loose gloss, not equivalent to 'remember (that) you must die'. Remove 'remember death' from accept.",
+  "verifiedUrls": [
+   "https://www.merriam-webster.com/dictionary/memento%20mori"
+  ]
+ },
+ {
+  "id": "philo-01-27",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://discovery.ucl.ac.uk/id/eprint/10222963/1/CagnoliFiecconiAppropriate.pdf",
+   "https://bmcr.brynmawr.edu/2015/2015.09.54"
+  ]
+ }
+]

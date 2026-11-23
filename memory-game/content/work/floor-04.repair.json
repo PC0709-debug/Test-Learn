@@ -1,0 +1,43 @@
+[
+  {
+    "id": "floor-04-27",
+    "deck": "floor",
+    "topic": "COVID crash 2020",
+    "q": "How many market-wide circuit breaker trading halts occurred in March 2020?",
+    "a": "Four",
+    "accept": [
+      "4",
+      "four halts"
+    ],
+    "wrong": [
+      "One",
+      "Two",
+      "Seven"
+    ],
+    "explain": "The S&P 500 fell 7% to trigger Level 1 market-wide circuit breaker halts on March 9, 12, 16 and 18, 2020, at the outset of the COVID-19 pandemic.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.nyse.com/publicdocs/nyse/markets/nyse/Report_of_the_Market-Wide_Circuit_Breaker_Working_Group.pdf",
+        "title": "Report of the Market-Wide Circuit Breaker Working Group Regarding the March 2020 MWCB Events | NYSE",
+        "quote": "On September 17, 2020, the Director of the Securities Exchange Commission's (\"SEC\") Division of Trading and Markets formally asked the national securities exchanges and FINRA (collectively, \"SROs\") to conduct a study of the volatility events of March 2020 that resulted in four market-wide trading halts prescribed by common SRO rules governing Market Wide Circuit Breakers (\"MWCB\")."
+      },
+      {
+        "url": "https://www.federalregister.gov/documents/2020/10/14/2020-22715/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-and-immediate",
+        "title": "Federal Register: NYSE Notice of Filing to Extend the Pilot Related to the Market-Wide Circuit Breaker in Rule 7.12",
+        "quote": "In the Spring of 2020, at the outset of the worldwide COVID-19 pandemic, U.S. equities markets experienced four MWCB Level 1 halts, on March 9, 12, 16, and 18, 2020. In each instance, the markets halted as intended upon a 7% drop in the S&P 500 Index, and resumed as intended 15 minutes later."
+      },
+      {
+        "url": "https://www.nyse.com/article/assessing-nyse-model-performance",
+        "title": "NYSE Equities | Assessing NYSE model performance during 2020 crash",
+        "quote": "The modernized Market-Wide Circuit Breaker (MWCB) triggered on March 9 for the first time, as the S&P 500 Index fell 7% shortly after open in response to COVID-19 fallout. It triggered for a second time on March 12, a third on March 16th and fourth on March 18th."
+      },
+      {
+        "url": "https://www.cftc.gov/media/3656/EEMAC032420_DMOMarketIntelligenceBranch/download",
+        "title": "CFTC DMO Market Intelligence Branch Update on Recent Developments",
+        "quote": "Four level-one market-wide circuit breaker halts occurred in the equity markets (first since 1987), along with an increase in other market control measures, such as limit-up/limit-down bands and velocity-logic triggers."
+      }
+    ]
+  }
+]

@@ -1,0 +1,417 @@
+[
+ {
+  "id": "vault-07-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://corporatefinanceinstitute.com/resources/valuation/dcf-terminal-value-formula/"
+  ]
+ },
+ {
+  "id": "vault-07-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/dcf-terminal-value-formula/",
+   "https://www.wallstreetprep.com/knowledge/terminal-value/"
+  ]
+ },
+ {
+  "id": "vault-07-03",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://macabacus.com/valuation/dcf-terminal-value"
+  ]
+ },
+ {
+  "id": "vault-07-04",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://corporatefinanceinstitute.com/resources/valuation/dcf-terminal-value-formula/"
+  ]
+ },
+ {
+  "id": "vault-07-05",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://corporatefinanceinstitute.com/resources/valuation/dcf-terminal-value-formula/"
+  ]
+ },
+ {
+  "id": "vault-07-06",
+  "source": 30,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 6,
+  "total": 94,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Answer confirmed by CFI and Macabacus. Explain's claim that academics favor perpetuity growth comes from CFI only, and WSP's terminal-growth-rate page says the exit multiple is viewed more favorably 'especially from an academic perspective'. Consider trimming the academic clause from explain.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/dcf-terminal-value-formula/",
+   "https://macabacus.com/valuation/dcf-terminal-value",
+   "https://www.wallstreetprep.com/knowledge/terminal-growth-rate"
+  ]
+ },
+ {
+  "id": "vault-07-07",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://macabacus.com/valuation/dcf-terminal-value"
+  ]
+ },
+ {
+  "id": "vault-07-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://macabacus.com/valuation/dcf-terminal-value"
+  ]
+ },
+ {
+  "id": "vault-07-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://macabacus.com/valuation/dcf-terminal-value"
+  ]
+ },
+ {
+  "id": "vault-07-10",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://macabacus.com/valuation/dcf-terminal-value",
+   "https://breakingintowallstreet.com/how-to-calculate-terminal-value"
+  ]
+ },
+ {
+  "id": "vault-07-11",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://macabacus.com/valuation/dcf-terminal-value",
+   "https://www.wallstreetprep.com/knowledge/terminal-growth-rate"
+  ]
+ },
+ {
+  "id": "vault-07-12",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Only one cited source (conceptual, so not a hard fail); add a second source for robustness.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/"
+  ]
+ },
+ {
+  "id": "vault-07-13",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/how-to-calculate-terminal-value",
+   "https://macabacus.com/valuation/dcf-terminal-value",
+   "https://www.wallstreetprep.com/knowledge/terminal-value/"
+  ]
+ },
+ {
+  "id": "vault-07-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://macabacus.com/valuation/dcf-enterprise-equity-values"
+  ]
+ },
+ {
+  "id": "vault-07-15",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Single cited source; WSP page states it twice (body and FAQ). Add a second source for robustness.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/"
+  ]
+ },
+ {
+  "id": "vault-07-16",
+  "source": 30,
+  "match": 30,
+  "unique": 12,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Accept list includes 'EV/EBITDA', which is one example of an EV multiple, not equivalent to the category; consider removing it.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-growth-rate",
+   "https://macabacus.com/valuation/dcf-terminal-value"
+  ]
+ },
+ {
+  "id": "vault-07-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/terminal-value/",
+   "https://macabacus.com/valuation/dcf-enterprise-equity-values"
+  ]
+ },
+ {
+  "id": "vault-07-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/mid-year-convention/",
+   "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf"
+  ]
+ },
+ {
+  "id": "vault-07-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/mid-year-convention/",
+   "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf",
+   "https://macabacus.com/valuation/dcf-enterprise-equity-values"
+  ]
+ },
+ {
+  "id": "vault-07-20",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Both quotes come from the same BIWS page; confirmed on page.",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf"
+  ]
+ },
+ {
+  "id": "vault-07-21",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Only one cited source (Macabacus); consider adding Microsoft's NPV function documentation.",
+  "verifiedUrls": [
+   "https://macabacus.com/valuation/dcf-enterprise-equity-values"
+  ]
+ },
+ {
+  "id": "vault-07-22",
+  "source": 18,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 88,
+  "hardFail": "Explain includes numbers (245/365 = 0.671, April 30) that come from a single cited source; numbers need two independent sources.",
+  "pass": false,
+  "issue": "Term 'stub period' is confirmed by BIWS. Either drop the numeric example from explain or cite a second independent source (e.g. WSP or Macabacus stub period page) that confirms it.",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf"
+  ]
+ },
+ {
+  "id": "vault-07-23",
+  "source": 15,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 85,
+  "hardFail": "Numeric answer (2) cited from only one source: both quotes are from the same BIWS page.",
+  "pass": false,
+  "issue": "Fact is on the BIWS page, but a second independent source (e.g. WSP stub period / mid-year convention page) is needed for the numeric answer.",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf"
+  ]
+ },
+ {
+  "id": "vault-07-24",
+  "source": 28,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://macabacus.com/valuation/dcf-enterprise-equity-values",
+   "https://breakingintowallstreet.com/how-to-calculate-terminal-value"
+  ]
+ },
+ {
+  "id": "vault-07-25",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/how-to-calculate-terminal-value",
+   "https://www.wallstreetprep.com/knowledge/financial-modeling-techniques-sensitivity-what-if-analysis-2"
+  ]
+ },
+ {
+  "id": "vault-07-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/financial-modeling-techniques-sensitivity-what-if-analysis-2",
+   "https://breakingintowallstreet.com/how-to-calculate-terminal-value"
+  ]
+ }
+]

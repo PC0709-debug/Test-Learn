@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sectors-04-11",
+    "source": 30,
+    "match": 29,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 98,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Both quotes verified verbatim on cited pages (Visa corporate page; KC Fed RWP 16-01). Distractors (authorization hold, interchange, settlement) clearly wrong; accept list equivalent. Minor: KC Fed says 'full reversal' though partial chargebacks exist; card wording 'the reversal' is fine.",
+    "verifiedUrls": [
+      "https://corporate.visa.com/en/solutions/acceptance/chargebacks.html",
+      "https://www.kansascityfed.org/Research%20Working%20Papers/documents/8241/rwp16-01HayashiMarkiewiczSullivan.pdf"
+    ]
+  }
+]

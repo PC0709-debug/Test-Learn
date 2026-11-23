@@ -1,0 +1,18 @@
+[
+  {
+    "id": "vault-05-05",
+    "source": 29,
+    "match": 30,
+    "unique": 13,
+    "current": 15,
+    "precise": 9,
+    "total": 96,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Both quotes verified verbatim (CFI and Wall Street Prep). Explain matches WSP ('valuation multiples will be skewed... performance reflected is spread across different periods'). Minor: WSP uses the phrase 'normalized year-end dates', but 'Normalization' as the process name in comps refers to adjusting for non-recurring items, so the distractor is still wrong. Accept list contains only spelling/inflection variants.",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/accounting/calendarization",
+      "https://www.wallstreetprep.com/knowledge/calendarization"
+    ]
+  }
+]

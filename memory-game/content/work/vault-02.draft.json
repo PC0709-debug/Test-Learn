@@ -1,0 +1,805 @@
+[
+  {
+    "id": "vault-02-01",
+    "deck": "vault",
+    "topic": "Working capital",
+    "q": "Net working capital is current assets minus what?",
+    "a": "Current liabilities",
+    "accept": [
+      "current liabilities",
+      "CL"
+    ],
+    "wrong": [
+      "Total liabilities",
+      "Long-term debt",
+      "Shareholders' equity"
+    ],
+    "explain": "Net working capital is the difference between a company's current assets and current liabilities; in practice it is most commonly calculated excluding cash and the current portion of debt.",
+    "hook": "Current minus current.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-net-working-capital",
+        "title": "Net Working Capital - Overview, Formula, Uses (CFI)",
+        "quote": "Net Working Capital = Current Assets – Current Liabilities"
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/working-capital",
+        "title": "Working Capital | Formula + Calculator (Wall Street Prep)",
+        "quote": "Working Capital = Current Assets – Current Liabilities"
+      }
+    ]
+  },
+  {
+    "id": "vault-02-02",
+    "deck": "vault",
+    "topic": "Working capital",
+    "q": "On the cash flow statement, does an increase in net working capital represent a cash inflow or a cash outflow?",
+    "a": "Cash outflow",
+    "accept": [
+      "outflow",
+      "cash outflow",
+      "use of cash"
+    ],
+    "wrong": [
+      "Cash inflow",
+      "No cash impact",
+      "Financing inflow"
+    ],
+    "explain": "An increase in NWC is an outflow because more cash is tied up in operations; a decrease in NWC is an inflow of cash.",
+    "hook": "Cash tied up = cash gone.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked",
+        "title": "How are the Three Financial Statements Linked? (Wall Street Prep)",
+        "quote": "Increase in Net Working Capital (NWC) → An increase in NWC represents an outflow of cash, as more cash is tied up in operations"
+      }
+    ]
+  },
+  {
+    "id": "vault-02-03",
+    "deck": "vault",
+    "topic": "Working capital",
+    "q": "When accounts receivable increases, is the increase added to or subtracted from net income in cash flow from operations?",
+    "a": "Subtracted",
+    "accept": [
+      "subtracted",
+      "subtract",
+      "deducted"
+    ],
+    "wrong": [
+      "Added",
+      "Ignored",
+      "Reported in investing activities"
+    ],
+    "explain": "An A/R increase means revenue was recognized on credit with no cash received, so it is subtracted from net income in operating cash flow.",
+    "hook": "Booked the sale, not the cash.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows",
+        "title": "Statement of Cash Flows - Definition, Examples & Templates (CFI)",
+        "quote": "There was no cash transaction even though revenue was recognized, so an increase in accounts receivable is also subtracted from net income."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-04",
+    "deck": "vault",
+    "topic": "Working capital",
+    "q": "Does an increase in deferred revenue increase or decrease operating cash flow?",
+    "a": "Increase",
+    "accept": [
+      "increase",
+      "increases",
+      "increases cash"
+    ],
+    "wrong": [
+      "Decrease",
+      "No effect",
+      "Only affects investing cash flow"
+    ],
+    "explain": "Deferred revenue is a current liability representing cash collected in advance before the revenue is earned, so an increase signals cash collections exceeding the related income.",
+    "hook": "Paid upfront, earned later.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://openstax.org/books/principles-financial-accounting/pages/16-3-prepare-the-statement-of-cash-flows-using-the-indirect-method",
+        "title": "16.3 Prepare the Statement of Cash Flows Using the Indirect Method (OpenStax)",
+        "quote": "Increases in current liabilities indicate an increase in cash, since these liabilities generally represent (1) expenses that have been accrued, but not yet paid, or (2) deferred revenues that have been collected, but not yet recorded as revenue."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/cash-flow-from-operations/",
+        "title": "Cash Flow from Operations (CFO) | Format + Examples (Wall Street Prep)",
+        "quote": "Increase in NWC Liability → Increase in Cash"
+      }
+    ]
+  },
+  {
+    "id": "vault-02-05",
+    "deck": "vault",
+    "topic": "Working capital",
+    "q": "Days sales outstanding (DSO) is calculated by dividing which balance sheet account by revenue and multiplying by 365?",
+    "a": "Accounts receivable",
+    "accept": [
+      "accounts receivable",
+      "A/R",
+      "AR",
+      "receivables",
+      "average accounts receivable"
+    ],
+    "wrong": [
+      "Accounts payable",
+      "Inventory",
+      "Deferred revenue"
+    ],
+    "explain": "DSO measures how efficiently a company collects cash from credit sales: (Average Accounts Receivable ÷ Net Revenue) × 365 days.",
+    "hook": "Sales Outstanding = still owed by customers.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/days-sales-outstanding-dso",
+        "title": "Days Sales Outstanding (DSO) | Formula + Calculator (Wall Street Prep)",
+        "quote": "Days Sales Outstanding (DSO) = (Average Accounts Receivable ÷ Net Revenue) × 365 Days"
+      }
+    ]
+  },
+  {
+    "id": "vault-02-06",
+    "deck": "vault",
+    "topic": "D&A",
+    "q": "Why is depreciation and amortization added back to net income in cash flow from operations?",
+    "a": "It is a non-cash expense",
+    "accept": [
+      "non-cash expense",
+      "noncash expense",
+      "non-cash",
+      "noncash",
+      "it's non-cash"
+    ],
+    "wrong": [
+      "It is a financing cash inflow",
+      "It is paid in the following year",
+      "It is a tax refund"
+    ],
+    "explain": "D&A reduces net income on the income statement but involves no cash transaction, so it is added back on the cash flow statement.",
+    "hook": "Expense on paper, no cash out the door.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows",
+        "title": "Statement of Cash Flows - Definition, Examples & Templates (CFI)",
+        "quote": "D&A reduces net income in the income statement. However, we add this back into the cash flow statement to adjust net income because these are non-cash expenses. In other words, no cash transactions are involved."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/cash-flow-from-operations/",
+        "title": "Cash Flow from Operations (CFO) | Format + Examples (Wall Street Prep)",
+        "quote": "Starting from net income, non-cash expenses like depreciation and amortization (D&A) are added back and then changes in net working capital (NWC) are accounted for."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-07",
+    "deck": "vault",
+    "topic": "D&A",
+    "q": "Under the straight-line method, annual depreciation equals (cost minus salvage value) divided by what?",
+    "a": "Useful life",
+    "accept": [
+      "useful life",
+      "the useful life",
+      "asset's useful life"
+    ],
+    "wrong": [
+      "Salvage value",
+      "Total revenue",
+      "Accumulated depreciation"
+    ],
+    "explain": "Straight-line depreciation spreads the depreciable base (purchase price less residual value) evenly over the asset's useful life.",
+    "hook": "Same slice every year.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/depreciation",
+        "title": "Depreciation Expense | Formula + Calculation Tutorial (Wall Street Prep)",
+        "quote": "Depreciation Expense = (Purchase Price – Residual Value) ÷ Useful Life of Fixed Asset"
+      }
+    ]
+  },
+  {
+    "id": "vault-02-08",
+    "deck": "vault",
+    "topic": "D&A",
+    "q": "Under the U.S. GAAP general goodwill model required for public business entities, how often is goodwill tested for impairment?",
+    "a": "Annually",
+    "accept": [
+      "annually",
+      "once a year",
+      "yearly",
+      "at least annually"
+    ],
+    "wrong": [
+      "Quarterly",
+      "Every five years",
+      "Only at acquisition"
+    ],
+    "explain": "Under the general model goodwill is not amortized; it is tested for impairment annually, or between annual tests if a triggering event occurs.",
+    "hook": "No amortization, yearly check-up.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://dart.deloitte.com/USDART/home/publications/deloitte/on-the-radar/goodwill-accounting-intangible-assets",
+        "title": "On the Radar — Goodwill and Intangible Assets (Deloitte DART)",
+        "quote": "Goodwill is not amortized | Goodwill is tested for impairment annually, or between annual tests if an impairment indicator exists (i.e., a triggering event)"
+      }
+    ]
+  },
+  {
+    "id": "vault-02-09",
+    "deck": "vault",
+    "topic": "Capex",
+    "q": "In which section of the cash flow statement do capital expenditures appear?",
+    "a": "Investing activities",
+    "accept": [
+      "investing",
+      "cash flow from investing",
+      "CFI",
+      "investing activities"
+    ],
+    "wrong": [
+      "Operating activities",
+      "Financing activities",
+      "Supplemental non-cash disclosures"
+    ],
+    "explain": "Cash spent purchasing PP&E (capex) is a cash outflow in cash flow from investing activities.",
+    "hook": "Investing in the future = CFI.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows",
+        "title": "Statement of Cash Flows - Definition, Examples & Templates (CFI)",
+        "quote": "Cash spent on purchasing PP&E is called capital expenditures (CapEx)."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked",
+        "title": "How are the Three Financial Statements Linked? (Wall Street Prep)",
+        "quote": "Going further down the cash flow statement (CFS), the \"Capital Expenditures\" line item appears in the Cash from Investing (CFI) section."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-10",
+    "deck": "vault",
+    "topic": "Deferred taxes",
+    "q": "Accelerated depreciation for tax purposes typically creates a deferred tax asset or a deferred tax liability?",
+    "a": "Deferred tax liability",
+    "accept": [
+      "DTL",
+      "deferred tax liability",
+      "a deferred tax liability"
+    ],
+    "wrong": [
+      "Deferred tax asset",
+      "Valuation allowance",
+      "Net operating loss"
+    ],
+    "explain": "Deducting more depreciation early lowers cash taxes now, but later the company deducts less, so cash taxes exceed book taxes; this expected future payment is a DTL.",
+    "hook": "Pay less now, owe it later.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://breakingintowallstreet.com/kb/accounting/net-operating-losses",
+        "title": "Net Operating Losses & Deferred Tax Assets Tutorial (Breaking Into Wall Street)",
+        "quote": "A Deferred Tax Liability (DTL) on the Balance Sheet gets created when the company is expected to pay higher Cash Taxes than Book Taxes in the future. This scenario often happens with accelerated Depreciation"
+      }
+    ]
+  },
+  {
+    "id": "vault-02-11",
+    "deck": "vault",
+    "topic": "NOLs",
+    "q": "A net operating loss carryforward gives rise to which balance sheet item?",
+    "a": "Deferred tax asset",
+    "accept": [
+      "DTA",
+      "deferred tax asset",
+      "a deferred tax asset"
+    ],
+    "wrong": [
+      "Deferred tax liability",
+      "Goodwill",
+      "Deferred revenue"
+    ],
+    "explain": "NOLs can offset future taxable income, so their tax-savings potential is recorded as a DTA; the DTA represents only the tax savings, not the full NOL amount.",
+    "hook": "Past losses = future tax savings (an asset).",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/deferred-tax-liability-dtl",
+        "title": "Deferred Tax Liability (DTL) | Formula + Calculator (Wall Street Prep)",
+        "quote": "DTAs can be related to changes in revenue recognition and expense recognition policies, as well as from net operating losses (NOLs)."
+      },
+      {
+        "url": "https://pro.bloombergtax.com/insights/provision/example-how-is-a-valuation-allowance-recorded-for-deferred-tax-assets",
+        "title": "Example: How Is a Valuation Allowance Recorded for Deferred Tax Assets? (Bloomberg Tax)",
+        "quote": "Because a net operating loss carryforward gives rise to a deferred tax asset, the question becomes the degree to which this deferred tax asset should be reduced by a valuation allowance"
+      },
+      {
+        "url": "https://breakingintowallstreet.com/kb/accounting/net-operating-losses",
+        "title": "Net Operating Losses & Deferred Tax Assets Tutorial (Breaking Into Wall Street)",
+        "quote": "The DTA represents only the tax-savings potential from NOLs, so a $100 NOL would be recorded as a $25 DTA at a 25% tax rate."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-12",
+    "deck": "vault",
+    "topic": "Deferred taxes",
+    "q": "Under ASC 740, what likelihood threshold triggers a valuation allowance against deferred tax assets?",
+    "a": "More likely than not",
+    "accept": [
+      "more likely than not",
+      "more-likely-than-not",
+      "MLTN"
+    ],
+    "wrong": [
+      "Remote",
+      "Reasonably possible",
+      "Virtually certain"
+    ],
+    "explain": "A valuation allowance reduces DTAs if, based on the weight of available evidence, it is more likely than not that some or all of the DTA will not be realized.",
+    "hook": "Coin-flip-plus: if it probably won't be used, reserve it.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/income_taxes/income_taxes__16_US/chapter_5_valuation__US/52_assessing_the_nee_US.html",
+        "title": "5.2 Assessing the need for a valuation allowance (PwC Viewpoint)",
+        "quote": "ASC 740 requires the application of a “more-likely-than-not” threshold when determining the need for and amount of a valuation allowance."
+      },
+      {
+        "url": "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/accounting-for-income-taxes-valuation-allowance1.pdf",
+        "title": "Accounting for Income Taxes - Valuation Allowance (RSM)",
+        "quote": "A valuation allowance is recorded when, based on the weight of the available evidence, it is more-likely- than-not that some or all of a deferred tax asset will not be realized."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-13",
+    "deck": "vault",
+    "topic": "Deferred taxes",
+    "q": "Under ASC 740, \"more likely than not\" means a likelihood of more than what percentage?",
+    "a": "50%",
+    "accept": [
+      "50",
+      "50 percent",
+      "fifty percent"
+    ],
+    "wrong": [
+      "25%",
+      "75%",
+      "90%"
+    ],
+    "explain": "ASC 740-10 defines more likely than not as a likelihood of more than 50 percent; \"probable\" is a higher threshold, often 75% in practice.",
+    "hook": "Just over a coin flip.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/income_taxes/income_taxes__16_US/chapter_5_valuation__US/52_assessing_the_nee_US.html",
+        "title": "5.2 Assessing the need for a valuation allowance (PwC Viewpoint)",
+        "quote": "Reduce deferred tax assets by a valuation allowance if, based on the weight of available evidence, it is more likely than not (a likelihood of more than 50 percent) that some portion or all of the deferred tax assets will not be realized."
+      },
+      {
+        "url": "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/accounting-for-income-taxes-valuation-allowance1.pdf",
+        "title": "Accounting for Income Taxes - Valuation Allowance (RSM)",
+        "quote": "ASC 740-10-25-6 defines the term “more-likely-than-not” as a likelihood of more than 50%."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-14",
+    "deck": "vault",
+    "topic": "Deferred taxes",
+    "q": "Which ASC topic governs accounting for income taxes under U.S. GAAP?",
+    "a": "ASC 740",
+    "accept": [
+      "740",
+      "ASC 740",
+      "Topic 740"
+    ],
+    "wrong": [
+      "ASC 842",
+      "ASC 606",
+      "ASC 350"
+    ],
+    "explain": "ASC 740 governs how companies recognize the effects of income taxes, including deferred tax assets, liabilities and valuation allowances.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://pro.bloombergtax.com/insights/provision/asc-740-valuation-allowances-deferred-tax-assets",
+        "title": "ASC 740 Valuation Allowances for Deferred Tax Assets (Bloomberg Tax)",
+        "quote": "ASC 740 governs how companies recognize the effects of income taxes on their financial statements under U.S. GAAP."
+      },
+      {
+        "url": "https://tax.thomsonreuters.com/en/glossary/deferred-tax-assets",
+        "title": "Deferred tax assets: Overview and FAQs (Thomson Reuters)",
+        "quote": "ASC 740, the financial accounting standard governing how entities recognize income taxes' effects on their financial statements."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-15",
+    "deck": "vault",
+    "topic": "NOLs",
+    "q": "Under current U.S. federal law, for how long can a corporate NOL arising in a tax year beginning after 2020 generally be carried forward?",
+    "a": "Indefinitely",
+    "accept": [
+      "indefinitely",
+      "forever",
+      "no expiration",
+      "unlimited"
+    ],
+    "wrong": [
+      "5 years",
+      "15 years",
+      "20 years"
+    ],
+    "explain": "After the TCJA, NOLs for years beginning after 2020 generally cannot be carried back but can be carried forward indefinitely; pre-2018 NOLs had a 20-year carryforward.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.irs.gov/irm/part4/irm_04-011-011",
+        "title": "4.11.11 Net Operating Loss Cases (IRS)",
+        "quote": "An NOL from a taxable year beginning in 2021 can generally only be carried forward, but it can be carried forward indefinitely."
+      },
+      {
+        "url": "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/accounting-for-income-taxes-valuation-allowance1.pdf",
+        "title": "Accounting for Income Taxes - Valuation Allowance (RSM)",
+        "quote": "For example, under U.S. federal income tax law, NOLs originating after 2017 do not have an expiration date and therefore would generate an indefinite-lived deferred tax asset."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-16",
+    "deck": "vault",
+    "topic": "NOLs",
+    "q": "For tax years beginning after 2020, NOLs arising after 2017 can offset at most what percentage of U.S. federal taxable income?",
+    "a": "80%",
+    "accept": [
+      "80",
+      "80 percent",
+      "eighty percent"
+    ],
+    "wrong": [
+      "50%",
+      "60%",
+      "100%"
+    ],
+    "explain": "The TCJA subjected deductions of post-2017 NOLs to an 80% of taxable income limitation; the CARES Act delayed it so it applies to years beginning after 2020.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.irs.gov/irm/part4/irm_04-011-011",
+        "title": "4.11.11 Net Operating Loss Cases (IRS)",
+        "quote": "As a result of TCJA, in general, an NOLD from NOLs arising from taxable years beginning after 12/31/2017 is subject to an 80% taxable income limitation. The CARES Act modified this TCJA change by delaying the limitations, so it only applies to NOLDs in taxable years beginning after 12/31/2020."
+      },
+      {
+        "url": "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/accounting-for-income-taxes-valuation-allowance1.pdf",
+        "title": "Accounting for Income Taxes - Valuation Allowance (RSM)",
+        "quote": "under U.S. federal income tax law, NOLs originating after 2017 can only offset up to 80% of taxable income in any given year."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-17",
+    "deck": "vault",
+    "topic": "NOLs",
+    "q": "Which Internal Revenue Code section limits a corporation's use of NOL carryforwards after an ownership change?",
+    "a": "Section 382",
+    "accept": [
+      "382",
+      "IRC 382",
+      "Section 382",
+      "§382"
+    ],
+    "wrong": [
+      "Section 172",
+      "Section 338",
+      "Section 1031"
+    ],
+    "explain": "After an ownership change, Section 382 caps the taxable income that pre-change losses can offset each year at the value of the old loss corporation multiplied by the long-term tax-exempt rate.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://uscode.house.gov/us/usc/119-124/t26/s382",
+        "title": "26 U.S.C. § 382: Limitation on net operating loss carryforwards and certain built-in losses following ownership change",
+        "quote": "The amount of the taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed the section 382 limitation for such year."
+      },
+      {
+        "url": "https://www.irs.gov/irm/part4/irm_04-011-011",
+        "title": "4.11.11 Net Operating Loss Cases (IRS)",
+        "quote": "After a reorganization or other change in corporate ownership, the use of certain carryforwards may be limited or prohibited under IRC 382, Limitation on net operating loss carryforwards and certain built-in losses following ownership change"
+      }
+    ]
+  },
+  {
+    "id": "vault-02-18",
+    "deck": "vault",
+    "topic": "Leases (ASC 842)",
+    "q": "At lease commencement under ASC 842, a lessee recognizes a lease liability and what asset?",
+    "a": "Right-of-use asset",
+    "accept": [
+      "right-of-use asset",
+      "right of use asset",
+      "ROU asset",
+      "ROU"
+    ],
+    "wrong": [
+      "Goodwill",
+      "Prepaid rent",
+      "Deferred tax asset"
+    ],
+    "explain": "ASC 842-20-25-1 requires a lessee to recognize a right-of-use asset and a lease liability at the commencement date.",
+    "hook": "Right to use it, obligation to pay for it.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://dart.deloitte.com/USDART/home/codification/broad-transactions/asc842-10/roadmap-leasing/chapter-8-lessee-accounting/8-4-recognition-measurement",
+        "title": "8.4 Recognition and Measurement (Deloitte DART)",
+        "quote": "At the commencement date, a lessee shall recognize a right-of-use asset and a lease liability."
+      },
+      {
+        "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frd00195-171us-05-27-2026.pdf",
+        "title": "Financial Reporting Developments: Lease accounting (EY)",
+        "quote": "842-20-25-1 At the commencement date , a lessee shall recognize a right-of-use asset and a lease liability ."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-19",
+    "deck": "vault",
+    "topic": "Leases (ASC 842)",
+    "q": "Under ASC 842, a short-term lease that a lessee may elect to keep off the balance sheet has a lease term of at most how many months?",
+    "a": "12 months",
+    "accept": [
+      "12",
+      "twelve",
+      "12 months",
+      "twelve months",
+      "one year"
+    ],
+    "wrong": [
+      "3 months",
+      "6 months",
+      "24 months"
+    ],
+    "explain": "A short-term lease has a lease term of 12 months or less at commencement and no purchase option the lessee is reasonably certain to exercise; the election is made by class of underlying asset.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://dart.deloitte.com/USDART/home/codification/broad-transactions/asc842-10/roadmap-leasing/chapter-8-lessee-accounting/8-2-policy-decisions-that-affect",
+        "title": "8.2 Policy Decisions That Affect Lessee Accounting (Deloitte DART)",
+        "quote": "A lease that, at the commencement date, has a lease term of 12 months or less and does not include an option to purchase the underlying asset that the lessee is reasonably certain to exercise."
+      },
+      {
+        "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frd00195-171us-05-27-2026.pdf",
+        "title": "Financial Reporting Developments: Lease accounting (EY)",
+        "quote": "A lease that, at the commencement date , has a lease term of 12 months or less and does not include an option to purchase the underlying asset that the lessee is reasonably certain to exercise."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-20",
+    "deck": "vault",
+    "topic": "Leases (ASC 842)",
+    "q": "Under ASC 842, how does a lessee recognize expense for an operating lease on the income statement?",
+    "a": "Single straight-line lease cost",
+    "accept": [
+      "single lease cost",
+      "straight-line lease cost",
+      "single straight-line lease cost",
+      "straight-line"
+    ],
+    "wrong": [
+      "Separate interest and amortization expense",
+      "Expensed entirely at commencement",
+      "Only interest expense"
+    ],
+    "explain": "Operating leases produce a single lease cost generally recognized on a straight-line basis, whereas finance leases recognize interest on the liability separately from amortization of the ROU asset.",
+    "hook": "Operating = one line, flat.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frd00195-171us-05-27-2026.pdf",
+        "title": "Financial Reporting Developments: Lease accounting (EY)",
+        "quote": "After lease commencement, a lessee recognizes a single lease cost for an operating lease on a straight- line basis."
+      },
+      {
+        "url": "https://storage.fasb.org/PCC%20Topic%205-Leases-FASBPIRReport-2025%2012%2011.pdf",
+        "title": "Post-Implementation Review: Leases (Topic 842) (FASB)",
+        "quote": "For operating leases: a. Recognize a single lease cost in the income statement b. Classify all cash payments within operating activities in the statement of cash flows."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-21",
+    "deck": "vault",
+    "topic": "Leases (ASC 842)",
+    "q": "Under ASC 842, in which cash flow statement section does a lessee classify repayments of the principal portion of a finance lease liability?",
+    "a": "Financing activities",
+    "accept": [
+      "financing",
+      "financing activities",
+      "CFF",
+      "cash flow from financing"
+    ],
+    "wrong": [
+      "Operating activities",
+      "Investing activities",
+      "Not shown on the cash flow statement"
+    ],
+    "explain": "For finance leases, principal repayments are financing cash flows while interest payments are generally operating; all operating lease payments are operating cash flows.",
+    "hook": "Finance lease principal = repaying debt = financing.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/PCC%20Topic%205-Leases-FASBPIRReport-2025%2012%2011.pdf",
+        "title": "Post-Implementation Review: Leases (Topic 842) (FASB)",
+        "quote": "Classify repayments of the principal portion of the lease liability within financing activities and payments of interest on the lease liability and variable lease payments within operating activities in the statement of cash flows."
+      },
+      {
+        "url": "https://arch.bdo.com/getContentAsset/9f7428e4-09d3-4ee2-a530-b026eb0bc16e/bb620d56-5e9c-4774-8d17-fb9323eefdf4/Accounting-for-Leases-Under-ASC-842-BDO-06-2025.pdf",
+        "title": "Accounting for Leases Under ASC 842 (BDO)",
+        "quote": "Classify the repayments of the principal portion of the lease liability in financing activities and payments of interest on the lease liability and variable lease payments generally in operating activities."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-22",
+    "deck": "vault",
+    "topic": "Leases (ASC 842)",
+    "q": "ASC 842 became effective for public business entities for fiscal years beginning after what date?",
+    "a": "December 15, 2018",
+    "accept": [
+      "Dec 15, 2018",
+      "December 15 2018",
+      "12/15/2018",
+      "15 December 2018"
+    ],
+    "wrong": [
+      "December 15, 2016",
+      "December 15, 2019",
+      "December 15, 2021"
+    ],
+    "explain": "Public business entities applied ASC 842 for fiscal years beginning after December 15, 2018, including interim periods; other entities had later effective dates.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU%202018-11.pdf",
+        "title": "Leases (Topic 842), ASU 2018-11 (FASB)",
+        "quote": "after December 15, 2018, and interim periods within those fiscal years. Earlier application is permitted."
+      },
+      {
+        "url": "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/leases-overview-of-asc-842.pdf",
+        "title": "Leases: Overview of ASC 842 (RSM)",
+        "quote": "ASC 842 is effective for the following entities in annual reporting periods beginning after December 15, 2018 and the interim periods therein: (a) public business entities"
+      }
+    ]
+  },
+  {
+    "id": "vault-02-23",
+    "deck": "vault",
+    "topic": "Inventory (FIFO/LIFO)",
+    "q": "When inventory costs are rising, which method, FIFO or LIFO, reports higher net income?",
+    "a": "FIFO",
+    "accept": [
+      "FIFO",
+      "first-in, first-out",
+      "first in first out"
+    ],
+    "wrong": [
+      "LIFO",
+      "Both report the same",
+      "Neither; only tax differs"
+    ],
+    "explain": "With rising costs, FIFO expenses the older, cheaper inventory first, giving lower COGS and higher net income; LIFO gives higher COGS and lower net income.",
+    "hook": "First in = cheapest out when prices climb.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/fifo-vs-lifo-accounting/",
+        "title": "FIFO vs. LIFO | Inventory Valuation Difference + Examples (Wall Street Prep)",
+        "quote": "Rising Inventory Costs ➝ Lower COGS Recorded under FIFO (and Higher Net Income)"
+      }
+    ]
+  },
+  {
+    "id": "vault-02-24",
+    "deck": "vault",
+    "topic": "Inventory (FIFO/LIFO)",
+    "q": "Which inventory cost method is permitted under U.S. GAAP but not under IFRS?",
+    "a": "LIFO",
+    "accept": [
+      "LIFO",
+      "last-in, first-out",
+      "last in first out"
+    ],
+    "wrong": [
+      "FIFO",
+      "Weighted average cost",
+      "Specific identification"
+    ],
+    "explain": "IAS 2 permits FIFO or weighted average for interchangeable items and specific identification for non-interchangeable items; the IASB eliminated LIFO.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/ias2.html",
+        "title": "IAS 2 Inventories (IFRS Foundation)",
+        "quote": "The cost of inventories , other than those dealt with in paragraph 23 , shall be assigned by using the first‑in, first‑out (FIFO) or weighted average cost formula."
+      },
+      {
+        "url": "https://openstax.org/books/principles-financial-accounting/pages/10-1-describe-and-demonstrate-the-basic-inventory-valuation-methods-and-their-cost-flow-assumptions",
+        "title": "10.1 Describe and Demonstrate the Basic Inventory Valuation Methods and Their Cost Flow Assumptions (OpenStax)",
+        "quote": "IFRS does not permit the use of LIFO. This is a major difference between US GAAP and IFRS."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-25",
+    "deck": "vault",
+    "topic": "Inventory (FIFO/LIFO)",
+    "q": "What is the name of the IRS rule requiring a company that uses LIFO for tax purposes to also use LIFO in its financial statements?",
+    "a": "LIFO conformity rule",
+    "accept": [
+      "LIFO conformity",
+      "LIFO conformity rule",
+      "conformity rule",
+      "LIFO conformity requirement"
+    ],
+    "wrong": [
+      "LIFO liquidation rule",
+      "Lower of cost or market rule",
+      "Matching principle"
+    ],
+    "explain": "A taxpayer electing LIFO for tax must generally use LIFO in its financial statements, with limited exceptions such as supplemental note disclosures and interim reports.",
+    "hook": "Tax and books must conform.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.irs.gov/pub/fatca/int_practice_units/cor_c_017.pdf",
+        "title": "Practice Unit - LIFO Conformity (IRS)",
+        "quote": "A taxpayer electing the Last in – First out (LIFO) method for tax purposes must generally use the LIFO method in its financial statements."
+      },
+      {
+        "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/inventory/Inventory-Guide/3_chapter_LIFO_inv/34_Book_tax_confo_req.html",
+        "title": "3.4 Book/tax LIFO conformity requirements (PwC Viewpoint)",
+        "quote": "The IRS requires LIFO to be used for both tax and financial statement purposes in the primary income statement."
+      }
+    ]
+  },
+  {
+    "id": "vault-02-26",
+    "deck": "vault",
+    "topic": "Inventory (FIFO/LIFO)",
+    "q": "What is the term for the difference between a company's inventory valued at current cost (such as FIFO) and its inventory valued under LIFO?",
+    "a": "LIFO reserve",
+    "accept": [
+      "LIFO reserve",
+      "the LIFO reserve"
+    ],
+    "wrong": [
+      "LIFO liquidation",
+      "Valuation allowance",
+      "Inventory write-down"
+    ],
+    "explain": "The LIFO reserve bridges LIFO-reported inventory to current-cost inventory, letting analysts compare LIFO reporters with FIFO reporters.",
+    "hook": "Reserve = the gap LIFO hides.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.irs.gov/pub/fatca/int_practice_units/cor_c_014.pdf",
+        "title": "LB&I Concept Unit: Adopting LIFO (IRS)",
+        "quote": "The LIFO reserve is the difference between the ending inventory valued using LIFO and ending inventory valued at current year cost."
+      }
+    ]
+  }
+]

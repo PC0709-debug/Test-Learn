@@ -1,0 +1,32 @@
+[
+  {
+    "id": "library-03-16",
+    "deck": "library",
+    "topic": "Leonardo da Vinci",
+    "q": "In which city is Leonardo da Vinci's Last Supper, painted for the refectory of Santa Maria delle Grazie?",
+    "a": "Milan",
+    "accept": [
+      "Milano"
+    ],
+    "wrong": [
+      "Florence",
+      "Rome",
+      "Venice"
+    ],
+    "explain": "Leonardo painted it in the late 1490s on the north wall of the refectory of the Dominican convent of Santa Maria delle Grazie in Milan.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Last-Supper-fresco-by-Leonardo-da-Vinci",
+        "title": "Last Supper | Britannica",
+        "quote": "Last Supper , one of the most famous artworks in the world, painted by Leonardo da Vinci probably between 1495 and 1498 for the Dominican monastery Santa Maria delle Grazie in Milan ."
+      },
+      {
+        "url": "https://unesco.cultura.gov.it/en/projects/chiesa-e-convento-domenicano-di-santa-maria-delle-grazie-con-l-ultima-cena-di-leonardo-da-vinci",
+        "title": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci - Unesco Beni Culturali (Italian Ministry of Culture)",
+        "quote": "The refectory of the Convent of Santa Maria delle Grazie in Milan forms an integral part of this architectural complex, begun in 1463 and reworked at the end of the 15th century by Bramante. On the north wall is The Last Supper"
+      }
+    ]
+  }
+]

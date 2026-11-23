@@ -1,0 +1,434 @@
+[
+ {
+  "id": "floor-02-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-86",
+   "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/what-are"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.treasurydirect.gov/marketable-securities/understanding-pricing?os=___",
+   "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/what-are"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.treasurydirect.gov/marketable-securities/treasury-bills",
+   "https://www.treasurydirect.gov/marketable-securities"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-04",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.treasurydirect.gov/help-center/glossary-of-terms",
+   "https://www.treasurydirect.gov/forms/sec009.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-05",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.treasurydirect.gov/marketable-securities/treasury-notes",
+   "https://www.treasurydirect.gov/help-center/glossary-of-terms"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.treasurydirect.gov/marketable-securities/treasury-bonds/",
+   "https://www.treasurydirect.gov/marketable-securities"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-07",
+  "source": 30,
+  "match": 30,
+  "unique": 12,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "Accept list includes 'CPI'/'Consumer Price Index', which is broader than CPI-U (CPI-W also exists); TreasuryDirect itself uses 'Consumer Price Index' loosely, so tolerated, but consider removing 'CPI'.",
+  "verifiedUrls": [
+   "https://www.treasurydirect.gov/help-center/glossary-of-terms",
+   "https://www.treasurydirect.gov/forms/sec0042.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.treasurydirect.gov/marketable-securities/tips/",
+   "https://www.treasurydirect.gov/help-center/glossary-of-terms"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.treasurydirect.gov/marketable-securities",
+   "https://www.treasurydirect.gov/forms/sec009.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-10",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/money/what-is-the-yield-curve",
+   "https://www.fdic.gov/analysis/risk-review/2024-risk-review/2024-risk-review-glossary.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-11",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.fdic.gov/analysis/risk-review/2024-risk-review/2024-risk-review-glossary.pdf",
+   "https://www.britannica.com/money/what-is-the-yield-curve"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-12",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/money/what-is-the-yield-curve",
+   "https://www.finra.org/investors/insights/spread-word-what-you-need-know-about-bond-spreads"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/fixed-income/inverted-yield-curve",
+   "https://www.britannica.com/money/what-is-the-yield-curve"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/knowledge/finance/basis-points-bps-definition",
+   "https://www.finra.org/investors/insights/spread-word-what-you-need-know-about-bond-spreads"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/knowledge/finance/basis-points-bps-definition",
+   "https://www.finra.org/investors/insights/spread-word-what-you-need-know-about-bond-spreads"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.finra.org/investors/insights/spread-word-what-you-need-know-about-bond-spreads",
+   "https://corporatefinanceinstitute.com/resources/capital_markets/credit-spread"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/capital_markets/credit-spread",
+   "https://www.finra.org/investors/insights/spread-word-what-you-need-know-about-bond-spreads"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.fdic.gov/analysis/risk-review/2024-risk-review/2024-risk-review-glossary.pdf",
+   "https://www.investor.gov/introduction-investing/investing-basics/glossary/high-yield-bond-or-junk-bond"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.fdic.gov/analysis/risk-review/2024-risk-review/2024-risk-review-glossary.pdf",
+   "https://www.investor.gov/introduction-investing/investing-basics/glossary/investment-grade-bond-or-high-grade-bond"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-20",
+  "source": 25,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 95,
+  "hardFail": null,
+  "issue": "Only one cited source (SEC Investor.gov); acceptable for a term, but add a second (e.g. FINRA) if possible.",
+  "verifiedUrls": [
+   "https://www.investor.gov/introduction-investing/investing-basics/glossary/high-yield-bond-or-junk-bond"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-21",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.newyorkfed.org/markets/reference-rates/sofr",
+   "https://www.newyorkfed.org/arrc/sofr-transition"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-22",
+  "source": 30,
+  "match": 30,
+  "unique": 8,
+  "current": 15,
+  "precise": 10,
+  "total": 93,
+  "hardFail": "Accept list includes 'June 2023', which is not equivalent to the exact date June 30, 2023",
+  "issue": "Remove 'June 2023' from accept; rest verified (NY Fed ARRC page and Federal Register both give June 30, 2023).",
+  "verifiedUrls": [
+   "https://www.newyorkfed.org/arrc/sofr-transition",
+   "https://www.federalregister.gov/documents/full_text/html/2023/06/30/2023-13890.html"
+  ],
+  "pass": false
+ },
+ {
+  "id": "floor-02-23",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.newyorkfed.org/arrc/sofr-transition",
+   "https://www.newyorkfed.org/medialibrary/microsites/arrc/files/ARRC-faq.pdf",
+   "https://www.newyorkfed.org/medialibrary/Microsites/arrc/files/2021/users-guide-to-sofr2021-update.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-24",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/yield-based-bond-duration-measures-and-properties",
+   "https://www.treasurer.ca.gov/sites/default/files/cdiac/Duration_06-10.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-25",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/yield-based-bond-convexity-and-portfolio-properties",
+   "https://www.treasurer.ca.gov/sites/default/files/2026-01/2-1.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/yield-based-bond-duration-measures-and-properties",
+   "https://www.treasurer.ca.gov/sites/default/files/2026-01/2-1.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-02-27",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/yield-based-bond-convexity-and-portfolio-properties",
+   "https://www.treasurer.ca.gov/sites/default/files/2026-01/2-1.pdf"
+  ],
+  "pass": true
+ }
+]

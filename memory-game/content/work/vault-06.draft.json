@@ -1,0 +1,822 @@
+[
+ {
+  "id": "vault-06-01",
+  "deck": "vault",
+  "topic": "UFCF build",
+  "q": "In an unlevered free cash flow build, EBIT multiplied by (1 - tax rate) gives what metric?",
+  "a": "NOPAT",
+  "accept": [
+   "net operating profit after tax",
+   "net operating profit after taxes",
+   "EBIAT"
+  ],
+  "wrong": [
+   "EBITDA",
+   "Net income",
+   "EBT"
+  ],
+  "explain": "NOPAT (also called EBIAT) is after-tax operating income as if the company carried no debt: NOPAT = EBIT x (1 - tax rate).",
+  "hook": "Tax the operating line, not the pre-tax line.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow (UFCF) | Formula + Calculator",
+    "quote": "NOPAT, or \"EBIAT\", is a company's hypothetical after-tax operating income ( EBIT ) if its capital structure carried no debt at all. NOPAT = EBIT × (1 – Tax Rate )"
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/free-cash-flow-to-firm-fcff",
+    "title": "Free Cash Flow to Firm (FCFF) - Formulas, Definition & Example",
+    "quote": "A common starting point for calculating it is Net Operating Profit After Tax (NOPAT), which can be obtained by multiplying Earnings Before Interest and Taxes (EBIT) by (1-Tax Rate)."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-02",
+  "deck": "vault",
+  "topic": "UFCF build",
+  "q": "Unlevered free cash flow is also known as free cash flow to what?",
+  "a": "The firm",
+  "accept": [
+   "firm",
+   "FCFF",
+   "free cash flow to the firm",
+   "free cash flow to firm"
+  ],
+  "wrong": [
+   "Equity",
+   "Shareholders",
+   "Lenders"
+  ],
+  "explain": "Unlevered FCF is also called Free Cash Flow to the Firm (FCFF); free cash flow to equity is the levered measure.",
+  "hook": "Unlevered = whole firm; levered = equity.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow - Definition, Formula & DCF Use",
+    "quote": "Unlevered Free Cash Flow (also known as Free Cash Flow to the Firm or FCFF for short) is a theoretical cash flow figure for a business."
+   },
+   {
+    "url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow: Formulas, Calculations, and Full Tutorial",
+    "quote": "Unlevered Free Cash Flow, also known as UFCF or Free Cash Flow to Firm (FCFF), is a measure of a company's cash flow"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-03",
+  "deck": "vault",
+  "topic": "UFCF build",
+  "q": "In a UFCF build starting from NOPAT, is depreciation and amortization added or subtracted?",
+  "a": "Added back",
+  "accept": [
+   "added",
+   "add",
+   "add back",
+   "added back"
+  ],
+  "wrong": [
+   "Subtracted",
+   "Ignored",
+   "Multiplied by the tax rate and subtracted"
+  ],
+  "explain": "D&A is a non-cash expense: it reduced EBIT but no cash left the business, so it is added back to NOPAT.",
+  "hook": "Non-cash expense? Put it back.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow (UFCF) | Formula + Calculator",
+    "quote": "Depreciation and amortization (D&A) each represent non-cash add backs on the cash flow statement , i.e. no real cash outflow occurred."
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow - Definition, Formula & DCF Use",
+    "quote": "Add back depreciation and amortization expenses"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-04",
+  "deck": "vault",
+  "topic": "UFCF build",
+  "q": "All else equal, does an increase in net working capital increase or decrease unlevered free cash flow?",
+  "a": "Decrease",
+  "accept": [
+   "decreases",
+   "lowers it",
+   "reduces it",
+   "decrease UFCF"
+  ],
+  "wrong": [
+   "Increase",
+   "No effect",
+   "Doubles it"
+  ],
+  "explain": "An increase in NWC (e.g., higher accounts receivable) ties up cash, so it is an outflow that reduces UFCF.",
+  "hook": "Cash stuck in receivables isn't free.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow (UFCF) | Formula + Calculator",
+    "quote": "If the change in NWC increases, UFCF declines because it represents an \"outflow\" of cash."
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow - Definition, Formula & DCF Use",
+    "quote": "Subtract any increases in non-cash net working capital"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-05",
+  "deck": "vault",
+  "topic": "UFCF build",
+  "q": "In a UFCF build, are capital expenditures added or subtracted?",
+  "a": "Subtracted",
+  "accept": [
+   "subtract",
+   "deducted",
+   "subtracted out"
+  ],
+  "wrong": [
+   "Added",
+   "Ignored",
+   "Added back"
+  ],
+  "explain": "Capex is real cash spent on long-term assets, so it is deducted after adding back D&A and adjusting for working capital.",
+  "hook": "",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow - Definition, Formula & DCF Use",
+    "quote": "Subtract any capital expenditures"
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow (UFCF) | Formula + Calculator",
+    "quote": "Unlevered Free Cash Flow = NOPAT + Depreciation and Amortization – Increase in Net Working Capital (NWC) – Capital Expenditures"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-06",
+  "deck": "vault",
+  "topic": "UFCF build",
+  "q": "Unlevered free cash flow is the cash available to which investors?",
+  "a": "Debt and equity holders",
+  "accept": [
+   "all capital providers",
+   "all investors",
+   "debt and equity",
+   "equity and debt holders",
+   "debtholders and equity holders"
+  ],
+  "wrong": [
+   "Equity holders only",
+   "Debt holders only",
+   "Preferred holders only"
+  ],
+  "explain": "UFCF is the cash flow available to all funding providers, both debt and equity, before any financing payments.",
+  "hook": "Unlevered = everyone at the table.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow - Definition, Formula & DCF Use",
+    "quote": "It is the cash flow available to all equity holders and debtholders after all operating expenses, capital expenditures, and investments in working capital have been made."
+   },
+   {
+    "url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow: Formulas, Calculations, and Full Tutorial",
+    "quote": "Related to or \"available\" to all investors in the company – Debt, Equity, Preferred, and others (in other words, \"Free Cash Flow to ALL Investors\")"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-07",
+  "deck": "vault",
+  "topic": "UFCF calculation",
+  "q": "With EBIT of $250m, a 26% tax rate, D&A of $20m, capex of $40m and a $5m increase in NWC, what is UFCF (in $m)?",
+  "a": "160",
+  "accept": [
+   "$160m",
+   "$160 million",
+   "160m",
+   "$160"
+  ],
+  "wrong": [
+   "165",
+   "185",
+   "150"
+  ],
+  "explain": "NOPAT = 250 x (1 - 26%) = 185; 185 + 20 - 40 - 5 = 160.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow (UFCF) | Formula + Calculator",
+    "quote": "Unlevered Free Cash Flow = $185 million + $20 million – $40 million – $5 million = $160 million"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-08",
+  "deck": "vault",
+  "topic": "UFCF build",
+  "q": "Discounting unlevered free cash flows in a DCF yields which value of the company?",
+  "a": "Enterprise value",
+  "accept": [
+   "EV",
+   "enterprise value (EV)",
+   "TEV"
+  ],
+  "wrong": [
+   "Equity value",
+   "Book value",
+   "Liquidation value"
+  ],
+  "explain": "Because UFCF belongs to all capital providers, its present value is enterprise value; net debt is then bridged to get equity value.",
+  "hook": "",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow - Definition, Formula & DCF Use",
+    "quote": "Unlevered Free Cash Flow is used in financial modeling to determine the enterprise value of a firm."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-09",
+  "deck": "vault",
+  "topic": "UFCF build",
+  "q": "In an unlevered DCF, where is the tax benefit of interest (the interest tax shield) captured?",
+  "a": "In WACC",
+  "accept": [
+   "WACC",
+   "the discount rate",
+   "after-tax cost of debt",
+   "in the after-tax cost of debt"
+  ],
+  "wrong": [
+   "In NOPAT",
+   "In net working capital",
+   "In capex"
+  ],
+  "explain": "The tax benefit of debt is reflected in the WACC via the after-tax cost of debt, which is why UFCF taxes EBIT (NOPAT) to avoid double-counting.",
+  "hook": "Shield goes in the rate, not the cash flow.",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/cost-of-debt",
+    "title": "Understanding the Cost of Debt | Wall Street Prep",
+    "quote": "Note the tax benefits of debt financing are accounted for in the company's discount rate inclusive of all capital providers (or the WACC), which is why the DCF uses the net operating profits after tax ( NOPAT ) in its calculation to avoid double-counting."
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+    "title": "Unlevered Free Cash Flow - Definition, Formula & DCF Use",
+    "quote": "Calculate the theoretical taxes the company would have to pay if they didn't have a tax shield (i.e., without deducting interest expense)"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-10",
+  "deck": "vault",
+  "topic": "WACC",
+  "q": "Should the debt and equity weights in WACC be based on market values or book values?",
+  "a": "Market values",
+  "accept": [
+   "market",
+   "market value"
+  ],
+  "wrong": [
+   "Book values",
+   "Par values",
+   "Historical cost"
+  ],
+  "explain": "WACC uses the market value of equity (market cap) and market value of debt; book equity tends to grossly understate equity value.",
+  "hook": "",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/financial-modeling/wacc-calculator/",
+    "title": "WACC Calculator - Download Free Excel Template",
+    "quote": "E = market value of the firm's equity (market cap) D = market value of the firm's debt V = total value of capital (equity plus debt)"
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/wacc",
+    "title": "WACC Guide | Formula + Calculation Example",
+    "quote": "The key point here is that you should not use the book value of a company's equity value, as this method tends to grossly underestimate the company's true equity value, and will exaggerate the debt proportion relative to equity."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-11",
+  "deck": "vault",
+  "topic": "WACC",
+  "q": "What is commonly used as an approximation for the market value of debt in WACC?",
+  "a": "Book value of debt",
+  "accept": [
+   "book value",
+   "balance sheet debt",
+   "book debt"
+  ],
+  "wrong": [
+   "Market capitalization",
+   "Face value of equity",
+   "Enterprise value"
+  ],
+  "explain": "Unlike equity, the market value of debt usually does not deviate far from book value, so the latest balance-sheet debt is a typical proxy unless rates have moved a lot.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/wacc",
+    "title": "WACC Guide | Formula + Calculation Example",
+    "quote": "Most of the time, you can use the book value of debt from the company's latest balance sheet as an approximation for the market value of debt. That's because, unlike equity, the market value of debt usually doesn't deviate too far from the book value."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-12",
+  "deck": "vault",
+  "topic": "Cost of debt",
+  "q": "A company has a 10% pre-tax cost of debt and a 25% tax rate. What is its after-tax cost of debt?",
+  "a": "7.5%",
+  "accept": [
+   "7.5",
+   "7.5 percent"
+  ],
+  "wrong": [
+   "10%",
+   "2.5%",
+   "12.5%"
+  ],
+  "explain": "After-tax cost of debt = pre-tax cost x (1 - tax rate) = 10% x 0.75 = 7.5%, because interest is tax-deductible.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/wacc",
+    "title": "WACC Guide | Formula + Calculation Example",
+    "quote": "For example, a company with a 10% cost of debt and a 25% tax rate has a cost of debt of 10% x (1-0.25) = 7.5% after the tax adjustment. That's because the interest payments companies make are tax deductible, thus lowering the company's tax bill."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/cost-of-debt",
+    "title": "Understanding the Cost of Debt | Wall Street Prep",
+    "quote": "After-Tax Cost of Debt = Pre-Tax Cost of Debt × (1 – Tax Rate)"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-13",
+  "deck": "vault",
+  "topic": "Cost of debt",
+  "q": "Preferred dividends are paid out of what kind of profits, which is why the cost of preferred stock is not tax-adjusted in WACC?",
+  "a": "After-tax profits",
+  "accept": [
+   "after-tax",
+   "after tax profits",
+   "after-tax income",
+   "after-tax earnings"
+  ],
+  "wrong": [
+   "Pre-tax profits",
+   "EBITDA",
+   "Operating profit (EBIT)"
+  ],
+  "explain": "Interest is tax-deductible so the cost of debt is multiplied by (1 - tax rate); preferred dividends are paid with after-tax profits, so no such adjustment applies.",
+  "hook": "",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-wacc-formula/?ref=davidseacombe.com",
+    "title": "WACC Formula, Definition and Uses - Guide to Cost of Capital",
+    "quote": "Since interest payments are tax-deductible, the cost of debt needs to be multiplied by (1 – tax rate), which is referred to as the value of the tax shield . This is not done for preferred stock because preferred dividends are paid with after-tax profits ."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/cost-of-debt",
+    "title": "Understanding the Cost of Debt | Wall Street Prep",
+    "quote": "The difference between the pre-tax cost of debt and the after-tax cost of debt is attributable to how interest expense reduces the amount of taxes paid, unlike dividends issued to common or preferred equity holders."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-14",
+  "deck": "vault",
+  "topic": "Cost of debt",
+  "q": "Which bond measure is typically used as the pre-tax cost of debt in WACC?",
+  "a": "Yield to maturity",
+  "accept": [
+   "YTM",
+   "yield-to-maturity"
+  ],
+  "wrong": [
+   "Return on equity",
+   "Dividend yield",
+   "Current ratio"
+  ],
+  "explain": "The cost of debt is the yield to maturity on the firm's existing debt; for private companies, the yields of comparable rated issuers are used.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-wacc-formula/?ref=davidseacombe.com",
+    "title": "WACC Formula, Definition and Uses - Guide to Cost of Capital",
+    "quote": "The cost of debt is the yield to maturity on the firm's debt."
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/wacc-private-company",
+    "title": "WACC for Private Company | Formula + Calculator",
+    "quote": "The yield to maturity (YTM) on a private company's long term debt is not typically publicly available, therefore the yield of debt issuances by comparable companies (i.e. comparable public companies with similar credit ratings ) is used"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-15",
+  "deck": "vault",
+  "topic": "CAPM",
+  "q": "Under CAPM, the cost of equity equals the risk-free rate plus beta multiplied by what?",
+  "a": "Equity risk premium",
+  "accept": [
+   "ERP",
+   "market risk premium",
+   "rm - rf",
+   "market return minus risk-free rate"
+  ],
+  "wrong": [
+   "Cost of debt",
+   "Tax rate",
+   "Dividend yield"
+  ],
+  "explain": "CAPM: Ke = rf + beta x (rm - rf), where (rm - rf) is the equity (market) risk premium.",
+  "hook": "Base rate + beta-scaled premium.",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+    "title": "Capital Asset Pricing Model (CAPM) | Formula + Calculator",
+    "quote": "The capital asset pricing model (CAPM) formula states that the cost of equity—the return expected to be earned by common shareholders—is equal to the risk-free rate (rf) plus the product of beta and the equity risk premium (ERP)."
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-wacc-formula/?ref=davidseacombe.com",
+    "title": "WACC Formula, Definition and Uses - Guide to Cost of Capital",
+    "quote": "After calculating the risk-free rate, equity risk premium, and levered beta, the cost of equity = risk-free rate + equity risk premium * levered beta."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-16",
+  "deck": "vault",
+  "topic": "CAPM",
+  "q": "What is the standard proxy for the risk-free rate in CAPM for US companies?",
+  "a": "10-year Treasury yield",
+  "accept": [
+   "10-year US Treasury",
+   "10-year treasury note",
+   "10-year Treasury",
+   "ten-year Treasury yield",
+   "10-year government bond yield"
+  ],
+  "wrong": [
+   "3-month LIBOR",
+   "Fed discount rate",
+   "Prime rate"
+  ],
+  "explain": "Because the longest-dated government bonds are less liquid, the current yield on 10-year US Treasury notes has become the standard risk-free proxy.",
+  "hook": "",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+    "title": "Capital Asset Pricing Model (CAPM) | Formula + Calculator",
+    "quote": "the current yield on 10-year US treasury notes has become the standard proxy for the risk-free rate assumption for companies based in the US."
+   },
+   {
+    "url": "https://www.britannica.com/money/capital-asset-pricing-model",
+    "title": "Capital asset pricing model (CAPM) | Britannica Money",
+    "quote": "CAPM begins with a risk-free rate of return. For U.S. investments, that typically means the ten-year Treasury note ."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-17",
+  "deck": "vault",
+  "topic": "CAPM",
+  "q": "Using CAPM, what is the cost of equity for a stock with beta 1.2 if the risk-free rate is 4% and the expected market return is 9%?",
+  "a": "10%",
+  "accept": [
+   "10",
+   "10 percent",
+   "10.0%"
+  ],
+  "wrong": [
+   "9%",
+   "6%",
+   "10.8%"
+  ],
+  "explain": "Ke = 4% + 1.2 x (9% - 4%) = 4% + 6% = 10%.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/capital-asset-pricing-model",
+    "title": "Capital asset pricing model (CAPM) | Britannica Money",
+    "quote": "R = 4% + 1.2 (9% − 4%) = 10%"
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+    "title": "Capital Asset Pricing Model (CAPM) | Formula + Calculator",
+    "quote": "Expected Return (Ke) = rf + β (rm – rf)"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-18",
+  "deck": "vault",
+  "topic": "Equity risk premium",
+  "q": "The equity risk premium is the expected market return minus what?",
+  "a": "Risk-free rate",
+  "accept": [
+   "the risk-free rate",
+   "rf",
+   "risk free rate"
+  ],
+  "wrong": [
+   "Cost of debt",
+   "Inflation rate",
+   "Dividend yield"
+  ],
+  "explain": "ERP = return on the stock market - risk-free rate; it is the extra return investors require for holding equities instead of risk-free assets.",
+  "hook": "",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/valuation/equity-risk-premium/",
+    "title": "Equity Risk Premium - Definition, Calculate, Formula",
+    "quote": "Equity Risk Premium (on the Market) = Rate of Return on the Stock Market − Risk-free Rate"
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+    "title": "Capital Asset Pricing Model (CAPM) | Formula + Calculator",
+    "quote": "(rm - rf) ➝ Equity Risk Premium (ERP)"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-19",
+  "deck": "vault",
+  "topic": "Beta",
+  "q": "Beta equals the covariance of an asset's returns with the market's returns divided by what?",
+  "a": "Variance of market returns",
+  "accept": [
+   "market variance",
+   "variance of the market",
+   "variance of market return",
+   "variance of the market's returns"
+  ],
+  "wrong": [
+   "Standard deviation of the asset",
+   "Variance of the asset's returns",
+   "Mean market return"
+  ],
+  "explain": "Beta = Cov(asset, market) / Var(market), measuring the asset's sensitivity to market movements.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+    "title": "Capital Asset Pricing Model (CAPM) | Formula + Calculator",
+    "quote": "The beta of an asset is calculated as the covariance between expected returns on the asset and the market, divided by the variance of expected returns on the market."
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/valuation/equity-risk-premium/",
+    "title": "Equity Risk Premium - Definition, Calculate, Formula",
+    "quote": "β a = Covariance of Market Return with Stock Return / Variance of Market Return"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-20",
+  "deck": "vault",
+  "topic": "Beta",
+  "q": "If the market rises 10%, what return would be expected from a stock with a beta of 2.0?",
+  "a": "20%",
+  "accept": [
+   "20",
+   "20 percent"
+  ],
+  "wrong": [
+   "10%",
+   "5%",
+   "12%"
+  ],
+  "explain": "Beta scales market moves: a beta of 2.0 implies roughly twice the market's move, so 2 x 10% = 20%.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+    "title": "Capital Asset Pricing Model (CAPM) | Formula + Calculator",
+    "quote": "But if that company were to have a beta of 2.0, it would expect a return of 20%, assuming the market had gone up by 10%."
+   },
+   {
+    "url": "https://openstax.org/books/principles-finance-2e/pages/15-3-the-capital-asset-pricing-model-capm",
+    "title": "15.3 The Capital Asset Pricing Model (CAPM) - Principles of Finance 2e | OpenStax",
+    "quote": "For example, if a stock has a beta of 2, the stock will tend to increase by 20% when the market goes up by 10%."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-21",
+  "deck": "vault",
+  "topic": "Beta",
+  "q": "Beta measures which type of risk: systematic or unsystematic?",
+  "a": "Systematic",
+  "accept": [
+   "systematic risk",
+   "market risk",
+   "non-diversifiable risk",
+   "non-diversifiable"
+  ],
+  "wrong": [
+   "Unsystematic",
+   "Idiosyncratic",
+   "Firm-specific"
+  ],
+  "explain": "Beta captures systematic (market, non-diversifiable) risk; firm-specific risk can be diversified away and is not rewarded under CAPM.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+    "title": "Capital Asset Pricing Model (CAPM) | Formula + Calculator",
+    "quote": "In corporate finance, beta (β) measures the systematic risk of a security compared to the broader market (i.e. non-diversifiable risk)."
+   },
+   {
+    "url": "https://openstax.org/books/principles-finance-2e/pages/15-3-the-capital-asset-pricing-model-capm",
+    "title": "15.3 The Capital Asset Pricing Model (CAPM) - Principles of Finance 2e | OpenStax",
+    "quote": "The systematic risk of a particular stock is measured by how much the stock moves with the market. The measure of how much a stock moves with the market is known as its beta ."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-22",
+  "deck": "vault",
+  "topic": "Levering/unlevering beta",
+  "q": "Unlevered beta is also known as what type of beta?",
+  "a": "Asset beta",
+  "accept": [
+   "asset"
+  ],
+  "wrong": [
+   "Equity beta",
+   "Stock beta",
+   "Market beta"
+  ],
+  "explain": "Unlevered (asset) beta reflects business risk only; levered (equity) beta also includes the financial risk from debt.",
+  "hook": "Asset = business only; equity = business + debt.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-beta-guide",
+    "title": "What is Beta in Finance? Formula & Examples | CFI",
+    "quote": "Asset beta, or unlevered beta , on the other hand, shows the risk of an unlevered company relative to the market. It includes business risk but does not include leverage risk."
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-beta-guide",
+    "title": "What is Beta in Finance? Formula & Examples | CFI",
+    "quote": "Levered beta, also known as equity beta or stock beta, is the volatility of returns for a stock, taking into account the impact of the company's leverage from its capital structure."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-23",
+  "deck": "vault",
+  "topic": "Levering/unlevering beta",
+  "q": "Using the Hamada formula, what is the levered beta if unlevered beta is 1.0, the tax rate is 25% and D/E is 1.0?",
+  "a": "1.75",
+  "accept": [
+   "1.75x"
+  ],
+  "wrong": [
+   "1.25",
+   "2.0",
+   "1.5"
+  ],
+  "explain": "Levered beta = unlevered beta x [1 + (1 - t) x D/E] = 1.0 x [1 + 0.75 x 1.0] = 1.75.",
+  "hook": "",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/beta-levered-unlevered",
+    "title": "Levered and Unlevered Beta (β) | Formula + Calculator",
+    "quote": "Levered Beta = Unlevered Beta × [1 + (1 – Tax Rate) × (Debt ÷ Equity)]"
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-beta-guide",
+    "title": "What is Beta in Finance? Formula & Examples | CFI",
+    "quote": "Levered Beta = Unlevered Beta * ((1 + (1 – Tax Rate) * (Debt / Equity))"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-24",
+  "deck": "vault",
+  "topic": "Levering/unlevering beta",
+  "q": "A comparable company has a levered beta of 1.4, a 20% tax rate and D/E of 0.5. What is its unlevered beta?",
+  "a": "1.0",
+  "accept": [
+   "1",
+   "1.00"
+  ],
+  "wrong": [
+   "1.4",
+   "1.12",
+   "0.7"
+  ],
+  "explain": "Unlevered beta = levered beta / [1 + (1 - t) x D/E] = 1.4 / [1 + 0.8 x 0.5] = 1.4 / 1.4 = 1.0.",
+  "hook": "",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/beta-levered-unlevered",
+    "title": "Levered and Unlevered Beta (β) | Formula + Calculator",
+    "quote": "Unlevered Beta = Levered Beta ÷ [1 + (1 – Tax Rate) * (Debt ÷ Equity)]"
+   },
+   {
+    "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-beta-guide",
+    "title": "What is Beta in Finance? Formula & Examples | CFI",
+    "quote": "Unlevered β = Levered β / ((1 + (1 – Tax Rate) * (Debt / Equity))"
+   }
+  ]
+ },
+ {
+  "id": "vault-06-25",
+  "deck": "vault",
+  "topic": "Levering/unlevering beta",
+  "q": "In which journal did Robert Hamada publish his 1972 paper on capital structure and the systematic risk of common stocks?",
+  "a": "The Journal of Finance",
+  "accept": [
+   "Journal of Finance",
+   "JF"
+  ],
+  "wrong": [
+   "The Journal of Political Economy",
+   "The Accounting Review",
+   "Harvard Business Review"
+  ],
+  "explain": "Hamada's 'The Effect of the Firm's Capital Structure on the Systematic Risk of Common Stocks' appeared in The Journal of Finance, vol. 27, May 1972.",
+  "hook": "",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1972.tb00971.x",
+    "title": "THE EFFECT OF THE FIRM'S CAPITAL STRUCTURE ON THE SYSTEMATIC RISK OF COMMON STOCKS - Hamada - 1972 - The Journal of Finance",
+    "quote": "Volume 27, Issue 2 pp. 435-452 The Journal of Finance"
+   },
+   {
+    "url": "https://ideas.repec.org/a/bla/jfinan/v27y1972i2p435-52.html",
+    "title": "The Effect of the Firm's Capital Structure on the Systematic Risk of Common Stocks",
+    "quote": "Hamada, Robert S, 1972. \"The Effect of the Firm's Capital Structure on the Systematic Risk of Common Stocks,\" Journal of Finance, American Finance Association, vol. 27(2), pages 435-452, May."
+   }
+  ]
+ },
+ {
+  "id": "vault-06-26",
+  "deck": "vault",
+  "topic": "CAPM",
+  "q": "Which economist was awarded a share of the 1990 Nobel Prize in Economic Sciences for the Capital Asset Pricing Model?",
+  "a": "William Sharpe",
+  "accept": [
+   "Sharpe",
+   "William F. Sharpe",
+   "Bill Sharpe"
+  ],
+  "wrong": [
+   "Eugene Fama",
+   "Robert Merton",
+   "Myron Scholes"
+  ],
+  "explain": "Sharpe shared the 1990 prize with Harry Markowitz and Merton Miller; Sharpe's award was for his contributions to the CAPM.",
+  "hook": "Sharpe ratio, Sharpe CAPM.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1990/press-release",
+    "title": "The Prize in Economics 1990 - Press release - NobelPrize.org",
+    "quote": "Harry Markowitz is awarded the Prize for having developed the theory of portfolio choice; William Sharpe , for his contributions to the theory of price formation for financial assets, the so-called, Capital Asset Pricing Model (CAPM); and Merton Miller , for his fundamental contributions to the theory of corporate finance."
+   },
+   {
+    "url": "https://www.gsb.stanford.edu/faculty-research/faculty/william-f-sharpe",
+    "title": "William F. Sharpe | Stanford Graduate School of Business",
+    "quote": "In 1990 he received the Nobel Prize in Economic Sciences."
+   }
+  ]
+ }
+]

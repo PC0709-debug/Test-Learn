@@ -1,0 +1,417 @@
+[
+  {
+    "id": "vault-05-01",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/comparable-company-analysis",
+      "https://corporatefinanceinstitute.com/resources/valuation/precedent-transaction-analysis/"
+    ]
+  },
+  {
+    "id": "vault-05-02",
+    "source": 29,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/precedent-transaction-analysis/",
+      "https://macabacus.com/valuation/precedent-transactions"
+    ]
+  },
+  {
+    "id": "vault-05-03",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://macabacus.com/valuation/precedent-transactions",
+      "https://www.wallstreetprep.com/knowledge/precedent-transaction-analysis"
+    ]
+  },
+  {
+    "id": "vault-05-04",
+    "source": 24,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 92,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Only one source cited (WSP); consider adding a second (e.g. WSP control-premium page or CFI).",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/precedent-transaction-analysis"
+    ]
+  },
+  {
+    "id": "vault-05-05",
+    "source": 15,
+    "match": 15,
+    "unique": 13,
+    "current": 15,
+    "precise": 6,
+    "total": 64,
+    "hardFail": "Second cited source (CFI) contradicts the December 31 definition: CFI defines calendarization as aligning peers to the valuing company's fiscal year, not the calendar year-end; the date is supported by only one source.",
+    "pass": false,
+    "issue": "Reword q to a source-agreed definition, e.g. 'What is standardizing peers' differing fiscal year-ends so their financials cover the same period called?', and drop 'December 31'.",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/calendarization",
+      "https://corporatefinanceinstitute.com/resources/accounting/calendarization"
+    ]
+  },
+  {
+    "id": "vault-05-06",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/calendarization",
+      "https://corporatefinanceinstitute.com/resources/accounting/calendarization"
+    ]
+  },
+  {
+    "id": "vault-05-07",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/ltm-vs-ntm-valuation-multiples",
+      "https://www.wallstreetprep.com/knowledge/ltm-vs-ntm-multiples"
+    ]
+  },
+  {
+    "id": "vault-05-08",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/ltm-vs-ntm-multiples",
+      "https://macabacus.com/valuation/multiples"
+    ]
+  },
+  {
+    "id": "vault-05-09",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/last-twelve-months-ltm",
+      "https://www.wallstreetprep.com/knowledge/ltm-vs-ntm-multiples"
+    ]
+  },
+  {
+    "id": "vault-05-10",
+    "source": 27,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 95,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://macabacus.com/valuation/multiples",
+      "https://www.wallstreetprep.com/knowledge/ltm-vs-ntm-multiples"
+    ]
+  },
+  {
+    "id": "vault-05-11",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/ltm-vs-ntm-multiples"
+    ]
+  },
+  {
+    "id": "vault-05-12",
+    "source": 29,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/comparable-company-analysis-comps",
+      "https://macabacus.com/valuation/comparable-companies"
+    ]
+  },
+  {
+    "id": "vault-05-13",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/valuation-multiples",
+      "https://corporatefinanceinstitute.com/resources/valuation/types-of-valuation-multiples",
+      "https://corporatefinanceinstitute.com/resources/valuation/valuation-methods"
+    ]
+  },
+  {
+    "id": "vault-05-14",
+    "source": 29,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/comparable-company-analysis-comps",
+      "https://www.wallstreetprep.com/knowledge/precedent-transaction-analysis",
+      "https://macabacus.com/valuation/multiples"
+    ]
+  },
+  {
+    "id": "vault-05-15",
+    "source": 29,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/valuation-multiples",
+      "https://macabacus.com/valuation/multiples"
+    ]
+  },
+  {
+    "id": "vault-05-16",
+    "source": 25,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 93,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Both sources are the same WSP page; add an independent second source.",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/revenue-multiple/"
+    ]
+  },
+  {
+    "id": "vault-05-17",
+    "source": 29,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/ev-revenue-multiple",
+      "https://macabacus.com/valuation/multiples",
+      "https://www.wallstreetprep.com/knowledge/valuation-multiples"
+    ]
+  },
+  {
+    "id": "vault-05-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/annual-recurring-revenue-arr",
+      "https://corporatefinanceinstitute.com/resources/valuation/annual-recurring-revenue-arr"
+    ]
+  },
+  {
+    "id": "vault-05-19",
+    "source": 27,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/arr-multiple/",
+      "https://www.wallstreetprep.com/knowledge/annual-recurring-revenue-arr"
+    ]
+  },
+  {
+    "id": "vault-05-20",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/rule-of-40",
+      "https://www.wallstreetprep.com/knowledge/rule-of-40"
+    ]
+  },
+  {
+    "id": "vault-05-21",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/rule-of-40",
+      "https://corporatefinanceinstitute.com/resources/valuation/rule-of-40"
+    ]
+  },
+  {
+    "id": "vault-05-22",
+    "source": 29,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/rule-of-40",
+      "https://corporatefinanceinstitute.com/resources/valuation/rule-of-40"
+    ]
+  },
+  {
+    "id": "vault-05-23",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/rule-of-40",
+      "https://www.wallstreetprep.com/knowledge/rule-of-40"
+    ]
+  },
+  {
+    "id": "vault-05-24",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/precedent-transaction-analysis/",
+      "https://corporatefinanceinstitute.com/resources/valuation/valuation-methods"
+    ]
+  },
+  {
+    "id": "vault-05-25",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://corporatefinanceinstitute.com/resources/valuation/types-of-valuation-multiples",
+      "https://www.wallstreetprep.com/knowledge/valuation-multiples"
+    ]
+  },
+  {
+    "id": "vault-05-26",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/market-based-valuation-price-enterprise-value-multiples"
+    ]
+  }
+]

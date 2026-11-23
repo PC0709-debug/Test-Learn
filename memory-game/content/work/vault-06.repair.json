@@ -1,0 +1,40 @@
+[
+  {
+    "id": "vault-06-07",
+    "deck": "vault",
+    "topic": "UFCF calculation",
+    "q": "With EBIT of $250m, a 26% tax rate, D&A of $20m, capex of $40m and a $5m increase in NWC, what is UFCF (in $m)?",
+    "a": "160",
+    "accept": [
+      "$160m",
+      "$160 million",
+      "160m",
+      "$160"
+    ],
+    "wrong": [
+      "165",
+      "185",
+      "150"
+    ],
+    "explain": "UFCF = EBIT x (1 - tax rate) + D&A - capex - increase in NWC: NOPAT = 250 x (1 - 26%) = 185; 185 + 20 - 40 - 5 = 160.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow",
+        "title": "Unlevered Free Cash Flow (UFCF) | Formula + Calculator",
+        "quote": "NOPAT = $250 million × (1 – 26%) = $185 million ... Unlevered Free Cash Flow = $185 million + $20 million – $40 million – $5 million = $160 million"
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/financial-modeling/free-cash-flow-to-firm-fcff",
+        "title": "Free Cash Flow to Firm (FCFF) - Formulas, Definition & Example",
+        "quote": "EBIT*(1 – Tax Rate) + D&A – Δ Net WC – CAPEX"
+      },
+      {
+        "url": "https://ibinterviewquestions.com/guides/valuation-investment-banking/unlevered-free-cash-flow-calculation-components",
+        "title": "Unlevered Free Cash Flow: Calculation and Components | Valuation Guide",
+        "quote": "Unlevered free cash flow (UFCF) equals EBIT x (1 - tax rate) + D&A - CapEx - changes in net working capital."
+      }
+    ]
+  }
+]

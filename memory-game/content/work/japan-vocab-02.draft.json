@@ -1,0 +1,252 @@
+[
+  {
+    "id": "japan-vocab-02-01", "deck": "fareast", "topic": "Food and dining",
+    "q": "How do you say 'water' in Japanese?",
+    "a": "mizu", "accept": ["みず", "水"],
+    "wrong": ["eki", "hashi", "futon"],
+    "explain": "水 (みず, mizu) means water, especially cool or cold water.",
+    "hook": "Mizu sounds like 'misty' - think of a water mist.",
+    "difficulty": 1,
+    "say": "mee-zoo", "kana": "みず", "kanji": "水", "romaji": "mizu",
+    "sources": [
+      {"url": "https://jisho.org/search/mizu", "title": "mizu - Jisho.org", "quote": "Noun 1. water (esp. cool or cold)"},
+      {"url": "https://en.wiktionary.org/wiki/水", "title": "水 - Wiktionary, the free dictionary", "quote": "水 ( みず ) ( mizu )"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-02", "deck": "fareast", "topic": "Food and dining",
+    "q": "How do you say 'cooked rice' in Japanese?",
+    "a": "gohan", "accept": ["ごはん", "ご飯", "御飯"],
+    "wrong": ["migi", "kippu", "onsen"],
+    "explain": "ご飯 (ごはん, gohan) means cooked rice, and it can also mean a meal.",
+    "hook": "Go-han: 'go have a handful' of rice.",
+    "difficulty": 1,
+    "say": "goh-hahn", "kana": "ごはん", "kanji": "ご飯", "romaji": "gohan",
+    "sources": [
+      {"url": "https://jisho.org/search/gohan", "title": "gohan - Jisho.org", "quote": "Noun 1. cooked rice ... Noun 2. meal ... Other forms 御飯 【ごはん】"},
+      {"url": "https://en.wiktionary.org/wiki/ご飯", "title": "ご飯 - Wiktionary, the free dictionary", "quote": "【 御飯 ごはん 】 [noun] cooked rice [noun] a meal of any sort"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-03", "deck": "fareast", "topic": "Food and dining",
+    "q": "How do you say 'delicious' in Japanese?",
+    "a": "oishii", "accept": ["おいしい", "美味しい"],
+    "wrong": ["hidari", "densha", "tatami"],
+    "explain": "おいしい (oishii) is an i-adjective meaning good-tasting, delicious or tasty; it is usually written in kana alone.",
+    "hook": "Oh-ee-shee: 'Oh, he's eating!' because it's tasty.",
+    "difficulty": 1,
+    "say": "oh-ee-shee", "kana": "おいしい", "kanji": "美味しい", "romaji": "oishii",
+    "sources": [
+      {"url": "https://jisho.org/word/美味しい", "title": "美味しい - Jisho.org", "quote": "I-adjective (keiyoushi) 1. good(-tasting); nice; delicious; tasty Usually written using kana alone"},
+      {"url": "https://en.wiktionary.org/wiki/美味しい", "title": "美味しい - Wiktionary, the free dictionary", "quote": "美味 ( おい ) しい ( oishii ) -i"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-04", "deck": "fareast", "topic": "Food and dining",
+    "q": "What is the polite Japanese word for the bill or check at a restaurant?",
+    "a": "okaikei", "accept": ["おかいけい", "お会計"],
+    "wrong": ["yukata", "eki", "mizu"],
+    "explain": "お会計 (おかいけい, okaikei) is a polite word for the bill or check at a restaurant.",
+    "hook": "O-kai-kei: 'OK, I pay'.",
+    "difficulty": 2,
+    "say": "oh-kye-kay", "kana": "おかいけい", "kanji": "お会計", "romaji": "okaikei",
+    "sources": [
+      {"url": "https://jisho.org/word/お会計", "title": "お会計 - Jisho.org", "quote": "かい けい お 会計 Common word ... Noun 1. bill (at a restaurant); check Polite (teineigo) language"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-05", "deck": "fareast", "topic": "Food and dining",
+    "q": "Which Japanese expression means 'thank you (for the meal just served)', said as you begin eating?",
+    "a": "itadakimasu", "accept": ["いただきます", "頂きます"],
+    "wrong": ["densha", "hidari", "ryokan"],
+    "explain": "いただきます (itadakimasu) is glossed as 'thank you (for the meal just served); I receive (this meal)' and is usually written in kana.",
+    "hook": "Itadaki-masu: 'I take it, thanks' before the first bite.",
+    "difficulty": 1,
+    "say": "ee-tah-dah-kee-mahs", "kana": "いただきます", "kanji": "頂きます", "romaji": "itadakimasu",
+    "sources": [
+      {"url": "https://jisho.org/search/itadakimasu", "title": "itadakimasu - Jisho.org", "quote": "Expressions (phrases, clauses, etc.) 1. thank you (for the meal just served); I receive (this meal) Usually written using kana alone"},
+      {"url": "https://jisho.org/word/頂きます", "title": "頂きます - Jisho.org", "quote": "いただ 頂 き ま す Common word JLPT N3"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-06", "deck": "fareast", "topic": "Food and dining",
+    "q": "Which polite Japanese expression means 'thank you for the meal' after you have finished eating?",
+    "a": "gochisōsama deshita", "accept": ["gochisosama deshita", "gochisousama deshita", "gochisōsamadeshita", "gochisosamadeshita", "ごちそうさまでした"],
+    "wrong": ["kippu", "migi", "tatami"],
+    "explain": "ごちそうさまでした is glossed 'thank you for the meal; that was a delicious meal; what a wonderful meal' and is usually written in kana.",
+    "hook": "Go-chiso: 'go cheese-o' - the feast is done.",
+    "difficulty": 2,
+    "say": "goh-chee-soh-sah-mah deh-shee-tah", "kana": "ごちそうさまでした", "kanji": "ご馳走様でした", "romaji": "gochisōsama deshita",
+    "sources": [
+      {"url": "https://jisho.org/search/gochisousamadeshita", "title": "gochisousamadeshita - Jisho.org", "quote": "Expressions (phrases, clauses, etc.) 1. thank you for the meal; that was a delicious meal; what a wonderful meal Polite (teineigo) language , Usually written using kana alone Other forms ご馳走さまでした 【ごちそうさまでした】 、 御馳走様でした 【ごちそうさまでした】"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-07", "deck": "fareast", "topic": "Food and dining",
+    "q": "How do you say 'chopsticks' in Japanese?",
+    "a": "hashi", "accept": ["はし", "箸"],
+    "wrong": ["eki", "onsen", "migi"],
+    "explain": "箸 (はし, hashi) means chopsticks.",
+    "hook": "Hashi: chopsticks 'hash' up your food.",
+    "difficulty": 2,
+    "say": "hah-shee", "kana": "はし", "kanji": "箸", "romaji": "hashi",
+    "sources": [
+      {"url": "https://jisho.org/word/箸", "title": "箸 - Jisho.org", "quote": "Noun 1. chopsticks ... [箸] chopsticks Kun: はし"},
+      {"url": "https://en.wiktionary.org/wiki/箸", "title": "箸 - Wiktionary, the free dictionary", "quote": "Kun : はし ( hashi , 箸 , Jōyō )"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-08", "deck": "fareast", "topic": "Directions and transport",
+    "q": "How do you say 'train station' in Japanese?",
+    "a": "eki", "accept": ["えき", "駅"],
+    "wrong": ["mizu", "gohan", "futon"],
+    "explain": "駅 (えき, eki) means a railway station or train station.",
+    "hook": "Eki: 'Eek, I missed the train at the station!'",
+    "difficulty": 1,
+    "say": "eh-kee", "kana": "えき", "kanji": "駅", "romaji": "eki",
+    "sources": [
+      {"url": "https://jisho.org/word/駅", "title": "駅 - Jisho.org", "quote": "Noun 1. railway station; train station"},
+      {"url": "https://en.wiktionary.org/wiki/駅", "title": "駅 - Wiktionary, the free dictionary", "quote": "駅 ( えき ) ( eki )"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-09", "deck": "fareast", "topic": "Directions and transport",
+    "q": "How do you say 'train' (electric train) in Japanese?",
+    "a": "densha", "accept": ["でんしゃ", "電車"],
+    "wrong": ["oishii", "yukata", "hashi"],
+    "explain": "電車 (でんしゃ, densha) means train or electric train; it combines 電 (den, 'electric') and 車 (sha, 'vehicle').",
+    "hook": "Den-sha: an electric (den) vehicle (sha).",
+    "difficulty": 2,
+    "say": "den-shah", "kana": "でんしゃ", "kanji": "電車", "romaji": "densha",
+    "sources": [
+      {"url": "https://jisho.org/word/電車", "title": "電車 - Jisho.org", "quote": "Noun 1. train; electric train"},
+      {"url": "https://en.wiktionary.org/wiki/電車", "title": "電車 - Wiktionary, the free dictionary", "quote": "電 ( でん ) ( den , “ electric ” ) + 車 ( しゃ ) ( sha , “ vehicle ” ) ."}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-10", "deck": "fareast", "topic": "Directions and transport",
+    "q": "How do you say 'left' (the direction) in Japanese?",
+    "a": "hidari", "accept": ["ひだり", "左"],
+    "wrong": ["mizu", "tatami", "gohan"],
+    "explain": "左 (ひだり, hidari) means left or the left-hand side.",
+    "hook": "Hi-DA-ri: 'he darted left'.",
+    "difficulty": 1,
+    "say": "hee-dah-ree", "kana": "ひだり", "kanji": "左", "romaji": "hidari",
+    "sources": [
+      {"url": "https://jisho.org/search/%E5%B7%A6%20%23words", "title": "左 #words - Jisho.org", "quote": "ひだり 左 Common word JLPT N5 ... Noun, Noun which may take the genitive case particle 'no' 1. left; left-hand side See also 右"},
+      {"url": "https://en.wiktionary.org/wiki/左", "title": "左 - Wiktionary, the free dictionary", "quote": "左 ( ひだり ) ( hidari )"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-11", "deck": "fareast", "topic": "Directions and transport",
+    "q": "How do you say 'right' (the direction) in Japanese?",
+    "a": "migi", "accept": ["みぎ", "右"],
+    "wrong": ["hashi", "onsen", "oishii"],
+    "explain": "右 (みぎ, migi) means right or the right-hand side.",
+    "hook": "Migi: 'me, go right'.",
+    "difficulty": 1,
+    "say": "mee-gee", "kana": "みぎ", "kanji": "右", "romaji": "migi",
+    "sources": [
+      {"url": "https://jisho.org/word/右", "title": "右 - Jisho.org", "quote": "Noun, Noun which may take the genitive case particle 'no' 1. right; right-hand side See also 左"},
+      {"url": "https://en.wiktionary.org/wiki/右", "title": "右 - Wiktionary, the free dictionary", "quote": "Kun : みぎ ( migi , 右 , Jōyō )"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-12", "deck": "fareast", "topic": "Directions and transport",
+    "q": "Which Japanese phrase asks 'Where is ...?' (as in 'Where is Shinjuku Station?')",
+    "a": "doko desu ka", "accept": ["dokodesuka", "どこですか", "doko desu ka?"],
+    "wrong": ["oishii desu", "mizu desu", "futon desu"],
+    "explain": "どこ (doko) is an interrogative pronoun meaning 'where'; Wiktionary gives 'Shinjuku-eki wa doko desu ka' for 'Where is Shinjuku Station?'.",
+    "hook": "Doko? 'Where'd the dog go?'",
+    "difficulty": 2,
+    "say": "doh-koh dess kah", "kana": "どこですか", "romaji": "doko desu ka",
+    "sources": [
+      {"url": "https://en.wiktionary.org/wiki/どこ", "title": "どこ - Wiktionary, the free dictionary", "quote": "新 ( しん ) 宿 ( じゅく ) 駅 ( えき ) は どこ ですか。 ― Shinjuku-eki wa doko desu ka. ― Where is Shinjuku Station ?"},
+      {"url": "https://jisho.org/word/%E4%BD%95%E5%87%A6", "title": "何処 - Jisho.org", "quote": "1. where; what place Usually written using kana alone"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-13", "deck": "fareast", "topic": "Directions and transport",
+    "q": "How do you say 'ticket' in Japanese?",
+    "a": "kippu", "accept": ["きっぷ", "切符"],
+    "wrong": ["hidari", "gohan", "yukata"],
+    "explain": "切符 (きっぷ, kippu) means ticket.",
+    "hook": "Kippu: 'keep' your ticket.",
+    "difficulty": 3,
+    "say": "keep-poo", "kana": "きっぷ", "kanji": "切符", "romaji": "kippu",
+    "sources": [
+      {"url": "https://jisho.org/word/切符", "title": "切符 - Jisho.org", "quote": "Noun 1. ticket"},
+      {"url": "https://en.wiktionary.org/wiki/切符", "title": "切符 - Wiktionary, the free dictionary", "quote": "切 ( きっ ) 符 ( ぷ ) ( kippu )"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-14", "deck": "fareast", "topic": "Ryokan and onsen",
+    "q": "What is the Japanese word for a hot spring?",
+    "a": "onsen", "accept": ["おんせん", "温泉"],
+    "wrong": ["densha", "migi", "kippu"],
+    "explain": "温泉 (おんせん, onsen) means a hot spring, and also a hot spring resort or spa.",
+    "hook": "Onsen: 'on' + 'steam'.",
+    "difficulty": 1,
+    "say": "ohn-sen", "kana": "おんせん", "kanji": "温泉", "romaji": "onsen",
+    "sources": [
+      {"url": "https://jisho.org/word/温泉", "title": "温泉 - Jisho.org", "quote": "Noun 1. hot spring Noun 2. onsen; hot spring resort; hot spring spa"},
+      {"url": "https://en.wiktionary.org/wiki/温泉", "title": "温泉 - Wiktionary, the free dictionary", "quote": "温泉 ( onsen ) : an onsen or hot spring in Nachikatsuura, Japan"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-15", "deck": "fareast", "topic": "Ryokan and onsen",
+    "q": "What is the Japanese word for a light cotton kimono worn in summer or used as a bathrobe?",
+    "a": "yukata", "accept": ["ゆかた", "浴衣"],
+    "wrong": ["eki", "hashi", "doko"],
+    "explain": "浴衣 (ゆかた, yukata) is a light cotton kimono worn in the summer or used as a bathrobe.",
+    "hook": "Yu-kata: you wear it after the bath.",
+    "difficulty": 2,
+    "say": "yoo-kah-tah", "kana": "ゆかた", "kanji": "浴衣", "romaji": "yukata",
+    "sources": [
+      {"url": "https://jisho.org/word/浴衣", "title": "浴衣 - Jisho.org", "quote": "Noun 1. yukata; light cotton kimono worn in the summer or used as a bathrobe"},
+      {"url": "https://en.wiktionary.org/wiki/浴衣", "title": "浴衣 - Wiktionary, the free dictionary", "quote": "浴衣 ( ゆかた ) ( yukata ) ... yukata ; a kind of light kimono used for general wear"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-16", "deck": "fareast", "topic": "Ryokan and onsen",
+    "q": "What is the Japanese word for traditional bedding consisting of a mattress and a duvet?",
+    "a": "futon", "accept": ["ふとん", "布団"],
+    "wrong": ["densha", "mizu", "hidari"],
+    "explain": "布団 (ふとん, futon) is Japanese bedding consisting of a mattress and a duvet.",
+    "hook": "Same word in English: futon.",
+    "difficulty": 2,
+    "say": "foo-tohn", "kana": "ふとん", "kanji": "布団", "romaji": "futon",
+    "sources": [
+      {"url": "https://jisho.org/word/布団", "title": "布団 - Jisho.org", "quote": "布団 ふとん 布団 Noun 1. futon; Japanese bedding consisting of a mattress and a duvet"},
+      {"url": "https://en.wiktionary.org/wiki/布団", "title": "布団 - Wiktionary, the free dictionary", "quote": "布 ( ふ ) 団 ( とん ) ( futon )"}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-17", "deck": "fareast", "topic": "Ryokan and onsen",
+    "q": "What is the Japanese word for the straw mats used as floor covering in traditional rooms?",
+    "a": "tatami", "accept": ["たたみ", "畳"],
+    "wrong": ["kippu", "oishii", "eki"],
+    "explain": "畳 (たたみ, tatami) means tatami mat, the Japanese straw floor covering.",
+    "hook": "Ta-ta-mi: tap-tap-tap on the straw mat.",
+    "difficulty": 3,
+    "say": "tah-tah-mee", "kana": "たたみ", "kanji": "畳", "romaji": "tatami",
+    "sources": [
+      {"url": "https://jisho.org/search/%E7%95%B3%20%E3%81%9F%E3%81%9F%E3%81%BF%20%23words", "title": "畳 たたみ #words - Jisho.org", "quote": "たたみ 畳 Common word JLPT N4 ... Noun 1. tatami mat; Japanese straw floor coverings"},
+      {"url": "https://jisho.org/word/畳", "title": "畳 - Jisho.org", "quote": "A tatami is a type of mat used as a flooring material in traditional Japanese-style rooms."}
+    ]
+  },
+  {
+    "id": "japan-vocab-02-18", "deck": "fareast", "topic": "Ryokan and onsen",
+    "q": "What is the Japanese word for a traditional Japanese inn?",
+    "a": "ryokan", "accept": ["りょかん", "旅館"],
+    "wrong": ["migi", "gohan", "densha"],
+    "explain": "旅館 (りょかん, ryokan) means a traditional Japanese inn.",
+    "hook": "Ryo-kan: where travelers 'can' rest.",
+    "difficulty": 3,
+    "say": "ryoh-kahn", "kana": "りょかん", "kanji": "旅館", "romaji": "ryokan",
+    "sources": [
+      {"url": "https://jisho.org/word/旅館", "title": "旅館 - Jisho.org", "quote": "Noun 1. ryokan; traditional Japanese inn"},
+      {"url": "https://en.wiktionary.org/wiki/旅館", "title": "旅館 - Wiktionary, the free dictionary", "quote": "旅 ( りょ ) 館 ( かん ) ( ryokan )"}
+    ]
+  }
+]

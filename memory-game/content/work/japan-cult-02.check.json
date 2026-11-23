@@ -1,0 +1,298 @@
+[
+  {
+    "id": "japan-cult-02-01",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/faq",
+      "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette"
+    ]
+  },
+  {
+    "id": "japan-cult-02-02",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/plan/tipping-in-japan"
+    ]
+  },
+  {
+    "id": "japan-cult-02-03",
+    "source": 28,
+    "match": 26,
+    "unique": 15,
+    "current": 15,
+    "precise": 5,
+    "total": 89,
+    "hardFail": null,
+    "pass": false,
+    "issue": "Explain claims 'restrooms often have a separate pair' of slippers; the cited JNTO page only says remove slippers when on tatami or using the bathroom. Remove or source that claim.",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette"
+    ]
+  },
+  {
+    "id": "japan-cult-02-04",
+    "source": 27,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/guide/japanese-food-etiquette"
+    ]
+  },
+  {
+    "id": "japan-cult-02-05",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/guide/bathing-manners-and-tips",
+      "https://www.japan.travel/en/faq"
+    ]
+  },
+  {
+    "id": "japan-cult-02-06",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/guide/bathing-manners-and-tips"
+    ]
+  },
+  {
+    "id": "japan-cult-02-07",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/guide/bathing-manners-and-tips-onsen-bathing-guide/"
+    ]
+  },
+  {
+    "id": "japan-cult-02-08",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/kaiseki"
+    ]
+  },
+  {
+    "id": "japan-cult-02-09",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 8,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Minor: 'small tea room' - Met says 'specialized space'; consider rewording.",
+    "verifiedUrls": [
+      "https://www.metmuseum.org/toah/hd/jtea/hd_jtea.htm",
+      "https://www.britannica.com/topic/tea-ceremony"
+    ]
+  },
+  {
+    "id": "japan-cult-02-10",
+    "source": 20,
+    "match": 22,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 81,
+    "hardFail": "Explain gives life dates 1522-1591 supported by only one cited source (Met); Britannica page cited does not state them.",
+    "pass": false,
+    "issue": "Add a second source for 1522-1591 (e.g. Britannica Sen Rikyu biography) or drop the dates from explain.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/tea-ceremony",
+      "https://www.metmuseum.org/toah/hd/jtea/hd_jtea.htm"
+    ]
+  },
+  {
+    "id": "japan-cult-02-11",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/guide/shrine-and-temple-traditions",
+      "https://www.britannica.com/topic/torii"
+    ]
+  },
+  {
+    "id": "japan-cult-02-12",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Nara quote not surfaced on fetch; JNTO alone confirms sanmon and niozo.",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/guide/shrine-and-temple-traditions"
+    ]
+  },
+  {
+    "id": "japan-cult-02-13",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Nara quote not surfaced on fetch; JNTO confirms.",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/guide/shrine-and-temple-traditions"
+    ]
+  },
+  {
+    "id": "japan-cult-02-14",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.japan.travel/en/guide/japanese-manners-dos-and-donts/",
+      "http://www.japan.travel/en/plan/custom-manners"
+    ]
+  },
+  {
+    "id": "japan-cult-02-15",
+    "source": 24,
+    "match": 25,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 88,
+    "hardFail": "Explain figures 12,388 ft and 'about 100 km west of Tokyo' are stated only by Britannica; Tokyo Govt page gives only 3,776 m.",
+    "pass": false,
+    "issue": "Drop the ft and distance figures from explain or add a second source for them. Core answer 3,776 m is double-sourced.",
+    "verifiedUrls": [
+      "https://www.britannica.com/place/Mount-Fuji",
+      "https://www.fujisan-kouhai.metro.tokyo.lg.jp/en/fuji-eruption_en"
+    ]
+  },
+  {
+    "id": "japan-cult-02-16",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/place/Mount-Fuji",
+      "https://www.fujisan-kouhai.metro.tokyo.lg.jp/en/fuji-eruption_en"
+    ]
+  },
+  {
+    "id": "japan-cult-02-17",
+    "source": 24,
+    "match": 24,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 87,
+    "hardFail": "Explain's exact date 'October 1, 1964' is in only one cited source (JR Central); Britannica gives only the year.",
+    "pass": false,
+    "issue": "Drop 'October 1' from explain or add a second source stating it. Answer 1964 is double-sourced.",
+    "verifiedUrls": [
+      "https://global.jr-central.co.jp/en/company/ir/annualreport/_pdf/annualreport2024-13.pdf",
+      "https://www.britannica.com/topic/Shinkansen"
+    ]
+  },
+  {
+    "id": "japan-cult-02-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.nps.gov/articles/hanami.htm",
+      "https://www.japan.travel/en/au/experience/cherry-blossoms"
+    ]
+  },
+  {
+    "id": "japan-cult-02-19",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Golden-Week",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/4846/en"
+    ]
+  }
+]

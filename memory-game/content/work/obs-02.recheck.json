@@ -1,0 +1,150 @@
+[
+  {
+    "id": "obs-02-03",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.grc.nasa.gov/www/k-12/BGP/newton.html",
+      "https://www.britannica.com/science/Newtons-laws-of-motion"
+    ]
+  },
+  {
+    "id": "obs-02-06",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/science/speed-of-light",
+      "https://guides.loc.gov/einstein-annus-mirabilis/1905-papers"
+    ]
+  },
+  {
+    "id": "obs-02-08",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/science/uncertainty-principle",
+      "https://www.aps.org/apsnews/2008/02/1927-heisenberg-uncertainty-principle",
+      "https://www.nobelprize.org/prizes/physics/1932/heisenberg/facts"
+    ]
+  },
+  {
+    "id": "obs-02-09",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Max-Planck",
+      "https://www.nobelprize.org/prizes/physics/1918/planck/facts/"
+    ]
+  },
+  {
+    "id": "obs-02-13",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/science/laws-of-thermodynamics",
+      "https://physics.nist.gov/cuu/Units/kelvin.html"
+    ]
+  },
+  {
+    "id": "obs-02-14",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/science/laws-of-thermodynamics",
+      "https://www.britannica.com/science/thermodynamics"
+    ]
+  },
+  {
+    "id": "obs-02-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Boxing Day 1898 confirmed by RSC, NobelPrize.org, IUPAC; 1902 RaCl2 isolation confirmed by RSC and Marie Curie charity/IUPAC.",
+    "verifiedUrls": [
+      "https://edu.rsc.org/feature/four-curie-centennial-elements/2020149.article",
+      "https://www.britannica.com/summary/Marie-Curie",
+      "https://www.nobelprize.org/prizes/themes/marie-and-pierre-curie-and-the-discovery-of-polonium-and-radium",
+      "https://publications.iupac.org/ci/2011/3301/5_adloff.html",
+      "https://www.mariecurie.org.uk/about-us/our-history/marie-curie-the-scientist"
+    ]
+  },
+  {
+    "id": "obs-02-21",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Oganesson in explain supported by Britannica 'seven' elements; OpenStax lists six (older edition) but not contradictory.",
+    "verifiedUrls": [
+      "https://www.britannica.com/science/noble-gas",
+      "https://openstax.org/books/chemistry-2e/pages/18-12-occurrence-preparation-and-properties-of-the-noble-gases"
+    ]
+  },
+  {
+    "id": "obs-02-25",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 99,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Minor: 'concluded electrons are part of atoms' sentence not shown in fetched excerpt of Nobel page (excerpt truncated), core 1897 fact confirmed by both sources.",
+    "verifiedUrls": [
+      "https://www.britannica.com/science/atom/Discovery-of-electrons",
+      "https://www.nobelprize.org/prizes/physics/1906/thomson/facts/"
+    ]
+  }
+]

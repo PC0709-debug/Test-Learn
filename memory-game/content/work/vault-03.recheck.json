@@ -1,0 +1,19 @@
+[
+  {
+    "id": "vault-03-08",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers",
+      "https://www.ifrs.org/content/dam/ifrs/project/pir-ifrs-15/pir-ifrs15-feedbackstatement-portrait-sept2024.pdf",
+      "https://storage.fasb.org/Comparison%20of%20Topic%20606%20and%20IFRS%2015.pdf"
+    ]
+  }
+]

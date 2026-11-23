@@ -1,0 +1,96 @@
+[
+  {
+    "id": "sectors-03-06",
+    "deck": "sectors",
+    "topic": "Ratings business model",
+    "q": "Under what business model do the dominant credit rating agencies charge the bond issuer rather than investors for a rating?",
+    "a": "Issuer-pays",
+    "accept": [
+      "issuer pays",
+      "issuer-pays model"
+    ],
+    "wrong": [
+      "Subscriber-pays",
+      "Investor-pays",
+      "Exchange-pays"
+    ],
+    "explain": "John Moody originally sold rating manuals to investors (subscriber-pays); in the 1970s the dominant agencies moved to issuer-pays, in which issuers pay for ratings on the securities they wish to sell.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.congress.gov/crs-product/R40613",
+        "title": "Credit Rating Agencies and Their Regulation",
+        "quote": "By the 1970s, the three dominant CRAs had changed to an \"issuer-pays\" model, in which a bond's issuer or arranger pays an agency or agencies for initial ratings and for ongoing ratings. The ratings are then available to the public free of charge."
+      },
+      {
+        "url": "https://www.sec.gov/newsroom/speeches-statements/crenshaw-statement-credit-ratings-060723",
+        "title": "SEC.gov | Statement on the Removal of References to Credit Ratings from Regulation M",
+        "quote": "Credit rating agencies initially used what is referred to as a subscriber-pays business model, meaning that investors paid to access ratings for securities they were interested in purchasing. However, in the 1970s the agencies moved instead to an issuer-pays model, meaning that issuers paid for ratings on the securities they wished to sell."
+      }
+    ]
+  },
+  {
+    "id": "sectors-03-10",
+    "deck": "sectors",
+    "topic": "S&P Global",
+    "q": "In what year did S&P Global complete its merger with IHS Markit?",
+    "a": "2022",
+    "accept": [],
+    "wrong": [
+      "2016",
+      "2019",
+      "2024"
+    ],
+    "explain": "IHS Markit completed its merger with S&P Global on February 28, 2022.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1598014/000119312522056012/d315930d8k.htm",
+        "title": "IHS Markit Form 8-K",
+        "quote": "On February 28, 2022, IHS Markit Ltd., a Bermuda exempted company limited by shares (“IHS Markit”), completed its previously announced merger with S&P Global Inc. (“S&P Global”)."
+      },
+      {
+        "url": "https://press.spglobal.com/2022-02-28-S-P-Global-Completes-Merger-with-IHS-Markit,-Creating-a-Global-Leader-to-Power-the-Markets-of-the-Future",
+        "title": "S&P Global Completes Merger with IHS Markit",
+        "quote": "S&P Global (NYSE: SPGI) (\"S&P Global\" or the \"Company\") and IHS Markit earlier today announced the completion of their approximately $140 billion 1 merger, creating a leading information services provider with a unique portfolio of highly complementary assets."
+      }
+    ]
+  },
+  {
+    "id": "sectors-03-21",
+    "deck": "sectors",
+    "topic": "Credit bureaus",
+    "q": "Which railcar leasing company created TransUnion as its parent holding company?",
+    "a": "Union Tank Car Company",
+    "accept": [
+      "Union Tank Car"
+    ],
+    "wrong": [
+      "Retail Credit Company",
+      "Fair Isaac Corporation",
+      "TRW"
+    ],
+    "explain": "TransUnion was created in 1968 as the parent holding company of the Union Tank Car Company, and in 1969 it acquired the Credit Bureau of Cook County.",
+    "hook": "Trans-UNION from Union Tank Car.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.transunion.ca/about-us/company-history",
+        "title": "Company History | TransUnion Canada",
+        "quote": "In 1968, the Union Tank Car Company, a railcar leasing operation, created TransUnion as its parent holding company. In 1969, we recognized an opportunity to grow a new business using our technical expertise. We acquired the Credit Bureau of Cook County (CBCC), which manually maintained 3.6 million card files in 400 seven-drawer cabinets."
+      },
+      {
+        "url": "https://www.utlx.com/utlx-history-copy",
+        "title": "UTLX History COPY | UTLX",
+        "quote": "TransUnion Corp. is created as the parent holding company of Union Tank Car Company, Procor and a variety of other businesses."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/TransUnion",
+        "title": "TransUnion - Wikipedia",
+        "quote": "TransUnion was originally formed in 1968 as a holding company for Union Tank Car Company, making TransUnion a descendant of Standard Oil through Union Tank Car Company. The following year, it acquired the Credit Bureau of Cook County, which possessed and maintained 3.6 million credit accounts."
+      }
+    ]
+  }
+]

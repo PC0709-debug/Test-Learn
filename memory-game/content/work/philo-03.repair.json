@@ -1,0 +1,305 @@
+[
+  {
+    "id": "philo-03-02",
+    "deck": "library",
+    "topic": "Descartes",
+    "q": "In which 1637 work did Descartes first state \"I think, therefore I am\"?",
+    "a": "Discourse on Method",
+    "accept": [
+      "Discourse on the Method",
+      "Discours de la methode",
+      "Discours de la méthode"
+    ],
+    "wrong": [
+      "Leviathan",
+      "Critique of Pure Reason",
+      "Pensées"
+    ],
+    "explain": "The phrase appeared in French (je pense, donc je suis) in the Discourse on Method (1637); the Latin ego cogito, ergo sum appears in his later Principles.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/cogito-ergo-sum",
+        "title": "Cogito, ergo sum | Britannica",
+        "quote": "Cogito, ergo sum , dictum coined by the French mathematician and philosopher René Descartes in his Discourse on Method (1637) as a first step in demonstrating the attainability of certain knowledge."
+      },
+      {
+        "url": "https://www.cambridge.org/core/books/cambridge-descartes-lexicon/cogito-ergo-sum/9B3FCAB85CDB86C31D68A824E20F699F",
+        "title": "Cogito Ergo Sum - The Cambridge Descartes Lexicon",
+        "quote": "The “canonical” formulation (as I shall call it) includes an explicit inference – “I am thinking, therefore [ ergo ] I exist.” This version appears in two of the works: the Discourse (1637) ( je pense, donc je suis ), and the Principles (1644) ( ego cogito, ergo sum )."
+      }
+    ]
+  },
+  {
+    "id": "philo-03-03",
+    "deck": "library",
+    "topic": "Hobbes",
+    "q": "Which English philosopher wrote Leviathan?",
+    "a": "Thomas Hobbes",
+    "accept": [
+      "Hobbes"
+    ],
+    "wrong": [
+      "John Locke",
+      "David Hume",
+      "Jeremy Bentham"
+    ],
+    "explain": "Leviathan, first published in 1651, argues that individuals rationally transfer their natural rights to a sovereign in exchange for physical safety and peace.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Leviathan-by-Hobbes",
+        "title": "Leviathan | Thomas Hobbes | Britannica",
+        "quote": "Leviathan , magnum opus of the early-modern English political philosopher, ethicist, metaphysician, and scientist Thomas Hobbes (1588–1679). First published in 1651"
+      },
+      {
+        "url": "https://www.britannica.com/topic/How-did-Thomas-Hobbes-describe-the-state-of-nature",
+        "title": "How did Thomas Hobbes describe the state of nature? | Britannica",
+        "quote": "individuals rationally agree to relinquish their natural rights and transfer their self-sovereignty to a sovereign —or Leviathan —in exchange for physical safety and the establishment of peace."
+      }
+    ]
+  },
+  {
+    "id": "philo-03-05",
+    "deck": "library",
+    "topic": "Locke",
+    "q": "What Latin term for a \"blank slate\" describes Locke's view of the mind before experience?",
+    "a": "tabula rasa",
+    "accept": [
+      "tabula rasa"
+    ],
+    "wrong": [
+      "a priori",
+      "cogito",
+      "categorical imperative"
+    ],
+    "explain": "In An Essay Concerning Human Understanding, Locke compared the mind to \"white paper, void of all characters,\" with knowledge derived from experience.",
+    "hook": "Tabula = table/tablet; rasa = erased.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/tabula-rasa",
+        "title": "Tabula rasa | Britannica",
+        "quote": "the English empiricist John Locke , in An Essay Concerning Human Understanding (1689), argued for the mind’s initial resemblance to “white paper, void of all characters,” with “all the materials of reason and knowledge” derived from experience."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/locke/",
+        "title": "John Locke (Stanford Encyclopedia of Philosophy)",
+        "quote": "Locke holds that the mind is a tabula rasa or blank sheet until experience in the form of sensation and reflection provide the basic materials—simple ideas—out of which most of our more complex knowledge is constructed."
+      }
+    ]
+  },
+  {
+    "id": "philo-03-10",
+    "deck": "library",
+    "topic": "Kant",
+    "q": "In which Prussian city was Immanuel Kant born, and where did he teach?",
+    "a": "Königsberg",
+    "accept": [
+      "Konigsberg",
+      "Koenigsberg"
+    ],
+    "wrong": [
+      "Berlin",
+      "Vienna",
+      "Copenhagen"
+    ],
+    "explain": "Kant studied at the university in Königsberg and taught there; today Königsberg has been renamed Kaliningrad and is part of Russia.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/summary/Immanuel-Kant",
+        "title": "Immanuel Kant and the three critiques | Britannica",
+        "quote": "Immanuel Kant , (born April 22, 1724, Königsberg, Prussia—died Feb. 12, 1804, Königsberg), German philosopher ... he studied at the university in Königsberg and taught there"
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/kant",
+        "title": "Immanuel Kant (Stanford Encyclopedia of Philosophy)",
+        "quote": "Immanuel Kant was born April 22, 1724 in Königsberg, near the southeastern shore of the Baltic Sea. Today Königsberg has been renamed Kaliningrad and is part of Russia."
+      }
+    ]
+  },
+  {
+    "id": "philo-03-16",
+    "deck": "library",
+    "topic": "Nietzsche",
+    "q": "What German term, often translated \"superman\" or \"overman\", did Nietzsche present in Thus Spoke Zarathustra?",
+    "a": "Übermensch",
+    "accept": [
+      "Ubermensch",
+      "Uebermensch"
+    ],
+    "wrong": [
+      "Zeitgeist",
+      "Weltanschauung",
+      "Dasein"
+    ],
+    "explain": "Thus Spoke Zarathustra also presented the \"will to power\" and contains the statement \"God is dead.\" Nietzsche did not invent the term Übermensch.",
+    "hook": "Über = over, Mensch = human.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Thus-Spake-Zarathustra",
+        "title": "Thus Spake Zarathustra | Britannica",
+        "quote": "It is this work in which Nietzsche made his famous (and much misconstrued) statement that “God is dead” and in which he presented some of the most influential and well-known (and likewise misunderstood) ideas of his philosophy, including those of the Übermensch (“superman”) and the “will to power.”"
+      },
+      {
+        "url": "https://philosophynow.org/issues/93/Nietzsches_Ubermensch_A_Hero_of_Our_Time",
+        "title": "Nietzsche’s Übermensch: A Hero of Our Time? | Philosophy Now",
+        "quote": "The term Übermensch , often translated as Superman or Overman, was not invented by Nietzsche."
+      }
+    ]
+  },
+  {
+    "id": "philo-03-18",
+    "deck": "library",
+    "topic": "Sartre",
+    "q": "Which French philosopher is known for the existentialist adage \"existence precedes essence\"?",
+    "a": "Jean-Paul Sartre",
+    "accept": [
+      "Sartre"
+    ],
+    "wrong": [
+      "Albert Camus",
+      "René Descartes",
+      "Søren Kierkegaard"
+    ],
+    "explain": "Sartre repackaged an earlier line into this pithy adage; his first novel, Nausea, stemmed from his belief that \"existence precedes essence.\"",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/existentialism",
+        "title": "Existentialism (Stanford Encyclopedia of Philosophy)",
+        "quote": "Sartre will later repackage this line with the pithy adage, “existence precedes essence” (1946 [2001, 292])."
+      },
+      {
+        "url": "https://www.britannica.com/biography/Jean-Paul-Sartre",
+        "title": "Jean-Paul Sartre | Britannica",
+        "quote": "Jean-Paul Sartre published his first novel, Nausea , in 1938. The novel stemmed from his belief that “existence precedes essence.”"
+      }
+    ]
+  },
+  {
+    "id": "philo-03-20",
+    "deck": "library",
+    "topic": "Camus",
+    "q": "Which figure from Greek myth did Camus use as a metaphor for the human struggle against the absurd?",
+    "a": "Sisyphus",
+    "accept": [],
+    "wrong": [
+      "Prometheus",
+      "Icarus",
+      "Narcissus"
+    ],
+    "explain": "In The Myth of Sisyphus, Sisyphus is condemned by the gods to roll a boulder up a hill forever, only to have it roll down again.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/The-Myth-of-Sisyphus",
+        "title": "The Myth of Sisyphus | Britannica",
+        "quote": "Camus uses the Greek legend of Sisyphus , who is condemned by the gods for eternity to repeatedly roll a boulder up a hill only to have it roll down again once he got it to the top, as a metaphor for the individual’s persistent struggle against the essential absurdity of life."
+      },
+      {
+        "url": "https://iep.utm.edu/existent/",
+        "title": "Existentialism | Internet Encyclopedia of Philosophy",
+        "quote": "In The Myth of Sisyphus Camus tells the story of the mythical Sisyphus who was condemned by the Gods to ceaselessly roll a rock to the top of a mountain and then have to let it fall back again of its own weight."
+      }
+    ]
+  },
+  {
+    "id": "philo-03-22",
+    "deck": "library",
+    "topic": "Wittgenstein",
+    "q": "In which posthumously published work did Wittgenstein develop the concept of \"language-games\"?",
+    "a": "Philosophical Investigations",
+    "accept": [
+      "The Philosophical Investigations"
+    ],
+    "wrong": [
+      "Tractatus Logico-Philosophicus",
+      "A Treatise of Human Nature",
+      "Principles of Philosophy"
+    ],
+    "explain": "Philosophical Investigations was published posthumously and helped inspire so-called ordinary language philosophy.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/wittgenstein",
+        "title": "Ludwig Wittgenstein (Stanford Encyclopedia of Philosophy)",
+        "quote": "Philosophical Investigations ( PI ) was published posthumously in 1953. ... Throughout the Philosophical Investigations , Wittgenstein returns, again and again, to the concept of language-games to make clear his lines of thought concerning language."
+      },
+      {
+        "url": "https://iep.utm.edu/wittgens",
+        "title": "Wittgenstein, Ludwig | Internet Encyclopedia of Philosophy",
+        "quote": "Wittgenstein’s later work, principally his Philosophical Investigations , shares this concern with logic and language , but takes a different, less technical, approach to philosophical problems. This book helped to inspire so-called ordinary language philosophy ."
+      }
+    ]
+  },
+  {
+    "id": "philo-03-23",
+    "deck": "library",
+    "topic": "Thought experiments",
+    "q": "Which British philosopher first posed the trolley problem, in a 1967 essay?",
+    "a": "Philippa Foot",
+    "accept": [
+      "Foot"
+    ],
+    "wrong": [
+      "Judith Jarvis Thomson",
+      "Bertrand Russell",
+      "G. E. M. Anscombe"
+    ],
+    "explain": "Foot introduced the case in \"The Problem of Abortion and the Doctrine of Double Effect\" (1967); the American philosopher Judith Jarvis Thomson later first identified it as \"the trolley problem.\"",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/trolley-problem",
+        "title": "Trolley problem | Britannica",
+        "quote": "The trolley problem originated in a 1967 essay by the British philosopher Philippa Foot ... The trolley problem, as it came to be known, was first identified as such by the American philosopher Judith Jarvis Thomson, whose essay “Killing, Letting Die, and the Trolley Problem” (1976) spawned a vast academic literature on the topic."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/philippa-foot/",
+        "title": "Philippa Foot (Stanford Encyclopedia of Philosophy)",
+        "quote": "In “The Problem of Abortion and the Doctrine of Double Effect” (1967), Foot introduces a related case that has since become the subject of extensive discussion: a runaway trolley is headed toward five people who will be killed, but it can be diverted onto a track on which there is only one person"
+      }
+    ]
+  },
+  {
+    "id": "philo-03-26",
+    "deck": "library",
+    "topic": "Thought experiments",
+    "q": "In which work did Blaise Pascal present his wager?",
+    "a": "Pensées",
+    "accept": [
+      "Pensees",
+      "Thoughts"
+    ],
+    "wrong": [
+      "Discourse on Method",
+      "Leviathan",
+      "Either/Or"
+    ],
+    "explain": "In the Pensées, Pascal applied elements of game theory to show that belief in the Christian religion is rational; SEP notes he apparently presents four such arguments in a single section.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Pascals-wager",
+        "title": "Pascal’s wager | Britannica",
+        "quote": "Pascal’s wager , practical argument for belief in God formulated by French mathematician and philosopher Blaise Pascal . In his Pensées (1657–58), Pascal applied elements of game theory to show that belief in the Christian religion is rational."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/pascal-wager",
+        "title": "Pascal’s Wager (Stanford Encyclopedia of Philosophy)",
+        "quote": "“Pascal’s Wager” is the name given to an argument due to Blaise Pascal for believing, or for at least taking steps to believe, in God. The name is somewhat misleading, for in a single section of his Pensées , Pascal apparently presents four such arguments"
+      }
+    ]
+  }
+]

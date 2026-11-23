@@ -1,0 +1,40 @@
+[
+  {
+    "id": "floor-03-23",
+    "deck": "floor",
+    "topic": "ISM PMIs",
+    "q": "What was the ISM Services PMI Report formerly called?",
+    "a": "Non-Manufacturing ISM Report On Business",
+    "accept": [
+      "Non-Manufacturing Report On Business",
+      "Non-Manufacturing ISM Report On Business",
+      "Non-Manufacturing ISM Report",
+      "Non-Manufacturing Report"
+    ],
+    "wrong": [
+      "Chicago PMI",
+      "Beige Book",
+      "Empire State Survey"
+    ],
+    "explain": "ISM renamed its Non-Manufacturing Report On Business the Services PMI Report; its panel was formerly the Non-Manufacturing Business Survey Committee.",
+    "hook": "Services = the old 'non-manufacturing'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october",
+        "title": "ISM Services PMI Report - October",
+        "quote": "The ISM ® Services PMI ® Report (formerly the Non-Manufacturing ISM ® Report On Business ® ) is based on data compiled from purchasing and supply executives nationwide."
+      },
+      {
+        "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/may",
+        "title": "May 2026 ISM Services PMI Report",
+        "quote": "The ISM ® Services PMI ® Report (formerly the Non-Manufacturing ISM ® Report On Business ® ) is based on data compiled from purchasing and supply executives nationwide."
+      },
+      {
+        "url": "https://www.ismworld.org/globalassets/pub/research-and-surveys/rob/nmi/stats202608svcs.pdf",
+        "title": "ISM Services PMI Report - August 2026 (PDF)",
+        "quote": "Membership of the Services Business Survey Panel (formerly Non-Manufacturing Business Survey Committee) is diversified by the North American Industry Classification System (NAICS), based on each industry’s contribution to gross domestic product (GDP)."
+      }
+    ]
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "id": "obs-04-01",
+    "deck": "observatory",
+    "topic": "Plate tectonics",
+    "q": "What was the name of the supercontinent that included all of Earth's major landmasses before breaking apart?",
+    "a": "Pangea",
+    "accept": ["Pangaea", "Pangæa"],
+    "wrong": ["Gondwana", "Laurasia", "Atlantis"],
+    "explain": "Pangea was the most recent supercontinent to incorporate all of Earth's major landmasses; its breakup is now explained by plate tectonics.",
+    "hook": "Pan = all, gea = Earth: 'all the Earth' in one landmass.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/place/Pangea", "title": "Pangea | Definition, Map, History, & Facts | Britannica", "quote": "The most recent supercontinent to incorporate all of Earth's major—and perhaps best-known—landmasses was Pangea."},
+      {"url": "https://www.britannica.com/science/plate-tectonics", "title": "Plate tectonics | Definition, Theory, Facts, & Evidence | Britannica", "quote": "Wegener postulated that throughout most of geologic time there was only one continent, which he called Pangea, and the breakup of this continent heralded Earth's current continental configuration"}
+    ]
+  },
+  {
+    "id": "obs-04-02",
+    "deck": "observatory",
+    "topic": "Plate tectonics",
+    "q": "Mid-ocean ridges form along which type of plate boundary?",
+    "a": "Divergent",
+    "accept": ["divergent boundary", "divergent plate boundary"],
+    "wrong": ["Convergent", "Transform", "Passive margin"],
+    "explain": "At divergent boundaries plates move apart and magma rises to create new ocean crust; the Mid-Atlantic Ridge is the best-known example.",
+    "hook": "Diverge = drift apart, and the gap fills with new seafloor.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://oceanexplorer.noaa.gov/ocean-fact/mid-ocean-ridge", "title": "What is a mid-ocean ridge? - NOAA Ocean Exploration", "quote": "Mid-ocean ridges occur along divergent plate boundaries, where new ocean floor is created as the Earth's tectonic plates spread apart."},
+      {"url": "https://pubs.usgs.gov/gip/dynamic/understanding.html", "title": "Understanding plate motions [This Dynamic Earth, USGS]", "quote": "Perhaps the best known of the divergent boundaries is the Mid-Atlantic Ridge."}
+    ]
+  },
+  {
+    "id": "obs-04-03",
+    "deck": "observatory",
+    "topic": "Plate tectonics",
+    "q": "What is the process called when one tectonic plate sinks beneath another at a convergent boundary?",
+    "a": "Subduction",
+    "accept": ["subducting", "being subducted"],
+    "wrong": ["Seafloor spreading", "Rifting", "Erosion"],
+    "explain": "Where converging plates meet, one usually moves beneath the other; subduction zones are marked by deep ocean trenches, earthquakes and volcanoes.",
+    "hook": "Sub = under: the plate ducks under.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://oceanexplorer.noaa.gov/ocean-fact/tectonic-features", "title": "What features form at plate tectonic boundaries? - NOAA Ocean Exploration", "quote": "If two tectonic plates collide, they form a convergent plate boundary. Usually, one of the converging plates will move beneath the other, a process known as subduction. Deep trenches are features often formed where tectonic plates are being subducted and earthquakes are common at subduction zones as well."},
+      {"url": "https://pubs.usgs.gov/gip/dynamic/understanding.html", "title": "Understanding plate motions [This Dynamic Earth, USGS]", "quote": "Such destruction (recycling) of crust takes place along convergent boundaries where plates are moving toward each other, and sometimes one plate sinks (is subducted) under another. The location where sinking of a plate occurs is called a subduction zone."}
+    ]
+  },
+  {
+    "id": "obs-04-04",
+    "deck": "observatory",
+    "topic": "Atmosphere layers",
+    "q": "What is the lowest layer of Earth's atmosphere, where almost all weather occurs?",
+    "a": "Troposphere",
+    "accept": ["the troposphere"],
+    "wrong": ["Stratosphere", "Mesosphere", "Thermosphere"],
+    "explain": "The troposphere begins at Earth's surface and holds most of the atmosphere's water vapor, which is why weather happens there.",
+    "hook": "Tropo = turning: the churning layer where weather lives.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.nasa.gov/general/what-is-earths-atmosphere", "title": "What Is... Earth's Atmosphere? - NASA", "quote": "The troposphere is the lowermost atmospheric layer. ... Earth's weather occurs in this layer, as it is where much of the atmospheric mass, including most of the water vapor, is found."},
+      {"url": "https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere", "title": "Layers of the Atmosphere | National Oceanic and Atmospheric Administration", "quote": "Known as the lower atmosphere, almost all weather occurs in this region. The troposphere begins at the Earth's surface, but the height of the troposphere varies."}
+    ]
+  },
+  {
+    "id": "obs-04-05",
+    "deck": "observatory",
+    "topic": "Atmosphere layers",
+    "q": "Which layer of the atmosphere contains the ozone layer?",
+    "a": "Stratosphere",
+    "accept": ["the stratosphere"],
+    "wrong": ["Troposphere", "Thermosphere", "Exosphere"],
+    "explain": "The stratosphere is home to the ozone layer, which absorbs the Sun's harmful ultraviolet radiation and makes temperatures rise with altitude in that layer.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/", "title": "Earth's Atmosphere: A Multi-layered Cake - NASA Science", "quote": "Located between approximately 12 and 50 kilometers (7.5 and 31 miles) above Earth's surface, the stratosphere is perhaps best known as home to Earth's ozone layer, which protects us from the Sun's harmful ultraviolet radiation."},
+      {"url": "https://scied.ucar.edu/learning-zone/air-quality/whats-in-the-air", "title": "What's in the Air? | Center for Science Education (UCAR)", "quote": "Ozone in the stratosphere forms the ozone layer, which is crucial for the survival of life at the Earth's surface."}
+    ]
+  },
+  {
+    "id": "obs-04-06",
+    "deck": "observatory",
+    "topic": "Atmosphere layers",
+    "q": "In which atmospheric layer do most meteors burn up?",
+    "a": "Mesosphere",
+    "accept": ["the mesosphere"],
+    "wrong": ["Troposphere", "Stratosphere", "Exosphere"],
+    "explain": "The mesosphere lies above the stratosphere; its gases are thick enough to slow incoming meteors so they burn up, and it is the coldest atmospheric layer.",
+    "hook": "Meso = middle; meteors meet their end in the middle.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/", "title": "Earth's Atmosphere: A Multi-layered Cake - NASA Science", "quote": "Most meteors burn up in this atmospheric layer."},
+      {"url": "https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere", "title": "Layers of the Atmosphere | National Oceanic and Atmospheric Administration", "quote": "The gases in the mesosphere are now thick enough to slow down meteors hurtling into the atmosphere, where they burn up, leaving fiery trails in the night sky."},
+      {"url": "https://www.nasa.gov/general/what-is-earths-atmosphere", "title": "What Is... Earth's Atmosphere? - NASA", "quote": "The mesosphere is the coldest atmospheric layer"}
+    ]
+  },
+  {
+    "id": "obs-04-07",
+    "deck": "observatory",
+    "topic": "Atmosphere layers",
+    "q": "In which atmospheric layer does the International Space Station orbit?",
+    "a": "Thermosphere",
+    "accept": ["the thermosphere"],
+    "wrong": ["Stratosphere", "Mesosphere", "Troposphere"],
+    "explain": "The thermosphere sits above the mesosphere; its lowest part contains the ionosphere, and auroras are sometimes seen there.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/", "title": "Earth's Atmosphere: A Multi-layered Cake - NASA Science", "quote": "The aurora borealis and aurora australis are sometimes seen here. The International Space Station orbits in the thermosphere."},
+      {"url": "https://www.nasa.gov/general/what-is-earths-atmosphere", "title": "What Is... Earth's Atmosphere? - NASA", "quote": "This layer is notable for being home to the International Space Station and other low-Earth-orbit satellites."}
+    ]
+  },
+  {
+    "id": "obs-04-08",
+    "deck": "observatory",
+    "topic": "Atmosphere composition",
+    "q": "Which gas makes up the largest share of Earth's dry atmosphere?",
+    "a": "Nitrogen",
+    "accept": ["N2", "nitrogen gas"],
+    "wrong": ["Oxygen", "Argon", "Carbon dioxide"],
+    "explain": "By volume, dry air is about 78% nitrogen and about 21% oxygen, with argon a distant third.",
+    "hook": "Nearly four-fifths of every breath is nitrogen.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.noaa.gov/jetstream/atmosphere", "title": "The Atmosphere | National Oceanic and Atmospheric Administration", "quote": "Of the dry composition of the atmosphere, nitrogen by far is the most common."},
+      {"url": "https://science.nasa.gov/earth/climate-change/greenhouse-gases/the-atmosphere-getting-a-handle-on-carbon-dioxide", "title": "The Atmosphere: Getting a Handle on Carbon Dioxide - NASA Science", "quote": "By volume, the dry air in Earth's atmosphere is about 78.08 percent nitrogen, 20.95 percent oxygen, and 0.93 percent argon."}
+    ]
+  },
+  {
+    "id": "obs-04-09",
+    "deck": "observatory",
+    "topic": "El Nino / ENSO",
+    "q": "What does the abbreviation ENSO stand for?",
+    "a": "El Nino-Southern Oscillation",
+    "accept": ["El Niño-Southern Oscillation", "El Nino Southern Oscillation", "El Niño Southern Oscillation"],
+    "wrong": ["Equatorial North-South Oscillation", "El Nino Seasonal Outlook", "Eastern Nino Sea Oscillation"],
+    "explain": "ENSO is the recurring Pacific climate pattern whose warm phase is El Nino and cool phase is La Nina, with a neutral phase in between.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.noaa.gov/understanding-el-nino", "title": "Understanding El Niño & ENSO | National Oceanic and Atmospheric Administration", "quote": "El Niño, the warm phase of ENSO, occurs on average every two to seven years ... The opposite of El Niño is La Niña, the cool phase ... All three stages together are referred to as ENSO or the El Niño-Southern Oscillation."},
+      {"url": "https://www.weather.gov/ict/enso", "title": "El Nino & La Nina Information - National Weather Service", "quote": "The El Niño-Southern Oscillation (ENSO) is a recurring climate pattern involving changes in the temperature of waters in the central and eastern tropical Pacific Ocean."}
+    ]
+  },
+  {
+    "id": "obs-04-10",
+    "deck": "observatory",
+    "topic": "El Nino / ENSO",
+    "q": "Which ENSO phase is marked by cooler-than-average sea surface temperatures in the central and eastern tropical Pacific?",
+    "a": "La Nina",
+    "accept": ["La Niña"],
+    "wrong": ["El Nino", "ENSO-neutral", "Indian Ocean Dipole"],
+    "explain": "La Nina is the cool phase of ENSO, the opposite of the warm El Nino phase; during La Nina the normal easterly winds along the equator become even stronger.",
+    "hook": "La Nina, the cool sister of El Nino.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.weather.gov/ict/enso", "title": "El Nino & La Nina Information - National Weather Service", "quote": "La Niña: A cooling of the ocean surface, or below-average sea surface temperatures (SST), in the central and eastern tropical Pacific Ocean. ... The normal easterly winds along the equator become even stronger."},
+      {"url": "https://www.noaa.gov/understanding-el-nino", "title": "Understanding El Niño & ENSO | National Oceanic and Atmospheric Administration", "quote": "The opposite of El Niño is La Niña, the cool phase, which also changes weather worldwide."}
+    ]
+  },
+  {
+    "id": "obs-04-11",
+    "deck": "observatory",
+    "topic": "El Nino / ENSO",
+    "q": "During El Nino, what happens to the Pacific's easterly trade winds?",
+    "a": "They weaken",
+    "accept": ["weaken", "weaker", "they get weaker", "weakening"],
+    "wrong": ["They strengthen", "They reverse to blow from the north", "They stay unchanged"],
+    "explain": "Weaker trade winds let warm water push back east toward the Americas, warming the central and eastern equatorial Pacific.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://oceanservice.noaa.gov/facts/ninonina.html", "title": "What are El Nino and La Nina? (NOAA National Ocean Service)", "quote": "During El Niño, trade winds weaken. Warm water is pushed back east, toward the west coast of the Americas."},
+      {"url": "https://www.ncei.noaa.gov/news/enso-detection-and-monitoring-depends-data", "title": "ENSO Detection and Monitoring Depends on Data | NCEI", "quote": "The signature atmospheric pattern that indicates the arrival of El Niño is the weakening of normal easterly trade winds in the Pacific."}
+    ]
+  },
+  {
+    "id": "obs-04-12",
+    "deck": "observatory",
+    "topic": "Transistors",
+    "q": "At which research lab was the transistor invented?",
+    "a": "Bell Labs",
+    "accept": ["Bell Laboratories", "Bell Telephone Laboratories", "Bell Labs (AT&T)"],
+    "wrong": ["Xerox PARC", "Fairchild Semiconductor", "IBM Research"],
+    "explain": "John Bardeen, Walter Brattain and William Shockley of Bell Labs invented the transistor, which displaced the vacuum tube in many applications.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/summary/transistor", "title": "transistor summary | Britannica", "quote": "Invented at Bell Labs (1947) by John Bardeen, Walter H. Brattain, and William B. Shockley, it displaced the vacuum tube in many applications."},
+      {"url": "https://www.computerhistory.org/revolution/digital-logic/12/273", "title": "Inventing the Transistor - CHM Revolution", "quote": "Under Shockley's direction, John Bardeen and Walter Brattain demonstrated in 1947 the first semiconductor amplifier: the point-contact transistor, with two metal points in contact with a sliver of germanium."}
+    ]
+  },
+  {
+    "id": "obs-04-13",
+    "deck": "observatory",
+    "topic": "Transistors",
+    "q": "In what year did Bardeen and Brattain demonstrate the first transistor?",
+    "a": "1947",
+    "accept": ["December 1947"],
+    "wrong": ["1938", "1958", "1965"],
+    "explain": "The point-contact transistor, the first successful semiconductor amplifier, was invented on December 16, 1947.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor", "title": "1947: Invention of the Point-Contact Transistor | The Silicon Engine | Computer History Museum", "quote": "On December 16, 1947, their research culminated in the first successful semiconductor amplifier."},
+      {"url": "https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs", "title": "Transistor - Innovation, Bell Labs, Electronics | Britannica", "quote": "Working closely together over the next month, Bardeen and Brattain invented the first successful semiconductor amplifier, called the point-contact transistor, on December 16, 1947."}
+    ]
+  },
+  {
+    "id": "obs-04-14",
+    "deck": "observatory",
+    "topic": "Semiconductors",
+    "q": "The first transistor was built on a slab of which semiconductor element?",
+    "a": "Germanium",
+    "accept": ["Ge"],
+    "wrong": ["Copper", "Gold", "Aluminum"],
+    "explain": "Bardeen and Brattain pressed two closely spaced gold contacts onto a slab of high-purity germanium; silicon later became the basis of low-cost transistors and integrated circuits.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor", "title": "1947: Invention of the Point-Contact Transistor | The Silicon Engine | Computer History Museum", "quote": "John Bardeen & Walter Brattain achieve transistor action in a germanium point-contact device in December 1947."},
+      {"url": "https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs", "title": "Transistor - Innovation, Bell Labs, Electronics | Britannica", "quote": "this weird-looking device had not one but two closely spaced metal wires jabbing into the surface of a semiconductor—in this case, germanium."},
+      {"url": "https://www.britannica.com/technology/electronics/The-semiconductor-revolution", "title": "Electronics - Semiconductor, Revolution, Technology | Britannica", "quote": "silicon, unlike germanium, forms a tenaciously adhering oxide film with excellent electrical insulating properties ... crucial to the development of low-cost transistors and integrated circuits"}
+    ]
+  },
+  {
+    "id": "obs-04-15",
+    "deck": "observatory",
+    "topic": "Transistors",
+    "q": "In a MOSFET, which electrode's voltage regulates the current flowing between the source and the drain?",
+    "a": "Gate",
+    "accept": ["the gate", "gate electrode"],
+    "wrong": ["Emitter", "Collector", "Base"],
+    "explain": "A positive gate voltage draws electrons into a channel between source and drain, switching the transistor on; removing it breaks the channel and switches it off.",
+    "hook": "The gate opens or closes the channel.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/summary/transistor", "title": "transistor summary | Britannica", "quote": "In the metal-oxide semiconductor field-effect transistor (MOSFET) shown, current flows between the source and drain electrodes and is regulated by the gate electrode. ... If the gate voltage is removed (bottom), the electron channel is broken and the transistor is off."}
+    ]
+  },
+  {
+    "id": "obs-04-16",
+    "deck": "observatory",
+    "topic": "Moore's law",
+    "q": "Moore's law is named after which Intel co-founder?",
+    "a": "Gordon Moore",
+    "accept": ["Moore", "Gordon E. Moore"],
+    "wrong": ["Robert Noyce", "Andy Grove", "William Shockley"],
+    "explain": "Moore's law is the observation that the number of transistors on an integrated circuit doubles roughly every two years.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html", "title": "Moore's Law - Intel", "quote": "Moore's Law is the observation that the number of transistors on an integrated circuit will double every two years with minimal rise in cost. Intel co-founder Gordon Moore predicted a doubling of transistors every year for the next 10 years in his original paper published in 1965."},
+      {"url": "https://www.britannica.com/technology/electronics/The-semiconductor-revolution", "title": "Electronics - Semiconductor, Revolution, Technology | Britannica", "quote": "Gordon E. Moore, one of the founders of Intel, observed as early as 1965 that the complexity of ICs was approximately doubling every 18–24 months"}
+    ]
+  },
+  {
+    "id": "obs-04-17",
+    "deck": "observatory",
+    "topic": "Moore's law",
+    "q": "In 1975, Gordon Moore revised his prediction to transistor counts doubling every how many years?",
+    "a": "Two years",
+    "accept": ["2", "2 years", "two", "every two years"],
+    "wrong": ["One year", "Five years", "Ten years"],
+    "explain": "His 1965 paper projected a doubling every year; in 1975 he slowed it to a doubling every two years.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html", "title": "Moore's Law - Intel", "quote": "Ten years later, in 1975, Moore revised this to doubling every two years."},
+      {"url": "https://www.computerhistory.org/siliconengine/moores-law-predicts-the-future-of-integrated-circuits", "title": "1965: \"Moore's Law\" Predicts the Future of Integrated Circuits | Computer History Museum", "quote": "he slowed the future rate of increase in complexity to \"a doubling every two years, rather than every year.\""}
+    ]
+  },
+  {
+    "id": "obs-04-18",
+    "deck": "observatory",
+    "topic": "Moore's law",
+    "q": "In what year was Gordon Moore's original paper laying out Moore's law published?",
+    "a": "1965",
+    "accept": ["April 1965"],
+    "wrong": ["1947", "1971", "1975"],
+    "explain": "\"Cramming more components onto integrated circuits\" appeared in Electronics magazine on April 19, 1965.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html", "title": "Moore's Law - Intel", "quote": "Penned by Gordon Moore, the original paper outlining Moore's Law was published in Electronics Magazine, Volume 38, Issue 8, on April 19, 1965."},
+      {"url": "https://www.computerhistory.org/siliconengine/moores-law-predicts-the-future-of-integrated-circuits", "title": "1965: \"Moore's Law\" Predicts the Future of Integrated Circuits | Computer History Museum", "quote": "Edited for publication as a magazine article, \"Cramming more components onto integrated circuits\" was published in Electronics on April 19, 1965."}
+    ]
+  },
+  {
+    "id": "obs-04-19",
+    "deck": "observatory",
+    "topic": "GPS",
+    "q": "Which branch of the U.S. military operates the GPS satellites and control segment?",
+    "a": "U.S. Space Force",
+    "accept": ["Space Force", "US Space Force", "United States Space Force", "USSF"],
+    "wrong": ["U.S. Navy", "U.S. Army", "U.S. Coast Guard"],
+    "explain": "GPS is a U.S.-owned utility providing positioning, navigation and timing; the Space Force develops, maintains and operates its space and control segments.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.gps.gov/gps", "title": "GPS | GPS.gov", "quote": "The U.S. Space Force develops, maintains, and operates the space and control segments."},
+      {"url": "https://www.nist.gov/how-do-you-measure-it/how-do-you-measure-your-location-using-gps", "title": "How Do You Measure Your Location Using GPS? | NIST", "quote": "Maintained by the U.S. Space Force, GPS is made up of 31 satellites that are in orbit at a distance of about 20,200 kilometers (about 12,550 miles) above Earth."}
+    ]
+  },
+  {
+    "id": "obs-04-20",
+    "deck": "observatory",
+    "topic": "GPS",
+    "q": "What is the minimum number of GPS satellites a receiver needs to determine its latitude, longitude, altitude and time?",
+    "a": "Four",
+    "accept": ["4"],
+    "wrong": ["Two", "Three", "Six"],
+    "explain": "Ranges to three satellites would give a 3D position only with an atomic clock in the receiver; a fourth satellite's measurement removes that need and also solves for time.",
+    "hook": "Three unknowns for place plus one for time = four.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss/gps/howitworks", "title": "Satellite Navigation - GPS - How It Works | Federal Aviation Administration", "quote": "An atomic clock synchronized to GPS is required in order to compute ranges from these three signals. However, by taking a measurement from a fourth satellite, the receiver avoids the need for an atomic clock. Thus, the receiver uses four satellites to compute latitude, longitude, altitude, and time."},
+      {"url": "https://www.nist.gov/how-do-you-measure-it/how-do-you-measure-your-location-using-gps", "title": "How Do You Measure Your Location Using GPS? | NIST", "quote": "You need at least four satellites to get a fix on your position, though more is better."}
+    ]
+  },
+  {
+    "id": "obs-04-21",
+    "deck": "observatory",
+    "topic": "GPS",
+    "q": "What type of highly accurate clock do GPS satellites carry?",
+    "a": "Atomic clocks",
+    "accept": ["atomic clock", "atomic"],
+    "wrong": ["Quartz clocks", "Pendulum clocks", "Mechanical chronometers"],
+    "explain": "Accurate time is the basis of GPS: receivers use the time a signal was broadcast and the time it arrived to compute their distance from each satellite.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss/gps/howitworks", "title": "Satellite Navigation - GPS - How It Works | Federal Aviation Administration", "quote": "GPS satellites carry atomic clocks that provide extremely accurate time."},
+      {"url": "https://www.nist.gov/how-do-you-measure-it/how-do-you-measure-your-location-using-gps", "title": "How Do You Measure Your Location Using GPS? | NIST", "quote": "Each of these satellites has several atomic clocks aboard. ... They need to be synchronized because accurate time is the basis of GPS location and navigation services."}
+    ]
+  },
+  {
+    "id": "obs-04-22",
+    "deck": "observatory",
+    "topic": "Machine learning",
+    "q": "What kind of training data defines supervised machine learning?",
+    "a": "Labeled data",
+    "accept": ["labeled", "labelled data", "labelled", "labeled examples"],
+    "wrong": ["Unlabeled data", "Encrypted data", "Synthetic noise"],
+    "explain": "In supervised learning, each training example comes with the correct output (label), so the model can compare its predictions to the right answer and adjust; unsupervised learning uses unlabeled data.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.ibm.com/think/topics/supervised-vs-unsupervised-learning", "title": "Supervised vs. Unsupervised Learning: What's the Difference? | IBM", "quote": "Supervised learning is a machine learning approach that's defined by its use of labeled data sets."},
+      {"url": "https://cloud.google.com/discover/supervised-vs-unsupervised-learning", "title": "Supervised vs. unsupervised learning | Google Cloud", "quote": "The biggest difference between supervised and unsupervised machine learning is the type of data used. Supervised learning uses labeled training data, and unsupervised learning does not."}
+    ]
+  },
+  {
+    "id": "obs-04-23",
+    "deck": "observatory",
+    "topic": "Neural networks",
+    "q": "What algorithm calculates how to adjust a neural network's weights to reduce its error during training?",
+    "a": "Backpropagation",
+    "accept": ["backprop", "back-propagation", "backward propagation of error", "backward propagation of errors"],
+    "wrong": ["Tokenization", "Random forest", "Self-attention"],
+    "explain": "Backpropagation works backward from the loss, using the calculus chain rule to determine whether each weight should go up or down, enabling gradient descent.",
+    "hook": "Errors flow back through the layers.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://developers.google.com/machine-learning/glossary", "title": "Machine Learning Glossary | Google for Developers", "quote": "The algorithm that implements gradient descent in neural networks. ... During the backward pass (backpropagation), the system reduces loss by adjusting the weights of all the neurons in all the hidden layer(s). ... In calculus terms, backpropagation implements the chain rule."},
+      {"url": "https://www.ibm.com/think/topics/backpropagation", "title": "What is Backpropagation? | IBM", "quote": "Backpropagation is a machine learning technique essential to the optimization of artificial neural networks. It facilitates the use of gradient descent algorithms to update network weights, which is how the deep learning models driving modern artificial intelligence (AI) \"learn.\""}
+    ]
+  },
+  {
+    "id": "obs-04-24",
+    "deck": "observatory",
+    "topic": "Large language models",
+    "q": "Large language models are built on which neural network architecture?",
+    "a": "Transformer",
+    "accept": ["transformers", "the transformer", "transformer architecture"],
+    "wrong": ["Decision tree", "Linear regression", "Relational database"],
+    "explain": "Transformers use a self-attention mechanism to weigh relationships between tokens; LLMs use them to generate text one token at a time.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.ibm.com/think/topics/large-language-models", "title": "What Are Large Language Models (LLMs)? | IBM", "quote": "LLMs are built on a type of neural network architecture called a transformer which excels at handling sequences of words and capturing patterns in text."},
+      {"url": "https://developers.google.com/machine-learning/glossary", "title": "Machine Learning Glossary | Google for Developers", "quote": "All Transformer-based large language models are auto-regressive."}
+    ]
+  },
+  {
+    "id": "obs-04-25",
+    "deck": "observatory",
+    "topic": "Large language models",
+    "q": "In what year was the paper \"Attention Is All You Need,\" which introduced the Transformer, published?",
+    "a": "2017",
+    "accept": ["June 2017"],
+    "wrong": ["2012", "2014", "2020"],
+    "explain": "Google researchers Vaswani et al. proposed the Transformer, a network based solely on attention mechanisms; it marked the beginning of the modern LLM era.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://arxiv.org/abs/1706.03762", "title": "[1706.03762] Attention Is All You Need", "quote": "[Submitted on 12 Jun 2017 ...] We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely."},
+      {"url": "https://www.ibm.com/think/topics/large-language-models", "title": "What Are Large Language Models (LLMs)? | IBM", "quote": "In 2017, Vaswani et al. introduced the encoder–decoder transformer architecture in the landmark paper \"Attention Is All You Need.\" Transformers made it possible to train models on large datasets, marking the beginning of the modern LLM era."},
+      {"url": "https://research.google/pubs/attention-is-all-you-need", "title": "Attention is All You Need (Google Research)", "quote": "Ashish Vaswani Noam Shazeer Niki Parmar Jakob Uszkoreit Llion Jones Aidan N. Gomez Lukasz Kaiser Illia Polosukhin NIPS (2017)"}
+    ]
+  },
+  {
+    "id": "obs-04-26",
+    "deck": "observatory",
+    "topic": "Cloud computing",
+    "q": "In the NIST cloud definition, which service model lets the consumer use the provider's applications running on cloud infrastructure?",
+    "a": "SaaS",
+    "accept": ["Software as a Service", "software-as-a-service"],
+    "wrong": ["IaaS", "PaaS", "On-premises"],
+    "explain": "NIST defines three service models: Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS).",
+    "hook": "SaaS = you just use the Software.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://nvlpubs.nist.gov/NISTPUBS/LEGACY/SP/NISTSPECIALPUBLICATION800-145.pdf", "title": "NIST SP 800-145, The NIST Definition of Cloud Computing", "quote": "Software as a Service (SaaS). The capability provided to the consumer is to use the provider's applications running on a cloud infrastructure."},
+      {"url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-322.pdf", "title": "Evaluation of Cloud Computing Services Based on NIST 800-145", "quote": "Any given cloud service may be categorized as one of three service models, namely Software as a Service (SaaS), Platform as a Service (PaaS), or Infrastructure as a Service (IaaS)."}
+    ]
+  },
+  {
+    "id": "obs-04-27",
+    "deck": "observatory",
+    "topic": "Cloud computing",
+    "q": "How many essential characteristics of cloud computing does the NIST definition (SP 800-145) list?",
+    "a": "Five",
+    "accept": ["5"],
+    "wrong": ["Three", "Four", "Seven"],
+    "explain": "They are on-demand self-service, broad network access, resource pooling, rapid elasticity and measured service; NIST also lists three service models and four deployment models.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://nvlpubs.nist.gov/NISTPUBS/LEGACY/SP/NISTSPECIALPUBLICATION800-145.pdf", "title": "NIST SP 800-145, The NIST Definition of Cloud Computing", "quote": "This cloud model is composed of five essential characteristics, three service models, and four deployment models."},
+      {"url": "https://www.nist.gov/news-events/news/2011/10/final-version-nist-cloud-computing-definition-published", "title": "Final Version of NIST Cloud Computing Definition Published | NIST", "quote": "The NIST definition lists five essential characteristics of cloud computing: on-demand self-service, broad network access, resource pooling, rapid elasticity or expansion, and measured service. It also lists three \"service models\" (software, platform and infrastructure), and four \"deployment models\" (private, community, public and hybrid)"}
+    ]
+  }
+]

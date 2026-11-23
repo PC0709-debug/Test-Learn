@@ -1,0 +1,431 @@
+[
+  {
+    "id": "obs-01-01",
+    "deck": "observatory",
+    "topic": "Planets",
+    "q": "What is the largest planet in our solar system?",
+    "a": "Jupiter",
+    "accept": [],
+    "wrong": [
+      "Saturn",
+      "Neptune",
+      "Uranus"
+    ],
+    "explain": "Jupiter is the largest planet in our solar system.",
+    "hook": "Jupiter, king of the Roman gods, is king of the planets.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system",
+        "title": "Planet Sizes and Locations in Our Solar System - NASA Science",
+        "quote": "Jupiter is the largest planet in the solar system. It’s about 11 times wider than Earth with an equatorial diameter of 88,846 miles (about 142,984 kilometers)."
+      },
+      {
+        "url": "https://science.nasa.gov/solar-system/planets/",
+        "title": "About the Planets - NASA Science",
+        "quote": "Jupiter is the fifth planet from the Sun, and the largest planet in our solar system."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-02",
+    "deck": "observatory",
+    "topic": "Planets",
+    "q": "Which planet is nearest to the Sun?",
+    "a": "Mercury",
+    "accept": [],
+    "wrong": [
+      "Venus",
+      "Mars",
+      "Earth"
+    ],
+    "explain": "Mercury is the planet nearest to the Sun, and also the smallest planet in our solar system.",
+    "hook": "Mercury, the messenger god, stays closest to the Sun.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/Mercury/facts/",
+        "title": "Mercury: Facts - NASA Science",
+        "quote": "Mercury is the smallest planet in our solar system and nearest to the Sun."
+      },
+      {
+        "url": "https://science.nasa.gov/solar-system/planets/",
+        "title": "About the Planets - NASA Science",
+        "quote": "Mercury is the planet nearest to the Sun, and the smallest planet in our solar system."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-04",
+    "deck": "observatory",
+    "topic": "Planets",
+    "q": "On which planet is Olympus Mons, the largest known volcano in the solar system?",
+    "a": "Mars",
+    "accept": [],
+    "wrong": [
+      "Venus",
+      "Mercury",
+      "Earth"
+    ],
+    "explain": "Olympus Mons, on Mars, is the largest known volcano in the solar system.",
+    "hook": "Olympus for the gods, Olympus Mons for Mars.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mars/facts",
+        "title": "Mars: Facts - NASA Science",
+        "quote": "Mars is home to the largest volcano in the solar system, Olympus Mons ."
+      },
+      {
+        "url": "https://www.britannica.com/place/Olympus-Mons",
+        "title": "Olympus Mons | Description, Height, & Facts | Britannica",
+        "quote": "Olympus Mons , volcano on the planet Mars , the highest point on the planet and the largest known volcano in the solar system ."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-05",
+    "deck": "observatory",
+    "topic": "Planets",
+    "q": "Which planet rotates at a nearly 90-degree angle to its orbit, so it appears to spin on its side?",
+    "a": "Uranus",
+    "accept": [],
+    "wrong": [
+      "Neptune",
+      "Saturn",
+      "Venus"
+    ],
+    "explain": "Uranus rotates at a nearly 90-degree angle from the plane of its orbit, so it appears to spin on its side.",
+    "hook": "Uranus rolls around the Sun like a ball.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/Uranus/facts",
+        "title": "Uranus: Facts - NASA Science",
+        "quote": "Uranus rotates at a nearly 90-degree angle from the plane of its orbit. This unique tilt makes Uranus appear to spin sideways, orbiting the Sun like a rolling ball."
+      },
+      {
+        "url": "https://science.nasa.gov/uranus/",
+        "title": "Uranus - NASA Science",
+        "quote": "It rotates at a nearly 90-degree angle from the plane of its orbit. This unique tilt makes Uranus appear to spin on its side."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-08",
+    "deck": "observatory",
+    "topic": "Moon and Apollo",
+    "q": "Which Apollo 11 astronaut stayed in lunar orbit while Armstrong and Aldrin walked on the Moon?",
+    "a": "Michael Collins",
+    "accept": [
+      "Collins"
+    ],
+    "wrong": [
+      "Jim Lovell",
+      "Pete Conrad",
+      "Gene Cernan"
+    ],
+    "explain": "The Apollo 11 crew was Neil Armstrong, Michael Collins and Buzz Aldrin; Armstrong and Aldrin walked on the lunar surface while Collins remained in orbit around the Moon.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program",
+        "title": "What Was the Apollo Program? - NASA",
+        "quote": "The crew of Apollo 11 was Neil Armstrong, Michael Collins and Buzz Aldrin. Armstong and Aldrin walked on the lunar surface while Collins remained in orbit around the moon."
+      },
+      {
+        "url": "https://www.si.edu/newsdesk/factsheets/brief-history-apollo-program",
+        "title": "A Brief History of the Apollo Program | Smithsonian Institution",
+        "quote": "Michael Collins piloted the CSM Columbia mothership."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-10",
+    "deck": "observatory",
+    "topic": "Moon and Apollo",
+    "q": "How many astronauts have walked on the Moon?",
+    "a": "12",
+    "accept": [
+      "twelve"
+    ],
+    "wrong": [
+      "6",
+      "18",
+      "24"
+    ],
+    "explain": "A total of 12 astronauts walked on the Moon, all of them during the Apollo program.",
+    "hook": "A dozen moonwalkers.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program",
+        "title": "What Was the Apollo Program? - NASA",
+        "quote": "A total of 12 astronauts walked on the moon."
+      },
+      {
+        "url": "https://www.britannica.com/story/how-many-people-have-been-to-the-moon",
+        "title": "How Many People Have Been to the Moon? | Britannica",
+        "quote": "In fact, during nine Apollo missions, 24 astronauts (all Americans) went to the Moon, and 12 of them walked on it."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-12",
+    "deck": "observatory",
+    "topic": "Light-year and AU",
+    "q": "Approximately how long is one astronomical unit (AU), the average Earth-Sun distance?",
+    "a": "150 million km",
+    "accept": [
+      "150 million kilometers",
+      "149.6 million km",
+      "93 million miles",
+      "150,000,000 km"
+    ],
+    "wrong": [
+      "15 million km",
+      "1.5 billion km",
+      "384,400 km"
+    ],
+    "explain": "One AU, the average distance between Earth and the Sun, is about 150 million km (about 93 million miles).",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/science/astronomical-unit",
+        "title": "Astronomical unit (AU, or au) | Britannica",
+        "quote": "An astronomical unit (AU) is a unit of length equal to the average distance between Earth and the Sun, which is about 149.6 million kilometers (92.96 million miles)."
+      },
+      {
+        "url": "https://science.nasa.gov/universe/cosmic-distances",
+        "title": "Cosmic Distances - NASA Science",
+        "quote": "One AU is the distance from the Sun to Earth's orbit, which is about 93 million miles (150 million kilometers)."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-14",
+    "deck": "observatory",
+    "topic": "Stars and the Sun",
+    "q": "Which star is the nearest to the Sun?",
+    "a": "Proxima Centauri",
+    "accept": [
+      "Proxima"
+    ],
+    "wrong": [
+      "Alpha Centauri A",
+      "Sirius",
+      "Barnard's Star"
+    ],
+    "explain": "Proxima Centauri, the dimmest of the three stars in the Alpha Centauri system, is the nearest star to the Sun.",
+    "hook": "Proxima sounds like 'proximity': closest.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://imagine.gsfc.nasa.gov/features/cosmic/nearest_star_info.html",
+        "title": "The Nearest Neighbor Star - Imagine the Universe! - NASA",
+        "quote": "Of the three stars in the system, the dimmest - called Proxima Centauri - is actually the nearest star to the Sun."
+      },
+      {
+        "url": "https://science.nasa.gov/sun/facts",
+        "title": "Sun: Facts - NASA Science",
+        "quote": "Its nearest stellar neighbor is the Alpha Centauri triple star system: red dwarf star Proxima Centauri is 4.24 light-years away, and Alpha Centauri A and B – two sunlike stars orbiting each other – are 4.37 light-years away."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-16",
+    "deck": "observatory",
+    "topic": "Stars and the Sun",
+    "q": "Nuclear fusion in the Sun's core converts hydrogen into which element?",
+    "a": "Helium",
+    "accept": [
+      "He"
+    ],
+    "wrong": [
+      "Carbon",
+      "Oxygen",
+      "Iron"
+    ],
+    "explain": "In the Sun's core, nuclear reactions fuse hydrogen to form helium, releasing the energy that ultimately leaves the surface as visible light.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://solarscience.msfc.nasa.gov/interior.shtml",
+        "title": "NASA/Marshall Solar Physics",
+        "quote": "The Sun's core is the central region where nuclear reactions consume hydrogen to form helium. These reactions release the energy that ultimately leaves the surface as visible light."
+      },
+      {
+        "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter1-1",
+        "title": "Chapter 1: The Solar System - NASA Science",
+        "quote": "The Sun's gravity creates extreme pressures and temperatures within its core, sustaining a thermonuclear reaction fusing hydrogen nuclei and producing helium nuclei."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-18",
+    "deck": "observatory",
+    "topic": "Black holes",
+    "q": "What is the name of the supermassive black hole at the center of the Milky Way?",
+    "a": "Sagittarius A*",
+    "accept": [
+      "Sgr A*",
+      "Sagittarius A star"
+    ],
+    "wrong": [
+      "Cygnus X-1",
+      "M87*",
+      "Centaurus A"
+    ],
+    "explain": "Sagittarius A* (Sgr A* for short) is the supermassive black hole at the centre of our Milky Way galaxy; the Event Horizon Telescope produced the first image of it.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy",
+        "title": "Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy | Event Horizon Telescope",
+        "quote": "This is the first image of Sagittarius A* (or Sgr A* for short), the supermassive black hole at the centre of our galaxy."
+      },
+      {
+        "url": "https://www.nasa.gov/universe/black-hole-image-makes-history-nasa-telescopes-coordinated-observations/",
+        "title": "Black Hole Image Makes History; NASA Telescopes Coordinated Observations - NASA",
+        "quote": "also looked at the black hole at the center of our own Milky Way galaxy, called Sagittarius A*, in coordination with EHT."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-20",
+    "deck": "observatory",
+    "topic": "Galaxies",
+    "q": "What is the nearest large galaxy to our Milky Way?",
+    "a": "Andromeda Galaxy",
+    "accept": [
+      "Andromeda",
+      "M31",
+      "Messier 31",
+      "NGC 224"
+    ],
+    "wrong": [
+      "Whirlpool Galaxy",
+      "Sombrero Galaxy",
+      "Triangulum Galaxy"
+    ],
+    "explain": "The Andromeda Galaxy (M31) is a spiral galaxy about 2.5 million light-years away and one of the few galaxies visible to the unaided eye.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/place/Andromeda-Galaxy",
+        "title": "Andromeda Galaxy | Description, Location, Distance, & Facts | Britannica",
+        "quote": "Andromeda Galaxy , (catalog numbers NGC 224 and M31), great spiral galaxy in the constellation Andromeda , the nearest large galaxy. The Andromeda Galaxy is one of the few visible to the unaided eye, appearing as a milky blur. It is located about 2,480,000 light-years from Earth"
+      },
+      {
+        "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/",
+        "title": "Messier 31 (The Andromeda Galaxy) - NASA Science",
+        "quote": "M31, also well-known as the Andromeda Galaxy, is the nearest major galaxy to our own, the Milky Way."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-22",
+    "deck": "observatory",
+    "topic": "Telescopes",
+    "q": "On what date was the James Webb Space Telescope launched?",
+    "a": "December 25, 2021",
+    "accept": [
+      "25 December 2021",
+      "Dec 25, 2021",
+      "12/25/2021",
+      "2021-12-25",
+      "Christmas Day 2021"
+    ],
+    "wrong": [
+      "December 25, 2019",
+      "July 12, 2022",
+      "April 24, 1990"
+    ],
+    "explain": "Webb launched on December 25, 2021, aboard an Ariane 5 rocket from French Guiana.",
+    "hook": "A Christmas present to astronomy.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/webb/launch",
+        "title": "Webb's Launch - NASA Science",
+        "quote": "Webb was launched on on December 25, 2021 on board an Ariane 5 rocket from Ariane Space Spaceport in French Guiana."
+      },
+      {
+        "url": "https://www.britannica.com/science/James-Webb-Space-Telescope",
+        "title": "James Webb Space Telescope (JWST) | Britannica",
+        "quote": "launched by an Ariane 5 rocket from Kourou , French Guiana , on December 25, 2021. The JWST has a mirror 6.5 metres (21.3 feet) in diameter, seven times larger than that of the HST, and orbits the Sun in a Lissajous pattern around the second Lagrangian point , about 1.5 million km (930,000 miles) from Earth"
+      }
+    ]
+  },
+  {
+    "id": "obs-01-23",
+    "deck": "observatory",
+    "topic": "Voyager missions",
+    "q": "Which spacecraft became the first human-made object to enter interstellar space, in August 2012?",
+    "a": "Voyager 1",
+    "accept": [
+      "Voyager I"
+    ],
+    "wrong": [
+      "Voyager 2",
+      "Pioneer 10",
+      "New Horizons"
+    ],
+    "explain": "Voyager 1 reached interstellar space in August 2012, becoming the first human-made object to do so.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/voyager/interstellar-mission/",
+        "title": "Interstellar Mission - NASA Science",
+        "quote": "Voyager 1 entered interstellar space on Aug. 25, 2012, becoming the first human-made object to do so."
+      },
+      {
+        "url": "https://www.nasa.gov/news-release/nasa-spacecraft-embarks-on-historic-journey-into-interstellar-space",
+        "title": "NASA Spacecraft Embarks on Historic Journey into Interstellar Space - NASA",
+        "quote": "NASA’s Voyager 1 spacecraft officially is the first human-made object to venture into interstellar space."
+      },
+      {
+        "url": "https://www.jpl.nasa.gov/missions/voyager-1/",
+        "title": "Voyager 1 - NASA Jet Propulsion Laboratory",
+        "quote": "Voyager 1 reached interstellar space in August 2012 and is the most distant human-made object in existence."
+      }
+    ]
+  },
+  {
+    "id": "obs-01-24",
+    "deck": "observatory",
+    "topic": "Voyager missions",
+    "q": "What is the name of the gold-plated copper disk of sounds and images from Earth carried by both Voyager spacecraft?",
+    "a": "Golden Record",
+    "accept": [
+      "The Golden Record",
+      "Voyager Golden Record"
+    ],
+    "wrong": [
+      "Pioneer Plaque",
+      "Rosetta Disk",
+      "Arecibo Message"
+    ],
+    "explain": "Both Voyager spacecraft carry the Golden Record, a 12-inch gold-plated copper disk containing sounds and images selected to portray life and culture on Earth.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.jpl.nasa.gov/missions/voyager-1/",
+        "title": "Voyager 1 - NASA Jet Propulsion Laboratory",
+        "quote": "Both spacecraft carry a sort of time capsule called the Golden Record, a 12-inch gold-plated copper disk containing sounds and images selected to portray the story of our world to extraterrestrials."
+      },
+      {
+        "url": "https://science.nasa.gov/mission/voyager/voyager-golden-record-overview/",
+        "title": "Golden Record Overview - NASA Science",
+        "quote": "The Voyager message is carried by a phonograph record, a 12-inch gold-plated copper disk containing sounds and images selected to portray the diversity of life and culture on Earth."
+      }
+    ]
+  }
+]

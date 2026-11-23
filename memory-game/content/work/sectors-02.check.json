@@ -1,0 +1,430 @@
+[
+ {
+  "id": "sectors-02-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 7,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Hook claims AutoCAD also launched in 1982; true but not stated by any cited source. Consider citing or removing.",
+  "verifiedUrls": [
+   "https://www.autodesk.com/company/newsroom/corporate-info",
+   "https://investors.autodesk.com/news-releases/news-release-details/autodesk-completes-acquisition-revit-technology-corporation"
+  ]
+ },
+ {
+  "id": "sectors-02-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://investors.autodesk.com/news-releases/news-release-details/autodesk-completes-acquisition-revit-technology-corporation",
+   "https://investors.autodesk.com/news-releases/news-release-details/autodesk-acquire-revit-technology-corporation-acquisition-adds"
+  ]
+ },
+ {
+  "id": "sectors-02-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://investors.autodesk.com/news-releases/news-release-details/autodesk-completes-plangrid-acquisition",
+   "https://investors.autodesk.com/news-releases/news-release-details/autodesk-acquire-plangrid-accelerate-construction-productivity"
+  ]
+ },
+ {
+  "id": "sectors-02-04",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.autodesk.com/products/navisworks/overview"
+  ]
+ },
+ {
+  "id": "sectors-02-05",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.3ds.com/about/company/history",
+   "https://dassault.fr/en/subsidiary/dassault-systemes"
+  ]
+ },
+ {
+  "id": "sectors-02-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.3ds.com/about/company/history",
+   "https://dassault.fr/en/subsidiary/dassault-systemes"
+  ]
+ },
+ {
+  "id": "sectors-02-07",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 7,
+  "total": 93,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Only one cited source for the expansion; explain text is about the IBM distribution deal rather than the acronym. Consider adding a second source.",
+  "verifiedUrls": [
+   "https://www.3ds.com/assets/invest/2025-10/dassault-systemes-corporate-media-backgrounder-2025-final.pdf"
+  ]
+ },
+ {
+  "id": "sectors-02-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.solidworks.com/sw/183_enu_html.htm",
+   "https://www.3ds.com/assets/invest/2025-10/dassault-systemes-corporate-media-backgrounder-2025-final.pdf"
+  ]
+ },
+ {
+  "id": "sectors-02-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://discover.3ds.com/dassault-systemes-product-portfolio",
+   "https://www.3ds.com/about/company/history"
+  ]
+ },
+ {
+  "id": "sectors-02-10",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.3ds.com/assets/invest/2025-10/dassault-systemes-corporate-media-backgrounder-2025-final.pdf",
+   "https://dassault.fr/en/subsidiary/dassault-systemes"
+  ]
+ },
+ {
+  "id": "sectors-02-11",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.ptc.com/en/about/facts/ptc"
+  ]
+ },
+ {
+  "id": "sectors-02-12",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/ptc-20250930.htm",
+   "https://www.ptc.com/en/about/facts/ptc"
+  ]
+ },
+ {
+  "id": "sectors-02-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.ptc.com/en/about/facts/ptc",
+   "https://www.ptc.com/en/news/2019/ptc-completes-acquisition-onshape"
+  ]
+ },
+ {
+  "id": "sectors-02-14",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "$470M in explain is from the announcement only (single source); acceptable as 'about'.",
+  "verifiedUrls": [
+   "https://www.ptc.com/en/news/2019/ptc-completes-acquisition-onshape",
+   "https://www.ptc.com/en/news/2019/ptc-to-acquire-leading-saas-product-development-platform-provider-onshape"
+  ]
+ },
+ {
+  "id": "sectors-02-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.sec.gov/Archives/edgar/data/1031308/000103130826000007/bsy-20251231.htm",
+   "https://www.bentley.com/en/company/history/"
+  ]
+ },
+ {
+  "id": "sectors-02-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bentley.com/en/company/history/",
+   "https://www.bentley.com/"
+  ]
+ },
+ {
+  "id": "sectors-02-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bentley.com/en/company/history/",
+   "https://investors.bentley.com/news-releases/news-release-details/bentley-systems-announces-pricing-initial-public-offering"
+  ]
+ },
+ {
+  "id": "sectors-02-18",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "why-invest page is a legacy Ansys IR page (Ansys now a Synopsys subsidiary); still corroborated by the 1996 prospectus.",
+  "verifiedUrls": [
+   "https://investors.ansys.com/node/7901/html",
+   "https://investors.ansys.com/company-information/why-invest"
+  ]
+ },
+ {
+  "id": "sectors-02-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.sec.gov/Archives/edgar/data/883241/000114036125026139/ef20051970_8k.htm",
+   "https://www.sec.gov/Archives/edgar/data/1013462/000114036125026141/ef20052066_8k.htm"
+  ]
+ },
+ {
+  "id": "sectors-02-20",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.trimble.com/about",
+   "https://wedge.trimble.com/about-us"
+  ]
+ },
+ {
+  "id": "sectors-02-21",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.tekla.com/"
+  ]
+ },
+ {
+  "id": "sectors-02-22",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://mkt-cdn.procore.com/downloads/Procore-Corporate-Fact-Sheet.pdf",
+   "https://www.sec.gov/Archives/edgar/data/1611052/000119312521169297/d564161d424b4.htm"
+  ]
+ },
+ {
+  "id": "sectors-02-23",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://mkt-cdn.procore.com/downloads/Procore-Corporate-Fact-Sheet.pdf",
+   "https://www.sec.gov/Archives/edgar/data/1611052/000119312521169297/d564161d424b4.htm"
+  ]
+ },
+ {
+  "id": "sectors-02-24",
+  "source": 28,
+  "match": 30,
+  "unique": 5,
+  "current": 15,
+  "precise": 6,
+  "total": 84,
+  "hardFail": "Accept list contains non-equivalent expansions contradicted by cited source",
+  "pass": false,
+  "issue": "Accept list includes 'Building Information Model' and 'Building Information Management'. The cited Penn State page explicitly says BIM is the acronym of Building Information Modeling and not of Building Information Model; Management is a distinct NBIMS concept. Remove both from accept (keep 'Building Information Modelling').",
+  "verifiedUrls": [
+   "http://nibs.org/nbims/v4/terms-and-definitions",
+   "https://bim.psu.edu/bim-an-introduction/defining-bim"
+  ]
+ },
+ {
+  "id": "sectors-02-25",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes",
+   "https://www.iso.org/standard/84123.html"
+  ]
+ },
+ {
+  "id": "sectors-02-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://press.siemens.com/global/en/pressrelease/siemens-closes-mentor-graphics-acquisition",
+   "https://press.siemens.com/global/en/pressrelease/siemens-drives-implementation-vision-2020-mentor-graphics-acquisition-and-gamesa"
+  ]
+ },
+ {
+  "id": "sectors-02-27",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nist.gov/digital-twins",
+   "https://www.gov.uk/government/publications/digital-twin-definition/digital-twin-official"
+  ]
+ }
+]

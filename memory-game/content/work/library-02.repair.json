@@ -1,0 +1,26 @@
+[
+  {
+    "id": "library-02-10",
+    "deck": "library",
+    "topic": "Punic Wars",
+    "q": "Military historians regard the Battle of Cannae as a classic example of what tactic?",
+    "a": "Double envelopment",
+    "accept": [
+      "a double envelopment"
+    ],
+    "wrong": [
+      "Frontal assault",
+      "Naval boarding",
+      "Testudo formation"
+    ],
+    "explain": "Britannica calls Cannae one of the most significant battles in history and a classic example of a victorious double envelopment.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Cannae",
+        "title": "Battle of Cannae | Map, Casualties, Location, Summary, & Tactics | Britannica",
+        "quote": "One of the most significant battles in history, it is regarded by military historians as a classic example of a victorious double envelopment."
+      }
+    ]
+  }
+]

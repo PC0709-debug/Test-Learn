@@ -1,0 +1,133 @@
+[
+  {
+    "id": "vault-01-16",
+    "source": 26,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 96,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Both quotes verbatim; arithmetic correct. Lumovest is a training site, uConnect PDF is a university career-centre resource; agree.",
+    "verifiedUrls": [
+      "https://www.lumovest.com/library/investment-banking-interview-questions/how-does-10-increase-in-depreciation-affect-the-financial-statements",
+      "https://cdn.uconnectlabs.com/wp-content/uploads/sites/74/2019/09/Finance-Technical-Mock-Interview-101-Student-Resource.pdf"
+    ]
+  },
+  {
+    "id": "vault-01-17",
+    "source": 26,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 96,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Both quotes verbatim; cash +$2 confirmed by two sources.",
+    "verifiedUrls": [
+      "https://www.lumovest.com/library/investment-banking-interview-questions/how-does-10-increase-in-depreciation-affect-the-financial-statements",
+      "https://cdn.uconnectlabs.com/wp-content/uploads/sites/74/2019/09/Finance-Technical-Mock-Interview-101-Student-Resource.pdf"
+    ]
+  },
+  {
+    "id": "vault-01-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "WSP and Notre Dame quotes verbatim.",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/depreciation",
+      "https://wallstreetclub.nd.edu/assets/594564/education_session_1.pdf"
+    ]
+  },
+  {
+    "id": "vault-01-19",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "WSP and Notre Dame quotes verbatim.",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/depreciation",
+      "https://wallstreetclub.nd.edu/assets/594564/education_session_1.pdf"
+    ]
+  },
+  {
+    "id": "vault-01-20",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Quotes verbatim; ibinterviewquestions is a blog but PP&E -10 also stated by WSP and Notre Dame.",
+    "verifiedUrls": [
+      "https://www.lumovest.com/library/investment-banking-interview-questions/how-does-10-increase-in-depreciation-affect-the-financial-statements",
+      "https://ibinterviewquestions.com/blog/walk-me-through-the-three-statements",
+      "https://www.wallstreetprep.com/knowledge/depreciation",
+      "https://wallstreetclub.nd.edu/assets/594564/education_session_1.pdf"
+    ]
+  },
+  {
+    "id": "vault-01-22",
+    "source": 26,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 96,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Both quotes verbatim; total assets -8 at 20% confirmed by two sources.",
+    "verifiedUrls": [
+      "https://www.lumovest.com/library/investment-banking-interview-questions/how-does-10-increase-in-depreciation-affect-the-financial-statements",
+      "https://cdn.uconnectlabs.com/wp-content/uploads/sites/74/2019/09/Finance-Technical-Mock-Interview-101-Student-Resource.pdf"
+    ]
+  },
+  {
+    "id": "vault-01-24",
+    "source": 16,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 86,
+    "hardFail": false,
+    "pass": false,
+    "issue": "Quotes verbatim and arithmetic correct, but both cited sources (ibinterviewquestions blog, wallstreetguide.net) are non-authoritative blogs; no authoritative source found stating the 40% case. Replace with an authoritative source (e.g. BIWS/WSP/CFI) for the 40% figure.",
+    "verifiedUrls": [
+      "https://ibinterviewquestions.com/blog/walk-me-through-the-three-statements",
+      "https://www.wallstreetguide.net/post/how-the-three-financial-statements-link"
+    ]
+  },
+  {
+    "id": "vault-01-26",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Cited quotes verbatim (blog-tier sources) but corroborated by Breaking Into Wall Street: 'reduces Net Income by $7.5 at a 25% tax rate'.",
+    "verifiedUrls": [
+      "https://guidingwallstreet.com/guides/investment-banking/recruiting/interviews/technical/depreciation-increases-by-10-walk-me-through-the-3-statements",
+      "https://www.wallstreetguide.net/post/how-the-three-financial-statements-link",
+      "https://breakingintowallstreet.com/kb/accounting/capex-depreciation"
+    ]
+  }
+]

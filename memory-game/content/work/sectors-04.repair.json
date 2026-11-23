@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sectors-04-11",
+    "deck": "sectors",
+    "topic": "Chargebacks",
+    "q": "What is the reversal of a card transaction, initiated by the card issuer after a cardholder dispute, called?",
+    "a": "Chargeback",
+    "accept": [
+      "a chargeback",
+      "charge-back",
+      "charge back"
+    ],
+    "wrong": [
+      "Authorization hold",
+      "Interchange",
+      "Settlement"
+    ],
+    "explain": "When a cardholder disputes a charge, the issuing bank reviews it and, if decided in the cardholder's favor, the payment is refunded to the customer and withdrawn from the merchant's account.",
+    "hook": "Charge goes BACK to the cardholder.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporate.visa.com/en/solutions/acceptance/chargebacks.html",
+        "title": "Chargebacks | Visa Acceptance Solutions | Visa",
+        "quote": "If the decision is in the customer’s favor, a chargeback is issued, meaning the payment is refunded to the customer and withdrawn from your account."
+      },
+      {
+        "url": "https://www.kansascityfed.org/Research%20Working%20Papers/documents/8241/rwp16-01HayashiMarkiewiczSullivan.pdf",
+        "title": "Chargebacks: Another Payment Card Acceptance Cost for Merchants (Federal Reserve Bank of Kansas City)",
+        "quote": "Chargebacks are full reversal of transactions by card issuers."
+      }
+    ]
+  }
+]

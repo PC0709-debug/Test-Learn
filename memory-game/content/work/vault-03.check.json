@@ -1,0 +1,426 @@
+[
+  {
+    "id": "vault-03-01",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf",
+      "https://assets.kpmg.com/content/dam/kpmg/pdf/2014/06/Defining-Issues-O-1405-24.pdf",
+      "https://storage.fasb.org/FIF%20ASU%202014-09%20Revenue%20from%20Contracts%20with%20Customers%20(Rev%206-3-20).pdf"
+    ]
+  },
+  {
+    "id": "vault-03-02",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf",
+      "https://storage.fasb.org/FIF%20ASU%202014-09%20Revenue%20from%20Contracts%20with%20Customers%20(Rev%206-3-20).pdf"
+    ]
+  },
+  {
+    "id": "vault-03-03",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf",
+      "https://storage.fasb.org/Post-Implementation%20Review%E2%80%94Revenue%20from%20Contracts%20with%20Customers%20(Topic%20606).pdf",
+      "https://storage.fasb.org/FIF%20ASU%202014-09%20Revenue%20from%20Contracts%20with%20Customers%20(Rev%206-3-20).pdf"
+    ]
+  },
+  {
+    "id": "vault-03-04",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/FIF%20ASU%202014-09%20Revenue%20from%20Contracts%20with%20Customers%20(Rev%206-3-20).pdf",
+      "https://storage.fasb.org/Post-Implementation%20Review%E2%80%94Revenue%20from%20Contracts%20with%20Customers%20(Topic%20606).pdf",
+      "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf"
+    ]
+  },
+  {
+    "id": "vault-03-05",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/Post-Implementation%20Review%E2%80%94Revenue%20from%20Contracts%20with%20Customers%20(Topic%20606).pdf",
+      "https://storage.fasb.org/ASU%202014-09_Section%20D.pdf",
+      "https://storage.fasb.org/FIF%20ASU%202014-09%20Revenue%20from%20Contracts%20with%20Customers%20(Rev%206-3-20).pdf"
+    ]
+  },
+  {
+    "id": "vault-03-06",
+    "source": 30,
+    "match": 28,
+    "unique": 15,
+    "current": 13,
+    "precise": 7,
+    "total": 93,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Answer correct, but explain paraphrases the pre-ASU 2016-12 wording; current ASC 606-10-25-1(e) (per cited EY FRD) reads 'probable that the entity will collect substantially all of the consideration'. Add 'substantially all' to explain.",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf",
+      "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frdbb3043-09-08-2026.pdf",
+      "https://storage.fasb.org/FIF%20ASU%202014-09%20Revenue%20from%20Contracts%20with%20Customers%20(Rev%206-3-20).pdf"
+    ]
+  },
+  {
+    "id": "vault-03-07",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/Comparison%20of%20Topic%20606%20and%20IFRS%2015.pdf",
+      "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf"
+    ]
+  },
+  {
+    "id": "vault-03-08",
+    "source": 15,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 85,
+    "hardFail": "Only one source cited for a numbered standard name (IFRS 15); two independent sources required.",
+    "pass": false,
+    "issue": "Add a second source, e.g. the FASB Post-Implementation Review of Topic 606 ('the IASB issued IFRS 15, Revenue from Contracts with Customers') or KPMG Defining Issues 14-24.",
+    "verifiedUrls": [
+      "https://storage.fasb.org/Comparison%20of%20Topic%20606%20and%20IFRS%2015.pdf"
+    ]
+  },
+  {
+    "id": "vault-03-09",
+    "source": 30,
+    "match": 30,
+    "unique": 11,
+    "current": 15,
+    "precise": 9,
+    "total": 95,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Accept list includes 'current liabilities', which is narrower than the answer: WSP notes portions beyond 12 months are non-current. Consider removing it.",
+    "verifiedUrls": [
+      "https://www.wallstreetprep.com/knowledge/deferred-revenue",
+      "https://dart.deloitte.com/USDART/home/codification/revenue/asc606-10/roadmap-revenue-recognition/chapter-14-presentation/14-2-contract-liabilities"
+    ]
+  },
+  {
+    "id": "vault-03-10",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://dart.deloitte.com/USDART/home/codification/revenue/asc606-10/roadmap-revenue-recognition/chapter-14-presentation/14-2-contract-liabilities",
+      "https://arch.bdo.com/getContentAsset/118430f1-fe4d-4112-adf6-884d6a0347f3/bb620d56-5e9c-4774-8d17-fb9323eefdf4/Revenue-Recognition-Under-ASC-606-BDO-Blueprint-10-2025.pdf"
+    ]
+  },
+  {
+    "id": "vault-03-11",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU_2021-07.pdf",
+      "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_2_measuremen_US/26_grant_date_requis_US.html"
+    ]
+  },
+  {
+    "id": "vault-03-12",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU_2021-07.pdf",
+      "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_2_measuremen_US/26_grant_date_requis_US.html"
+    ]
+  },
+  {
+    "id": "vault-03-13",
+    "source": 30,
+    "match": 30,
+    "unique": 11,
+    "current": 15,
+    "precise": 9,
+    "total": 95,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Accept 'vesting period' is not strictly equivalent: ASC 718 uses requisite service period for employees and vesting period for nonemployees (EY FRD), and the two can differ. Consider removing it.",
+    "verifiedUrls": [
+      "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_2_measuremen_US/26_grant_date_requis_US.html",
+      "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frd06440-191us-07-29-2026.pdf"
+    ]
+  },
+  {
+    "id": "vault-03-14",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "PwC Black-Scholes page quote could not be confirmed verbatim in fetched excerpt; the ASU 2021-07 BC7 quote fully supports the card.",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU_2021-07.pdf",
+      "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_8_estimating_US/84_the_blackscholes__US.html"
+    ]
+  },
+  {
+    "id": "vault-03-15",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Single source (PwC) but no numbers involved; EY FRD also states equity or liability is credited as cost is recognized.",
+    "verifiedUrls": [
+      "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_2_measuremen_US/26_grant_date_requis_US.html",
+      "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frd06440-191us-07-29-2026.pdf"
+    ]
+  },
+  {
+    "id": "vault-03-16",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_2_measuremen_US/26_grant_date_requis_US.html",
+      "https://storage.fasb.org/ASU_2021-07.pdf",
+      "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frd06440-191us-07-29-2026.pdf"
+    ]
+  },
+  {
+    "id": "vault-03-17",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU2017-04.pdf",
+      "https://dart.deloitte.com/USDART/home/codification/assets/asc350-20/goodwill/chapter-2-subsequent-accounting-for-goodwill/2-5-when-test-goodwill-for"
+    ]
+  },
+  {
+    "id": "vault-03-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU2017-04.pdf",
+      "https://dart.deloitte.com/USDART/home/publications/deloitte/on-the-radar/goodwill-accounting-intangible-assets"
+    ]
+  },
+  {
+    "id": "vault-03-19",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU2017-04.pdf",
+      "https://dart.deloitte.com/USDART/home/codification/assets/asc350-20/goodwill/chapter-1-overview-scope/1-2-history-goodwill-impairment-model"
+    ]
+  },
+  {
+    "id": "vault-03-20",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://dart.deloitte.com/USDART/home/codification/assets/asc350-20/goodwill/chapter-1-overview-scope/1-2-history-goodwill-impairment-model",
+      "https://rsmus.com/content/dam/rsm/insights/services/audit/1pdf/goodwill-alternatives-for-private-companies-and-not-for-profits.pdf",
+      "https://storage.fasb.org/ASU2017-04.pdf"
+    ]
+  },
+  {
+    "id": "vault-03-21",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Single source (EY); IFRS line 'Reversal ... required if the recoverable amount increases, except for goodwill' confirmed; US GAAP prohibition confirmed in EY text ('Subsequent reversal of a previously recognized goodwill impairment loss is prohibited'). Consider adding a second source.",
+    "verifiedUrls": [
+      "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frdbb1499-07-14-2026.pdf"
+    ]
+  },
+  {
+    "id": "vault-03-22",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://storage.fasb.org/ASU%202014-02_2.pdf",
+      "https://dart.deloitte.com/USDART/home/publications/deloitte/on-the-radar/goodwill-accounting-intangible-assets",
+      "https://storage.fasb.org/ASU2017-04.pdf"
+    ]
+  },
+  {
+    "id": "vault-03-23",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://macabacus.com/accounting/purchase-price-allocation1",
+      "https://www.wallstreetprep.com/knowledge/purchase-price-allocation-ppa"
+    ]
+  },
+  {
+    "id": "vault-03-24",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Explain says Section 197 applies in a stock deal 'only with a Section 338 election'; per Macabacus, OK, though a 336(e) election can also step up basis. Minor.",
+    "verifiedUrls": [
+      "https://uscode.house.gov/us/usc/119-120/t26/s197",
+      "https://www.ecfr.gov/current/title-26/section-1.197-2",
+      "https://macabacus.com/accounting/purchase-price-allocation1"
+    ]
+  },
+  {
+    "id": "vault-03-25",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Single cited source (Macabacus); Wall Street Prep PPA page states the same two criteria and could be added.",
+    "verifiedUrls": [
+      "https://macabacus.com/accounting/purchase-price-allocation1",
+      "https://www.wallstreetprep.com/knowledge/purchase-price-allocation-ppa"
+    ]
+  },
+  {
+    "id": "vault-03-26",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://macabacus.com/accounting/purchase-price-allocation1",
+      "https://www.wallstreetprep.com/knowledge/purchase-price-allocation-ppa",
+      "https://dart.deloitte.com/USDART/home/publications/deloitte/on-the-radar/goodwill-accounting-intangible-assets"
+    ]
+  }
+]

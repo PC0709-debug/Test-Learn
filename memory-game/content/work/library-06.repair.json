@@ -1,0 +1,295 @@
+[
+ {
+  "id": "library-06-04",
+  "deck": "library",
+  "topic": "Steam engine",
+  "q": "What device, conceived by James Watt in 1765, made the Newcomen-type steam engine far more efficient?",
+  "a": "Separate condenser",
+  "accept": [
+   "the separate condenser",
+   "condenser"
+  ],
+  "wrong": [
+   "Spinning jenny",
+   "Flying shuttle",
+   "Bessemer converter"
+  ],
+  "explain": "Watt's separate condenser idea came to him in May 1765, and he was granted a patent for it on 5 January 1769.",
+  "hook": "Watt fixed the waste: condense somewhere else.",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/James-Watt",
+    "title": "James Watt | Britannica",
+    "quote": "In May 1765, after wrestling with the problem of improving it, he suddenly came upon a solution—the separate condenser, his first and greatest invention."
+   },
+   {
+    "url": "https://www.science.org/doi/10.1126/science.1060460",
+    "title": "James Watt and the Lunaticks of Birmingham | Science",
+    "quote": "The idea of using a separate condenser hit him one Sunday afternoon in May 1765, while he was walking on Glasgow Green."
+   },
+   {
+    "url": "https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser",
+    "title": "James Watt and the separate condenser - Science Museum Blog",
+    "quote": "On 5 January 1769 a patent was given to Scottish engineer James Watt for his separate condenser."
+   }
+  ]
+ },
+ {
+  "id": "library-06-05",
+  "deck": "library",
+  "topic": "Steam engine",
+  "q": "In what year was the first recorded Newcomen atmospheric steam engine erected?",
+  "a": "1712",
+  "accept": [],
+  "wrong": [
+   "1698",
+   "1765",
+   "1776"
+  ],
+  "explain": "Thomas Newcomen's first recorded engine was erected near Dudley Castle in 1712; such engines were built to pump water out of mines.",
+  "hook": "",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Thomas-Newcomen",
+    "title": "Thomas Newcomen | Britannica",
+    "quote": "The first recorded Newcomen engine was erected near Dudley Castle, Staffordshire, in 1712."
+   },
+   {
+    "url": "https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/who%20we%20are/engineering%20history/landmarks/70-newcomen-engine.pdf",
+    "title": "THE NEWCOMEN MEMORIAL ENGINE | ASME",
+    "quote": "Newcomen’s first successful engine is recognised as that built in 1712 near Dudley Castle in Tipton, West Midlands, England."
+   }
+  ]
+ },
+ {
+  "id": "library-06-07",
+  "deck": "library",
+  "topic": "Telegraph",
+  "q": "Morse's first government-funded telegraph line ran from Washington, D.C., to which city?",
+  "a": "Baltimore",
+  "accept": [
+   "Baltimore, Maryland"
+  ],
+  "wrong": [
+   "Philadelphia",
+   "New York City",
+   "Richmond"
+  ],
+  "explain": "On May 24, 1844, Morse dispatched the first telegraphic message over an experimental line from Washington, D.C., to Baltimore.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.britannica.com/technology/telegraph",
+    "title": "Telegraph | Britannica",
+    "quote": "In 1843 Morse obtained financial support from the U.S. government to build a demonstration telegraph system 60 km (35 miles) long between Washington, D.C., and Baltimore, Md."
+   },
+   {
+    "url": "https://www.loc.gov/item/today-in-history/may-24",
+    "title": "Today in History - May 24 | Library of Congress",
+    "quote": "Samuel F. B. Morse dispatched the first telegraphic message over an experimental line from Washington, D.C., to Baltimore."
+   }
+  ]
+ },
+ {
+  "id": "library-06-12",
+  "deck": "library",
+  "topic": "Phonograph",
+  "q": "Who is generally credited with inventing the phonograph in 1877?",
+  "a": "Thomas Edison",
+  "accept": [
+   "Edison",
+   "Thomas A. Edison",
+   "Thomas Alva Edison"
+  ],
+  "wrong": [
+   "Emile Berliner",
+   "Alexander Graham Bell",
+   "Nikola Tesla"
+  ],
+  "explain": "Edison's first recordings were indentations embossed into tinfoil wrapped around a rotating cylinder.",
+  "hook": "",
+  "difficulty": 1,
+  "sources": [
+   {
+    "url": "https://www.britannica.com/technology/phonograph",
+    "title": "Phonograph | Britannica",
+    "quote": "the invention of the phonograph is generally credited to the American inventor Thomas Edison (1877). His first recordings were indentations embossed into a sheet of tinfoil by a vibrating stylus; the tinfoil was wrapped around a cylinder that was rotated as the sounds were being recorded."
+   },
+   {
+    "url": "https://www.census.gov/about/history/stories/monthly/2017/november-2017.html",
+    "title": "November 2017: Thomas Edison | U.S. Census Bureau",
+    "quote": "Edison announced the cylinder phonograph on November 21, 1877, and demonstrated the invention by playing \"Mary Had a Little Lamb\" on one of the invention's foil cylinders."
+   }
+  ]
+ },
+ {
+  "id": "library-06-13",
+  "deck": "library",
+  "topic": "Gramophone",
+  "q": "Which inventor coined the name \"gramophone\" for his disc-record sound system patented in 1887?",
+  "a": "Emile Berliner",
+  "accept": [
+   "Berliner",
+   "Emil Berliner"
+  ],
+  "wrong": [
+   "Thomas Edison",
+   "Chichester Bell",
+   "Charles Sumner Tainter"
+  ],
+  "explain": "Berliner's earliest gramophone patent was U.S. No. 372,786, granted November 8, 1887.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/",
+    "title": "The Gramophone | Library of Congress",
+    "quote": "As a name for the whole operation the inventor coined the word \"gramophone\" (in early advertisements it was often written Gram-o-phone). His earliest patents were number 372,786, awarded November 8, 1887"
+   },
+   {
+    "url": "https://www.dpma.de/en/explore/milestones/inventions-that-made-history/gramophone",
+    "title": "Gramophone - German Patent and Trademark Office",
+    "quote": "The invention became better known under the title of its American patent, also granted effective November 8, 1887: \"Gramophone\" ( US372786A [PDF, 524 KB] )."
+   },
+   {
+    "url": "https://americanhistory.si.edu/explore/exhibitions/americas-listening/online/berliners-gramophone",
+    "title": "Berliner’s Gramophone | Smithsonian NMAH",
+    "quote": "In 1887 German immigrant Emile Berliner patented the first in a series of inventions that would result in the first commercially successful disc record and a machine to play it: the gramophone."
+   }
+  ]
+ },
+ {
+  "id": "library-06-15",
+  "deck": "library",
+  "topic": "Light bulb",
+  "q": "What material did Edison settle on for the filament of his practical 1879 incandescent light bulb?",
+  "a": "Carbon",
+  "accept": [
+   "carbonized thread",
+   "carbon filament",
+   "carbonized cotton thread"
+  ],
+  "wrong": [
+   "Tungsten",
+   "Copper",
+   "Nickel"
+  ],
+  "explain": "After examining materials including metal wire, human hair and coconut husks, Edison settled on a carbon filament; on October 22, 1879, his team experimented with carbons made from cotton thread.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.census.gov/about/history/stories/monthly/2017/november-2017.html",
+    "title": "November 2017: Thomas Edison | U.S. Census Bureau",
+    "quote": "He spent months examining materials, including metal wire, human hair, and even coconut husks, before settling upon a carbon filament."
+   },
+   {
+    "url": "https://edison.rutgers.edu/life-of-edison/biographical-essays/lighting/the-carbon-filament-lamp",
+    "title": "The Carbon-Filament Lamp | Thomas A. Edison Papers, Rutgers",
+    "quote": "In the early morning hours of October 22 1879, they began what Charles Batchelor called \"some very interesting experiments on straight carbons made from cotton thread"
+   }
+  ]
+ },
+ {
+  "id": "library-06-21",
+  "deck": "library",
+  "topic": "Penicillin",
+  "q": "According to the 1945 Nobel presentation speech, which mould species contaminated Fleming's culture?",
+  "a": "Penicillium notatum",
+  "accept": [
+   "P. notatum",
+   "notatum"
+  ],
+  "wrong": [
+   "Aspergillus niger",
+   "Rhizopus stolonifer",
+   "Saccharomyces cerevisiae"
+  ],
+  "explain": "The contaminating mould, later identified as a rare strain of Penicillium notatum, cleared a zone around itself in Fleming's Staphylococcus culture.",
+  "hook": "",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://www.nobelprize.org/prizes/medicine/1945/ceremony-speech/",
+    "title": "Physiology or Medicine 1945 - Presentation Speech - NobelPrize.org",
+    "quote": "It was soon realized that most of the species of Penicillium did not form it at all, and a closer scrutiny showed that the species which polluted Fleming's culture was Penicillium notatum."
+   },
+   {
+    "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+    "title": "Alexander Fleming Discovery and Development of Penicillin - ACS Landmark",
+    "quote": "The zone immediately around the mold—later identified as a rare strain of Penicillium notatum—was clear, as if the mold had secreted something that inhibited bacterial growth."
+   }
+  ]
+ },
+ {
+  "id": "library-06-25",
+  "deck": "library",
+  "topic": "Internet",
+  "q": "Vinton Cerf co-developed the TCP/IP protocols with which DARPA program manager?",
+  "a": "Robert Kahn",
+  "accept": [
+   "Kahn",
+   "Bob Kahn"
+  ],
+  "wrong": [
+   "Leonard Kleinrock",
+   "Tim Berners-Lee",
+   "Marc Andreessen"
+  ],
+  "explain": "Kahn asked Cerf, then at Stanford, to collaborate on new protocols for sending packets across the ARPANET, producing TCP and IP.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.darpa.mil/about/innovation-timeline/tcp-ip",
+    "title": "TCP/IP | DARPA",
+    "quote": "DARPA's Robert Kahn (who joined the Information Processing Techniques Office as a program manager in 1972) asked Vinton Cerf of Stanford University to collaborate on a project to develop new communications protocols for sending packets of data across the ARPANET. That query resulted in the creation of the Transmission Control Protocol (TCP) and the Internet Protocol (IP), most often seen together as TCP/IP."
+   },
+   {
+    "url": "https://www.darpa.mil/sites/default/files/attachment/2025-01/darpa-vignette-arpanet.pdf",
+    "title": "DARPA vignettes: ARPANET",
+    "quote": "He and Robert Kahn, then the director of DARPA's Information Processing Techniques Office (IPTO) and who in 1976 hired Cerf as a program manager, began work on what would become the Transmission Control Protocol (TCP) and the Internet Protocol (IP)."
+   },
+   {
+    "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet",
+    "title": "A short history of the internet | National Science and Media Museum",
+    "quote": "In 1974, computer scientists Bob Kahn and Vint Cerf invented a new method called transmission-control protocol, popularly known as TCP/IP , which essentially allowed computers to speak the same language."
+   }
+  ]
+ },
+ {
+  "id": "library-06-27",
+  "deck": "library",
+  "topic": "Smartphone",
+  "q": "At which trade event did Apple introduce the iPhone on January 9, 2007?",
+  "a": "Macworld",
+  "accept": [
+   "Macworld San Francisco",
+   "Macworld Expo",
+   "Macworld 2007"
+  ],
+  "wrong": [
+   "CES",
+   "WWDC",
+   "Mobile World Congress"
+  ],
+  "explain": "Steve Jobs demonstrated the iPhone at the annual Macworld Expo in San Francisco; Apple called it a mobile phone, a widescreen iPod and an Internet communications device in one.",
+  "hook": "",
+  "difficulty": 2,
+  "sources": [
+   {
+    "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone",
+    "title": "Apple Reinvents the Phone with iPhone - Apple Newsroom",
+    "quote": "MACWORLD SAN FRANCISCO—January 9, 2007—Apple® today introduced iPhone, combining three products—a revolutionary mobile phone, a widescreen iPod® with touch controls, and a breakthrough Internet communications device"
+   },
+   {
+    "url": "http://news.bbc.co.uk/2/hi/technology/6246063.stm",
+    "title": "BBC News - Apple's 'magical' iPhone unveiled",
+    "quote": "Users will be able to download music and videos with the phone, demonstrated by Apple boss Steve Jobs at the annual Macworld Expo in San Francisco."
+   }
+  ]
+ }
+]

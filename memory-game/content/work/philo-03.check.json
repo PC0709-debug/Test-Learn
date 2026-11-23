@@ -1,0 +1,438 @@
+[
+ {
+  "id": "philo-03-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/cogito-ergo-sum",
+   "https://plato.stanford.edu/entries/descartes-epistemology/"
+  ]
+ },
+ {
+  "id": "philo-03-02",
+  "source": 25,
+  "match": 20,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 83,
+  "hardFail": "Explain states Meditations date 1641, which no cited source gives (single/no source for a date).",
+  "pass": false,
+  "issue": "Either drop '(1641)' from explain or cite two sources for it (e.g. Britannica Meditations page + SEP Descartes).",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/cogito-ergo-sum",
+   "https://www.cambridge.org/core/books/cambridge-descartes-lexicon/cogito-ergo-sum/9B3FCAB85CDB86C31D68A824E20F699F",
+   "https://plato.stanford.edu/entries/descartes-epistemology/"
+  ]
+ },
+ {
+  "id": "philo-03-03",
+  "source": 18,
+  "match": 25,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 81,
+  "hardFail": "Date 1651 supported by only one independent source (both citations are Britannica; the second page does not state 1651).",
+  "pass": false,
+  "issue": "Add a non-Britannica source for 1651 (e.g. SEP Hobbes entry).",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Leviathan-by-Hobbes",
+   "https://www.britannica.com/topic/How-did-Thomas-Hobbes-describe-the-state-of-nature"
+  ]
+ },
+ {
+  "id": "philo-03-04",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Both sources are Britannica; acceptable for a quotation but a primary-text source would be stronger.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Leviathan-by-Hobbes",
+   "https://www.britannica.com/topic/How-did-Thomas-Hobbes-describe-the-state-of-nature"
+  ]
+ },
+ {
+  "id": "philo-03-05",
+  "source": 25,
+  "match": 25,
+  "unique": 8,
+  "current": 15,
+  "precise": 8,
+  "total": 81,
+  "hardFail": "Accept list includes 'blank slate', which is the English gloss given in the question, not the Latin term asked for; date 1689 in explain has only one source.",
+  "pass": false,
+  "issue": "Remove 'blank slate' from accept; add second source for 1689 or drop the date.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/tabula-rasa",
+   "https://plato.stanford.edu/entries/locke/"
+  ]
+ },
+ {
+  "id": "philo-03-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/problem-of-induction",
+   "https://plato.stanford.edu/entries/induction-problem"
+  ]
+ },
+ {
+  "id": "philo-03-07",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://plato.stanford.edu/entries/induction-problem",
+   "https://plato.stanford.edu/entries/hume"
+  ]
+ },
+ {
+  "id": "philo-03-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/summary/Immanuel-Kant",
+   "https://plato.stanford.edu/entries/kant-moral",
+   "https://plato.stanford.edu/entries/kant"
+  ]
+ },
+ {
+  "id": "philo-03-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/summary/Immanuel-Kant",
+   "https://plato.stanford.edu/entries/kant"
+  ]
+ },
+ {
+  "id": "philo-03-10",
+  "source": 26,
+  "match": 22,
+  "unique": 15,
+  "current": 15,
+  "precise": 5,
+  "total": 83,
+  "hardFail": "Explain claim 'Königsberg was then the capital of East Prussia' is not stated by any cited source (and the province of East Prussia was only created in 1773, after Kant's birth).",
+  "pass": false,
+  "issue": "Drop the East Prussia clause or reword to 'later capital of the province of East Prussia' with sources; keep 'today Kaliningrad, Russia'.",
+  "verifiedUrls": [
+   "https://www.britannica.com/summary/Immanuel-Kant",
+   "https://plato.stanford.edu/entries/kant"
+  ]
+ },
+ {
+  "id": "philo-03-11",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/summary/Jeremy-Bentham",
+   "https://www.britannica.com/money/Jeremy-Bentham",
+   "https://iep.utm.edu/jeremy-bentham"
+  ]
+ },
+ {
+  "id": "philo-03-12",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/money/Jeremy-Bentham",
+   "https://plato.stanford.edu/entries/bentham/"
+  ]
+ },
+ {
+  "id": "philo-03-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://iep.utm.edu/milljs",
+   "https://plato.stanford.edu/entries/mill-moral-political/"
+  ]
+ },
+ {
+  "id": "philo-03-14",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://plato.stanford.edu/entries/mill-moral-political/",
+   "https://plato.stanford.edu/entries/bentham/"
+  ]
+ },
+ {
+  "id": "philo-03-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Thus-Spake-Zarathustra",
+   "https://plato.stanford.edu/archives/spr2026/entries/nietzsche"
+  ]
+ },
+ {
+  "id": "philo-03-16",
+  "source": 24,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 87,
+  "hardFail": "Explain date 1883–85 supported only by Britannica; Philosophy Now page does not give it.",
+  "pass": false,
+  "issue": "Add a second source for 1883–85 (e.g. SEP Nietzsche) or drop the date.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Thus-Spake-Zarathustra",
+   "https://philosophynow.org/issues/93/Nietzsches_Ubermensch_A_Hero_of_Our_Time"
+  ]
+ },
+ {
+  "id": "philo-03-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Soren-Kierkegaard",
+   "https://iep.utm.edu/existent/"
+  ]
+ },
+ {
+  "id": "philo-03-18",
+  "source": 22,
+  "match": 18,
+  "unique": 13,
+  "current": 15,
+  "precise": 4,
+  "total": 72,
+  "hardFail": "Explain says Sartre called 'existence precedes essence' 'the first principle of existentialism' - not in any cited source (in Existentialism Is a Humanism that label attaches to 'man is nothing else but what he makes of himself'). Also SEP says Sartre repackaged Heidegger's line, so 'coined' is shaky.",
+  "pass": false,
+  "issue": "Rephrase q to 'Which French philosopher is known for the adage...' and remove the 'first principle' claim from explain.",
+  "verifiedUrls": [
+   "https://plato.stanford.edu/entries/existentialism",
+   "https://www.britannica.com/biography/Jean-Paul-Sartre"
+  ]
+ },
+ {
+  "id": "philo-03-19",
+  "source": 30,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 6,
+  "total": 94,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Explain's 'declined other official honours too' is not on the opened pages; Britannica gives the 'institution' quote. Consider citing the Nobel facts page for the honours claim.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Jean-Paul-Sartre",
+   "https://www.nobelprize.org/prizes/literature/1964/summary"
+  ]
+ },
+ {
+  "id": "philo-03-20",
+  "source": 25,
+  "match": 25,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 88,
+  "hardFail": "Date 1942 in explain supported only by Britannica; IEP page does not state it.",
+  "pass": false,
+  "issue": "Add second source for 1942 or drop the date.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/The-Myth-of-Sisyphus",
+   "https://iep.utm.edu/existent/"
+  ]
+ },
+ {
+  "id": "philo-03-21",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Tractatus-Logico-Philosophicus",
+   "https://iep.utm.edu/wittgens",
+   "https://plato.stanford.edu/entries/wittgenstein"
+  ]
+ },
+ {
+  "id": "philo-03-22",
+  "source": 25,
+  "match": 26,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 90,
+  "hardFail": "Date 1953 supported only by SEP; cited IEP excerpt does not give it.",
+  "pass": false,
+  "issue": "Add second source for 1953 (e.g. Britannica Philosophical Investigations) or drop the date.",
+  "verifiedUrls": [
+   "https://plato.stanford.edu/entries/wittgenstein",
+   "https://iep.utm.edu/wittgens"
+  ]
+ },
+ {
+  "id": "philo-03-23",
+  "source": 27,
+  "match": 26,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 92,
+  "hardFail": "Explain date 1976 (Thomson naming it) supported only by Britannica.",
+  "pass": false,
+  "issue": "Add second source for Thomson 1976 or drop the year.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/trolley-problem",
+   "https://plato.stanford.edu/entries/philippa-foot/"
+  ]
+ },
+ {
+  "id": "philo-03-24",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://lexundria.com/plut_thes/23/prr",
+   "https://open.ocolearnok.org/philosophicalthought/chapter/ship-of-theseus"
+  ]
+ },
+ {
+  "id": "philo-03-25",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Occams-razor",
+   "https://plato.stanford.edu/entries/ockham"
+  ]
+ },
+ {
+  "id": "philo-03-26",
+  "source": 24,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 86,
+  "hardFail": "Date 1657–58 for Pensées supported only by Britannica (SEP gives no date; Pensées was published posthumously in 1670, 1657–58 is composition).",
+  "pass": false,
+  "issue": "Add second source or drop the date; if kept say 'written 1657–58'.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Pascals-wager",
+   "https://plato.stanford.edu/entries/pascal-wager"
+  ]
+ },
+ {
+  "id": "philo-03-27",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Pascals-wager",
+   "https://plato.stanford.edu/entries/pascal-wager"
+  ]
+ }
+]

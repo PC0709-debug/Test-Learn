@@ -1,0 +1,236 @@
+[
+  {
+    "id": "library-04-05",
+    "deck": "library",
+    "topic": "American Revolution",
+    "q": "On what date did the Continental Congress adopt the Declaration of Independence?",
+    "a": "July 4, 1776",
+    "accept": [
+      "4 July 1776",
+      "July 4 1776",
+      "7/4/1776"
+    ],
+    "wrong": [
+      "July 2, 1775",
+      "September 3, 1783",
+      "September 17, 1787"
+    ],
+    "explain": "Congress adopted the Declaration on July 4, 1776; the engrossed parchment copy was signed starting August 2, 1776.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.archives.gov/milestone-documents/declaration-of-independence",
+        "title": "Declaration of Independence (1776) | National Archives",
+        "quote": "The Continental Congress adopted the Declaration of Independence on July 4, 1776. It was engrossed on parchment and on August 2, 1776, delegates began signing it."
+      },
+      {
+        "url": "https://www.britannica.com/topic/Declaration-of-Independence",
+        "title": "Declaration of Independence | Britannica",
+        "quote": "The Declaration of Independence, the founding document of the United States, was approved by the Continental Congress on July 4, 1776, and announced the separation of 13 North American British colonies from Great Britain."
+      }
+    ]
+  },
+  {
+    "id": "library-04-07",
+    "deck": "library",
+    "topic": "French Revolution",
+    "q": "On what date did Parisians storm the Bastille?",
+    "a": "July 14, 1789",
+    "accept": [
+      "14 July 1789",
+      "July 14 1789"
+    ],
+    "wrong": [
+      "July 4, 1776",
+      "January 21, 1793",
+      "December 2, 1804"
+    ],
+    "explain": "The storming of the Bastille, a Paris fortress and state prison that symbolized royal tyranny, is commemorated each year as Bastille Day.",
+    "hook": "Bastille Day: 14/7.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/storming-of-the-Bastille",
+        "title": "Storming of the Bastille | Britannica",
+        "quote": "On July 14, 1789, a crowd of Parisians stormed the Bastille , a medieval fortress and state prison, fearing King Louis XVI would suppress the newly formed National Assembly."
+      },
+      {
+        "url": "https://www.history.com/articles/bastille-day",
+        "title": "Bastille Day - Definition, Date & Facts | HISTORY",
+        "quote": "Bastille Day is a holiday celebrating the storming of the Bastille—a military fortress and prison—on July 14, 1789, in a violent uprising that helped usher in the French Revolution."
+      }
+    ]
+  },
+  {
+    "id": "library-04-16",
+    "deck": "library",
+    "topic": "Napoleon",
+    "q": "To which South Atlantic island was Napoleon exiled after Waterloo, where he died in 1821?",
+    "a": "Saint Helena",
+    "accept": [
+      "St Helena",
+      "St. Helena",
+      "Sainte-Hélène"
+    ],
+    "wrong": [
+      "Elba",
+      "Corsica",
+      "Sardinia"
+    ],
+    "explain": "Napoleon was exiled to remote St. Helena in the South Atlantic in October 1815 and died there on May 5, 1821. (Elba was his first exile, in 1814.)",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Napoleon-I",
+        "title": "Napoleon I | Britannica",
+        "quote": "In October 1815 Napoleon was exiled to the remote island of St. Helena in the South Atlantic Ocean, where he remained until he died on May 5, 1821, at age 51."
+      },
+      {
+        "url": "https://www.napoleon.org/en/young-historians/napodoc/from-waterloo-to-the-island-of-st-helena",
+        "title": "From Waterloo to the island of St Helena - napoleon.org",
+        "quote": "Napoleon died on 5 May 1821 at 5.49pm at the age of fifty-one years. The next day, the governor of the island, Hudson Lowe, visited the deceased in order to certify his death."
+      },
+      {
+        "url": "https://www.napoleon.org/en/young-historians/napodoc/from-waterloo-to-the-island-of-st-helena",
+        "title": "From Waterloo to the island of St Helena - napoleon.org",
+        "quote": "After all, he had already escaped from Elba in March 1815, where he had been exiled for the first time in 1814!"
+      }
+    ]
+  },
+  {
+    "id": "library-04-18",
+    "deck": "library",
+    "topic": "Industrial Revolution",
+    "q": "Which English inventor created the spinning jenny, patented in 1770?",
+    "a": "James Hargreaves",
+    "accept": [
+      "Hargreaves"
+    ],
+    "wrong": [
+      "Richard Arkwright",
+      "Samuel Crompton",
+      "John Kay"
+    ],
+    "explain": "Hargreaves invented the hand-powered spinning jenny about 1764; it let a single worker spin multiple threads simultaneously.",
+    "hook": "Jenny spins many threads at once.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/technology/spinning-jenny",
+        "title": "Spinning jenny | Britannica",
+        "quote": "Spinning jenny , early multiple-spindle machine for spinning wool or cotton , invented by James Hargreaves in England and patented in 1770."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography%2C_1885-1900/Hargreaves%2C_James_%28d.1778%29",
+        "title": "Dictionary of National Biography, 1885-1900/Hargreaves, James (d.1778) - Wikisource",
+        "quote": "It was doubtless with the aid of his partner that Hargreaves was enabled to take out a patent for the spinning-jenny (dated 12 July 1770; Abridgments of Specifications for Spinning, No. 962)."
+      },
+      {
+        "url": "https://www.britannica.com/biography/James-Hargreaves",
+        "title": "James Hargreaves | Britannica",
+        "quote": "James Hargreaves invented the spinning jenny about 1764 and patented it in 1770. The hand-powered machine enabled a single worker to spin multiple threads simultaneously, rather than just one, as with a traditional spinning wheel."
+      }
+    ]
+  },
+  {
+    "id": "library-04-19",
+    "deck": "library",
+    "topic": "Industrial Revolution",
+    "q": "What device, conceived in 1765, was James Watt's key improvement to the Newcomen steam engine?",
+    "a": "Separate condenser",
+    "accept": [
+      "The separate condenser",
+      "separate steam condenser"
+    ],
+    "wrong": [
+      "Flying shuttle",
+      "Cotton gin",
+      "Spinning mule"
+    ],
+    "explain": "By condensing steam in a chamber apart from the cylinder, Watt's separate condenser kept the cylinder hot and saved fuel; he patented it in 1769.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/James-Watt",
+        "title": "James Watt | Britannica",
+        "quote": "In 1765 Watt conceived of a separate condenser—a device to reduce the amount of waste produced by the Newcomen steam engine. Watt patented the device in 1769."
+      },
+      {
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/ap24508/watt-james",
+        "title": "James Watt | Science Museum Group Collection",
+        "quote": "By 1765 Watt had developed a working model which bypassed this issue with his Separate Condenser, in which steam condensed in a separate chamber apart from the piston, which meant that the temperature of the cylinder was kept at the same temperature as the injected steam."
+      },
+      {
+        "url": "https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser",
+        "title": "James Watt and the separate condenser - Science Museum Blog",
+        "quote": "On 5 January 1769 a patent was given to Scottish engineer James Watt for his separate condenser."
+      },
+      {
+        "url": "https://universitystory.gla.ac.uk/people/WH0018",
+        "title": "James Watt - University Story",
+        "quote": "In 1765, famously while strolling on Glasgow Green, he devised a separate condenser which would improve efficiency and permit enormous savings in fuel."
+      }
+    ]
+  },
+  {
+    "id": "library-04-21",
+    "deck": "library",
+    "topic": "US Civil War",
+    "q": "In what year did Abraham Lincoln issue the Emancipation Proclamation (effective January 1)?",
+    "a": "1863",
+    "accept": [],
+    "wrong": [
+      "1861",
+      "1865",
+      "1870"
+    ],
+    "explain": "Issued January 1, 1863, it declared that all persons held as slaves within the rebellious areas \"are, and henceforward shall be free.\"",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+        "title": "Emancipation Proclamation (1863) | National Archives",
+        "quote": "President Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, announcing, \"that all persons held as slaves\" within the rebellious areas \"are, and henceforward shall be free.\""
+      },
+      {
+        "url": "https://guides.loc.gov/emancipation-proclamation",
+        "title": "Introduction - Emancipation Proclamation - Research Guides at Library of Congress",
+        "quote": "On January 1, 1863, President Abraham Lincoln issued the Emancipation Proclamation."
+      }
+    ]
+  },
+  {
+    "id": "library-04-23",
+    "deck": "library",
+    "topic": "Unification of Italy",
+    "q": "Who led the 1860 Expedition of the Thousand that conquered Sicily?",
+    "a": "Giuseppe Garibaldi",
+    "accept": [
+      "Garibaldi"
+    ],
+    "wrong": [
+      "Giuseppe Mazzini",
+      "Victor Emmanuel II",
+      "Benito Mussolini"
+    ],
+    "explain": "Garibaldi's volunteers landed at Marsala, Sicily, on May 11, 1860; the campaign overthrew the Bourbon Kingdom of the Two Sicilies.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Expedition-of-the-Thousand",
+        "title": "Expedition of the Thousand | Britannica",
+        "quote": "Expedition of the Thousand , campaign undertaken in 1860 by Giuseppe Garibaldi that overthrew the Bourbon Kingdom of the  Two Sicilies (Naples) and permitted the union of southern Italy and Sicily with the north."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Expedition_of_the_Thousand",
+        "title": "Expedition of the Thousand - Wikipedia",
+        "quote": "The Expedition of the Thousand (Italian: Spedizione dei Mille) was an event of the unification of Italy that took place in 1860. A corps of volunteers led by Giuseppe Garibaldi sailed from Quarto al Mare near Genoa and landed in Marsala, Sicily, in order to conquer the Kingdom of the Two Sicilies"
+      },
+      {
+        "url": "https://www.britannica.com/place/Italy/Garibaldi-and-the-Thousand",
+        "title": "Italy - Garibaldi, Thousand, Unification | Britannica",
+        "quote": "Despite scant preparations and a shortage of weapons, Garibaldi’s volunteers landed at Marsala on May 11, 1860, and in less than three months conquered the entire island of Sicily."
+      }
+    ]
+  }
+]

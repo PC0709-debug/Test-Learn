@@ -1,0 +1,114 @@
+[
+  {
+    "id": "telegraph-01-04",
+    "deck": "telegraph",
+    "topic": "Box model",
+    "q": "Which box-sizing value makes width and height include the padding and border?",
+    "a": "border-box",
+    "accept": [
+      "box-sizing: border-box"
+    ],
+    "wrong": [
+      "content-box",
+      "padding-box",
+      "margin-box"
+    ],
+    "explain": "With border-box, the width and height include content, padding, and border, but not the margin.",
+    "hook": "border-box: the border is in the box.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing",
+        "title": "box-sizing CSS property - CSS | MDN",
+        "quote": "The width and height properties include the content, padding, and border, but do not include the margin. Note that padding and border will be inside of the box."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing",
+        "title": "box-sizing CSS property - CSS | MDN",
+        "quote": "border-box tells the browser to account for any border and padding in the values you specify for an element's width and height."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-05",
+    "deck": "telegraph",
+    "topic": "JS events",
+    "q": "Which EventTarget method sets up a function to be called whenever a specified event is delivered to the target?",
+    "a": "addEventListener()",
+    "accept": [
+      "addEventListener",
+      "element.addEventListener()"
+    ],
+    "wrong": [
+      "removeEventListener()",
+      "dispatchEvent()",
+      "querySelector()"
+    ],
+    "explain": "addEventListener() adds a function to the list of event listeners for the given event type, e.g. el.addEventListener(\"click\", modifyText).",
+    "hook": "add an ear (listener) to the element.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener",
+        "title": "EventTarget: addEventListener() method - Web APIs | MDN",
+        "quote": "The addEventListener() method of the EventTarget interface sets up a function that will be called whenever the specified event is delivered to the target."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-12",
+    "deck": "telegraph",
+    "topic": "Flexbox",
+    "q": "Along which axis does justify-content align flex items?",
+    "a": "main axis",
+    "accept": [
+      "main",
+      "the main axis"
+    ],
+    "wrong": [
+      "cross axis",
+      "block axis",
+      "z-axis"
+    ],
+    "explain": "justify-content aligns items on the main axis, the direction set by flex-direction; align-items aligns them on the cross axis.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Flexible_box_layout/Basic_concepts",
+        "title": "Basic concepts of flexbox - CSS | MDN",
+        "quote": "The justify-content property is used to align the items on the main axis, the direction in which flex-direction has set the flow."
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Flexible_box_layout/Basic_concepts",
+        "title": "Basic concepts of flexbox - CSS | MDN",
+        "quote": "The align-items property aligns all the flex items on the cross axis."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-01-21",
+    "deck": "telegraph",
+    "topic": "JS objects",
+    "q": "What does Object.keys() return for an object?",
+    "a": "an array of property names",
+    "accept": [
+      "array of keys",
+      "an array of keys",
+      "array of property names"
+    ],
+    "wrong": [
+      "an array of values",
+      "the number of properties",
+      "a string of keys"
+    ],
+    "explain": "It returns the object's own enumerable string-keyed property names, e.g. [\"a\", \"b\", \"c\"].",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys",
+        "title": "Object.keys() - JavaScript | MDN",
+        "quote": "The Object.keys() static method returns an array of a given object's own enumerable string-keyed property names."
+      }
+    ]
+  }
+]

@@ -1,0 +1,427 @@
+[
+ {
+  "id": "vault-08-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses",
+   "https://www.wallstreetprep.com/knowledge/rollover-equity"
+  ]
+ },
+ {
+  "id": "vault-08-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses",
+   "https://www.wallstreetprep.com/knowledge/sources-and-uses-table"
+  ]
+ },
+ {
+  "id": "vault-08-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+   "https://www.wallstreetprep.com/knowledge/sources-and-uses-table",
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses"
+  ]
+ },
+ {
+  "id": "vault-08-04",
+  "source": 28,
+  "match": 29,
+  "unique": 13,
+  "current": 15,
+  "precise": 9,
+  "total": 94,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: WSP Paper LBO notes management rollover can be reflected on both sides; answer Source is still correct (BIWS, WSP rollover/MBO pages). Distractors \"Transaction fee\"/\"Financing fee\" are filler; consider replacing with \"Both sides\" only if question is reworded to \"reduces the sponsor equity check as a...\".",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses",
+   "https://www.wallstreetprep.com/knowledge/management-buyout-mbo",
+   "https://www.wallstreetprep.com/knowledge/rollover-equity",
+   "https://www.wallstreetprep.com/knowledge/paper-lbo"
+  ]
+ },
+ {
+  "id": "vault-08-05",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Only one cited source (BIWS); conceptual fact, quote verified verbatim. Consider adding a second source.",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses"
+  ]
+ },
+ {
+  "id": "vault-08-06",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Only one cited source (BIWS); conceptual fact, quote verified verbatim. WSP basics also lists excess cash under sources.",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/sources-and-uses",
+   "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model"
+  ]
+ },
+ {
+  "id": "vault-08-07",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/",
+   "https://corporatefinanceinstitute.com/resources/wealth-management/moic-private-equity"
+  ]
+ },
+ {
+  "id": "vault-08-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/wealth-management/moic-private-equity",
+   "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+   "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/"
+  ]
+ },
+ {
+  "id": "vault-08-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/wealth-management/moic-private-equity",
+   "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model",
+   "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/"
+  ]
+ },
+ {
+  "id": "vault-08-10",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Nit: hook \"72 / 5 = 15\" (actually 14.4); WSP Paper LBO uses same approximation, explain correctly says ~14.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/",
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/how-to-calculate-irr-manually",
+   "https://www.wallstreetprep.com/knowledge/paper-lbo"
+  ]
+ },
+ {
+  "id": "vault-08-11",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/",
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/how-to-calculate-irr-manually"
+  ]
+ },
+ {
+  "id": "vault-08-12",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/",
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/how-to-calculate-irr-manually"
+  ]
+ },
+ {
+  "id": "vault-08-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/moic-multiple-on-invested-capital/",
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/how-to-calculate-irr-manually"
+  ]
+ },
+ {
+  "id": "vault-08-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/wealth-management/rule-of-72-double-investment/",
+   "https://www.wallstreetprep.com/knowledge/paper-lbo"
+  ]
+ },
+ {
+  "id": "vault-08-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/wealth-management/rule-of-72-double-investment/",
+   "https://www.wallstreetprep.com/knowledge/paper-lbo"
+  ]
+ },
+ {
+  "id": "vault-08-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/lbo-returns-attribution-analysis",
+   "https://macabacus.com/valuation/lbo-creating-value",
+   "https://www.wallstreetprep.com/knowledge/lbo-returns-attribution-analysis-value-creation"
+  ]
+ },
+ {
+  "id": "vault-08-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/lbo-returns-attribution-analysis",
+   "https://macabacus.com/valuation/lbo-creating-value",
+   "https://www.wallstreetprep.com/knowledge/lbo-returns-attribution-analysis-value-creation"
+  ]
+ },
+ {
+  "id": "vault-08-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://macabacus.com/valuation/lbo-creating-value",
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/lbo-returns-attribution-analysis"
+  ]
+ },
+ {
+  "id": "vault-08-19",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Only one source cited; WSP returns attribution page independently confirms (Exit Multiple - Purchase Multiple) x Exit Year LTM EBITDA. Add it as second source.",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/lbo-returns-attribution-analysis",
+   "https://www.wallstreetprep.com/knowledge/lbo-returns-attribution-analysis-value-creation"
+  ]
+ },
+ {
+  "id": "vault-08-20",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Only one source cited; WSP returns attribution page independently confirms (Exit Year EBITDA - Initial EBITDA) x Purchase Multiple. Add it as second source.",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/leveraged-buyouts-and-lbo-models/lbo-returns-attribution-analysis",
+   "https://www.wallstreetprep.com/knowledge/lbo-returns-attribution-analysis-value-creation"
+  ]
+ },
+ {
+  "id": "vault-08-21",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/sources-and-uses-table",
+   "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model"
+  ]
+ },
+ {
+  "id": "vault-08-22",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/dividend-recap/",
+   "https://corporatefinanceinstitute.com/resources/management/dividend-recapitalization"
+  ]
+ },
+ {
+  "id": "vault-08-23",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/dividend-recap/",
+   "https://www.wallstreetprep.com/knowledge/lbo-returns-attribution-analysis-value-creation"
+  ]
+ },
+ {
+  "id": "vault-08-24",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Nit: \"probability of default\" not stated verbatim in cited pages (WSP basics FAQ says it raises risk); acceptable.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/management/dividend-recapitalization",
+   "https://www.wallstreetprep.com/knowledge/dividend-recap/",
+   "https://www.wallstreetprep.com/knowledge/basics-of-an-lbo-model"
+  ]
+ },
+ {
+  "id": "vault-08-25",
+  "source": 30,
+  "match": 30,
+  "unique": 12,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Accept entry \"management rollover\" is narrower than seller rollover equity (seller need not be management); consider removing it.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/rollover-equity",
+   "https://www.wallstreetprep.com/knowledge/sources-and-uses-table"
+  ]
+ },
+ {
+  "id": "vault-08-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/sources-and-uses-table"
+  ]
+ }
+]

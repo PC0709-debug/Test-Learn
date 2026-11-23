@@ -1,0 +1,429 @@
+[
+  {
+    "id": "library-05-01",
+    "deck": "library",
+    "topic": "World War I",
+    "q": "In which city was Archduke Franz Ferdinand assassinated on June 28, 1914?",
+    "a": "Sarajevo",
+    "accept": ["sarajevo"],
+    "wrong": ["Vienna", "Belgrade", "Budapest"],
+    "explain": "Archduke Franz Ferdinand of Austria and his wife, Sophie, were assassinated by a Bosnian Serb nationalist in Sarajevo on June 28, 1914. A month later Austria-Hungary declared war on Serbia.",
+    "hook": "The shot in Sarajevo started the slide into the Great War.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/list/timeline-of-world-war-i", "title": "Timeline of World War I | Britannica", "quote": "Archduke Franz Ferdinand of Austria and his wife, Sophie, are assassinated by a Bosnian Serb nationalist in Sarajevo ."},
+      {"url": "https://www.britannica.com/event/World-War-I", "title": "World War I | Causes, Years, Combatants, Casualties, Maps, & Facts | Britannica", "quote": "At 11:15 am on June 28, 1914, in the Bosnian capital, Sarajevo , Franz Ferdinand and his morganatic wife, Sophie, duchess of Hohenberg, were shot dead by a Bosnian Serb, Gavrilo Princip ."},
+      {"url": "https://www.theworldwar.org/learn/about-wwi/key-dates", "title": "Key Dates | National WWI Museum and Memorial", "quote": "June 28, 1914 Austro-Hungarian Archduke Franz Ferdinand and his wife, Sophie Chotek, are assassinated by Bosnian Serb nationalist Gavrilo Princip. ... July 28, 1914 Austria-Hungary declares war on Serbia."}
+    ]
+  },
+  {
+    "id": "library-05-02",
+    "deck": "library",
+    "topic": "World War I",
+    "q": "Who assassinated Archduke Franz Ferdinand in 1914?",
+    "a": "Gavrilo Princip",
+    "accept": ["Princip", "gavrilo princip"],
+    "wrong": ["Leon Trotsky", "Erich Ludendorff", "Arthur Zimmermann"],
+    "explain": "Gavrilo Princip, a Bosnian Serb nationalist, shot Franz Ferdinand and his wife Sophie in Sarajevo on June 28, 1914, the event that began the slide into World War I.",
+    "hook": "Princip pulled the trigger on the 'Prince' (the archduke).",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/event/World-War-I", "title": "World War I | Causes, Years, Combatants, Casualties, Maps, & Facts | Britannica", "quote": "World War I began after the assassination of Austrian archduke Franz Ferdinand by South Slav nationalist Gavrilo Princip on June 28, 1914."},
+      {"url": "https://www.theworldwar.org/learn/about-wwi/key-dates", "title": "Key Dates | National WWI Museum and Memorial", "quote": "Austro-Hungarian Archduke Franz Ferdinand and his wife, Sophie Chotek, are assassinated by Bosnian Serb nationalist Gavrilo Princip."}
+    ]
+  },
+  {
+    "id": "library-05-03",
+    "deck": "library",
+    "topic": "World War I",
+    "q": "On what date did the armistice ending the fighting in World War I take effect?",
+    "a": "November 11, 1918",
+    "accept": ["11 November 1918", "Nov 11 1918", "November 11 1918", "11/11/1918"],
+    "wrong": ["June 28, 1919", "June 28, 1914", "May 8, 1945"],
+    "explain": "The Armistice was signed at 5:00 am on November 11, 1918, in Foch's railway carriage at Rethondes, and the fighting ended at 11:00 am that day.",
+    "hook": "The 11th hour of the 11th day of the 11th month.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/event/World-War-I/The-end-of-the-German-war", "title": "World War I - Armistice, Treaty, Legacy | Britannica", "quote": "At 5:00 am on November 11, 1918, the Armistice document was signed in Foch ’s railway carriage at Rethondes. At 11:00 am on the same day, World War I came to an end."},
+      {"url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles", "title": "The Treaty of Versailles - The National Archives", "quote": "Bearing in mind that on the request of the Imperial German Government an Armistice was granted on November 11, 1918, to Germany by the Principal Allied and Associated Powers"}
+    ]
+  },
+  {
+    "id": "library-05-04",
+    "deck": "library",
+    "topic": "World War I",
+    "q": "In which room of the Palace of Versailles was the Treaty of Versailles signed?",
+    "a": "Hall of Mirrors",
+    "accept": ["the Hall of Mirrors", "Galerie des Glaces"],
+    "wrong": ["Royal Chapel", "King's Bedchamber", "Royal Opera"],
+    "explain": "The Treaty of Versailles was signed on June 28, 1919, by the Allied and associated powers and Germany in the Hall of Mirrors; it took force on January 10, 1920, and also created the League of Nations.",
+    "hook": "Peace was reflected in the Hall of Mirrors.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Treaty-of-Versailles-1919", "title": "Treaty of Versailles | Definition, Summary, Terms, & Facts | Britannica", "quote": "It was signed on June 28, 1919, by the Allied and associated powers and by Germany in the Hall of Mirrors in the Palace of Versailles and went into effect on January 10, 1920. ... The treaty also created the League of Nations ."},
+      {"url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles", "title": "The Treaty of Versailles - The National Archives", "quote": "Signed at the conclusion of the Paris Peace Conference, on 28 June 1919, it was designed to establish peace, prevent war, and to ensure Germany would never be a military power again."}
+    ]
+  },
+  {
+    "id": "library-05-05",
+    "deck": "library",
+    "topic": "World War I / Russian Revolution",
+    "q": "Which March 1918 treaty took Soviet Russia out of World War I?",
+    "a": "Treaty of Brest-Litovsk",
+    "accept": ["Brest-Litovsk", "Brest Litovsk", "Treaty of Brest Litovsk"],
+    "wrong": ["Treaty of Versailles", "Treaty of Rapallo", "Treaty of Trianon"],
+    "explain": "On March 3, 1918, the Soviet government accepted the Treaty of Brest-Litovsk with the Central Powers, giving up Ukraine, its Polish and Baltic territories, and Finland. The treaty was annulled by the Armistice of November 11, 1918.",
+    "hook": "Lenin traded land for peace at Brest-Litovsk.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/event/treaties-of-Brest-Litovsk", "title": "Treaties of Brest-Litovsk | Russia, Germany, Austria-Hungary | Britannica", "quote": "On March 3 the Soviet government accepted a treaty by which Russia lost Ukraine, its Polish and Baltic territories, and Finland . ... Both the Ukrainian and Russian treaties were annulled by the Armistice on Nov. 11, 1918, which marked the Allied defeat of Germany ."},
+      {"url": "https://www.theworldwar.org/learn/about-wwi/key-dates", "title": "Key Dates | National WWI Museum and Memorial", "quote": "March 3, 1918 Russia and Germany sign the Treaty of Brest-Litovsk, officially removing Russia from World War I."}
+    ]
+  },
+  {
+    "id": "library-05-06",
+    "deck": "library",
+    "topic": "Russian Revolution",
+    "q": "Who led the Bolsheviks when they seized power in Russia in 1917?",
+    "a": "Vladimir Lenin",
+    "accept": ["Lenin", "V. I. Lenin", "vladimir lenin"],
+    "wrong": ["Joseph Stalin", "Aleksandr Kerensky", "Nikita Khrushchev"],
+    "explain": "In the October Revolution of 1917, Bolshevik forces under Vladimir Lenin seized key government buildings in Petrograd and overthrew the Provisional Government headed by Aleksandr Kerensky.",
+    "hook": "Lenin led; Kerensky fled.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Bolshevik", "title": "Bolshevik | Definition, History, Beliefs, Flag, & Facts | Britannica", "quote": "Bolshevik , member of a wing of the Russian Social-Democratic Workers’ Party , which, led by Vladimir Lenin , seized control of the government in Russia (October 1917) and became the dominant political power."},
+      {"url": "https://encyclopedia.ushmm.org/content/en/article/the-russian-revolution-1917", "title": "Russian Revolution, 1917 | Holocaust Encyclopedia", "quote": "On October 24–25, 1917, Bolshevik (left-wing socialist) forces under Vladimir Lenin seized key government buildings and stormed the Winter Palace, then the seat of the new government in Russia's capital, Petrograd (now St. Petersburg)."},
+      {"url": "https://www.britannica.com/summary/Russian-Revolution", "title": "Russian Revolution of 1917 summary | Britannica", "quote": "Aleksandr Kerensky became its head in July ... Kerensky tried unsuccessfully to organize resistance, then fled the country."}
+    ]
+  },
+  {
+    "id": "library-05-07",
+    "deck": "library",
+    "topic": "Russian Revolution",
+    "q": "Which Russian tsar abdicated in March 1917, ending the Romanov dynasty's rule?",
+    "a": "Nicholas II",
+    "accept": ["Tsar Nicholas II", "Czar Nicholas II", "Nicholas"],
+    "wrong": ["Alexander III", "Alexander II", "Peter the Great"],
+    "explain": "Nicholas II abdicated on March 15, 1917, after the Petrograd garrison joined the revolt; his brother Grand Duke Michael refused the throne, ending the Romanov dynasty.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/list/russian-revolution-timeline", "title": "Russian Revolution Timeline | Britannica", "quote": "After the majority of the Petrograd garrison of soldiers joins the revolt, Tsar Nicholas II is forced to abdicate. His brother Grand Duke Michael then refuses the throne, which brings an end to the Romanov dynasty ."},
+      {"url": "https://www.britannica.com/event/Russian-Revolution", "title": "Russian Revolution | Definition, Causes, Summary, History, & Facts | Britannica", "quote": "On March 15, 1917, Nicholas II abdicated the throne."},
+      {"url": "https://www.theworldwar.org/learn/about-wwi/key-dates", "title": "Key Dates | National WWI Museum and Memorial", "quote": "July 17, 1918 Bolsheviks murder the former czar of Russia, Nicholas II, and his family."}
+    ]
+  },
+  {
+    "id": "library-05-08",
+    "deck": "library",
+    "topic": "Great Depression",
+    "q": "What name is given to October 29, 1929, the final day of the 1929 stock market crash?",
+    "a": "Black Tuesday",
+    "accept": ["black tuesday"],
+    "wrong": ["Black Friday", "Black Wednesday", "Black Sunday"],
+    "explain": "The crash ran from Black Thursday (October 24) through Black Tuesday (October 29), when more than 16 million shares were traded; it contributed to the Great Depression of the 1930s.",
+    "hook": "Thursday started it, Tuesday finished it.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Black-Tuesday-1929", "title": "Black Tuesday | 1929 Stock Market Crash, Great Depression, Regulation, Investments, & Impact | Britannica", "quote": "October 29, 1929, known as Black Tuesday, marked the final day of the stock market crash of 1929 , leading to the Great Depression ."},
+      {"url": "https://www.britannica.com/event/stock-market-crash-of-1929", "title": "Stock market crash of 1929 | Summary, Causes, & Facts | Britannica", "quote": "Over the course of four business days—Black Thursday (October 24) through Black Tuesday (October 29)—the Dow Jones Industrial Average dropped from 305.85 points to 230.07 points ... On Black Tuesday (October 29) more than 16 million shares were traded."}
+    ]
+  },
+  {
+    "id": "library-05-09",
+    "deck": "library",
+    "topic": "Great Depression",
+    "q": "Which U.S. president launched the New Deal in 1933?",
+    "a": "Franklin D. Roosevelt",
+    "accept": ["FDR", "Franklin Roosevelt", "Roosevelt", "Franklin Delano Roosevelt"],
+    "wrong": ["Herbert Hoover", "Harry S. Truman", "Woodrow Wilson"],
+    "explain": "The New Deal (1933–39) aimed to provide immediate relief from the Great Depression and to reform the economy; agencies such as the FDIC and the SEC came out of it.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/summary/New-Deal-Key-Facts", "title": "New Deal | Key Facts | Britannica", "quote": "The domestic program known as the New Deal, intended to stem the effects of the Great Depression , was launched by the administration of U.S. President Franklin D. Roosevelt in 1933."},
+      {"url": "https://www.britannica.com/event/New-Deal", "title": "New Deal | Definition, History, Programs, Summary, & Facts | Britannica", "quote": "U.S. President Franklin D. Roosevelt’s New Deal (1933–39) aimed to provide immediate economic relief and to bring about reforms to stabilize the economy. ... The Federal Deposit Insurance Corporation (FDIC) in banking and Fannie Mae (FNMA) in mortgage lending are among New Deal programs still in operation. Other such programs include the Securities and Exchange Commission (SEC)"}
+    ]
+  },
+  {
+    "id": "library-05-10",
+    "deck": "library",
+    "topic": "World War II",
+    "q": "On what date did Japan attack the U.S. naval base at Pearl Harbor?",
+    "a": "December 7, 1941",
+    "accept": ["7 December 1941", "Dec 7 1941", "December 7 1941", "12/7/1941"],
+    "wrong": ["June 6, 1944", "September 1, 1939", "June 22, 1941"],
+    "explain": "On the morning of December 7, 1941, Japanese bombers staged a surprise attack on U.S. forces in Hawaii; the next day President Roosevelt asked Congress for a declaration of war against Japan.",
+    "hook": "\"A date which will live in infamy.\"",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.archives.gov/legislative/features/pearl-harbor", "title": "Attack on Pearl Harbor | National Archives", "quote": "On the morning of December 7, 1941, Japanese bombers staged a surprise attack on U.S. military and naval forces in Hawaii. ... The day after the attack, before a joint session of Congress, President Roosevelt asked Congress for a declaration of war against Japan."},
+      {"url": "https://www.britannica.com/topic/Timeline-of-World-War-II", "title": "Timeline of World War II | Key Events, Europe, Pacific, & Battles | Britannica", "quote": "December 7: Japanese air and naval units attack Pearl Harbor and Midway ."}
+    ]
+  },
+  {
+    "id": "library-05-11",
+    "deck": "library",
+    "topic": "World War II",
+    "q": "On D-Day, June 6, 1944, Allied troops landed on the beaches of which region of France?",
+    "a": "Normandy",
+    "accept": ["normandy"],
+    "wrong": ["Brittany", "Provence", "Alsace"],
+    "explain": "On June 6, 1944, Allied forces landed on five Normandy beaches code-named Utah, Omaha, Gold, Juno and Sword, the largest amphibious invasion in military history.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.army.mil/d-day/", "title": "D-Day - Operation Overlord Heritage Site | The United States Army", "quote": "On June 6, 1944, nearly 160,000 Allied troops landed along a 50-mile stretch of heavily-fortified French coastline, to fight Nazi Germany on the beaches of Normandy, France."},
+      {"url": "https://www.eisenhowerlibrary.gov/research/online-documents/world-war-ii-d-day-invasion-normandy", "title": "World War II: D-Day, The Invasion of Normandy | Eisenhower Presidential Library", "quote": "The D-Day operation of June 6, 1944, brought together the land, air, and sea forces of the allied armies in what became known as the largest amphibious invasion in military history. The operation, given the codename OVERLORD, delivered five naval assault divisions to the beaches of Normandy, France. The beaches were given the code names UTAH, OMAHA, GOLD, JUNO, and SWORD."}
+    ]
+  },
+  {
+    "id": "library-05-12",
+    "deck": "library",
+    "topic": "World War II",
+    "q": "What was the code name for the Allied invasion of Normandy that began on D-Day?",
+    "a": "Operation Overlord",
+    "accept": ["Overlord", "operation overlord"],
+    "wrong": ["Operation Barbarossa", "Operation Torch", "Operation Market Garden"],
+    "explain": "Operation Overlord began on June 6, 1944; its assault phase, landing troops on the beaches, was called Operation Neptune.",
+    "hook": "The Allies came to 'lord it over' the Atlantic Wall.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.eisenhowerlibrary.gov/research/online-documents/world-war-ii-d-day-invasion-normandy", "title": "World War II: D-Day, The Invasion of Normandy | Eisenhower Presidential Library", "quote": "The operation, given the codename OVERLORD, delivered five naval assault divisions to the beaches of Normandy, France."},
+      {"url": "https://encyclopedia.ushmm.org/content/en/article/d-day", "title": "D-Day: Learn about the D-Day Invasion | Holocaust Encyclopedia", "quote": "The D-Day invasion of Normandy, France, on June 6, 1944, marked the launch of Operation Overlord. Operation Overlord was the code name for the invasion of Normandy."},
+      {"url": "https://www.army.mil/d-day/", "title": "D-Day - Operation Overlord Heritage Site | The United States Army", "quote": "The assault phase of Operation Overlord was known as Operation Neptune. This operation, which began on June 6, 1944, and ended on June 30, 1944, involved landing troops on beaches"}
+    ]
+  },
+  {
+    "id": "library-05-13",
+    "deck": "library",
+    "topic": "World War II",
+    "q": "What was the code name for Germany's invasion of the Soviet Union in June 1941?",
+    "a": "Operation Barbarossa",
+    "accept": ["Barbarossa", "operation barbarossa"],
+    "wrong": ["Operation Overlord", "Operation Sea Lion", "Operation Torch"],
+    "explain": "Nazi Germany invaded the Soviet Union on June 22, 1941, under the code name Operation Barbarossa, considered one of the largest military operations in history.",
+    "hook": "Barbarossa ('Red Beard') marched east.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-the-soviet-union-june-1941", "title": "Invasion of the Soviet Union, June 1941 | Holocaust Encyclopedia", "quote": "Under the codename Operation “Barbarossa,” Nazi Germany invaded the Soviet Union on June 22, 1941. This was the largest German military operation of World War II ."},
+      {"url": "https://www.britannica.com/event/Operation-Barbarossa", "title": "Operation Barbarossa | History, Summary, Combatants, Casualties, & Facts | Britannica", "quote": "On June 22, 1941, the German offensive was launched by three army groups under the same commanders as in the invasion of France in 1940."}
+    ]
+  },
+  {
+    "id": "library-05-14",
+    "deck": "library",
+    "topic": "World War II",
+    "q": "What is the present-day name of the Russian city of Stalingrad, site of the 1942–43 battle?",
+    "a": "Volgograd",
+    "accept": ["volgograd"],
+    "wrong": ["Saint Petersburg", "Yekaterinburg", "Kaliningrad"],
+    "explain": "The Soviet victory at Stalingrad (now Volgograd) ended with the German army under Friedrich Paulus surrendering in February 1943, and the battle marked a turning point of the war.",
+    "hook": "Stalingrad sits on the Volga: Volgograd.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Battle-of-Stalingrad", "title": "Battle of Stalingrad | History, Summary, Location, Deaths, & Facts | Britannica", "quote": "The Battle of Stalingrad was won by the Soviet Union against a German offensive that attempted to take the city of Stalingrad (now Volgograd, Russia) during World War II ."},
+      {"url": "https://www.britannica.com/summary/Battle-of-Stalingrad", "title": "Battle of Stalingrad and its outcome | Britannica", "quote": "German forces invaded the Soviet Union in 1941 and had advanced to the suburbs of Stalingrad (now Volgograd) by the summer of 1942. ... In November the Soviets counterattacked and encircled the German army led by Friedrich Paulus , who surrendered in February 1943 with 91,000 troops."},
+      {"url": "https://www.britannica.com/list/timeline-of-the-battle-of-stalingrad", "title": "Battle of Stalingrad Timeline | Britannica", "quote": "The Battle of Stalingrad marked a turning point in World War II."}
+    ]
+  },
+  {
+    "id": "library-05-15",
+    "deck": "library",
+    "topic": "World War II",
+    "q": "What was the name of the B-29 bomber that dropped the atomic bomb on Hiroshima?",
+    "a": "Enola Gay",
+    "accept": ["the Enola Gay", "enola gay"],
+    "wrong": ["Bockscar", "Memphis Belle", "The Great Artiste"],
+    "explain": "The Enola Gay, piloted by Col. Paul Tibbets, dropped the uranium bomb Little Boy on Hiroshima on August 6, 1945; Fat Man was dropped on Nagasaki from Bockscar on August 9.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/event/atomic-bombings-of-Hiroshima-and-Nagasaki", "title": "Atomic bombings of Hiroshima and Nagasaki | Britannica", "quote": "The first atomic bomb, named Little Boy , was dropped on Hiroshima from the Enola Gay , a B-29 bomber, at 8:15 AM on August 6, 1945. The second bomb, named Fat Man , was dropped on Nagasaki from the Bockscar , also a B-29 bomber, at 11:02 AM on August 9, 1945."},
+      {"url": "https://www.nps.gov/articles/000/the-atomic-bombings-of-hiroshima-and-nagasaki.htm", "title": "Timeline of the Atomic Bombings of Hiroshima and Nagasaki (U.S. National Park Service)", "quote": "Early morning on Tinian, the B-29 Superfortress Enola Gay and her crew of 12 lift off with the uranium bomb Little Boy aboard. The Enola Gay is accompanied by two observation aircraft, The Great Artiste and Necessary Evil. ... Enola Gay Captain Paul Tibbets announces to the crew: “We are carrying the world’s first atomic bomb”."}
+    ]
+  },
+  {
+    "id": "library-05-16",
+    "deck": "library",
+    "topic": "United Nations",
+    "q": "In which city was the United Nations Charter signed on June 26, 1945?",
+    "a": "San Francisco",
+    "accept": ["san francisco"],
+    "wrong": ["New York", "Geneva", "London"],
+    "explain": "The Charter was signed in San Francisco at the end of the United Nations Conference on International Organization and came into force on October 24, 1945.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.un.org/en/about-us/un-charter", "title": "UN Charter | United Nations", "quote": "It was signed on 26 June 1945, in San Francisco, at the conclusion of the United Nations Conference on International Organization, and came into force on 24 October 1945."},
+      {"url": "https://www.archives.gov/milestone-documents/united-nations-charter", "title": "United Nations Charter (1945) | National Archives", "quote": "On June 26, 1945, in San Francisco, the United Nations was formally established with the signing of the UN Charter."}
+    ]
+  },
+  {
+    "id": "library-05-17",
+    "deck": "library",
+    "topic": "Bretton Woods",
+    "q": "Besides the IMF, which institution was created at the 1944 Bretton Woods Conference?",
+    "a": "World Bank",
+    "accept": ["IBRD", "International Bank for Reconstruction and Development", "the World Bank"],
+    "wrong": ["World Trade Organization", "Bank for International Settlements", "European Central Bank"],
+    "explain": "The two major accomplishments of Bretton Woods were the International Monetary Fund and the International Bank for Reconstruction and Development, commonly known as the World Bank.",
+    "hook": "Bretton Woods twins: the Fund and the Bank.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://history.state.gov/milestones/1937-1945/bretton-woods", "title": "Bretton Woods-GATT, 1941–1947 - Office of the Historian", "quote": "The two major accomplishments of the Bretton Woods conference were the creation of the International Monetary Fund (IMF) and the International Bank for Reconstruction and Development (IBRD), commonly known as the World Bank."},
+      {"url": "https://www.un.org/en/un-chronicle/story-charter", "title": "The Story of the Charter | United Nations", "quote": "The 44 nations at the Conference adopted plans calling for the creation of an International Monetary Fund to stabilize currencies and so promote the flow of foreign trade. They also recommended the creation of an International Bank for Reconstruction and Development to provide facilities for long-term loans."}
+    ]
+  },
+  {
+    "id": "library-05-18",
+    "deck": "library",
+    "topic": "Bretton Woods",
+    "q": "In which U.S. state was the July 1944 Bretton Woods Conference held?",
+    "a": "New Hampshire",
+    "accept": ["NH", "new hampshire"],
+    "wrong": ["Vermont", "Massachusetts", "Maine"],
+    "explain": "Delegates from 44 nations met at Bretton Woods, New Hampshire, in July 1944 at the United Nations Monetary and Financial Conference.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://history.state.gov/milestones/1937-1945/bretton-woods", "title": "Bretton Woods-GATT, 1941–1947 - Office of the Historian", "quote": "Agreement was finally reached at the July 1944 United Nations Monetary and Financial Conference, a gathering of delegates from 44 nations that met in Bretton Woods, New Hampshire."},
+      {"url": "https://www.un.org/en/un-chronicle/story-charter", "title": "The Story of the Charter | United Nations", "quote": "Another important United Nations Conference was held, this time at Bretton Woods, New Hampshire, in July 1944."}
+    ]
+  },
+  {
+    "id": "library-05-19",
+    "deck": "library",
+    "topic": "Bretton Woods",
+    "q": "Which U.S. president suspended the dollar's convertibility into gold in August 1971?",
+    "a": "Richard Nixon",
+    "accept": ["Nixon", "Richard M. Nixon", "richard nixon"],
+    "wrong": ["Lyndon B. Johnson", "Gerald Ford", "Jimmy Carter"],
+    "explain": "On August 15, 1971, Nixon announced his New Economic Policy (the 'Nixon shock'), which suspended gold convertibility and marked the beginning of the end of the Bretton Woods fixed exchange rate system.",
+    "hook": "The 'Nixon shock' closed the gold window.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://history.state.gov/milestones/1969-1976/nixon-shock", "title": "Milestones in the History of U.S. Foreign Relations - Office of the Historian (Nixon shock)", "quote": "On August 15, 1971, President Richard M. Nixon announced his New Economic Policy, a program “to create a new prosperity without war.” Known colloquially as the “Nixon shock,” the initiative marked the beginning of the end for the Bretton Woods system of fixed exchange rates established at the end of World War II. ... to achieve the third, Nixon directed the suspension of the dollar’s convertibility into gold."},
+      {"url": "https://history.state.gov/milestones/1937-1945/bretton-woods", "title": "Bretton Woods-GATT, 1941–1947 - Office of the Historian", "quote": "only after the exchange crises of August 1971, when President Richard M. Nixon suspended the dollar’s convertibility into gold, and February/March 1973 did floating exchange rates become the norm for the major industrialized democracies."}
+    ]
+  },
+  {
+    "id": "library-05-20",
+    "deck": "library",
+    "topic": "Cold War",
+    "q": "What was the official name of the Marshall Plan for rebuilding postwar Western Europe?",
+    "a": "European Recovery Program",
+    "accept": ["ERP", "European Recovery Programme", "the European Recovery Program"],
+    "wrong": ["Truman Doctrine", "Lend-Lease", "Dawes Plan"],
+    "explain": "Secretary of State George C. Marshall called for a program to rebuild Europe in a June 5, 1947, speech at Harvard; Congress passed the Economic Cooperation Act in March 1948, with funding eventually rising to over $12 billion.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://history.state.gov/milestones/1945-1952/berlin-airlift", "title": "The Berlin Airlift, 1948–1949 - Office of the Historian", "quote": "In June, Secretary of State George Marshall announced the European Recovery Program. The purpose of the Marshall Plan—as the program came to be called—was not only to support economic recovery in Western Europe, but also to create a bulwark against Communism"},
+      {"url": "https://history.state.gov/milestones/1945-1952/marshall-plan", "title": "Marshall Plan, 1948 - Office of the Historian", "quote": "In a June 5, 1947, speech to the graduating class at Harvard University, Secretary of State George C. Marshall issued a call for a comprehensive program to rebuild Europe. ... Congress passed the Economic Cooperation Act in March 1948 and approved funding that would eventually rise to over $12 billion for the rebuilding of Western Europe."}
+    ]
+  },
+  {
+    "id": "library-05-21",
+    "deck": "library",
+    "topic": "Cold War",
+    "q": "What was the 1948–49 operation in which the U.S. and U.K. flew food and fuel into blockaded West Berlin?",
+    "a": "Berlin Airlift",
+    "accept": ["the Berlin Airlift", "berlin airlift"],
+    "wrong": ["Marshall Plan", "Operation Overlord", "Truman Doctrine"],
+    "explain": "Soviet forces blockaded rail, road and water access to Allied-controlled Berlin on June 24, 1948; the crisis ended when the blockade was lifted in May 1949.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://history.state.gov/milestones/1945-1952/berlin-airlift", "title": "The Berlin Airlift, 1948–1949 - Office of the Historian", "quote": "The crisis started on June 24, 1948, when Soviet forces blockaded rail, road, and water access to Allied-controlled areas of Berlin. The United States and United Kingdom responded by airlifting food and fuel to Berlin from Allied airbases in western Germany. The crisis ended on May 12, 1949, when Soviet forces lifted the blockade on land access to western Berlin."},
+      {"url": "https://www.defense.gov/News/Feature-Stories/Story/Article/3072635/the-berlin-airlift-what-it-was-its-importance-in-the-cold-war", "title": "The Berlin Airlift: What It Was, Its Importance in the Cold War", "quote": "On June 24, 1948, Soviet forces blockaded all road, rail and water routes into Berlin's Allied-controlled areas, stifling the vital flow of food, coal and other supplies."}
+    ]
+  },
+  {
+    "id": "library-05-22",
+    "deck": "library",
+    "topic": "Cold War",
+    "q": "In which city was the North Atlantic Treaty, which founded NATO, signed on April 4, 1949?",
+    "a": "Washington, D.C.",
+    "accept": ["Washington", "Washington DC", "Washington D.C."],
+    "wrong": ["Brussels", "London", "Paris"],
+    "explain": "The North Atlantic Treaty was signed in Washington on April 4, 1949; its parties resolved to unite their efforts for collective defense.",
+    "hook": "NATO is headquartered in Brussels today, but it was born in Washington.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty", "title": "The North Atlantic Treaty | NATO Official text", "quote": "The North Atlantic Treaty Washington D.C. - 4 April 1949 ... They are resolved to unite their efforts for collective defence and for the preservation of peace and security."},
+      {"url": "https://history.state.gov/historicaldocuments/frus1949v04/d144", "title": "Historical Documents - Office of the Historian (FRUS 1949, Vol. IV, Document 144)", "quote": "Text of Treaty Signed at Washington, April 4, 1949 ... Done at Washington, the fourth day of April, 1949."}
+    ]
+  },
+  {
+    "id": "library-05-23",
+    "deck": "library",
+    "topic": "Cold War",
+    "q": "In what year did the Cuban Missile Crisis take place?",
+    "a": "1962",
+    "accept": ["October 1962"],
+    "wrong": ["1959", "1961", "1968"],
+    "explain": "For 13 days in October 1962 the United States and the Soviet Union stood on the brink of nuclear war over Soviet missiles in Cuba; it was the moment the two superpowers came closest to nuclear conflict.",
+    "hook": "Thirteen days in October '62.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis", "title": "The Cuban Missile Crisis, October 1962 - Office of the Historian", "quote": "The Cuban Missile Crisis of October 1962 was a direct and dangerous confrontation between the United States and the Soviet Union during the Cold War and was the moment when the two superpowers came closest to nuclear conflict."},
+      {"url": "https://www.archives.gov/news/topics/cuban-missile-crisis", "title": "Cuban Missile Crisis | National Archives", "quote": "At the height of the Cold War, for two weeks in October 1962, the world teetered on the edge of thermonuclear war. ... For 13 agonizing days—from October 16 through October 28—the United States and the Soviet Union stood on the brink of nuclear war."}
+    ]
+  },
+  {
+    "id": "library-05-24",
+    "deck": "library",
+    "topic": "Space race",
+    "q": "What was the name of the world's first artificial satellite, launched by the Soviet Union in 1957?",
+    "a": "Sputnik 1",
+    "accept": ["Sputnik", "sputnik 1", "Sputnik I"],
+    "wrong": ["Explorer 1", "Vostok 1", "Vanguard 1"],
+    "explain": "The Soviet Union launched Sputnik 1 on October 4, 1957, marking the start of the space age and the U.S.–U.S.S.R. space race.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.nasa.gov/history/sputnik/index.html", "title": "Dawn of the Space Age - NASA", "quote": "The course of history changed on October 4, 1957, when the Soviet Union successfully launched Sputnik 1. ... While the Sputnik launch was a single event, it marked the start of the space age and the U.S.–U.S.S.R. space race."},
+      {"url": "https://www.britannica.com/story/timeline-of-the-space-race", "title": "Timeline of the Space Race, 1957–69 | Britannica", "quote": "On October 4, 1957, the U.S.S.R. launched Sputnik 1, the first artificial satellite."}
+    ]
+  },
+  {
+    "id": "library-05-25",
+    "deck": "library",
+    "topic": "Space race",
+    "q": "Who became the first human to travel into space, aboard Vostok 1 in 1961?",
+    "a": "Yuri Gagarin",
+    "accept": ["Gagarin", "yuri gagarin"],
+    "wrong": ["John Glenn", "Alan Shepard", "Valentina Tereshkova"],
+    "explain": "Soviet cosmonaut Yuri Gagarin was launched on Vostok 1 on April 12, 1961, and orbited Earth once in 1 hour 29 minutes.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Yuri-Gagarin", "title": "Yuri Gagarin | Biography & Facts | Britannica", "quote": "Yuri Gagarin ... was a Soviet cosmonaut who in 1961 became the first man to travel into space. ... Gagarin’s 4 3/4-ton Vostok 1 spacecraft was launched at 9:07 am Moscow time on April 12, 1961, orbited Earth once in 1 hour 29 minutes"},
+      {"url": "https://airandspace.si.edu/explore/stories/apollo-11-moon-landing", "title": "Apollo 11: The Moon Landing | National Air and Space Museum", "quote": "The Soviet Union launched the first human, Yuri Gagarin, into space on April 12, 1961."}
+    ]
+  },
+  {
+    "id": "library-05-26",
+    "deck": "library",
+    "topic": "Space race",
+    "q": "What was the name of the Apollo 11 lunar module that landed on the Moon on July 20, 1969?",
+    "a": "Eagle",
+    "accept": ["the Eagle", "eagle"],
+    "wrong": ["Columbia", "Freedom 7", "Vostok"],
+    "explain": "Neil Armstrong and Buzz Aldrin landed in the lunar module Eagle on July 20, 1969, while Michael Collins orbited in the command module Columbia.",
+    "hook": "\"The Eagle has landed.\"",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C", "title": "NASA - NSSDCA - Spacecraft - Apollo 11 Lunar Module / EASEP", "quote": "The Apollo 11 Lunar Module (LM) \"Eagle\" was the first crewed vehicle to land on the Moon. It carried two astronauts, Commander Neil A. Armstrong and LM pilot Edwin E. \"Buzz\" Aldrin, Jr., the first men to walk on the Moon."},
+      {"url": "https://www.nasa.gov/centers-and-facilities/kennedy/50-years-ago-apollo-astronauts-land-take-first-steps-on-moon", "title": "50 Years Ago: Apollo Astronauts Land, Take First Steps on Moon - NASA", "quote": "“Tranquility base here. The Eagle has landed.” Most everyone knows these iconic words spoken by Apollo 11 Commander Neil A. Armstrong after he and fellow crewmate, Lunar Module Pilot Edwin “Buzz” Aldrin , set the lunar module , called Eagle, on the surface of the Moon 50 years ago, on July 20, 1969. Command Module Pilot Michael Collins remained in the command and service module (CSM), called Columbia, orbiting above."}
+    ]
+  },
+  {
+    "id": "library-05-27",
+    "deck": "library",
+    "topic": "Berlin Wall",
+    "q": "On what date was the Berlin Wall opened, marking its fall?",
+    "a": "November 9, 1989",
+    "accept": ["9 November 1989", "Nov 9 1989", "November 9 1989", "11/9/1989"],
+    "wrong": ["August 13, 1961", "October 3, 1990", "December 25, 1991"],
+    "explain": "After a new travel regulation was announced, the border between East and West Berlin was opened on November 9, 1989, ending the Wall's role as a barrier; it had stood since August 13, 1961.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://history.state.gov/milestones/1953-1960/berlin-crises", "title": "The Berlin Crisis, 1958–1961 - Office of the Historian", "quote": "The Berlin Wall remained in place until November 9, 1989, when the border between East and West Berlin was reopened and the wall itself was finally dismantled."},
+      {"url": "https://www.britannica.com/topic/Berlin-Wall", "title": "Berlin Wall | Map, Video, Definition, Length, & Facts | Britannica", "quote": "The border between East and West Germany was opened on November 9, 1989, following anti-government protests in East Germany and the democratization of other eastern and central European states."},
+      {"url": "https://www.stiftung-berliner-mauer.de/en/topics/berlin-wall", "title": "The Berlin Wall | Berlin Wall Foundation", "quote": "The 155-kilometer-long Berlin Wall, which cut through the middle of the city center, surrounded West Berlin from August 13, 1961 to November 9, 1989."}
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vault-05-05",
+    "deck": "vault",
+    "topic": "Calendarization",
+    "q": "In comps analysis, what is the process of standardizing peers' differing fiscal year-ends so their financials cover the same period called?",
+    "a": "Calendarization",
+    "accept": [
+      "calendarisation",
+      "calendarizing",
+      "calendarising"
+    ],
+    "wrong": [
+      "Annualization",
+      "Normalization",
+      "Amortization"
+    ],
+    "explain": "Calendarization aligns the fiscal year-end dates across a peer group; without it, valuation multiples are skewed because performance is spread across different periods.",
+    "hook": "Calendar-ize: line everyone up on the same calendar.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/accounting/calendarization",
+        "title": "Calendarization - Overview, Formula, How it Works",
+        "quote": "The process of standardizing the reporting time periods of financial statements is called calendarization. To make comparable companies “equal,” the financial data of each company must be standardized so that there is a fair basis for comparison."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/calendarization",
+        "title": "Calendarization | Financial Definition + Example",
+        "quote": "To compare the financial data among different companies – particularly in comparable company analysis – it is necessary to align the fiscal year ending dates among the entire peer group."
+      }
+    ]
+  }
+]

@@ -1,0 +1,441 @@
+[
+  {
+    "id": "library-02-01",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/place/ancient-Rome/Romes-foundation-myth",
+      "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome"
+    ]
+  },
+  {
+    "id": "library-02-02",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Romulus-and-Remus",
+      "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome"
+    ]
+  },
+  {
+    "id": "library-02-03",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Romulus-and-Remus",
+      "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome"
+    ]
+  },
+  {
+    "id": "library-02-04",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Tarquin-king-of-Rome-534-509-BC",
+      "https://www.britannica.com/topic/Roman-Republic",
+      "https://www.britannica.com/place/ancient-Rome/Romes-foundation-myth"
+    ]
+  },
+  {
+    "id": "library-02-05",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Roman-Republic",
+      "https://www.metmuseum.org/essays/the-roman-republic"
+    ]
+  },
+  {
+    "id": "library-02-06",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 4,
+    "total": 94,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Explain/hook claims (mutual veto, command of armies) not stated in the opened excerpts of either cited page; add a source stating them or trim to 'two consuls held office for one year'.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Roman-Republic",
+      "https://www.britannica.com/topic/consul-ancient-Roman-official"
+    ]
+  },
+  {
+    "id": "library-02-07",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/summary/Punic-Wars",
+      "https://www.britannica.com/event/Punic-Wars"
+    ]
+  },
+  {
+    "id": "library-02-08",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Punic-Wars",
+      "http://www.metmuseum.org/toah/ht/04/afw.html",
+      "https://www.britannica.com/summary/Punic-Wars"
+    ]
+  },
+  {
+    "id": "library-02-09",
+    "source": 15,
+    "match": 25,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 80,
+    "hardFail": "Date 216 BCE backed by only one cited source: the British Museum quote does not state 216 or Cannae.",
+    "pass": false,
+    "issue": "Replace the British Museum source with one that states Cannae was 216 BCE (e.g. britannica.com/summary/Punic-Wars: \"Battle of Cannae (216)\").",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Battle-of-Cannae"
+    ]
+  },
+  {
+    "id": "library-02-10",
+    "source": 22,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 4,
+    "total": 86,
+    "hardFail": null,
+    "pass": false,
+    "issue": "Only one source cited; explain claim (centre driven in, cavalry wheeling to flank and rear) not found on the opened page. Add a second authoritative source for double envelopment and the tactic description, or trim explain.",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Battle-of-Cannae"
+    ]
+  },
+  {
+    "id": "library-02-11",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Battle-of-Zama-Roman-Carthaginian-history",
+      "http://www.metmuseum.org/toah/ht/04/afw.html"
+    ]
+  },
+  {
+    "id": "library-02-12",
+    "source": 30,
+    "match": 29,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Minor: 'province of Africa' name is not on the cited pages (Met says 'a Roman province'); britannica.com/summary/Punic-Wars states 'Roman province of Africa' and could be cited.",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Punic-Wars",
+      "http://www.metmuseum.org/toah/ht/04/eust.html",
+      "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome"
+    ]
+  },
+  {
+    "id": "library-02-13",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/summary/Julius-Caesar-Roman-ruler",
+      "https://www.britannica.com/today-in-history/January-10-Julius-Caesar-Crosses-the-Rubicon"
+    ]
+  },
+  {
+    "id": "library-02-14",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler",
+      "https://www.metmuseum.org/essays/the-roman-republic",
+      "https://www.britannica.com/summary/Julius-Caesar-Roman-ruler"
+    ]
+  },
+  {
+    "id": "library-02-15",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/summary/Julius-Caesar-Roman-ruler",
+      "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler"
+    ]
+  },
+  {
+    "id": "library-02-16",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Minor: the exact Augustus-Timeline quote with '31 bc' was not visible in the fetched excerpt; britannica.com/summary/Augustus-Roman-emperor ('Battle of Actium in 31') confirms.",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Battle-of-Actium-ancient-Roman-history",
+      "https://www.britannica.com/summary/Augustus-Timeline",
+      "https://www.britannica.com/summary/Augustus-Roman-emperor"
+    ]
+  },
+  {
+    "id": "library-02-17",
+    "source": 30,
+    "match": 30,
+    "unique": 13,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Minor: accept list includes 'Octavius'/'Gaius Octavius' (birth name), which is not the name he is 'usually known' by; consider removing.",
+    "verifiedUrls": [
+      "https://www.britannica.com/summary/Augustus-Roman-emperor",
+      "https://www.britannica.com/summary/Augustus-Timeline"
+    ]
+  },
+  {
+    "id": "library-02-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "https://www.britannica.com/topic/Roman-Republic"
+    ]
+  },
+  {
+    "id": "library-02-19",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/summary/Augustus-Roman-emperor",
+      "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "https://www.britannica.com/summary/Augustus-Timeline"
+    ]
+  },
+  {
+    "id": "library-02-20",
+    "source": 15,
+    "match": 25,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 80,
+    "hardFail": "Second source (Oxford Reference) is paywalled; quote about Titus inaugurating in AD 80 could not be verified, so date/name rest on one opened source.",
+    "pass": false,
+    "issue": "Replace Oxford Reference with an open source stating Titus dedicated it in 80 (e.g. Britannica Timeline of the Roman Empire for 80 CE / 100 days plus another for Titus).",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Colosseum"
+    ]
+  },
+  {
+    "id": "library-02-21",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Hadrians-Wall",
+      "https://www.english-heritage.org.uk/faqs-hadrians-wall"
+    ]
+  },
+  {
+    "id": "library-02-22",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Roman-Empire",
+      "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "https://www.britannica.com/place/Timeline-of-the-Roman-Empire"
+    ]
+  },
+  {
+    "id": "library-02-23",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/place/Istanbul/Constantinople",
+      "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d"
+    ]
+  },
+  {
+    "id": "library-02-24",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Roman-Empire",
+      "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d"
+    ]
+  },
+  {
+    "id": "library-02-25",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 6,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Explain mention of the Code of Justinian is not supported by either cited page; add a source or drop it.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Hagia-Sophia",
+      "https://www.metmuseum.org/essays/hagia-sophia-532-37",
+      "https://www.britannica.com/place/Istanbul/Constantinople"
+    ]
+  },
+  {
+    "id": "library-02-26",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/place/Timeline-of-the-Roman-Empire",
+      "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome"
+    ]
+  },
+  {
+    "id": "library-02-27",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/place/Timeline-of-the-Roman-Empire",
+      "https://www.britannica.com/place/Istanbul/Constantinople",
+      "https://www.metmuseum.org/essays/hagia-sophia-532-37"
+    ]
+  }
+]

@@ -1,0 +1,808 @@
+[
+  {
+    "id": "obs-03-01",
+    "deck": "observatory",
+    "topic": "DNA discovery",
+    "q": "In what year did Watson and Crick publish their double-helix model of DNA in Nature?",
+    "a": "1953",
+    "accept": [],
+    "wrong": [
+      "1944",
+      "1962",
+      "1928"
+    ],
+    "explain": "Watson and Crick's paper revealing the structure was published in Nature on 25 April 1953. They shared the 1962 Nobel Prize with Maurice Wilkins.",
+    "hook": "Publish in '53, prize in '62.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/medicine/1962/speedread/",
+        "title": "The Nobel Prize in Physiology or Medicine 1962 - Speed read",
+        "quote": "Watson and Crick's paper revealing the structure, published in Nature on 25 April 1953, contains perhaps one of scientific literature's most famous understatements"
+      },
+      {
+        "url": "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix",
+        "title": "1953: DNA Double Helix",
+        "quote": "Published in Nature April 25, 1953 ... Watson, Crick and Wilkins received the Nobel Prize for Physiology or Medicine in 1962."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-02",
+    "deck": "observatory",
+    "topic": "DNA discovery",
+    "q": "Which scientist captured the X-ray diffraction image known as 'Photo 51' that revealed DNA's helical shape?",
+    "a": "Rosalind Franklin",
+    "accept": [
+      "Franklin"
+    ],
+    "wrong": [
+      "Maurice Wilkins",
+      "Linus Pauling",
+      "Erwin Chargaff"
+    ],
+    "explain": "In 1952 Rosalind Franklin used X-ray diffraction to capture Photo 51; Watson and Crick used her data to piece together the double helix.",
+    "hook": "Photo 51 = Franklin's photo.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/science/DNA",
+        "title": "DNA | Britannica",
+        "quote": "In 1952, scientist Rosalind Franklin, using X-ray diffraction, captured her famous “Photo 51,” which revealed the helical shape of DNA."
+      },
+      {
+        "url": "https://openstax.org/books/concepts-biology/pages/9-1-the-structure-of-dna",
+        "title": "9.1 The Structure of DNA - Concepts of Biology | OpenStax",
+        "quote": "Scientist Rosalind Franklin discovered the X-ray diffraction pattern of DNA, which helped to elucidate its double helix structure."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-03",
+    "deck": "observatory",
+    "topic": "DNA structure",
+    "q": "In DNA, the base adenine always pairs with which base?",
+    "a": "Thymine",
+    "accept": [
+      "T"
+    ],
+    "wrong": [
+      "Guanine",
+      "Cytosine",
+      "Uracil"
+    ],
+    "explain": "In the double helix, A always pairs with T and C always pairs with G, held together by hydrogen bonds.",
+    "hook": "A-T and C-G: straight letters (A, T) pair; curvy letters (C, G) pair.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix",
+        "title": "1953: DNA Double Helix",
+        "quote": "The nucleotide bases use hydrogen bonds to pair specifically, with an A always opposing a T, and a C always opposing a G."
+      },
+      {
+        "url": "https://profiles.nlm.nih.gov/spotlight/sc/feature/biographical-overview",
+        "title": "Biographical Overview | Francis Crick - Profiles in Science - NIH",
+        "quote": "so that adenine was always paired with thymine and guanine with cytosine."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-04",
+    "deck": "observatory",
+    "topic": "DNA discovery",
+    "q": "Which biochemist showed in the late 1940s that the amount of adenine in DNA roughly equals the amount of thymine?",
+    "a": "Erwin Chargaff",
+    "accept": [
+      "Chargaff"
+    ],
+    "wrong": [
+      "Friedrich Miescher",
+      "Oswald Avery",
+      "Linus Pauling"
+    ],
+    "explain": "Chargaff showed that adenine roughly equals thymine and guanine roughly equals cytosine, findings that later helped determine DNA's double-helical structure.",
+    "hook": "Chargaff's rules: A = T, G = C.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/science/DNA",
+        "title": "DNA | Britannica",
+        "quote": "In the late 1940s, biochemist Erwin Chargaff showed that the amount of adenine in DNA roughly equals the amount of thymine, and the amount of guanine roughly equals that of cytosine—findings that later helped scientists determine DNA's double-helical structure."
+      },
+      {
+        "url": "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix",
+        "title": "1953: DNA Double Helix",
+        "quote": "In the DNA of any given type of cell, the amount of adenine approximately equals the amount of thymine, while the amount of cytosine approximately equals the amount of guanine. Erwin Chargaff had shown this in 1949."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-05",
+    "deck": "observatory",
+    "topic": "Cells",
+    "q": "Which cell organelles generate most of the chemical energy (ATP) that powers the cell?",
+    "a": "Mitochondria",
+    "accept": [
+      "Mitochondrion",
+      "Mitochondrium"
+    ],
+    "wrong": [
+      "Ribosomes",
+      "Golgi apparatus",
+      "Nucleus"
+    ],
+    "explain": "Mitochondria are membrane-bound organelles whose energy is stored in adenosine triphosphate (ATP); they also contain their own small chromosomes.",
+    "hook": "Mighty mitochondria make the energy.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Mitochondria",
+        "title": "Mitochondria | NHGRI",
+        "quote": "Mitochondria are membrane-bound cell organelles (mitochondrion, singular) that generate most of the chemical energy needed to power the cell's biochemical reactions. Chemical energy produced by the mitochondria is stored in a small molecule called adenosine triphosphate (ATP)."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-06",
+    "deck": "observatory",
+    "topic": "Cells",
+    "q": "Which English scientist first used the word 'cell' to name the tiny cavities he saw in cork under a microscope?",
+    "a": "Robert Hooke",
+    "accept": [
+      "Hooke"
+    ],
+    "wrong": [
+      "Isaac Newton",
+      "William Harvey",
+      "Charles Darwin"
+    ],
+    "explain": "Hooke described the honeycomb cavities in cork in his book Micrographia, contributing to the history of cell theory.",
+    "hook": "Hooke hooked the word 'cell'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Robert-Hooke",
+        "title": "Robert Hooke | Britannica",
+        "quote": "In 1665 Robert Hooke published what would become his most famous work, Micrographia (”Small Drawings”). In it he included his studies and illustrations of the crystal structure of snowflakes and first used the word cell to name the microscopic honeycomb cavities in cork."
+      },
+      {
+        "url": "https://royalsocietypublishing.org/rsnr/article/80/1/37/116621/The-cells-of-Robert-Hooke-wombs-brains-and",
+        "title": "The cells of Robert Hooke | Notes and Records | The Royal Society",
+        "quote": "Robert Hooke (1635–1703) is commonly credited for introducing the term cell into biology when describing the microscopic structure of plant tissues in his Micrographia of 1665."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-07",
+    "deck": "observatory",
+    "topic": "Cells",
+    "q": "In what year did Robert Hooke publish Micrographia, the book in which he named cells?",
+    "a": "1665",
+    "accept": [],
+    "wrong": [
+      "1543",
+      "1609",
+      "1735"
+    ],
+    "explain": "Hooke's Micrographia (1665) reported his microscope observations, including the cavities in cork that he called cells.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Robert-Hooke",
+        "title": "Robert Hooke | Britannica",
+        "quote": "In 1665 Robert Hooke published what would become his most famous work, Micrographia"
+      },
+      {
+        "url": "https://royalsocietypublishing.org/rsnr/article/80/1/37/116621/The-cells-of-Robert-Hooke-wombs-brains-and",
+        "title": "The cells of Robert Hooke | Notes and Records | The Royal Society",
+        "quote": "He reported his observations of the microscopic structure of living and non-living materials in Micrographia, a book published in 1665."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-08",
+    "deck": "observatory",
+    "topic": "Organs",
+    "q": "What is the largest internal organ in the human body?",
+    "a": "Liver",
+    "accept": [
+      "The liver"
+    ],
+    "wrong": [
+      "Spleen",
+      "Pancreas",
+      "Kidney"
+    ],
+    "explain": "The liver is the largest internal organ; counting all organs, the skin is the largest.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://my.clevelandclinic.org/health/articles/organs-in-the-body",
+        "title": "Organs in the Body | Cleveland Clinic",
+        "quote": "The largest body organ you have is your skin. It makes up about 15% of your total body weight. But for just your internal organs, the largest is your liver."
+      },
+      {
+        "url": "https://my.clevelandclinic.org/health/body/21481-liver",
+        "title": "Liver | Cleveland Clinic",
+        "quote": "Your liver is the largest internal organ in your body and one of the only organs that can regenerate itself."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-09",
+    "deck": "observatory",
+    "topic": "Heart",
+    "q": "How many chambers does the human heart have?",
+    "a": "4",
+    "accept": [
+      "Four"
+    ],
+    "wrong": [
+      "2",
+      "3",
+      "6"
+    ],
+    "explain": "The heart has two upper chambers (atria) and two lower chambers (ventricles).",
+    "hook": "Two atria up top, two ventricles below.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.cdc.gov/heart-defects/how-the-heart-works/index.html",
+        "title": "How the Heart Works | CDC",
+        "quote": "The heart has four chambers (two atria and two ventricles)."
+      },
+      {
+        "url": "https://www.nhlbi.nih.gov/health/heart/anatomy",
+        "title": "How the Heart Works - What the Heart Looks Like | NHLBI, NIH",
+        "quote": "It has four hollow chambers surrounded by muscle and other heart tissue."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-10",
+    "deck": "observatory",
+    "topic": "Heart",
+    "q": "Which heart chamber pumps oxygen-rich blood into the aorta and out to the rest of the body?",
+    "a": "Left ventricle",
+    "accept": [
+      "LV",
+      "The left ventricle"
+    ],
+    "wrong": [
+      "Right ventricle",
+      "Left atrium",
+      "Right atrium"
+    ],
+    "explain": "Oxygen-rich blood from the lungs enters the left atrium, passes to the left ventricle, and is pumped through the aortic valve into the aorta.",
+    "hook": "Left = leaves for the body.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.cdc.gov/heart-defects/how-the-heart-works/index.html",
+        "title": "How the Heart Works | CDC",
+        "quote": "The left ventricle (LV) pumps the oxygen-rich blood through the aortic valve (AoV) into the aorta (Ao), the main artery that takes oxygen-rich blood out to the rest of the body."
+      },
+      {
+        "url": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+        "title": "How the Heart Works - How Blood Flows through the Heart | NHLBI, NIH",
+        "quote": "The oxygen-rich blood from the lungs then enters the left atrium and is pumped to the left ventricle. The left ventricle generates the high pressure needed to pump the blood to your whole body through your blood vessels."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-11",
+    "deck": "observatory",
+    "topic": "Heart",
+    "q": "What is the name of the heart's main natural pacemaker?",
+    "a": "Sinoatrial node",
+    "accept": [
+      "SA node",
+      "Sinus node",
+      "Sinoatrial (SA) node",
+      "Sino-atrial node"
+    ],
+    "wrong": [
+      "Mitral valve",
+      "Pericardium",
+      "Coronary sinus"
+    ],
+    "explain": "The sinus (sinoatrial) node sits where the superior vena cava meets the right atrium and rhythmically generates the electrical signal that triggers each heartbeat.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK470256",
+        "title": "Anatomy, Thorax, Heart - StatPearls - NCBI Bookshelf",
+        "quote": "The sinus node, which is the main pacemaker of the heart, is situated at the junction of the superior vena cava and the right atrium. It rhythmically generates an electrical discharge about 70 times a minute."
+      },
+      {
+        "url": "https://kids.britannica.com/students/article/muscle/275991",
+        "title": "muscle - Students | Britannica Kids",
+        "quote": "Contraction originates with an electric impulse in a natural pacemaker called the sinoatrial node, located within the heart itself."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-12",
+    "deck": "observatory",
+    "topic": "Heart",
+    "q": "Which heart valve separates the right atrium from the right ventricle?",
+    "a": "Tricuspid valve",
+    "accept": [
+      "Tricuspid"
+    ],
+    "wrong": [
+      "Mitral valve",
+      "Aortic valve",
+      "Pulmonary valve"
+    ],
+    "explain": "The heart has four valves: tricuspid (right atrium/right ventricle), mitral (left atrium/left ventricle), pulmonary and aortic.",
+    "hook": "Try before you buy: Tricuspid on the right, bicuspid (mitral) on the left.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+        "title": "How the Heart Works - How Blood Flows through the Heart | NHLBI, NIH",
+        "quote": "The tricuspid valve separates the right atrium and right ventricle. The mitral valve separates the left atrium and left ventricle."
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK279249",
+        "title": "In brief: How does the heart work? - InformedHealth.org - NCBI Bookshelf",
+        "quote": "the tricuspid valve between the right atrium and the right ventricle"
+      }
+    ]
+  },
+  {
+    "id": "obs-03-13",
+    "deck": "observatory",
+    "topic": "Muscle types",
+    "q": "Which of the three muscle types is found in the walls of hollow internal organs such as the stomach and bladder?",
+    "a": "Smooth muscle",
+    "accept": [
+      "Smooth",
+      "Visceral muscle"
+    ],
+    "wrong": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Striated muscle"
+    ],
+    "explain": "The three muscle types are skeletal, smooth and cardiac. Smooth muscle lines hollow organs and blood vessels and works involuntarily.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://training.seer.cancer.gov/anatomy/muscular/types.html",
+        "title": "Muscle Types - SEER Training Modules",
+        "quote": "Smooth muscle, found in the walls of the hollow internal organs such as blood vessels, the gastrointestinal tract, bladder, and uterus, is under control of the autonomic nervous system."
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK607446",
+        "title": "Chapter 14 Muscular System Terminology - NCBI Bookshelf",
+        "quote": "Walls of hollow organs, like the urinary bladder, uterus, stomach, and intestines, where muscle contractions cause the movement of fluids and other substances"
+      }
+    ]
+  },
+  {
+    "id": "obs-03-14",
+    "deck": "observatory",
+    "topic": "Strength training",
+    "q": "What is the term for the growth of muscle through an increase in the size of existing muscle fibers?",
+    "a": "Hypertrophy",
+    "accept": [
+      "Muscle hypertrophy"
+    ],
+    "wrong": [
+      "Atrophy",
+      "Hyperplasia",
+      "Hypoxia"
+    ],
+    "explain": "Muscles adapt to increasing training loads with muscle fiber hypertrophy, an increase in fiber size rather than number (an increase in number is hyperplasia).",
+    "hook": "Hyper-trophy: extra growth.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482280/",
+        "title": "Exercise Physiology - StatPearls - NCBI Bookshelf",
+        "quote": "Muscles adapt to increasing loads over time through exercise training, resulting in muscle fiber hypertrophy and increased muscle diameter and volume."
+      },
+      {
+        "url": "https://journals.physiology.org/doi/full/10.1152/physrev.00039.2022",
+        "title": "Mechanisms of mechanical overload-induced skeletal muscle hypertrophy | Physiological Reviews",
+        "quote": "Glass (906) defined skeletal muscle hypertrophy in adults as an increase in muscle mass, which manifests as an increase in the size, as opposed to the number, of preexisting skeletal myofibers."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-15",
+    "deck": "observatory",
+    "topic": "VO2 max",
+    "q": "VO2 max measures the maximum rate of what during intense exercise?",
+    "a": "Oxygen consumption",
+    "accept": [
+      "Oxygen uptake",
+      "Oxygen use",
+      "Oxygen",
+      "O2 consumption",
+      "O2 uptake"
+    ],
+    "wrong": [
+      "Heart rate",
+      "Lactate clearance",
+      "Carbon dioxide output"
+    ],
+    "explain": "VO2 max, or maximal oxygen consumption, is the maximum amount of oxygen a person can use during maximal exercise and is considered the best indicator of cardiovascular fitness.",
+    "hook": "V = volume, O2 = oxygen, max = maximum.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://med.virginia.edu/research/core/exercise-physiology-core-laboratory/fitness-assessment-for-community-members/vo2-max-testing",
+        "title": "VO2 Max Testing | University of Virginia School of Medicine",
+        "quote": "VO2 max, or maximal oxygen consumption, refers to the maximum amount of oxygen that an individual can utilize during intense or maximal exercise. This measurement is generally considered the best indicator of cardiovascular fitness and aerobic endurance."
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482280/",
+        "title": "Exercise Physiology - StatPearls - NCBI Bookshelf",
+        "quote": "VO2 max measures aerobic exercise capacity at peak exercise, which is the highest O2 uptake rate an individual can maintain during intense activity."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-16",
+    "deck": "observatory",
+    "topic": "VO2 max",
+    "q": "When adjusted for body weight, in what units is VO2 max typically expressed?",
+    "a": "mL/kg/min",
+    "accept": [
+      "ml/kg/min",
+      "ml/kg/minute",
+      "milliliters per kilogram per minute",
+      "mL/kg/minute"
+    ],
+    "wrong": [
+      "mg/dL",
+      "mmHg",
+      "beats/min"
+    ],
+    "explain": "VO2 max is typically given as milliliters of oxygen consumed per kilogram of body weight per minute of exercise.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.harvardhealth.org/healthy-aging-and-longevity/vo2-max-what-is-it-and-how-can-you-improve-it",
+        "title": "VO2 max: What is it and how can you improve it? - Harvard Health",
+        "quote": "Typically, VO2 max is measured as ml/kg/minute (milliliters of oxygen consumed per kilogram of body weight per minute of exercise)."
+      },
+      {
+        "url": "https://health.clevelandclinic.org/what-is-vo2-max-and-how-to-calculate-it",
+        "title": "VO2 Max: How To Measure and Improve It | Cleveland Clinic",
+        "quote": "VO2 max is expressed as a number showing how many milliliters of oxygen your body uses per kilogram of body weight per minute of exercise. (Yeah … it's a mouthful.) Officially, it is shown as mL/kg/min."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-17",
+    "deck": "observatory",
+    "topic": "Cardio guidelines",
+    "q": "Per CDC guidelines, how many minutes of moderate-intensity aerobic activity do adults need each week?",
+    "a": "150",
+    "accept": [
+      "150 minutes"
+    ],
+    "wrong": [
+      "60",
+      "90",
+      "300"
+    ],
+    "explain": "Adults need 150 minutes of moderate-intensity activity a week (for example, 30 minutes a day, 5 days a week), or 75 minutes of vigorous-intensity activity.",
+    "hook": "30 minutes x 5 days = 150.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+        "title": "Adult Activity: An Overview | CDC",
+        "quote": "Adults need at least 150 minutes of moderate-intensity physical activity a week, such as 30 minutes a day, 5 days a week."
+      },
+      {
+        "url": "https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html",
+        "title": "What Counts as Physical Activity for Adults | CDC",
+        "quote": "Each week, adults should aim for 150 minutes of moderate-intensity activity, or 75 minutes of vigorous-intensity activity, or an equivalent combination."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-18",
+    "deck": "observatory",
+    "topic": "Resistance training guidelines",
+    "q": "Per CDC guidelines, on at least how many days per week should adults do muscle-strengthening activity?",
+    "a": "2",
+    "accept": [
+      "Two",
+      "2 days"
+    ],
+    "wrong": [
+      "1",
+      "4",
+      "7"
+    ],
+    "explain": "In addition to aerobic activity, adults need at least 2 days a week of muscle-strengthening activity that works all major muscle groups.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+        "title": "Adult Activity: An Overview | CDC",
+        "quote": "In addition, adults need at least 2 days of muscle-strengthening activity each week."
+      },
+      {
+        "url": "https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html",
+        "title": "What Counts as Physical Activity for Adults | CDC",
+        "quote": "In addition to moderate or vigorous aerobic activity, you need to work at least 2 days a week to make your muscles stronger."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-19",
+    "deck": "observatory",
+    "topic": "Sleep",
+    "q": "Per the CDC, what is the minimum number of hours of sleep per night recommended for adults aged 18 to 60?",
+    "a": "7",
+    "accept": [
+      "Seven",
+      "7 hours"
+    ],
+    "wrong": [
+      "5",
+      "6",
+      "10"
+    ],
+    "explain": "The CDC recommends 7 or more hours of sleep for adults aged 18 to 60.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.cdc.gov/sleep/about/index.html",
+        "title": "About Sleep | CDC",
+        "quote": "Adult 18–60 years 7 or more hours"
+      },
+      {
+        "url": "https://health.nih.gov/health-topics-a-z/healthy-sleep",
+        "title": "Healthy Sleep | NIH",
+        "quote": "Adults (18–60 years) | 7 or more hours per night"
+      }
+    ]
+  },
+  {
+    "id": "obs-03-20",
+    "deck": "observatory",
+    "topic": "Sleep",
+    "q": "In which type of sleep does most dreaming occur?",
+    "a": "REM sleep",
+    "accept": [
+      "REM",
+      "Rapid eye movement sleep",
+      "Rapid eye movement"
+    ],
+    "wrong": [
+      "Stage 1 non-REM sleep",
+      "Stage 2 non-REM sleep",
+      "Stage 3 non-REM sleep"
+    ],
+    "explain": "Most dreaming occurs during REM (rapid eye movement) sleep, when arm and leg muscles become temporarily paralyzed so you do not act out your dreams.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep",
+        "title": "Brain Basics: Understanding Sleep | NINDS",
+        "quote": "Most of your dreaming occurs during REM sleep, although some can also occur in non-REM sleep. Your arm and leg muscles become temporarily paralyzed, which prevents you from acting out your dreams."
+      },
+      {
+        "url": "https://www.nichd.nih.gov/health/topics/factsheets/sleep",
+        "title": "Sleep | NICHD",
+        "quote": "Dreams are generally most vivid during REM sleep, but dreaming can also occur during non-REM sleep."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-21",
+    "deck": "observatory",
+    "topic": "Sleep",
+    "q": "About how many minutes after falling asleep does the first period of REM sleep usually occur?",
+    "a": "90",
+    "accept": [
+      "90 minutes",
+      "Ninety"
+    ],
+    "wrong": [
+      "10",
+      "30",
+      "240"
+    ],
+    "explain": "REM sleep first occurs about 90 minutes after falling asleep, and REM periods get longer later in the night.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep",
+        "title": "Brain Basics: Understanding Sleep | NINDS",
+        "quote": "REM sleep first occurs about 90 minutes after falling asleep."
+      },
+      {
+        "url": "https://www.nichd.nih.gov/health/topics/factsheets/sleep",
+        "title": "Sleep | NICHD",
+        "quote": "You first enter REM sleep about 90 minutes after you fall asleep. REM sleep becomes longer later into the night."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-22",
+    "deck": "observatory",
+    "topic": "Vitamins",
+    "q": "A deficiency of which vitamin causes scurvy?",
+    "a": "Vitamin C",
+    "accept": [
+      "C",
+      "Ascorbic acid"
+    ],
+    "wrong": [
+      "Vitamin D",
+      "Vitamin B1",
+      "Vitamin K"
+    ],
+    "explain": "Vitamin C deficiency impairs collagen synthesis, weakening connective tissue; in the mid-1700s James Lind found that citrus fruits could cure scurvy.",
+    "hook": "C for citrus, C for scurvy.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional",
+        "title": "Vitamin C - Health Professional Fact Sheet | NIH ODS",
+        "quote": "Vitamin C deficiency causes scurvy, but this condition is rare in developed countries. ... The lack of vitamin C impairs collagen synthesis, weakening connective tissues."
+      },
+      {
+        "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional?print=1",
+        "title": "Vitamin C - Health Professional Fact Sheet (print) | NIH ODS",
+        "quote": "During the mid-1700s, Sir James Lind, a British Navy surgeon, conducted experiments and determined that eating citrus fruits or juices could cure scurvy"
+      }
+    ]
+  },
+  {
+    "id": "obs-03-23",
+    "deck": "observatory",
+    "topic": "Vitamins",
+    "q": "Which vitamin is essential for blood clotting?",
+    "a": "Vitamin K",
+    "accept": [
+      "K"
+    ],
+    "wrong": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin B12"
+    ],
+    "explain": "Vitamin K is needed to make proteins involved in blood clotting, such as prothrombin; bleeding and hemorrhage are the classic signs of severe deficiency.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://ods.od.nih.gov/factsheets/VitaminK-Consumer",
+        "title": "Vitamin K - Consumer | NIH ODS",
+        "quote": "Vitamin K is a nutrient that the body needs to stay healthy. It's important for blood clotting and healthy bones and also has other functions in the body."
+      },
+      {
+        "url": "https://ods.od.nih.gov/factsheets/vitaminK-HealthProfessional",
+        "title": "Vitamin K - Health Professional Fact Sheet | NIH ODS",
+        "quote": "Prothrombin (clotting factor II) is a vitamin K-dependent protein in plasma that is directly involved in blood clotting. ... Thus, bleeding and hemorrhage are the classic signs of vitamin K deficiency"
+      }
+    ]
+  },
+  {
+    "id": "obs-03-24",
+    "deck": "observatory",
+    "topic": "Penicillin",
+    "q": "In what year did Alexander Fleming discover penicillin?",
+    "a": "1928",
+    "accept": [],
+    "wrong": [
+      "1918",
+      "1939",
+      "1945"
+    ],
+    "explain": "Fleming noticed in 1928 that a mold contaminating a Staphylococcus culture plate had inhibited bacterial growth; he shared the 1945 Nobel Prize with Florey and Chain.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Alexander-Fleming",
+        "title": "Alexander Fleming | Britannica",
+        "quote": "Scottish bacteriologist Alexander Fleming is best known for his discovery of penicillin in 1928, which started the antibiotic revolution. For his discovery of penicillin, he was awarded a share of the 1945 Nobel Prize for Physiology or Medicine."
+      },
+      {
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "title": "Alexander Fleming Discovery and Development of Penicillin - ACS Landmark",
+        "quote": "But it was not until 1928 that penicillin, the first true antibiotic, was discovered by Alexander Fleming, Professor of Bacteriology at St. Mary's Hospital in London."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-25",
+    "deck": "observatory",
+    "topic": "Penicillin",
+    "q": "To which genus did the mold that Fleming found producing penicillin belong?",
+    "a": "Penicillium",
+    "accept": [
+      "Penicillium notatum"
+    ],
+    "wrong": [
+      "Aspergillus",
+      "Rhizopus",
+      "Mucor"
+    ],
+    "explain": "The contaminating mold was later identified as Penicillium notatum (now classified as P. chrysogenum).",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Alexander-Fleming",
+        "title": "Alexander Fleming | Britannica",
+        "quote": "The mold, later identified as Penicillium notatum (now classified as P. chrysogenum), had inhibited the growth of the bacteria."
+      },
+      {
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "title": "Alexander Fleming Discovery and Development of Penicillin - ACS Landmark",
+        "quote": "The zone immediately around the mold—later identified as a rare strain of Penicillium notatum—was clear, as if the mold had secreted something that inhibited bacterial growth."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-26",
+    "deck": "observatory",
+    "topic": "Vaccines",
+    "q": "In what year did Edward Jenner first inoculate James Phipps with cowpox to protect against smallpox?",
+    "a": "1796",
+    "accept": [],
+    "wrong": [
+      "1721",
+      "1885",
+      "1901"
+    ],
+    "explain": "In May 1796 Jenner inoculated 8-year-old James Phipps with cowpox matter from milkmaid Sarah Nelmes; the term 'vaccine' comes from vacca, Latin for cow.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.who.int/news-room/spotlight/history-of-vaccination/a-brief-history-of-vaccination",
+        "title": "A Brief History of Vaccination | WHO",
+        "quote": "In May 1796, English physician Edward Jenner expands on this discovery and inoculates 8-year-old James Phipps with matter collected from a cowpox sore on the hand of a milkmaid. ... The term 'vaccine' is later coined, taken from the Latin word for cow, vacca."
+      },
+      {
+        "url": "https://www.britannica.com/science/smallpox-vaccine",
+        "title": "Smallpox vaccine | Britannica",
+        "quote": "The smallpox vaccine was introduced in 1796 by English physician Edward Jenner."
+      },
+      {
+        "url": "https://www.cdc.gov/smallpox/about/history.html",
+        "title": "History of Smallpox | CDC",
+        "quote": "The basis for vaccination began in 1796 when the English doctor Edward Jenner noticed that milkmaids who had gotten cowpox were protected from smallpox."
+      }
+    ]
+  },
+  {
+    "id": "obs-03-27",
+    "deck": "observatory",
+    "topic": "Vaccines",
+    "q": "In what year was Jonas Salk's inactivated polio vaccine licensed for use in the United States?",
+    "a": "1955",
+    "accept": [],
+    "wrong": [
+      "1921",
+      "1948",
+      "1961"
+    ],
+    "explain": "Salk's inactivated polio vaccine was licensed on 12 April 1955, the same day trial results showing it was safe and effective were announced.",
+    "hook": "Salk '55.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-polio-vaccination",
+        "title": "History of polio vaccination | WHO",
+        "quote": "The results were announced on 12 April 1955, and Salk's inactivated polio vaccine (IPV) was licensed on the same day."
+      },
+      {
+        "url": "https://www.britannica.com/biography/Jonas-Salk",
+        "title": "Jonas Salk | Britannica",
+        "quote": "The Salk polio vaccine was licensed for public use in the United States on April 12, 1955, immediately following the announcement that it was safe and effective after a nationwide clinical trial"
+      }
+    ]
+  }
+]

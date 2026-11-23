@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vault-07-22",
+    "deck": "vault",
+    "topic": "Stub period",
+    "q": "When a DCF is valued partway through a year, what is the partial interval from the valuation date to year-end called?",
+    "a": "Stub period",
+    "accept": [
+      "stub",
+      "the stub period"
+    ],
+    "wrong": [
+      "Terminal period",
+      "Look-back period",
+      "Lock-up period"
+    ],
+    "explain": "A stub period arises when the valuation date is not the start of a fiscal year; its discount period is the remaining days of the year divided by the total days in the year.",
+    "hook": "A stub is the leftover piece of the year.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf",
+        "title": "Mid-Year Convention DCF and Mid-Year Discounting",
+        "quote": "This interval between April 30 and December 31 is called the stub period . To determine the discount period for this stub period , you take the remaining days of the year and divide by the total days in the year."
+      },
+      {
+        "url": "https://www.oxxonadvisors.com/fmae-knowledge-centre/technical-guides/mid-year-convention-and-stub-periods-in-dcf",
+        "title": "Mid-Year Convention and Stub Periods in DCF — Knowledge Centre — Oxxon Advisors",
+        "quote": "A stub period arises whenever the valuation date does not fall exactly at the start of a fiscal year — for example, a valuation as of 1 April requires the first forecast \"period\" to cover only 1 April to 31 December of that year, nine months rather than a full twelve."
+      }
+    ]
+  },
+  {
+    "id": "vault-07-23",
+    "deck": "vault",
+    "topic": "Stub period",
+    "q": "When combining a stub period with the mid-year convention, the first-year discount period equals the stub fraction divided by what?",
+    "a": "2",
+    "accept": [
+      "two",
+      "divided by 2",
+      "half"
+    ],
+    "wrong": [
+      "4",
+      "12",
+      "365"
+    ],
+    "explain": "Cash flow is assumed to arrive midway between the valuation date and year-end; later periods use the normal discount period minus 0.5, not another halving.",
+    "hook": "Halve only the first stub.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf",
+        "title": "Mid-Year Convention DCF and Mid-Year Discounting",
+        "quote": "If you do this, the first discount period will be the stub period fraction divided by 2."
+      },
+      {
+        "url": "https://stablebread.com/mid-year-convention-stub-periods",
+        "title": "How to Apply Mid-Year Convention and Stub Periods in Discounted Cash Flow Valuation Models | StableBread",
+        "quote": "In the first projected year (year 1), calculate the mid-year stub discount period by halving the stub discount period (0.252), resulting in 0.126 (0.252 / 2)."
+      },
+      {
+        "url": "https://www.oxxonadvisors.com/fmae-knowledge-centre/technical-guides/mid-year-convention-and-stub-periods-in-dcf",
+        "title": "Mid-Year Convention and Stub Periods in DCF — Knowledge Centre — Oxxon Advisors",
+        "quote": "Mid-year stub discount factor:    DF_stub = 1 / (1 + r)^(stub fraction / 2)"
+      }
+    ]
+  }
+]

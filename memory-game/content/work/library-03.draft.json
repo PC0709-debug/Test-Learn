@@ -1,0 +1,435 @@
+[
+  {
+    "id": "library-03-01",
+    "deck": "library",
+    "topic": "Charlemagne",
+    "q": "In what year was Charlemagne crowned emperor in Rome?",
+    "a": "800",
+    "accept": ["800 AD", "AD 800", "800 CE"],
+    "wrong": ["768", "814", "962"],
+    "explain": "Pope Leo III crowned Charlemagne \"emperor of the Romans\" at St. Peter's on Christmas Day 800, restoring the Roman Empire in the West for the first time since the 5th century.",
+    "hook": "Christmas 800: a round number for a fresh empire.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Charlemagne", "title": "Charlemagne | Britannica", "quote": "Charlemagne was crowned “emperor of the Romans” by Pope Leo III in 800 CE, thus restoring the Roman Empire in the West for the first time since its dissolution in the 5th century."},
+      {"url": "https://www.aachenerdom.de/en/a-place-of-history/charlemagne", "title": "Charlemagne - Aachener Dom", "quote": "As the culmination of his political ambitions, he was crowned emperor by Pope Leo III in Rome at Christmas in the year 800."}
+    ]
+  },
+  {
+    "id": "library-03-02",
+    "deck": "library",
+    "topic": "Charlemagne",
+    "q": "Which pope crowned Charlemagne emperor?",
+    "a": "Leo III",
+    "accept": ["Pope Leo III", "Saint Leo III", "Leo 3"],
+    "wrong": ["Gregory VII", "Urban II", "Innocent III"],
+    "explain": "Two days after purging himself of charges in Charlemagne's presence, Leo III crowned him at St. Peter's Basilica on December 25, 800.",
+    "hook": "Leo the lion crowns Charles the Great.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Saint-Leo-III", "title": "Saint Leo III | Britannica", "quote": "Two days later, at a large gathering in St. Peter’s Basilica for the consecration of Charlemagne’s son (Louis I the Pious) as king, Leo suddenly crowned Charlemagne as emperor."},
+      {"url": "https://www.aachenerdom.de/en/a-place-of-history/charlemagne", "title": "Charlemagne - Aachener Dom", "quote": "As the culmination of his political ambitions, he was crowned emperor by Pope Leo III in Rome at Christmas in the year 800."}
+    ]
+  },
+  {
+    "id": "library-03-03",
+    "deck": "library",
+    "topic": "Charlemagne",
+    "q": "In which city did Charlemagne establish his capital and build his palace?",
+    "a": "Aachen",
+    "accept": ["Aix-la-Chapelle"],
+    "wrong": ["Paris", "Vienna", "Ravenna"],
+    "explain": "Charlemagne made Aachen (Aix-la-Chapelle, now in Germany) his capital, built a magnificent palace there, and died there in 814.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/summary/Charlemagne", "title": "Charlemagne summary | Britannica", "quote": "Charlemagne established his capital at Aachen (Aix-la-Chapelle), where he built a magnificent palace."},
+      {"url": "https://www.aachenerdom.de/en/a-place-of-history/charlemagne", "title": "Charlemagne - Aachener Dom", "quote": "Aachen’s importance increased when Charlemagne decided to expand his father’s existing estate and make it his main residence. For a short period of time, little Aachen became the political centre of the largest empire that had developed on European soil since the end of the Roman Empire."}
+    ]
+  },
+  {
+    "id": "library-03-04",
+    "deck": "library",
+    "topic": "Magna Carta",
+    "q": "In what year was Magna Carta sealed?",
+    "a": "1215",
+    "accept": [],
+    "wrong": ["1066", "1265", "1314"],
+    "explain": "King John set his seal to Magna Carta on 15 June 1215 under pressure from rebellious barons; it established that the ruler is subject to the law.",
+    "hook": "12-15: June 15, 1215.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/medieval/magna-carta", "title": "Magna Carta - The National Archives", "quote": "King John and the barons famously sealed their agreement, later known as ‘Magna Carta’, at Runnymede on 15 June 1215."},
+      {"url": "https://www.britannica.com/topic/Magna-Carta", "title": "Magna Carta | Britannica", "quote": "Much explosive material is set out in the Magna Carta, which was sealed by King John “in the meadow called Ronimed between Windsor and Staines on the fifteenth day of June in the seventeenth year of our reign.”"}
+    ]
+  },
+  {
+    "id": "library-03-05",
+    "deck": "library",
+    "topic": "Magna Carta",
+    "q": "Which English king sealed Magna Carta?",
+    "a": "King John",
+    "accept": ["John", "John of England"],
+    "wrong": ["Henry II", "Richard I", "Edward I"],
+    "explain": "Rebel barons forced King John to accept Magna Carta in June 1215; he soon had the pope declare it null and void, and civil war followed.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/medieval/magna-carta", "title": "Magna Carta - The National Archives", "quote": "Its emphasis on liberty – and the principle that the ruler is subject to the law – has resonated down the ages since it was sealed by King John in 1215."},
+      {"url": "https://www.nationalarchives.gov.uk/education/resources/magna-carta/british-library-magna-carta-1215-runnymede", "title": "Magna Carta 1214–1225 - The National Archives", "quote": "By adding his seal to Magna Carta on 15 June 1215, King John forever changed the nature of kingship in England."},
+      {"url": "https://www.britannica.com/topic/Magna-Carta", "title": "Magna Carta | Britannica", "quote": "Much explosive material is set out in the Magna Carta, which was sealed by King John “in the meadow called Ronimed between Windsor and Staines on the fifteenth day of June in the seventeenth year of our reign.”"}
+    ]
+  },
+  {
+    "id": "library-03-06",
+    "deck": "library",
+    "topic": "Magna Carta",
+    "q": "At which meadow beside the River Thames was Magna Carta sealed?",
+    "a": "Runnymede",
+    "accept": ["Runnymede meadow"],
+    "wrong": ["Westminster", "Hastings", "Bosworth Field"],
+    "explain": "Magna Carta was given \"in the meadow that is called Runnymede, between Windsor and Staines\" on 15 June 1215.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.nationalarchives.gov.uk/education/resources/magna-carta/british-library-magna-carta-1215-runnymede", "title": "Magna Carta 1214–1225 - The National Archives", "quote": "Given by our hand in the meadow that is called Runnymede, between Windsor and Staines, on the fifteenth day of June in the seventeenth year of our reign (i.e. 1215: the new regnal year began on 28 May)."},
+      {"url": "https://www.britannica.com/topic/Magna-Carta", "title": "Magna Carta | Britannica", "quote": "The Magna Carta (“Great Charter”) is a document guaranteeing English political liberties that was drafted at Runnymede , a meadow by the River Thames"}
+    ]
+  },
+  {
+    "id": "library-03-07",
+    "deck": "library",
+    "topic": "Black Death",
+    "q": "Which bacterium is believed to have caused the Black Death?",
+    "a": "Yersinia pestis",
+    "accept": ["Y. pestis", "Y pestis"],
+    "wrong": ["Vibrio cholerae", "Mycobacterium tuberculosis", "Salmonella typhi"],
+    "explain": "The Black Death is widely believed to have been plague caused by Yersinia pestis, likely spread to humans by the bites of infected fleas; ancient DNA from European mass graves supports this.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Black-Death", "title": "Black Death | Britannica", "quote": "The Black Death is widely believed to have been the result of plague , caused by infection with the bacterium Yersinia pestis ."},
+      {"url": "https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1001134", "title": "Distinct Clones of Yersinia pestis Caused the Black Death | PLOS Pathogens", "quote": "We confirm that Y. pestis caused the Black Death and later epidemics on the entire European continent over the course of four centuries."}
+    ]
+  },
+  {
+    "id": "library-03-08",
+    "deck": "library",
+    "topic": "Black Death",
+    "q": "In what year did the Black Death reach Sicily, starting its spread through Europe?",
+    "a": "1347",
+    "accept": [],
+    "wrong": ["1315", "1381", "1453"],
+    "explain": "Genoese ships from Kaffa in Crimea carried the plague to Mediterranean ports, reaching Sicily in 1347; the pandemic ravaged Europe from 1347 to 1351.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Black-Death/Cause-and-outbreak", "title": "Black Death - Cause and outbreak | Britannica", "quote": "From Kaffa, Genoese ships carried the epidemic westward to Mediterranean ports, whence it spread inland, affecting Sicily (1347); North Africa , mainland Italy , Spain , and France (1348)"},
+      {"url": "https://journals.asm.org/doi/10.1128/cmr.00044-19", "title": "Yersinia pestis: the Natural History of Plague | Clinical Microbiology Reviews", "quote": "“In the month of October 1347, arrived from Genoa in the port of Messina, 12 ships having fled the plague that the Lord had sent them as punishment for their sins.”"}
+    ]
+  },
+  {
+    "id": "library-03-09",
+    "deck": "library",
+    "topic": "Mongol Empire",
+    "q": "Who founded the Mongol Empire in 1206?",
+    "a": "Genghis Khan",
+    "accept": ["Chinggis Khan", "Temujin", "Temüjin"],
+    "wrong": ["Kublai Khan", "Tamerlane", "Attila"],
+    "explain": "In 1206 Temüjin was proclaimed Genghis Khan (\"universal ruler\") of the steppe tribes, which is regarded as the beginning of the Mongol Empire, later the largest contiguous land empire in history.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/place/Mongol-empire", "title": "Mongol empire | Britannica", "quote": "Mongol empire , empire founded by Genghis Khan in 1206."},
+      {"url": "https://www.britannica.com/summary/Mongol-Empire-Timeline", "title": "Mongol Empire | Timeline | Britannica", "quote": "In 1206 he is accepted as emperor of all the steppe people and is proclaimed Genghis Khan, a title that means “universal ruler.” This event is regarded as the beginning of the Mongol Empire ."}
+    ]
+  },
+  {
+    "id": "library-03-10",
+    "deck": "library",
+    "topic": "Mongol Empire",
+    "q": "Which grandson of Genghis Khan founded China's Yuan dynasty?",
+    "a": "Kublai Khan",
+    "accept": ["Kublai", "Khubilai Khan", "Qubilai Khan"],
+    "wrong": ["Ögödei Khan", "Batu Khan", "Hulagu Khan"],
+    "explain": "Kublai Khan proclaimed the Yuan dynasty in 1271 and completed the conquest of China in 1279, becoming the first Yuan ruler of all China.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Yuan-dynasty", "title": "Yuan dynasty | Britannica", "quote": "While Genghis Khan began encroaching on China as early as 1211, Kublai Khan , his grandson, is credited with founding the Yuan dynasty."},
+      {"url": "https://www.britannica.com/biography/Kublai-Khan", "title": "Kublai Khan | Britannica", "quote": "He was the fifth emperor (reigned 1260–94) of the Yuan (Mongol) dynasty . In 1279 he completed the conquest of China begun by Genghis Khan and became the first Yuan ruler of all of China."}
+    ]
+  },
+  {
+    "id": "library-03-11",
+    "deck": "library",
+    "topic": "Mongol Empire",
+    "q": "Which city, in present-day Mongolia, was the original capital of the Mongol Empire?",
+    "a": "Karakorum",
+    "accept": ["Kharkhorin", "Khara-khorin", "Har Horin"],
+    "wrong": ["Samarkand", "Bukhara", "Sarai"],
+    "explain": "Genghis Khan set up his headquarters at Karakorum in 1220, Ögödei walled it in 1235, and Kublai Khan moved the capital to Khanbaliq (modern Beijing) in 1267.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/place/Karakorum", "title": "Karakorum | Britannica", "quote": "Karakorum , ancient capital of the Mongol empire , whose ruins lie on the upper Orhon River in north-central Mongolia ."},
+      {"url": "https://www.britannica.com/biography/Kublai-Khan", "title": "Kublai Khan | Britannica", "quote": "held a kuriltai of his own at Karakorum (the original capital of the Mongol empire, now in northern Mongolia)"}
+    ]
+  },
+  {
+    "id": "library-03-12",
+    "deck": "library",
+    "topic": "Medici",
+    "q": "In what year is the Medici Bank generally considered to have been founded?",
+    "a": "1397",
+    "accept": [],
+    "wrong": ["1252", "1434", "1494"],
+    "explain": "Giovanni di Bicci de' Medici moved his bank's headquarters from Rome to Florence in 1397, the usual founding date; the bank lasted until 1494, when the Medici were expelled from Florence.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://academic.oup.com/reference/62416/reference-article-abstract/555922868", "title": "Medici Bank | Oxford Bibliographies | Oxford Academic", "quote": "The most important Medici banking enterprise was the Bank of Rome, which was founded in 1397 by Giovanni di Bicci de’ Medici as the main shareholder and head of the company."},
+      {"url": "https://gwern.net/doc/history/medici/1963-deroover-theriseanddeclineofthemedicibank.pdf", "title": "The Rise and Decline of the Medici Bank, 1397-1494 (Raymond de Roover, Harvard University Press, 1963)", "quote": "The year 1397 may be regarded as the founding date of the Medici Bank, for in that year Giovanni di Bicci de’ Medici, who had been managing a bank in Rome, decided to transfer his headquarters to Florence. The Bank lasted for nearly a hundred years, until 1494, when the Medici were expelled from Florence"}
+    ]
+  },
+  {
+    "id": "library-03-13",
+    "deck": "library",
+    "topic": "Medici",
+    "q": "Which Medici ruler of Florence was known as \"the Magnificent\"?",
+    "a": "Lorenzo de' Medici",
+    "accept": ["Lorenzo", "Lorenzo de Medici", "Lorenzo il Magnifico"],
+    "wrong": ["Cosimo de' Medici", "Giovanni di Bicci de' Medici", "Piero de' Medici"],
+    "explain": "Lorenzo the Magnificent (1449-1492) ruled Florence for some 20 years and, as an arts patron, advanced the careers of Michelangelo and Leonardo da Vinci.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Lorenzo-de-Medici", "title": "Lorenzo de’ Medici | Britannica", "quote": "Known as Lorenzo the Magnificent, the Florentine statesman and arts patron is considered the most brilliant of the Medici . He ruled Florence for some 20 years in the 15th century, during which time he brought stability to the region."},
+      {"url": "https://academic.oup.com/reference/62416/reference-article-abstract/555922868", "title": "Medici Bank | Oxford Bibliographies | Oxford Academic", "quote": "His grandson, Lorenzo the Magnificent, succeeded in transferring the Medici Bank’s assets to Rome and Lyon, conveying them into other companies."}
+    ]
+  },
+  {
+    "id": "library-03-14",
+    "deck": "library",
+    "topic": "Gutenberg",
+    "q": "In which German city did Johannes Gutenberg print the Gutenberg Bible?",
+    "a": "Mainz",
+    "accept": [],
+    "wrong": ["Nuremberg", "Cologne", "Leipzig"],
+    "explain": "The Gutenberg Bible, also called the 42-line Bible, was completed in Mainz around 1455 and is one of the earliest books printed from movable type in the West.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Gutenberg-Bible", "title": "Gutenberg Bible | Britannica", "quote": "Gutenberg Bible , the first complete book extant in the West and one of the earliest printed from movable type, so called after its printer, Johannes Gutenberg , who completed it about 1455 working at Mainz , Germany ."},
+      {"url": "https://guides.loc.gov/gutenberg/introduction", "title": "The Gutenberg Bible at the Library of Congress : A Resource Guide", "quote": "Printed in Mainz, Germany in 1454/1455 by Johannes Gutenberg and Johannes Fust, the Gutenberg Bible is the first large-format typographic bible produced in Europe."}
+    ]
+  },
+  {
+    "id": "library-03-15",
+    "deck": "library",
+    "topic": "Gutenberg",
+    "q": "Johannes Gutenberg is credited with originating a method of printing from what?",
+    "a": "Movable type",
+    "accept": ["Moveable type", "Movable metal type", "Metal movable type"],
+    "wrong": ["Copper engraving", "Lithographic stones", "Carved woodblocks"],
+    "explain": "Gutenberg built the first known mechanized printing press in Europe using movable metal type, though printing with movable type had occurred earlier in Korea.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Johannes-Gutenberg", "title": "Johannes Gutenberg | Britannica", "quote": "Johannes Gutenberg (born 14th century, Mainz [Germany]—died probably February 3, 1468, Mainz) was a German craftsman and inventor who originated a method of printing from movable type."},
+      {"url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html", "title": "The Gutenberg Bible - Library of Congress", "quote": "The Gutenberg Bible is the first great book printed in Western Europe from movable metal type."}
+    ]
+  },
+  {
+    "id": "library-03-16",
+    "deck": "library",
+    "topic": "Leonardo da Vinci",
+    "q": "In which city is Leonardo da Vinci's Last Supper, painted for the refectory of Santa Maria delle Grazie?",
+    "a": "Milan",
+    "accept": ["Milano"],
+    "wrong": ["Florence", "Rome", "Venice"],
+    "explain": "Ludovico Sforza, duke of Milan, commissioned the wall painting, which Leonardo worked on from about 1495 to 1498 using an experimental technique that began to flake within a few years.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Last-Supper-fresco-by-Leonardo-da-Vinci", "title": "Last Supper | Britannica", "quote": "Last Supper , one of the most famous artworks in the world, painted by Leonardo da Vinci probably between 1495 and 1498 for the Dominican monastery Santa Maria delle Grazie in Milan ."},
+      {"url": "https://unesco.cultura.gov.it/en/projects/chiesa-e-convento-domenicano-di-santa-maria-delle-grazie-con-l-ultima-cena-di-leonardo-da-vinci", "title": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci - Unesco Beni Culturali (Italian Ministry of Culture)", "quote": "The refectory of the Convent of Santa Maria delle Grazie in Milan forms an integral part of this architectural complex, begun in 1463 and reworked at the end of the 15th century by Bramante. On the north wall is The Last Supper"}
+    ]
+  },
+  {
+    "id": "library-03-17",
+    "deck": "library",
+    "topic": "Leonardo da Vinci",
+    "q": "In which museum does Leonardo da Vinci's Mona Lisa hang?",
+    "a": "The Louvre",
+    "accept": ["Louvre", "Louvre Museum", "Musée du Louvre"],
+    "wrong": ["The Uffizi", "The Prado", "The Vatican Museums"],
+    "explain": "Francis I of France acquired the painting after Leonardo's death in 1519; it was installed in the Louvre in Paris at the turn of the 19th century.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Mona-Lisa-painting", "title": "Mona Lisa | Britannica", "quote": "It was painted sometime between 1503 and 1519, when Leonardo was living in Florence , and it now hangs in the Louvre Museum , Paris"},
+      {"url": "https://www.britannica.com/biography/Leonardo-da-Vinci/Arts-Culture", "title": "Leonardo da Vinci | Britannica", "quote": "Mona Lisa , oil on wood panel by Leonardo da Vinci, 1503–19; in the Louvre, Paris."}
+    ]
+  },
+  {
+    "id": "library-03-18",
+    "deck": "library",
+    "topic": "Michelangelo",
+    "q": "Which pope commissioned Michelangelo to paint the Sistine Chapel ceiling?",
+    "a": "Julius II",
+    "accept": ["Pope Julius II", "Julius 2"],
+    "wrong": ["Leo X", "Sixtus IV", "Paul III"],
+    "explain": "Julius II commissioned the ceiling in 1508; Michelangelo painted it from 1508 to 1512, and the pope inaugurated it on 1 November 1512.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Sistine-Chapel", "title": "Sistine Chapel | Britannica", "quote": "The frescoes on the ceiling, collectively known as the Sistine ceiling, were commissioned by Pope Julius II (reigned 1503–13) in 1508 and were painted by Michelangelo in the years from 1508 to 1512."},
+      {"url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/storia-cappella-sistina.html", "title": "Sistine Chapel - Vatican Museums", "quote": "Julius II della Rovere (pontiff from 1503 to 1513), nephew of Sixtus IV, decided to partly alter the decoration, entrusting the work in 1508 to Michelangelo Buonarroti, who painted the Ceiling and, on the upper part of the walls, the lunettes."}
+    ]
+  },
+  {
+    "id": "library-03-19",
+    "deck": "library",
+    "topic": "Michelangelo",
+    "q": "In which church is Michelangelo's marble Pietà displayed today?",
+    "a": "St. Peter's Basilica",
+    "accept": ["Saint Peter's Basilica", "St Peter's Basilica", "St. Peter's", "Saint Peter's"],
+    "wrong": ["Florence Cathedral", "Santa Maria delle Grazie", "Notre-Dame de Paris"],
+    "explain": "Completed in 1498 for a French cardinal's tomb in Old St. Peter's, the Pietà is the only work Michelangelo signed; it now stands in the new St. Peter's Basilica in Vatican City.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Pieta-sculpture-by-Michelangelo", "title": "Pieta | Britannica", "quote": "It was eventually moved to its current location in the new St. Peter’s Basilica , Vatican City, where it became one of the most famous sculptures in the world."},
+      {"url": "https://www.basilicasanpietro.va/en/san-pietro/the-pieta-of-saint-peter-s", "title": "The Pietà of Saint Peter’s - basilicasanpietro.va", "quote": "A sculpture of superhuman beauty and perfection, sculpted in 1498 by a very young Michelangelo – he was just twenty-three years old – commissioned by the French Cardinal Jean de Bilhères Lagraulas for his tomb in the Chapel of the King of France in Saint Peter’s"}
+    ]
+  },
+  {
+    "id": "library-03-20",
+    "deck": "library",
+    "topic": "Age of exploration",
+    "q": "Which country's monarchs sponsored Christopher Columbus's 1492 voyage?",
+    "a": "Spain",
+    "accept": ["Castile and Aragon"],
+    "wrong": ["Portugal", "England", "Genoa"],
+    "explain": "Columbus, born in Genoa, sailed under the sponsorship of Ferdinand II and Isabella I, the Catholic Monarchs of Spain, after failing to win support in Portugal.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Christopher-Columbus", "title": "Christopher Columbus | Britannica", "quote": "Columbus made his transatlantic voyages under the sponsorship of Ferdinand II and Isabella I , the Catholic Monarchs of Aragon , Castile , and Leon in Spain ."},
+      {"url": "https://www.loc.gov/exhibits/1492/columbus.html", "title": "Christopher Columbus: Man and Myth - Library of Congress", "quote": "He settled for a time in Portugal, where he tried unsuccessfully to enlist support for his project, before moving to Spain. After many difficulties, through a combination of good luck and persuasiveness, he gained the support of the Catholic monarchs, Isabel and Fernando."}
+    ]
+  },
+  {
+    "id": "library-03-21",
+    "deck": "library",
+    "topic": "Age of exploration",
+    "q": "Which Portuguese navigator was the first to sail from Europe to India by rounding Africa's Cape of Good Hope?",
+    "a": "Vasco da Gama",
+    "accept": ["da Gama"],
+    "wrong": ["Pedro Álvares Cabral", "Ferdinand Magellan", "Amerigo Vespucci"],
+    "explain": "Da Gama left Lisbon in July 1497 and reached India on May 20, 1498, opening the sea route from western Europe to the East.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Vasco-da-Gama", "title": "Vasco da Gama | Britannica", "quote": "Vasco da Gama was best known for being the first to sail from Europe to India by rounding Africa ’s Cape of Good Hope ."},
+      {"url": "https://exploration.marinersmuseum.org/subject/vasco-da-gama", "title": "Vasco da Gama - Ages of Exploration (The Mariners' Museum)", "quote": "Portuguese explorer and navigator who found a direct sea route from Europe to Asia, and was the first European to sail to India by going around Africa."}
+    ]
+  },
+  {
+    "id": "library-03-22",
+    "deck": "library",
+    "topic": "Age of exploration",
+    "q": "Which Portuguese navigator was the first European to sight the Cape of Good Hope?",
+    "a": "Bartolomeu Dias",
+    "accept": ["Bartholomew Dias", "Bartolomeu Diaz", "Dias"],
+    "wrong": ["Vasco da Gama", "Pedro Álvares Cabral", "Henry the Navigator"],
+    "explain": "Dias rounded the cape in stormy weather without seeing it and sighted it on his return voyage in 1488, showing that a sea route around Africa existed.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/place/Cape-of-Good-Hope", "title": "Cape of Good Hope | Britannica", "quote": "The first European to sight the Cape of Good Hope was Portuguese navigator Bartolomeu Dias in 1488. He led the first European expedition to round the Cape of Good Hope."},
+      {"url": "https://exploration.marinersmuseum.org/subject/vasco-da-gama", "title": "Vasco da Gama - Ages of Exploration (The Mariners' Museum)", "quote": "It was Bartolomeu Dias who was the first to round Africa and make it to the Indian Ocean in 1488."}
+    ]
+  },
+  {
+    "id": "library-03-23",
+    "deck": "library",
+    "topic": "Age of exploration",
+    "q": "Which Basque navigator completed the first circumnavigation of the Earth after Ferdinand Magellan was killed?",
+    "a": "Juan Sebastián Elcano",
+    "accept": ["Juan Sebastian Elcano", "Elcano", "Juan Sebastián del Cano", "del Cano"],
+    "wrong": ["Francis Drake", "Antonio Pigafetta", "Vasco Núñez de Balboa"],
+    "explain": "After Magellan died in the Philippines in 1521, Elcano commanded the Victoria and brought it home to Spain in September 1522 with only 18 European survivors.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Juan-Sebastian-del-Cano", "title": "Juan Sebastián del Cano | Britannica", "quote": "Juan Sebastián del Cano (born c. 1476, Guetaria, Castile [now in Spain]—died August 4, 1526, at sea) was a Basque navigator who completed the first circumnavigation of the Earth ."},
+      {"url": "https://www.realinstitutoelcano.org/en/about-elcano/juan-sebastian-de-elcano", "title": "Juan Sebastián de Elcano - Real Instituto Elcano", "quote": "Magellan was killed in the Philippines in an attack on a native settlement and Elcano took over command of the last remaining ship, the Victoria."}
+    ]
+  },
+  {
+    "id": "library-03-24",
+    "deck": "library",
+    "topic": "Age of exploration",
+    "q": "The 1494 Treaty of Tordesillas divided newly discovered lands between Spain and which other country?",
+    "a": "Portugal",
+    "accept": [],
+    "wrong": ["France", "England", "the Netherlands"],
+    "explain": "Signed June 7, 1494, the treaty moved the papal demarcation line to 370 leagues west of the Cape Verde Islands; other European powers never accepted it.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Treaty-of-Tordesillas", "title": "Treaty of Tordesillas | Britannica", "quote": "Treaty of Tordesillas , (June 7, 1494), agreement between Spain and Portugal aimed at settling conflicts over lands newly discovered or explored by Christopher Columbus and other late 15th-century voyagers."},
+      {"url": "https://avalon.law.yale.edu/15th_century/mod001.asp", "title": "The Avalon Project : Treaty Between Spain and Portugal concluded at Tordesillas; June 7, 1494 (Yale Law School)", "quote": "Treaty between Spain and Portugal concluded at Tordesillas; June 7, 1494"}
+    ]
+  },
+  {
+    "id": "library-03-25",
+    "deck": "library",
+    "topic": "Reformation",
+    "q": "In what year did Martin Luther write the Ninety-five Theses?",
+    "a": "1517",
+    "accept": [],
+    "wrong": ["1492", "1521", "1555"],
+    "explain": "Luther's theses, dated October 31, 1517, attacked the sale of indulgences; the anniversary is commemorated by many Protestants as the beginning of the Reformation.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Ninety-five-Theses", "title": "Ninety-five Theses | Britannica", "quote": "The Ninety-five Theses are a list of propositions written by Martin Luther in 1517, comprising 95 statements for debate concerning indulgences ."},
+      {"url": "https://www.loc.gov/item/2021667736", "title": "Ninety-Five Theses. | Library of Congress", "quote": "Martin Luther's Disputatio pro declaratione virtutis indulgentiarum of 1517, commonly known as the Ninety-Five Theses, is considered the central document of the Protestant Reformation."}
+    ]
+  },
+  {
+    "id": "library-03-26",
+    "deck": "library",
+    "topic": "Reformation",
+    "q": "In which German town was Martin Luther a professor when he issued the Ninety-five Theses?",
+    "a": "Wittenberg",
+    "accept": ["Lutherstadt Wittenberg"],
+    "wrong": ["Worms", "Augsburg", "Heidelberg"],
+    "explain": "The theses' full title announced they would be debated at Wittenberg, where Luther was a professor of theology.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.loc.gov/item/2021667736", "title": "Ninety-Five Theses. | Library of Congress", "quote": "\"Out of love and zeal for clarifying the truth, these items written below will be debated at Wittenberg. Reverend Father Martin Luther, Master of Arts and of Sacred Theology and an official professor at Wittenberg, will speak in their defense.\""},
+      {"url": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/martin-luther-ninety-five-theses-october-31-1517", "title": "Martin Luther, Ninety-Five Theses (October 31, 1517) | German History in Documents and Images (German Historical Institute)", "quote": "Whether Martin Luther really nailed these theses to the door of the Castle Church in Wittenberg, where he was a professor of theology at the university, remains a controversial question."}
+    ]
+  },
+  {
+    "id": "library-03-27",
+    "deck": "library",
+    "topic": "Reformation",
+    "q": "In what year did Parliament pass the Act of Supremacy declaring Henry VIII Supreme Head of the Church of England?",
+    "a": "1534",
+    "accept": [],
+    "wrong": ["1509", "1547", "1559"],
+    "explain": "The 1534 act severed the English church's links with Rome; it was repealed under Mary I, and a new Act of Supremacy was passed under Elizabeth I in 1559.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/collections/common-prayer/act-of-supremacy/", "title": "Act of Supremacy 1534 - UK Parliament", "quote": "In 1534 Parliament passed the Act of Supremacy which defined the right of Henry VIII to be supreme head on earth of the Church of England, thereby severing ecclesiastical links with Rome."},
+      {"url": "https://www.britannica.com/topic/Act-of-Supremacy-England-1534", "title": "Act of Supremacy | Britannica", "quote": "Act of Supremacy , (1534) English act of Parliament that recognized Henry VIII as the “Supreme Head of the Church of England.”"}
+    ]
+  }
+]

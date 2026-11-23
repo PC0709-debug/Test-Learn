@@ -1,0 +1,430 @@
+[
+  {
+    "id": "sectors-04-01",
+    "deck": "sectors",
+    "topic": "Four-party card model",
+    "q": "In the four-party card model, what is the financial institution that provides card acceptance services to merchants called?",
+    "a": "Acquirer",
+    "accept": ["acquiring bank", "the acquirer", "merchant acquirer"],
+    "wrong": ["Issuer", "Cardholder", "Card network"],
+    "explain": "A four-party system consists of the cardholder, the merchant, the acquiring bank and the issuing bank; the acquirer is the merchant's bank for card acceptance.",
+    "hook": "Acquirer acquires merchants; issuer issues cards.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.mastercard.com/us/en/business/support/merchant-interchange-rates.html", "title": "Mastercard Interchange Fees and Rates Explained | Mastercard US", "quote": "Financial institutions that provide card acceptance services to merchants are typically referred to as “acquirers”."},
+      {"url": "https://www.congress.gov/crs-products/product/pdf/R/R48216", "title": "Credit Card Swipe Fees and Routing Restrictions | Congress.gov", "quote": "Four-party systems consist of the cardholder, the merchant, the acquiring bank, and the issuing bank. In a four-party system, the network connects merchants to issuing banks."}
+    ]
+  },
+  {
+    "id": "sectors-04-02",
+    "deck": "sectors",
+    "topic": "Three-party model",
+    "q": "Which major card network uses a three-party model in which the network provider also acts as issuer and acquirer?",
+    "a": "American Express",
+    "accept": ["AmEx", "Amex", "AMEX"],
+    "wrong": ["Visa", "Mastercard", "Maestro"],
+    "explain": "In three-party (closed-loop) networks such as American Express, the network both issues cards and holds the acquiring relationship with merchants; Visa and Mastercard are four-party systems.",
+    "hook": "AmEx closes the loop: one company on both ends.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.congress.gov/crs-product/IF11893", "title": "Merchant Discount, Interchange, and Other Transaction Fees in the Retail Electronic Payment System | Congress.gov", "quote": "interchange fees are charged only in four-party networks such as Visa and Mastercard, where there is an issuing bank, an acquiring bank, a consumer, and a merchant. Alternatively, in three-party networks, such as American Express, the network provider's bank also acts as the issuer and acquirer."},
+      {"url": "https://www.sec.gov/Archives/edgar/data/4962/000000496218000032/axp201710k.htm", "title": "American Express Company 2017 Form 10-K - SEC.gov", "quote": "Wherever we manage both the card-issuing activities of the business and the acquiring relationship with merchants, there is a “closed loop” in that we have direct access to information at both ends of the card transaction, which distinguishes our integrated network from the bankcard networks."}
+    ]
+  },
+  {
+    "id": "sectors-04-03",
+    "deck": "sectors",
+    "topic": "Interchange",
+    "q": "In Visa and Mastercard transactions, interchange fees are paid by the acquirer to which party?",
+    "a": "Issuer",
+    "accept": ["card issuer", "issuing bank", "the issuer"],
+    "wrong": ["Merchant", "Payment gateway", "Cardholder"],
+    "explain": "Interchange is generally paid by acquirers to card issuers; acquirers typically pass it through to merchants as part of the merchant discount rate.",
+    "hook": "Interchange flows toward the issuer.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.mastercard.com/us/en/business/support/merchant-interchange-rates.html", "title": "Mastercard Interchange Fees and Rates Explained | Mastercard US", "quote": "Mastercard interchange rates are established by Mastercard, and are generally paid by acquirers to card issuers on purchase transactions conducted on Mastercard cards."},
+      {"url": "https://www.psr.org.uk/media/jnkltqt3/psr-card-acquiring-market-review-final-report-glossary-nov-2021.pdf", "title": "PSR Card acquiring market review - Final report - Glossary", "quote": "Interchange fee A fee that acquirers pay to issuers each time a card is used to buy goods or services."}
+    ]
+  },
+  {
+    "id": "sectors-04-04",
+    "deck": "sectors",
+    "topic": "Merchant discount rate",
+    "q": "What is the per-transaction fee a merchant pays its acquirer for card acceptance, of which interchange is one component?",
+    "a": "Merchant discount rate",
+    "accept": ["MDR", "merchant discount fee", "merchant service charge", "MSC"],
+    "wrong": ["Reserve requirement", "Chargeback fee", "Settlement float"],
+    "explain": "The MDR is paid by the merchant to its acquirer and then split into interchange fees, assessment (network) fees and processing fees; CRS notes it is typically around 1%-3% per transaction.",
+    "hook": "MDR = the merchant's whole bill; interchange is the biggest slice.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.mastercard.com/us/en/business/support/merchant-interchange-rates.html", "title": "Mastercard Interchange Fees and Rates Explained | Mastercard US", "quote": "Interchange fees are one component of the Merchant Discount Rate (MDR) established by acquirers, which is paid by merchants to acquirers in consideration for card acceptance services."},
+      {"url": "https://www.congress.gov/crs-product/IF11893", "title": "Merchant Discount, Interchange, and Other Transaction Fees in the Retail Electronic Payment System | Congress.gov", "quote": "For this service, the merchant agrees to pay a fee called the merchant discount rate (MDR) for each transaction. This fee is paid to the merchant's bank and then further split among the other market participants in the form of interchange fees, assessment fees, and payment processing fees, as described below. The MDR is typically around 1%-3% per transaction."}
+    ]
+  },
+  {
+    "id": "sectors-04-05",
+    "deck": "sectors",
+    "topic": "Scheme fees",
+    "q": "Which party in a card transaction receives scheme fees (also called assessment or network fees)?",
+    "a": "Card network",
+    "accept": ["the card network", "network", "card scheme", "scheme", "payment network"],
+    "wrong": ["Issuer", "Cardholder", "Merchant"],
+    "explain": "Scheme fees are the smaller slice of the merchant's fee that goes to the network such as Visa or Mastercard, as distinct from interchange (to the issuer) and acquirer margin.",
+    "hook": "Scheme fee -> the scheme.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.congress.gov/crs-product/IF11893", "title": "Merchant Discount, Interchange, and Other Transaction Fees in the Retail Electronic Payment System | Congress.gov", "quote": "A smaller portion of the MDR goes to the network. This is sometimes referred to as a card brand, network access, or brand usage fee."},
+      {"url": "https://www.psr.org.uk/media/ilfo3wup/sp-fees-mr-final-report-glossary.pdf", "title": "MR22/1.10 scheme and processing fees final report - glossary", "quote": "MSC Merchant service charge, which is the total amount merchants pay to acquirers for card-acquiring services. This comprises interchange fees, scheme and processing fees and acquirer net revenue."}
+    ]
+  },
+  {
+    "id": "sectors-04-06",
+    "deck": "sectors",
+    "topic": "Debit interchange regulation",
+    "q": "Which Federal Reserve regulation implements the Durbin Amendment's debit card interchange fee limits?",
+    "a": "Regulation II",
+    "accept": ["Reg II", "Regulation 2", "12 CFR part 235"],
+    "wrong": ["Regulation Z", "Regulation E", "Regulation CC"],
+    "explain": "Regulation II (12 CFR part 235), issued in 2011, implements the Durbin Amendment by capping debit interchange for large issuers; credit card interchange is generally not covered.",
+    "hook": "Reg II: two letters for the 'interchange' cap.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.ecfr.gov/current/title-12/part-235", "title": "12 CFR PART 235—DEBIT CARD INTERCHANGE FEES AND ROUTING (REGULATION II)", "quote": "12 CFR PART 235—DEBIT CARD INTERCHANGE FEES AND ROUTING (REGULATION II)"},
+      {"url": "https://www.congress.gov/crs-product/IF11893", "title": "Merchant Discount, Interchange, and Other Transaction Fees in the Retail Electronic Payment System | Congress.gov", "quote": "In 2011, the Federal Reserve issued Regulation II, implementing what is commonly known as the Durbin Amendment, which required the Fed to set debit interchange fees for large banks based on the cost of providing the services ... Credit card interchange is generally not covered by Regulation II."}
+    ]
+  },
+  {
+    "id": "sectors-04-07",
+    "deck": "sectors",
+    "topic": "Debit interchange regulation",
+    "q": "Debit card issuers with assets below what threshold are exempt from Regulation II's interchange fee standards?",
+    "a": "$10 billion",
+    "accept": ["10 billion", "$10bn", "$10B", "10bn"],
+    "wrong": ["$1 billion", "$50 billion", "$250 billion"],
+    "explain": "The small-issuer exemption applies when the issuer, together with its affiliates, has assets of less than $10 billion as of the end of the preceding calendar year and holds the account debited.",
+    "hook": "Under $10B = Durbin-exempt.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.ecfr.gov/current/title-12/section-235.5", "title": "12 CFR § 235.5 Exemptions.", "quote": "(ii) The issuer, together with its affiliates, has assets of less than $10 billion as of the end of the calendar year preceding the date of the electronic debit transaction."},
+      {"url": "https://www.federalreserve.gov/paymentsystems/2023-Interchange-Fee.htm", "title": "The Fed - 2023 Interchange Fee Revenue, Covered Issuer Costs, and Covered Issuer and Merchant Fraud Losses Related to Debit Card Transactions", "quote": "Additionally, an issuer with consolidated assets below $10 billion is not subject to the interchange fee standards, provided the issuer holds the account that is debited."}
+    ]
+  },
+  {
+    "id": "sectors-04-08",
+    "deck": "sectors",
+    "topic": "Card-present vs card-not-present",
+    "q": "What is a card transaction completed online, by phone or by post, where the card is not physically presented to the merchant, called?",
+    "a": "Card-not-present",
+    "accept": ["CNP", "card not present", "card-not-present transaction"],
+    "wrong": ["Card-present", "Chip-and-PIN", "Contactless"],
+    "explain": "A card-not-present (CNP) transaction includes e-commerce and mail or telephone orders; a card-present transaction is one where the cardholder presents the card at the merchant's outlet.",
+    "hook": "Online = card not in the room.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.psr.org.uk/media/ilfo3wup/sp-fees-mr-final-report-glossary.pdf", "title": "MR22/1.10 scheme and processing fees final report - glossary", "quote": "Card-not-present (‘CNP') transaction A transaction that is completed online, by phone or by post, so a card (be it physical or tokenised) is not present when the merchant is taking payment."},
+      {"url": "https://www.psr.org.uk/media/jnkltqt3/psr-card-acquiring-market-review-final-report-glossary-nov-2021.pdf", "title": "PSR Card acquiring market review - Final report - Glossary", "quote": "Card-not-present transaction Any card transaction that is not a card-present transaction such as e-commerce transactions and mail order and telephone order transactions."}
+    ]
+  },
+  {
+    "id": "sectors-04-09",
+    "deck": "sectors",
+    "topic": "EMV chip cards",
+    "q": "The chip card standard EMV is named after Europay, Mastercard and which other company?",
+    "a": "Visa",
+    "accept": ["Visa Inc", "Visa International"],
+    "wrong": ["American Express", "Discover", "JCB"],
+    "explain": "EMV originally came from Europay, Mastercard and Visa, the three companies that developed the original specifications and formed EMVCo.",
+    "hook": "E-M-V = Europay, Mastercard, Visa.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.emvco.com/why-emv", "title": "Why EMV? | EMVCo", "quote": "The term EMV originally came from Europay, Mastercard and Visa, the three companies that collaborated to develop the original specifications and form EMVCo."},
+      {"url": "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/merchant-processing/pub-ch-merchant-processing.pdf", "title": "Merchant Processing, Comptroller's Handbook", "quote": "The technology was jointly developed by Europay, MasterCard, and Visa, and the technology is named for the original developers."}
+    ]
+  },
+  {
+    "id": "sectors-04-10",
+    "deck": "sectors",
+    "topic": "Tokenization",
+    "q": "EMV Payment Tokenisation limits the risk of compromised use of which card data element by substituting a token for it?",
+    "a": "Primary account number",
+    "accept": ["PAN", "primary account number (PAN)", "card number"],
+    "wrong": ["Card verification value", "Expiration date", "Bank routing number"],
+    "explain": "EMV Payment Tokenisation protects primary account numbers (PANs); a payment token should not be usable beyond a specific merchant, device or payment scenario.",
+    "hook": "Token stands in for the PAN.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.emvco.com/emv-technologies/payment-tokenisation", "title": "EMV Payment Tokenisation | EMVCo", "quote": "EMV ® Payment Tokenisation enhances the underlying security of digital payments by limiting the risk typically associated with compromised, unauthorised or fraudulent use of primary account numbers (PANs)."}
+    ]
+  },
+  {
+    "id": "sectors-04-11",
+    "deck": "sectors",
+    "topic": "Chargebacks",
+    "q": "What is the reversal of a card transaction, initiated by the card issuer after a cardholder dispute, called?",
+    "a": "Chargeback",
+    "accept": ["a chargeback", "charge-back", "dispute"],
+    "wrong": ["Authorization hold", "Interchange", "Settlement"],
+    "explain": "When a cardholder disputes a charge, the issuing bank reviews it and, if decided in the cardholder's favor, the payment is refunded to the customer and withdrawn from the merchant's account.",
+    "hook": "Charge goes BACK to the cardholder.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporate.visa.com/en/solutions/acceptance/chargebacks.html", "title": "Chargebacks | Visa Acceptance Solutions | Visa", "quote": "If the decision is in the customer’s favor, a chargeback is issued, meaning the payment is refunded to the customer and withdrawn from your account."},
+      {"url": "https://www.kansascityfed.org/Research%20Working%20Papers/documents/8241/rwp16-01HayashiMarkiewiczSullivan.pdf", "title": "Chargebacks: Another Payment Card Acceptance Cost for Merchants (Federal Reserve Bank of Kansas City)", "quote": "Chargebacks are full reversal of transactions by card issuers."}
+    ]
+  },
+  {
+    "id": "sectors-04-12",
+    "deck": "sectors",
+    "topic": "ACH",
+    "q": "Which organization governs the U.S. ACH Network and develops its rules?",
+    "a": "Nacha",
+    "accept": ["NACHA", "National Automated Clearing House Association"],
+    "wrong": ["FINRA", "The Clearing House", "PCI Security Standards Council"],
+    "explain": "Nacha governs the ACH Network and develops its rules and standards; the Federal Reserve and The Clearing House are the network's two ACH Operators.",
+    "hook": "Nacha writes the ACH rulebook.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.nacha.org/news/same-day-ach-expansion-1-million-begins-today", "title": "Same Day ACH Expansion to $1 Million Begins Today | Nacha", "quote": "Nacha governs the thriving ACH Network, the payment system that drives safe, smart, and fast Direct Deposits and Direct Payments with the capability to reach all U.S. bank and credit union accounts. ... Nacha develops rules and standards, provides industry solutions, and delivers education, accreditation, and advisory services."},
+      {"url": "https://www.nacha.org/content/ach-payments-fact-sheet", "title": "ACH Payments Fact Sheet | Nacha", "quote": "Nacha works cooperatively with the Federal Reserve and The Clearing House, as the two Operators of the modern ACH Network"}
+    ]
+  },
+  {
+    "id": "sectors-04-13",
+    "deck": "sectors",
+    "topic": "ACH",
+    "q": "Interoperator ACH payments between the Federal Reserve Banks and EPN are settled by whom?",
+    "a": "The Reserve Banks",
+    "accept": ["Reserve Banks", "Federal Reserve Banks", "Federal Reserve", "the Fed"],
+    "wrong": ["The Clearing House", "Nacha", "Visa"],
+    "explain": "The Reserve Banks and EPN are the two national ACH operators and rely on each other for interoperator payments, which the Reserve Banks settle.",
+    "hook": "Two operators, one settler: the Fed.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/paymentsystems/fedach_about.htm", "title": "Federal Reserve Board - Automated Clearinghouse Services", "quote": "The Reserve Banks and Electronic Payments Network (EPN) are the two national ACH operators. ... These interoperator payments are settled by the Reserve Banks."}
+    ]
+  },
+  {
+    "id": "sectors-04-14",
+    "deck": "sectors",
+    "topic": "Wires",
+    "q": "The Fedwire Funds Service is what type of settlement system?",
+    "a": "Real-time gross settlement",
+    "accept": ["RTGS", "real time gross settlement", "real-time gross settlement system"],
+    "wrong": ["Deferred net settlement", "Batch clearing", "Multilateral netting"],
+    "explain": "Fedwire Funds is an RTGS system provided by the Federal Reserve Banks; transfers are immediate, final and irrevocable once processed and it is generally used for large-value, time-critical payments.",
+    "hook": "Wire = one at a time, final now.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/paymentsystems/fedfunds_about.htm", "title": "Federal Reserve Board - Fedwire Funds Services", "quote": "The Federal Reserve Banks provide the Fedwire Funds Service, a real-time gross settlement system that enables participants to initiate funds transfer that are immediate, final, and irrevocable once processed."},
+      {"url": "https://www.frbservices.org/binaries/content/assets/crsocms/financial-services/wires/funds-service-disclosure.pdf", "title": "Fedwire Funds PFMI Disclosure - FRBservices.org", "quote": "The Fedwire Funds Service is a real-time gross settlement system that enables participants to make final payments using their balances held at Reserve Banks or intraday credit provided by those Reserve Banks"}
+    ]
+  },
+  {
+    "id": "sectors-04-15",
+    "deck": "sectors",
+    "topic": "Wires",
+    "q": "Which company owns and operates the CHIPS large-value payment system?",
+    "a": "The Clearing House",
+    "accept": ["Clearing House", "TCH", "The Clearing House Payments Company"],
+    "wrong": ["The Federal Reserve", "Nacha", "SWIFT"],
+    "explain": "CHIPS is owned and operated by The Clearing House Payments Company L.L.C. and, unlike Fedwire, uses a liquidity-saving algorithm that nets some obligations.",
+    "hook": "CHIPS is the private-sector wire; Fedwire is the Fed's.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.frbservices.org/binaries/content/assets/crsocms/financial-services/wires/funds-service-disclosure.pdf", "title": "Fedwire Funds PFMI Disclosure - FRBservices.org", "quote": "CHIPS is owned and operated by The Clearing House Payments Company L.L.C. CHIPS is not exclusively a gross settlement system. Instead, CHIPS processes some payment orders individually and others using a liquidity-saving algorithm that nets certain settlement obligations bilaterally or multilaterally."},
+      {"url": "https://www.theclearinghouse.org/about/history", "title": "Our History | The Clearing House", "quote": "The Payments Company is the only private-sector ACH and wire operator in the United States"}
+    ]
+  },
+  {
+    "id": "sectors-04-16",
+    "deck": "sectors",
+    "topic": "RTP",
+    "q": "In what year did The Clearing House launch its RTP real-time payments network?",
+    "a": "2017",
+    "accept": ["November 2017"],
+    "wrong": ["2010", "2014", "2023"],
+    "explain": "TCH launched RTP in November 2017, describing it as the first new core payments infrastructure in the U.S. in more than 40 years; it was built with technology from Vocalink, a Mastercard company.",
+    "hook": "RTP 2017, FedNow 2023.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.theclearinghouse.org/payment-systems/Articles/2017/11/20171114-rtp-first-new-core-payments-system", "title": "First New Core Payments System in the U.S. in more than 40 Years Initiates First Live Payments | The Clearing House", "quote": "New York, NY (November 14, 2017) – Yesterday, The Clearing House (TCH) launched RTP®, its real-time payments system, the first new core payments infrastructure in the U.S. in more than 40 years."},
+      {"url": "https://www.mastercard.com/global/en/news-and-trends/Insights/2022/us-rtp-network.html", "title": "Bringing instant payments to the US | Mastercard Global", "quote": "In 2016, Vocalink signed a contract with The Clearing House (TCH) to develop a national real-time payments service in the US. The RTP® network went live in November 2017."}
+    ]
+  },
+  {
+    "id": "sectors-04-17",
+    "deck": "sectors",
+    "topic": "FedNow",
+    "q": "In what year did the Federal Reserve's FedNow instant payment service go live?",
+    "a": "2023",
+    "accept": ["July 2023", "July 20, 2023"],
+    "wrong": ["2017", "2019", "2021"],
+    "explain": "FedNow went live on July 20, 2023, offering 24x7x365 instant interbank clearing and settlement for U.S. depository institutions.",
+    "hook": "RTP 2017, FedNow 2023.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/paymentsystems/fednow_about.htm", "title": "Federal Reserve Board - FedNow Service", "quote": "The FedNow Service went live on July 20, 2023."},
+      {"url": "https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm", "title": "Federal Reserve announces that its new system for instant payments, the FedNow Service, is now live", "quote": "The Federal Reserve on Thursday announced that its new system for instant payments, the FedNow ® Service, is now live."}
+    ]
+  },
+  {
+    "id": "sectors-04-18",
+    "deck": "sectors",
+    "topic": "Payment facilitators",
+    "q": "Under Visa and Mastercard rules, what is a merchant that accepts cards through a payment facilitator called?",
+    "a": "Sponsored merchant",
+    "accept": ["sub-merchant", "submerchant", "sponsored merchants"],
+    "wrong": ["Acquirer", "Independent sales organization", "Issuer"],
+    "explain": "A payment facilitator signs acceptance contracts with sponsored merchants (sub-merchants) on behalf of an acquirer and receives settlement on their behalf; the acquirer remains responsible for both.",
+    "hook": "PayFac sponsors its sub-merchants.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://usa.visa.com/dam/VCOM/global/support-legal/documents/visa-payment-facilitator-model.pdf", "title": "Visa Payment Facilitator Model", "quote": "Signs a merchant acceptance contract with a sponsored merchant on behalf of an acquirer. ... A sponsored merchant is a merchant whose payment services are provided by a PF and all Visa merchant requirements apply equally to a sponsored merchant. Acquirers are responsible for the acts of both PFs and sponsored merchants."},
+      {"url": "https://www.mastercard.com/content/dam/public/mastercardcom/na/global-site/documents/transaction-processing-rules.pdf", "title": "Transaction Processing Rules - Mastercard", "quote": "Sponsored Merchant A merchant that, pursuant to an agreement with a Payment Facilitator, is authorized to accept Cards when properly presented. A Sponsored Merchant is also referred to as Submerchant."}
+    ]
+  },
+  {
+    "id": "sectors-04-19",
+    "deck": "sectors",
+    "topic": "ISOs",
+    "q": "In merchant acquiring, what does the abbreviation ISO stand for?",
+    "a": "Independent sales organization",
+    "accept": ["independent sales organisation"],
+    "wrong": ["Integrated settlement operator", "Issuer service office", "Interbank switching organization"],
+    "explain": "ISOs sell card-acquiring services to merchants as agents on the acquirer's behalf; merchants that sign with an ISO are contracting with the acquirer.",
+    "hook": "ISO = the acquirer's sales force.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://usa.visa.com/dam/VCOM/global/support-legal/documents/visa-acceptance-entities.pdf", "title": "Beyond the Acquirer: Additional Visa Acceptance Entities", "quote": "ISOs operate as agents on behalf of acquirers, meaning that when sellers sign services contracts with an ISO they are signing with the acquirer."},
+      {"url": "https://www.psr.org.uk/media/jnkltqt3/psr-card-acquiring-market-review-final-report-glossary-nov-2021.pdf", "title": "PSR Card acquiring market review - Final report - Glossary", "quote": "Independent sales organisation (ISO) An organisation that sells card-acquiring services to merchants on the acquirer’s behalf (alongside card acceptance products and value-added services ) but does not itself contract with merchants for card-acquiring services ."}
+    ]
+  },
+  {
+    "id": "sectors-04-20",
+    "deck": "sectors",
+    "topic": "ISOs",
+    "q": "Under Visa's classification, an ISO that processes transactions is instead classified as what type of entity?",
+    "a": "Third Party Servicer",
+    "accept": ["third-party servicer", "TPS"],
+    "wrong": ["Payment facilitator", "Card issuer", "Sponsored merchant"],
+    "explain": "Visa says ISOs do not process transactions, receive settlement funds or access cardholder data; an ISO that does process transactions is classified as a Third Party Servicer.",
+    "hook": "Sell only = ISO; touch the processing = Third Party Servicer.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://usa.visa.com/dam/VCOM/global/support-legal/documents/visa-acceptance-entities.pdf", "title": "Beyond the Acquirer: Additional Visa Acceptance Entities", "quote": "Though ISOs may sell or resell gateway services in conjunction with selling the acquirer’s merchant account offering, ISOs do not process transactions, receive settlement funds, nor do they have access to the seller’s customer’s data or the transaction processing environment. If the ISO does, or intends to, process transactions, they will instead be classified as a Third Party Servicer."}
+    ]
+  },
+  {
+    "id": "sectors-04-21",
+    "deck": "sectors",
+    "topic": "Payment gateways",
+    "q": "What is the software that captures card details on a merchant's website and translates them into a message the acquirer's systems can understand?",
+    "a": "Payment gateway",
+    "accept": ["gateway", "merchant payment gateway"],
+    "wrong": ["Card issuer", "Point-of-sale terminal", "Clearing house"],
+    "explain": "The UK Payment Systems Regulator defines a payment gateway as software that helps a merchant accept cards through a website by capturing and translating card details for the acquirer.",
+    "hook": "Gateway = the online on-ramp to the acquirer.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.psr.org.uk/media/jnkltqt3/psr-card-acquiring-market-review-final-report-glossary-nov-2021.pdf", "title": "PSR Card acquiring market review - Final report - Glossary", "quote": "Payment gateway Software that helps a merchant accept cards through a website by capturing the card details and translating them into a message that can be sent to and understood by the acquirer’s systems."}
+    ]
+  },
+  {
+    "id": "sectors-04-22",
+    "deck": "sectors",
+    "topic": "BNPL",
+    "q": "Under the CFPB's definition of a pay-in-four BNPL loan, the installments after the down payment are due at what interval?",
+    "a": "Two weeks",
+    "accept": ["every two weeks", "biweekly", "2 weeks", "fortnightly"],
+    "wrong": ["One week", "One month", "Three months"],
+    "explain": "The CFPB defines BNPL as a four-installment, no-interest loan, typically with a 25 percent down payment at checkout and the remaining three installments due in two-week intervals over six weeks.",
+    "hook": "Pay in 4 over 6 weeks = every 2 weeks.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://files.consumerfinance.gov/f/documents/cfpb_buy-now-pay-later-market-trends-consumer-impacts_report_2022-09.pdf", "title": "Buy Now, Pay Later: Market trends and consumer impacts (CFPB)", "quote": "For purposes of this report, the Consumer Financial Protection Bureau (CFPB) defines BNPL as the “pay-in-four” or “split pay” product: a four-installment, no-interest consumer loan, typically with a down payment of 25 percent and the remaining three installments due in two-week intervals."},
+      {"url": "https://www.congress.gov/crs-product/R48858", "title": "Buy Now, Pay Later: Policy Issues and Options for Congress | Congress.gov", "quote": "One form of BNPL is the \"Pay in 4\" product, which is interest free and requires the first payment at the time of purchase and three additional purchases at two-week intervals over the next six weeks."}
+    ]
+  },
+  {
+    "id": "sectors-04-23",
+    "deck": "sectors",
+    "topic": "Visa history",
+    "q": "In what year was Bank of America's BankAmericard rebranded as Visa?",
+    "a": "1976",
+    "accept": [],
+    "wrong": ["1958", "1966", "2008"],
+    "explain": "Bank of America launched BankAmericard in California in 1958, spun it off into its own company in 1970, and it was rebranded as Visa in 1976.",
+    "hook": "BankAmericard 1958 -> Visa 1976.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/electronic-point-of-sale-payments", "title": "Electronic Point-of-Sale Payments | Federal Reserve History", "quote": "The origins of the Visa network, for example, trace to 1958 when Bank of America launched BankAmericard in California. ... BankAmericard was spun off into its own company in 1970 and rebranded as Visa in 1976."},
+      {"url": "https://americanhistory.si.edu/collections/nmah_1444152", "title": "First & Merchants BankAmericard Visa | National Museum of American History", "quote": "In 1976 BankAmericard officially became branded as a Visa card."}
+    ]
+  },
+  {
+    "id": "sectors-04-24",
+    "deck": "sectors",
+    "topic": "Mastercard history",
+    "q": "Mastercard traces its roots to which bank association formed in 1966?",
+    "a": "Interbank Card Association",
+    "accept": ["ICA", "Interbank", "the Interbank Card Association"],
+    "wrong": ["National BankAmericard Inc.", "Diners Club", "Electronic Payments Network"],
+    "explain": "In 1966 a group of banks formed the Interbank Card Association, which introduced the Master Charge brand and later became MasterCard International.",
+    "hook": "Interbank -> Master Charge -> Mastercard.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/money/Mastercard-Inc", "title": "Mastercard Inc. | History, Master Charge, IPO, & Facts | Britannica", "quote": "It traces its roots to 1966, when a group of banks formed the Interbank Card Association to compete in the growing credit card market."},
+      {"url": "https://www.mastercard.com/brandcenter/en/brand-history", "title": "Brand History | Mastercard US", "quote": "In 1966, one of these groups formed the Interbank Card Association (ICA), which later became MasterCard International."}
+    ]
+  },
+  {
+    "id": "sectors-04-25",
+    "deck": "sectors",
+    "topic": "American Express history",
+    "q": "In what year did American Express introduce its Travelers Cheque?",
+    "a": "1891",
+    "accept": [],
+    "wrong": ["1850", "1918", "1958"],
+    "explain": "American Express, founded in 1850 as an express delivery company, introduced the Travelers Cheque in 1891 under president James C. Fargo.",
+    "hook": "Founded 1850, Cheque 1891, charge card 1958.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/print/article/19661", "title": "American Express Company | History & Facts | Britannica", "quote": "On Fargo’s death in 1881, his younger brother, James Congdell Fargo (1829–1915), became president and guided the company for the next 33 years, introducing such innovations as the American Express Money Order (1882) and the American Express Travelers Cheque (1891)"},
+      {"url": "http://americanexpress.com/en-us/company/who-we-are", "title": "American Express History, Values, & Vision | About Amex", "quote": "To help adventurous and entrepreneurial customers traveling abroad feel more secure with their money, we introduced the Travelers Cheque in 1891."}
+    ]
+  },
+  {
+    "id": "sectors-04-26",
+    "deck": "sectors",
+    "topic": "PayPal history",
+    "q": "Approximately how much was eBay's 2002 acquisition of PayPal valued at?",
+    "a": "$1.5 billion",
+    "accept": ["1.5 billion", "$1.5bn", "$1.5B", "1.5bn"],
+    "wrong": ["$150 million", "$5 billion", "$15 billion"],
+    "explain": "eBay completed its all-stock acquisition of PayPal on October 3, 2002, in a deal valued at approximately $1.5 billion; eBay later spun PayPal off in 2015.",
+    "hook": "eBay paid 1.5 for PayPal.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.sec.gov/Archives/edgar/data/1103415/000091205702037693/a2090698zex-99_1.htm", "title": "eBay Completes PayPal Acquisition (Exhibit 99.1, SEC.gov)", "quote": "Based on eBay’s average closing stock price over the period two days before and after the acquisition was announced, the transaction is valued at approximately $1.5 billion."},
+      {"url": "https://www.britannica.com/money/PayPal", "title": "PayPal | History, Description, & Facts | Britannica Money", "quote": "In October 2002, eBay acquired PayPal for $1.5 billion, making PayPal the official payments provider for eBay."}
+    ]
+  },
+  {
+    "id": "sectors-04-27",
+    "deck": "sectors",
+    "topic": "Stripe history",
+    "q": "Who co-founded Stripe in 2010 with his brother John Collison?",
+    "a": "Patrick Collison",
+    "accept": ["Patrick"],
+    "wrong": ["Peter Thiel", "Max Levchin", "Jack Dorsey"],
+    "explain": "Patrick and John Collison started Stripe in 2010 to make it simpler to accept payments on the internet; Patrick is CEO and John is president.",
+    "hook": "Two Collison brothers, one Stripe.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.congress.gov/119/meeting/house/117994/witnesses/HHRG-119-BA00-Bio-CollisonP-20250311.pdf", "title": "Patrick Collison Founder and CEO, Stripe (Congress.gov witness bio)", "quote": "Patrick and his brother, John, started Stripe in 2010 with the goal of making it simpler to accept payments on the internet."},
+      {"url": "https://newsroom.haas.berkeley.edu/stripe-co-founder-and-ceo-patrick-collison-on-founding-a-company-that-should-have-already-existed", "title": "Stripe co-founder and CEO Patrick Collison on \"prizing the small details\" - Haas News | UC Berkeley Haas", "quote": "Patrick Collison and his brother John conceived of financial services company Stripe as something that they thought should already exist. ... And Stripe debuted in 2010"}
+    ]
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "id": "library-07-01",
+    "deck": "library",
+    "topic": "Dutch East India Company",
+    "q": "In what year was the Dutch East India Company (VOC) founded?",
+    "a": "1602",
+    "accept": [],
+    "wrong": ["1588", "1650", "1720"],
+    "explain": "The VOC was founded in the Dutch Republic in 1602 and became the first company in the world to issue shares to the general public and have them traded on a stock exchange.",
+    "hook": "16-oh-2: the VOC's debut year.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Dutch-East-India-Company", "title": "Dutch East India Company | Britannica", "quote": "Dutch East India Company , trading company founded in the Dutch Republic (present-day Netherlands ) in 1602 to protect that state's trade in the Indian Ocean"},
+      {"url": "https://www.beursgeschiedenis.nl/en/the-story", "title": "Amsterdam Stock Exchange - Beursgeschiedenis.nl", "quote": "In 1602, the VOC became the first company in the world to issue shares to the general public and to have those shares traded on a stock exchange, thereby laying the foundations for the Amsterdam Stock Exchange, the first stock exchange in the world."}
+    ]
+  },
+  {
+    "id": "library-07-02",
+    "deck": "library",
+    "topic": "Dutch East India Company",
+    "q": "In which city did trading in Dutch East India Company shares lay the foundations for the world's first stock exchange?",
+    "a": "Amsterdam",
+    "accept": [],
+    "wrong": ["London", "Paris", "Venice"],
+    "explain": "Trading in VOC shares from 1602 laid the foundations for the Amsterdam Stock Exchange, regarded as the first stock exchange in the world.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.beursgeschiedenis.nl/en/the-story", "title": "Amsterdam Stock Exchange - Beursgeschiedenis.nl", "quote": "In 1602, the VOC became the first company in the world to issue shares to the general public and to have those shares traded on a stock exchange, thereby laying the foundations for the Amsterdam Stock Exchange, the first stock exchange in the world."},
+      {"url": "https://pure.uva.nl/ws/files/1427403/85967_06.pdf", "title": "The world's first stock exchange. How the Amsterdam market for Dutch East India Company shares became a modern securities market, 1602-1700 (University of Amsterdam)", "quote": "The world's first stock exchange. How the Amsterdam market for Dutch East India Company shares became a modern securities market, 1602-1700"}
+    ]
+  },
+  {
+    "id": "library-07-03",
+    "deck": "library",
+    "topic": "Tulip mania",
+    "q": "In what year did the Dutch tulip mania price bubble collapse?",
+    "a": "1637",
+    "accept": [],
+    "wrong": ["1602", "1720", "1688"],
+    "explain": "The tulip bubble peaked in Holland during 1633-37; the crash came early in 1637, when prices collapsed almost overnight.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/money/Tulip-Mania", "title": "Tulip Mania | Britannica Money", "quote": "The crash came early in 1637, when doubts arose as to whether prices would continue to increase. Almost overnight the price structure for tulips collapsed"},
+      {"url": "https://guides.loc.gov/business-booms-busts/tulip-mania", "title": "Tulip Mania - Business Booms, Busts, & Bubbles - Library of Congress", "quote": "After a few years the frenzy died down, and by February 1637, prices began to decline."}
+    ]
+  },
+  {
+    "id": "library-07-04",
+    "deck": "library",
+    "topic": "Tulip mania",
+    "q": "Tulip mania is described as an early example of which theory of buying an asset in the belief someone will pay even more for it?",
+    "a": "Greater fool theory",
+    "accept": ["greater fool", "the greater fool theory"],
+    "wrong": ["Efficient market theory", "Random walk theory", "Modern portfolio theory"],
+    "explain": "Britannica calls tulip mania an early example of the greater fool theory: buying an asset not for its fundamental value but because someone else will likely pay a higher price.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/money/Tulip-Mania", "title": "Tulip Mania | Britannica Money", "quote": "The tulip craze was an early example of the greater fool theory —the willingness to buy an asset not because of its fundamental value but because of the belief that someone else is likely to pay an even higher price than you did."}
+    ]
+  },
+  {
+    "id": "library-07-05",
+    "deck": "library",
+    "topic": "South Sea Bubble",
+    "q": "In what year did the South Sea Bubble ruin many British investors?",
+    "a": "1720",
+    "accept": [],
+    "wrong": ["1637", "1688", "1792"],
+    "explain": "The South Sea Bubble was the speculation mania of 1720 centred on the South Sea Company; by September 1720 the market had collapsed.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/money/South-Sea-Bubble", "title": "South Sea Bubble | Britannica Money", "quote": "South Sea Bubble, the speculation mania that ruined many British investors in 1720."},
+      {"url": "https://curiosity.lib.harvard.edu/south-sea-bubble/feature/the-crash", "title": "The Crash | The South Sea Bubble, 1720 - Harvard CURIOSity Digital Exhibits", "quote": "The Bubble finally burst with stock values plummeting from £950 a share in July to £400 a share in September to £185 share in December 1720."}
+    ]
+  },
+  {
+    "id": "library-07-06",
+    "deck": "library",
+    "topic": "South Sea Bubble",
+    "q": "In what year was the South Sea Company founded?",
+    "a": "1711",
+    "accept": [],
+    "wrong": ["1602", "1694", "1720"],
+    "explain": "The South Sea Company was founded in 1711 to trade with Spanish America; its 1720 scheme to take over the national debt fuelled the bubble.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/money/South-Sea-Bubble", "title": "South Sea Bubble | Britannica Money", "quote": "The bubble, or hoax, centred on the fortunes of the South Sea Company, founded in 1711 to trade (mainly in slaves) with Spanish America"},
+      {"url": "https://guides.loc.gov/business-booms-busts/mississippi-company", "title": "Mississippi Company & the South Sea Bubble - Library of Congress", "quote": "The South Sea Company was founded in 1711 by Robert Harley, 1st Earl of Oxford"}
+    ]
+  },
+  {
+    "id": "library-07-07",
+    "deck": "library",
+    "topic": "South Sea Bubble",
+    "q": "Which British king became governor of the South Sea Company in 1718?",
+    "a": "George I",
+    "accept": ["King George I", "George the First"],
+    "wrong": ["William III", "Charles II", "Queen Victoria"],
+    "explain": "King George I became governor of the company in 1718, which created confidence in the enterprise ahead of the 1720 boom.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/money/South-Sea-Bubble", "title": "South Sea Bubble | Britannica Money", "quote": "King George I of Great Britain became governor of the company in 1718, creating confidence in the enterprise"},
+      {"url": "https://curiosity.lib.harvard.edu/south-sea-bubble/feature/the-bubble", "title": "The Bubble | The South Sea Bubble, 1720 - Harvard CURIOSity Digital Exhibits", "quote": "George I's son, later George II, became the figurehead governor of the company until George I took over the position himself in 1718."}
+    ]
+  },
+  {
+    "id": "library-07-08",
+    "deck": "library",
+    "topic": "Buttonwood Agreement / NYSE",
+    "q": "In what year was the Buttonwood Agreement, from which the NYSE traces its origins, signed?",
+    "a": "1792",
+    "accept": [],
+    "wrong": ["1776", "1817", "1863"],
+    "explain": "The NYSE traces its origins to the Buttonwood Agreement signed by 24 stockbrokers on May 17, 1792.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.nyse.com/history-of-nyse", "title": "The History of NYSE", "quote": "The New York Stock Exchange traces its origins to the Buttonwood Agreement signed by 24 stockbrokers on May 17, 1792, as a response to the first financial panic in the young nation."},
+      {"url": "https://www.britannica.com/money/New-York-Stock-Exchange", "title": "New York Stock Exchange (NYSE) | Britannica Money", "quote": "The exchange evolved from a meeting of 24 stockbrokers under a buttonwood tree in 1792 on what is now Wall Street in New York City ."}
+    ]
+  },
+  {
+    "id": "library-07-09",
+    "deck": "library",
+    "topic": "Buttonwood Agreement / NYSE",
+    "q": "How many stockbrokers signed the Buttonwood Agreement?",
+    "a": "24",
+    "accept": ["twenty-four", "twenty four"],
+    "wrong": ["12", "30", "50"],
+    "explain": "Twenty-four New York brokers signed the agreement, which set rules for trading and established set commissions.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.nyse.com/history-of-nyse", "title": "The History of NYSE", "quote": "The New York Stock Exchange traces its origins to the Buttonwood Agreement signed by 24 stockbrokers on May 17, 1792"},
+      {"url": "https://guides.loc.gov/wall-street-history/exchanges", "title": "Stock Exchanges - Wall Street and the Stock Exchanges - Library of Congress", "quote": "The history of the New York Stock Exchange External begins with the signing of the Buttonwood Agreement by twenty-four New York City stockbrokers and merchants on May 17, 1792."}
+    ]
+  },
+  {
+    "id": "library-07-10",
+    "deck": "library",
+    "topic": "Buttonwood Agreement / NYSE",
+    "q": "Under what name was the NYSE formally constituted in 1817?",
+    "a": "New York Stock and Exchange Board",
+    "accept": ["New York Stock & Exchange Board"],
+    "wrong": ["New York Curb Exchange", "American Stock Exchange", "Wall Street Exchange Company"],
+    "explain": "A constitution adopted on March 8, 1817 created the New York Stock & Exchange Board, the forerunner of today's NYSE.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/money/New-York-Stock-Exchange", "title": "New York Stock Exchange (NYSE) | Britannica Money", "quote": "It was formally constituted as the New York Stock and Exchange Board in 1817. The present name was adopted in 1863."},
+      {"url": "https://www.nyse.com/history-of-nyse", "title": "The History of NYSE", "quote": "A constitution was adopted on March 8, 1817, creating the New York Stock & Exchange Board, the forerunner of today's NYSE."}
+    ]
+  },
+  {
+    "id": "library-07-11",
+    "deck": "library",
+    "topic": "Buttonwood Agreement / NYSE",
+    "q": "In what year did the exchange adopt the name New York Stock Exchange?",
+    "a": "1863",
+    "accept": [],
+    "wrong": ["1792", "1817", "1929"],
+    "explain": "The exchange was constituted as the New York Stock and Exchange Board in 1817 and adopted its present name in 1863.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/money/New-York-Stock-Exchange", "title": "New York Stock Exchange (NYSE) | Britannica Money", "quote": "It was formally constituted as the New York Stock and Exchange Board in 1817. The present name was adopted in 1863."},
+      {"url": "https://www.gilderlehrman.org/history-resources/essays/rise-american-institution-stock-market", "title": "The Rise of an American Institution: The Stock Market | Gilder Lehrman Institute of American History", "quote": "And in response, the Exchange—formally renamed the New York Stock Exchange in 1863—began requiring companies to disclose financial information"}
+    ]
+  },
+  {
+    "id": "library-07-12",
+    "deck": "library",
+    "topic": "Panic of 1907",
+    "q": "Which New York trust company's suspension in October 1907 sparked the full-scale Panic of 1907?",
+    "a": "Knickerbocker Trust",
+    "accept": ["Knickerbocker Trust Company", "Knickerbocker"],
+    "wrong": ["Jay Cooke & Company", "Bank of United States", "Lehman Brothers"],
+    "explain": "After J.P. Morgan declined to aid it, Knickerbocker Trust suspended operations on October 22, 1907, sparking the full-scale crisis in New York.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/panic-of-1907", "title": "The Panic of 1907 | Federal Reserve History", "quote": "The suspension of Knickerbocker Trust sparked the full-scale financial crisis in New York City."},
+      {"url": "https://www.federalreserve.gov/newsevents/speech/bernanke20131108a.htm", "title": "Speech by Chairman Bernanke on the crisis as a classic financial panic - Federal Reserve Board", "quote": "Overwhelmed by a run, the Knickerbocker Trust Company failed on October 22, undermining public confidence in the remaining trust companies."}
+    ]
+  },
+  {
+    "id": "library-07-13",
+    "deck": "library",
+    "topic": "Panic of 1907",
+    "q": "Which financier organized private-sector funds to stabilize the banking system during the Panic of 1907?",
+    "a": "J.P. Morgan",
+    "accept": ["JP Morgan", "J. P. Morgan", "John Pierpont Morgan", "Morgan"],
+    "wrong": ["John D. Rockefeller", "Andrew Carnegie", "Cornelius Vanderbilt"],
+    "explain": "With no U.S. central bank, the government had to depend on private bankers such as J.P. Morgan; the panic helped lead to the creation of the Federal Reserve.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/federal-reserve-act-signed", "title": "Federal Reserve Act Signed into Law | Federal Reserve History", "quote": "Finance mogul J.P. Morgan, who had bailed the government out of a financial crisis in 1895, organized private sector investments and lines of credit to stabilize the banking system amid its latest panic."},
+      {"url": "https://www.senate.gov/artandhistory/history/minute/Senate_Passes_the_Federal_Reserve_Act.htm", "title": "U.S. Senate: The Senate Passes the Federal Reserve Act", "quote": "Because the federal government lacked the tools to respond, it had to depend on private bankers, such as J. P. Morgan, to provide an infusion of capital to sustain the banking system."}
+    ]
+  },
+  {
+    "id": "library-07-14",
+    "deck": "library",
+    "topic": "Panic of 1907",
+    "q": "Which banker examined Knickerbocker Trust's books for J.P. Morgan in 1907 and later became the first head of the New York Fed?",
+    "a": "Benjamin Strong",
+    "accept": ["Strong", "Ben Strong"],
+    "wrong": ["Paul Volcker", "Nelson Aldrich", "Carter Glass"],
+    "explain": "Morgan asked Benjamin Strong, then a vice president at Bankers Trust, to examine Knickerbocker's books; Strong could not determine its solvency, so Morgan initially refused aid.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/panic-of-1907", "title": "The Panic of 1907 | Federal Reserve History", "quote": "He asked Benjamin Strong, then a vice president at Banker's Trust and later the first head of the Federal Reserve Bank of New York, to examine Knickerbocker's books and determine its financial condition."},
+      {"url": "https://libertystreeteconomics.newyorkfed.org/2016/11/the-final-crisis-chronicle-the-panic-of-1907-and-the-birth-of-the-fed", "title": "The Final Crisis Chronicle: The Panic of 1907 and the Birth of the Fed - Liberty Street Economics (New York Fed)", "quote": "J. P. Morgan assembled a small team of young bankers, including Benjamin Strong, future head of the Federal Reserve Bank of New York, to examine the books of strained trusts and provide credit to those judged solvent."}
+    ]
+  },
+  {
+    "id": "library-07-15",
+    "deck": "library",
+    "topic": "Creation of the Fed",
+    "q": "In what year was the Federal Reserve Act signed into law?",
+    "a": "1913",
+    "accept": [],
+    "wrong": ["1907", "1929", "1933"],
+    "explain": "President Woodrow Wilson signed the Federal Reserve Act on December 23, 1913, after the Panic of 1907 showed the need for a central bank.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/federal-reserve-act-signed", "title": "Federal Reserve Act Signed into Law | Federal Reserve History", "quote": "The Federal Reserve Act was signed by President Wilson on December 23, 1913."},
+      {"url": "https://www.senate.gov/artandhistory/history/minute/Senate_Passes_the_Federal_Reserve_Act.htm", "title": "U.S. Senate: The Senate Passes the Federal Reserve Act", "quote": "on December 23, 1913, the Senate passed and President Woodrow Wilson signed the Federal Reserve Act."}
+    ]
+  },
+  {
+    "id": "library-07-16",
+    "deck": "library",
+    "topic": "Creation of the Fed",
+    "q": "Which U.S. president signed the Federal Reserve Act?",
+    "a": "Woodrow Wilson",
+    "accept": ["Wilson", "President Wilson"],
+    "wrong": ["Theodore Roosevelt", "William Howard Taft", "Franklin D. Roosevelt"],
+    "explain": "Wilson signed the act on December 23, 1913; it became the most lasting legislative accomplishment of his administration.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/federal-reserve-act-signed", "title": "Federal Reserve Act Signed into Law | Federal Reserve History", "quote": "President Woodrow Wilson signed the Federal Reserve Act in December 1913, culminating three years of discussion and debate over the development of a central bank."},
+      {"url": "https://www.senate.gov/artandhistory/history/minute/Senate_Passes_the_Federal_Reserve_Act.htm", "title": "U.S. Senate: The Senate Passes the Federal Reserve Act", "quote": "on December 23, 1913, the Senate passed and President Woodrow Wilson signed the Federal Reserve Act."}
+    ]
+  },
+  {
+    "id": "library-07-17",
+    "deck": "library",
+    "topic": "Creation of the Fed",
+    "q": "How many regional Federal Reserve district banks were established under the Federal Reserve Act?",
+    "a": "12",
+    "accept": ["twelve"],
+    "wrong": ["7", "8", "50"],
+    "explain": "In April 1914 the Reserve Bank Organization Committee announced the locations of the twelve district banks, and the Reserve Banks opened about a year after the act was signed.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://guides.loc.gov/this-month-in-business-history/december/federal-reserve-act-signed", "title": "Federal Reserve Act Signed - Library of Congress", "quote": "on April 2, 1914, the Reserve Bank Organization Committee announced its decision for the location of the twelve Federal Reserve district banks."},
+      {"url": "https://libertystreeteconomics.newyorkfed.org/2016/11/the-final-crisis-chronicle-the-panic-of-1907-and-the-birth-of-the-fed", "title": "The Final Crisis Chronicle: The Panic of 1907 and the Birth of the Fed - Liberty Street Economics (New York Fed)", "quote": "was signed into law in December 1913 and the twelve Reserve Banks opened about a year later"}
+    ]
+  },
+  {
+    "id": "library-07-18",
+    "deck": "library",
+    "topic": "Crash of 1929",
+    "q": "On what date was Black Tuesday, the final day of the 1929 stock market crash?",
+    "a": "October 29, 1929",
+    "accept": ["Oct 29, 1929", "29 October 1929", "10/29/1929", "October 29"],
+    "wrong": ["October 24, 1929", "October 19, 1987", "September 3, 1929"],
+    "explain": "Black Tuesday, October 29, 1929, marked the final day of the crash that preceded the Great Depression; from Black Thursday (Oct 24) to Black Tuesday the Dow fell about 25 percent.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Black-Tuesday-1929", "title": "Black Tuesday and the Crash of 1929 | Britannica", "quote": "October 29, 1929, known as Black Tuesday, marked the final day of the stock market crash of 1929 , leading to the Great Depression ."},
+      {"url": "https://www.britannica.com/event/stock-market-crash-of-1929", "title": "Stock market crash of 1929 | Britannica", "quote": "Over the course of four business days—Black Thursday (October 24) through Black Tuesday (October 29)—the Dow Jones Industrial Average dropped from 305.85 points to 230.07 points, representing a decrease in stock prices of 25 percent."}
+    ]
+  },
+  {
+    "id": "library-07-19",
+    "deck": "library",
+    "topic": "Crash of 1929",
+    "q": "On what date was Black Thursday, the first day of real panic in the 1929 crash?",
+    "a": "October 24, 1929",
+    "accept": ["Oct 24, 1929", "24 October 1929", "10/24/1929", "October 24"],
+    "wrong": ["October 29, 1929", "October 19, 1987", "December 23, 1913"],
+    "explain": "On Black Thursday a record 12.9 million shares traded; major banks bought blocks of stock to stem the panic, but selling resumed the following Monday and Tuesday.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Black-Thursday", "title": "Black Thursday | Britannica", "quote": "Black Thursday refers to October 24, 1929, the first day of the stock market crash of 1929 , which preceded the Great Depression."},
+      {"url": "https://www.britannica.com/event/stock-market-crash-of-1929", "title": "Stock market crash of 1929 | Britannica", "quote": "The first day of real panic, October 24, is known as Black Thursday ; on that day a record 12.9 million shares were traded as investors rushed to salvage their losses."}
+    ]
+  },
+  {
+    "id": "library-07-20",
+    "deck": "library",
+    "topic": "Glass-Steagall",
+    "q": "What is the official name of the law commonly called the Glass-Steagall Act?",
+    "a": "Banking Act of 1933",
+    "accept": ["The Banking Act of 1933", "1933 Banking Act"],
+    "wrong": ["Securities Exchange Act of 1934", "Federal Reserve Act", "Emergency Banking Act"],
+    "explain": "Glass-Steagall refers to provisions of the Banking Act of 1933, signed by FDR on June 16, 1933, which separated commercial banking from investment banking.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/glass-steagall-act", "title": "Banking Act of 1933 (Glass-Steagall) | Federal Reserve History", "quote": "The Glass-Steagall Act effectively separated commercial banking from investment banking and created the Federal Deposit Insurance Corporation, among other things."},
+      {"url": "https://www.congress.gov/crs-product/R44349", "title": "The Glass-Steagall Act: A Legal and Policy Analysis | Congress.gov", "quote": "Congress effected a separation of commercial and investment banking through four sections of the Banking Act of 1933—Sections 16, 20, 21, and 32. These four statutory provisions are commonly referred to as the Glass-Steagall Act."}
+    ]
+  },
+  {
+    "id": "library-07-21",
+    "deck": "library",
+    "topic": "Glass-Steagall",
+    "q": "Which federal deposit-insurance agency was created by the Glass-Steagall Act of 1933?",
+    "a": "FDIC",
+    "accept": ["Federal Deposit Insurance Corporation"],
+    "wrong": ["SEC", "FINRA", "OCC"],
+    "explain": "Besides separating commercial and investment banking, the 1933 act created the Federal Deposit Insurance Corporation to protect deposits if a bank fails.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/glass-steagall-act", "title": "Banking Act of 1933 (Glass-Steagall) | Federal Reserve History", "quote": "The Glass-Steagall Act effectively separated commercial banking from investment banking and created the Federal Deposit Insurance Corporation, among other things."},
+      {"url": "https://www.britannica.com/topic/Black-Tuesday-1929", "title": "Black Tuesday and the Crash of 1929 | Britannica", "quote": "The Glass-Steagall Act of 1933 instituted a series of banking reforms, including separating commercial and investment banking, and created the Federal Deposit Insurance Corporation , which protected consumer deposits in the event of a bank failure."}
+    ]
+  },
+  {
+    "id": "library-07-22",
+    "deck": "library",
+    "topic": "Glass-Steagall",
+    "q": "Which 1999 law repealed Glass-Steagall's restrictions on affiliations between commercial banks and securities firms?",
+    "a": "Gramm-Leach-Bliley Act",
+    "accept": ["Gramm-Leach-Bliley", "GLBA", "Financial Services Modernization Act", "Financial Services Modernization Act of 1999"],
+    "wrong": ["Dodd-Frank Act", "Sarbanes-Oxley Act", "Riegle-Neal Act"],
+    "explain": "Signed by President Clinton in November 1999, Gramm-Leach-Bliley ended the Glass-Steagall era and led to the creation of financial holding companies.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/glass-steagall-act", "title": "Banking Act of 1933 (Glass-Steagall) | Federal Reserve History", "quote": "It became more controversial over the years and in 1999 the Gramm-Leach-Bliley Act repealed the provisions of the Banking Act of 1933 that restricted affiliations between banks and securities firms."},
+      {"url": "https://www.congress.gov/crs-product/R44349", "title": "The Glass-Steagall Act: A Legal and Policy Analysis | Congress.gov", "quote": "The Glass-Steagall era formally ended in 1999 when the Gramm-Leach-Bliley Act (GLBA) repealed the Glass-Steagall Act's restrictions on affiliations between commercial and investment banks."}
+    ]
+  },
+  {
+    "id": "library-07-23",
+    "deck": "library",
+    "topic": "Bretton Woods",
+    "q": "In which U.S. state was the 1944 Bretton Woods conference held?",
+    "a": "New Hampshire",
+    "accept": ["NH"],
+    "wrong": ["Vermont", "Massachusetts", "Maine"],
+    "explain": "Delegates from 44 nations met in July 1944 at the Mount Washington Hotel in Bretton Woods, New Hampshire, and agreed to establish the IMF and what became the World Bank.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/bretton-woods-created", "title": "Creation of the Bretton Woods System | Federal Reserve History", "quote": "The United Nations Monetary and Financial Conference was held in July 1944 at the Mount Washington Hotel in Bretton Woods, New Hampshire, where delegates from forty-four nations created a new international monetary system known as the Bretton Woods system."},
+      {"url": "https://guides.loc.gov/this-month-in-business-history/july/bretton-woods-conference", "title": "Bretton Woods Conference & the Birth of the IMF and World Bank - Library of Congress", "quote": "The Bretton Woods Conference, officially known as the United Nations Monetary and Financial Conference, was a meeting of delegates from 44 nations that met from July 1 to 22, 1944 in Bretton Woods, New Hampshire."}
+    ]
+  },
+  {
+    "id": "library-07-24",
+    "deck": "library",
+    "topic": "Bretton Woods",
+    "q": "Under the Bretton Woods system, at what price per ounce was the U.S. dollar fixed to gold?",
+    "a": "$35",
+    "accept": ["35", "$35 per ounce", "35 dollars"],
+    "wrong": ["$25", "$50", "$100"],
+    "explain": "Other currencies were fixed to the dollar, and the dollar was convertible to gold at $35 an ounce until Nixon closed the gold window in 1971.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/bretton-woods-created", "title": "Creation of the Bretton Woods System | Federal Reserve History", "quote": "The countries agreed to keep their currencies fixed but adjustable (within a 1 percent band) to the dollar, and the dollar was fixed to gold at $35 an ounce."},
+      {"url": "https://history.state.gov/milestones/1969-1976/nixon-shock", "title": "Nixon and the End of the Bretton Woods System, 1971–1973 - Office of the Historian", "quote": "Under the Bretton Woods system, the external values of foreign currencies were fixed in relation to the U.S. dollar, whose value was in turn expressed in gold at the congressionally-set price of $35 per ounce."}
+    ]
+  },
+  {
+    "id": "library-07-25",
+    "deck": "library",
+    "topic": "Nixon ends gold convertibility",
+    "q": "On what date did President Nixon announce the suspension of the dollar's convertibility into gold?",
+    "a": "August 15, 1971",
+    "accept": ["Aug 15, 1971", "15 August 1971", "8/15/1971", "August 15"],
+    "wrong": ["December 23, 1913", "July 22, 1944", "October 19, 1987"],
+    "explain": "In his New Economic Policy address, known as the \"Nixon shock,\" Nixon closed the gold window, marking the beginning of the end of the Bretton Woods system.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://history.state.gov/milestones/1969-1976/nixon-shock", "title": "Nixon and the End of the Bretton Woods System, 1971–1973 - Office of the Historian", "quote": "On August 15, 1971, President Richard M. Nixon announced his New Economic Policy, a program “to create a new prosperity without war.” Known colloquially as the “Nixon shock,” the initiative marked the beginning of the end for the Bretton Woods system of fixed exchange rates"},
+      {"url": "https://www.federalreservehistory.org/essays/gold-convertibility-ends", "title": "Nixon Ends Convertibility of U.S. Dollars to Gold and Announces Wage/Price Controls | Federal Reserve History", "quote": "On the evening of August 15, 1971, Nixon addressed the nation on a new economic policy that not only was intended to correct the balance of payments but also stave off inflation and lower the unemployment rate. The first order was for the gold window to be closed."}
+    ]
+  },
+  {
+    "id": "library-07-26",
+    "deck": "library",
+    "topic": "Stock ticker",
+    "q": "Who invented the stock ticker in 1867?",
+    "a": "Edward Calahan",
+    "accept": ["Calahan", "Edward A. Calahan", "Edward Callahan", "Callahan"],
+    "wrong": ["Thomas Edison", "Samuel Morse", "Alexander Graham Bell"],
+    "explain": "Edward Calahan devised the first stock ticker in 1867 for the Gold and Stock Telegraph Company in New York; Thomas Edison later improved it but did not invent it.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://edison.rutgers.edu/life-of-edison/inventions?catid=91&id=539%3Astock-ticker&view=article", "title": "Stock Ticker - Thomas A. Edison Papers (Rutgers University)", "quote": "Edison did not invent the stock ticker. The credit for that invention goes to Edward Calahan who devised the first stock ticker in 1867 for the Gold and Stock Telegraph Company in New York."},
+      {"url": "https://americanhistory.si.edu/collections/object/nmah_890544", "title": "Calahan-type telegraph stock ticker | National Museum of American History", "quote": "In 1867 he demonstrated the first practical working ticker which was the basis for the organization of the Gold & Stock Telegraph Company."}
+    ]
+  },
+  {
+    "id": "library-07-27",
+    "deck": "library",
+    "topic": "Stock ticker",
+    "q": "What was the name of the improved stock ticker Thomas Edison developed in 1871?",
+    "a": "Universal Stock Printer",
+    "accept": ["Universal Stock Ticker", "Edison Universal Stock Printer"],
+    "wrong": ["Quadruplex Telegraph", "Kinetoscope", "Phonograph"],
+    "explain": "Edison developed his Universal Stock Printer in 1871 for the Gold and Stock Telegraph Company; his key improvement synchronized all tickers on a line so they printed the same information.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://edison.rutgers.edu/life-of-edison/inventions?catid=91&id=539%3Astock-ticker&view=article", "title": "Stock Ticker - Thomas A. Edison Papers (Rutgers University)", "quote": "Edison developed his Universal Stock Printer in 1871 for Gold and Stock, which soon became a subsidiary of Western Union. Edison's improved stock ticker included his key contributions to printing telegraphy. His most significant improvement was a mechanism that enabled all of the tickers on a line to be synchronized so that they printed the same information."},
+      {"url": "https://culturenow.org/site/invention-of-the-universal-stock-ticker", "title": "Invention of the Universal Stock Ticker - CultureNow (photo/text © Museum of American Finance)", "quote": "Edison`s ticker hit the market in 1871 and quickly became the industry standard."}
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "vault-09-11",
+    "deck": "vault",
+    "topic": "Covenants",
+    "q": "If a borrower takes on no new debt but falling EBITDA pushes debt-to-EBITDA above the 5.0x limit, which covenant type is breached?",
+    "a": "Maintenance covenant",
+    "accept": [
+      "maintenance",
+      "maintenance covenants"
+    ],
+    "wrong": [
+      "Incurrence covenant",
+      "Call protection",
+      "Make-whole provision"
+    ],
+    "explain": "A maintenance covenant is breached by underperformance alone, while an incurrence covenant is only tested when the borrower takes an action such as raising new debt.",
+    "hook": "Maintenance trips on its own; incurrence needs an action.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/covenant-lite-loans",
+        "title": "Covenant-Lite Loans (Cov-Lite) | Debt Structure + Characteristics",
+        "quote": "For example, a maintenance covenant could require the borrower to maintain a 5.0x or lower debt-to-EBITDA ratio. If the borrower's debt-to-EBITDA ratio were to exceed 5.0x from underperformance, the borrower is not in compliance with the lending agreement and would be in technical default."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/debt-covenants/",
+        "title": "Debt Covenants | Lending Types + Loan Examples",
+        "quote": "However, if the borrower does not participate in any external financing but its debt-to-EBITDA ratio exceeds 5.0x due to a lower EBITDA, the borrower has NOT breached the incurrence covenant (although there may be other covenants in breach)."
+      }
+    ]
+  },
+  {
+    "id": "vault-09-26",
+    "deck": "vault",
+    "topic": "Call protection",
+    "q": "Under a make-whole call provision, the redemption payment is based on the present value of what?",
+    "a": "Remaining coupons and principal",
+    "accept": [
+      "remaining coupon payments and principal",
+      "remaining payments",
+      "coupons and principal",
+      "NPV of remaining payments"
+    ],
+    "wrong": [
+      "Original issue price",
+      "Book value of equity",
+      "Accrued interest only"
+    ],
+    "explain": "A make-whole call pays the greater of par and the net present value of the remaining coupon payments and principal, and can be exercised at any time.",
+    "hook": "Make the lender whole for what they would have earned.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/fixed-income/make-whole-call-provision/",
+        "title": "Make-Whole Call Provision - Overview, How it Works",
+        "quote": "The amount that the issuer must pay the lender is determined by calculating the net present value of the coupon payments and the principal that the lender would've received if the bond was not retired early."
+      }
+    ]
+  }
+]

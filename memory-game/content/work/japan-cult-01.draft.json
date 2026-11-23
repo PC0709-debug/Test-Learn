@@ -1,0 +1,590 @@
+[
+  {
+    "id": "japan-cult-01-01",
+    "deck": "fareast",
+    "topic": "Jomon period",
+    "q": "What does the Japanese word 'jōmon', which gave the Jomon period its name, mean?",
+    "a": "Cord pattern",
+    "accept": [
+      "cord-pattern",
+      "cord pattern",
+      "cord markings",
+      "cord-marked",
+      "cord marked"
+    ],
+    "wrong": [
+      "Rice field",
+      "Bronze bell",
+      "Rising sun"
+    ],
+    "explain": "Jomon pottery is named after the impressed rope patterns that often decorate it, and the name came to denote the Neolithic culture that produced it.",
+    "hook": "Jomon pots wear rope tattoos.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/art/Jomon-ware",
+        "title": "Jōmon ware | Britannica",
+        "quote": "This early pottery takes its name from the impressed rope patterns ( jōmon means “cord pattern”) that often decorate it. The name has come to denote not only the pottery itself but the Neolithic culture that produced it."
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/jomon-culture-ca-10500-ca-300-b-c",
+        "title": "Jōmon Culture (ca. 10,500–ca. 300 B.C.) - The Metropolitan Museum of Art",
+        "quote": "Its name is derived from the “cord markings” that characterize the ceramics made during this time."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-02",
+    "deck": "fareast",
+    "topic": "Yayoi period",
+    "q": "Which prehistoric culture of Japan directly followed the Jomon culture?",
+    "a": "Yayoi",
+    "accept": [
+      "Yayoi culture",
+      "Yayoi period"
+    ],
+    "wrong": [
+      "Kofun",
+      "Asuka",
+      "Nara"
+    ],
+    "explain": "The Jomon period is generally agreed to have ended about 300 BCE, roughly coinciding with the rise of the Yayoi culture.",
+    "hook": "J then Y: Jomon hunted, Yayoi harvested.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Jomon-culture",
+        "title": "Jōmon culture | Britannica",
+        "quote": "Most generally agree that the period ended about 300 bce , coinciding approximately with the rise of the Yayoi culture ."
+      },
+      {
+        "url": "https://www.britannica.com/topic/Yayoi-culture",
+        "title": "Yayoi culture | Britannica",
+        "quote": "Yayoi culture , ( c. 300 bce – c. 250 ce ), prehistoric culture of Japan, subsequent to the Jōmon culture ."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-03",
+    "deck": "fareast",
+    "topic": "Yayoi period",
+    "q": "In what year was the pottery that gave the Yayoi culture its name first unearthed in a district of Tokyo?",
+    "a": "1884",
+    "accept": [],
+    "wrong": [
+      "1853",
+      "1868",
+      "1912"
+    ],
+    "explain": "The Yayoi culture is named after the Yayoi district of Tokyo, where its distinctive pottery was first found in 1884.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Yayoi-culture",
+        "title": "Yayoi culture | Britannica",
+        "quote": "Named after the district in Tokyo where its artifacts were first found in 1884, the culture arose on the southern Japanese island of Kyushu and spread northeastward toward the Kantō Plain ."
+      },
+      {
+        "url": "https://japansociety.org/news/early-japan-50000-bc-710-ad/",
+        "title": "Early Japan (50,000 BC - 710 AD) — Japan Society",
+        "quote": "In 1884, some distinctive pottery – clearly different in style and technique from Jomon pots – was unearthed in the Yayoi district of modern Tokyo."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-04",
+    "deck": "fareast",
+    "topic": "Yayoi period",
+    "q": "Wet (irrigated) paddy cultivation of which crop is a defining feature of the Yayoi culture?",
+    "a": "Rice",
+    "accept": [
+      "paddy rice",
+      "wet rice"
+    ],
+    "wrong": [
+      "Wheat",
+      "Maize",
+      "Potatoes"
+    ],
+    "explain": "The Yayoi people used wet paddy rice cultivation of Chinese origin, and an agrarian society emerged after wet-rice farming arrived from the continent.",
+    "hook": "Yayoi = paddy days.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Yayoi-culture",
+        "title": "Yayoi culture | Britannica",
+        "quote": "They employed a method of wet paddy rice cultivation, of Chinese origin, and continued the hunting and shell-gathering economy of the Jōmon culture."
+      },
+      {
+        "url": "https://japanculturalexpo.bunka.go.jp/en/article/feature/202509_index",
+        "title": "A Timeline of Japanese History | Japan Cultural Expo",
+        "quote": "An agrarian society emerges after wet-rice farming arrives from the continent."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-05",
+    "deck": "fareast",
+    "topic": "Nara period",
+    "q": "What was the name of the imperial capital built near modern Nara at the start of the Nara period?",
+    "a": "Heijō-kyō",
+    "accept": [
+      "Heijo-kyo",
+      "Heijokyo",
+      "Heijō",
+      "Heijo",
+      "Heijo-kyō"
+    ],
+    "wrong": [
+      "Heian-kyō",
+      "Kamakura",
+      "Edo"
+    ],
+    "explain": "In the Nara period (710-794) the imperial court built a new capital at Heijō, near modern Nara, under a centralized ritsuryō legal system.",
+    "hook": "Heijō came first (Nara), Heian came next (Kyoto).",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://japanculturalexpo.bunka.go.jp/en/article/feature/202509_index",
+        "title": "A Timeline of Japanese History | Japan Cultural Expo",
+        "quote": "A centralized state is established based on the ritsuryō legal system, with Heijō-kyō (Nara) becoming the capital."
+      },
+      {
+        "url": "https://japansociety.org/news/nara-and-heian-japan-710-ad-1185-ad",
+        "title": "Nara and Heian Japan (710 AD - 1185 AD) — Japan Society",
+        "quote": "Between 710 and 1185 AD, the imperial court first constructed a new imperial capital at Heijo (near modern Nara), and then moved to Heian (modern Kyoto)."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-06",
+    "deck": "fareast",
+    "topic": "Heian period / Kyoto",
+    "q": "In what year was Japan's capital moved to Heian-kyō (modern Kyoto), beginning the Heian period?",
+    "a": "794",
+    "accept": [
+      "794 AD",
+      "794 CE",
+      "AD 794"
+    ],
+    "wrong": [
+      "710",
+      "1185",
+      "1603"
+    ],
+    "explain": "Historians date the Heian period from 794 to 1185, when the capital sat at Heian, modern Kyoto.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://japansociety.org/news/nara-and-heian-japan-710-ad-1185-ad",
+        "title": "Nara and Heian Japan (710 AD - 1185 AD) — Japan Society",
+        "quote": "Because these moves represented new stages in the development of the Japanese state, historians now divide these years into the Nara (710-794) and Heian (794-1185) periods."
+      },
+      {
+        "url": "https://www.visitnara.jp/history",
+        "title": "History - Official Nara Travel Guide",
+        "quote": "As the Buddhist monks in Nara started to become more influential and powerful, Emperor Kammu and the powerful Fujiwara clan moved the capital to modern-day Kyoto in 794."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-07",
+    "deck": "fareast",
+    "topic": "Heian period",
+    "q": "Who wrote The Tale of Genji, the Heian-era masterpiece often called the world's first novel?",
+    "a": "Murasaki Shikibu",
+    "accept": [
+      "Lady Murasaki",
+      "Murasaki"
+    ],
+    "wrong": [
+      "Sei Shōnagon",
+      "Matsuo Bashō",
+      "Ono no Komachi"
+    ],
+    "explain": "Murasaki Shikibu, a lady-in-waiting at the Heian court, likely completed The Tale of Genji about 1010.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/The-Tale-of-Genji",
+        "title": "The Tale of Genji | Britannica",
+        "quote": "The Tale of Genji , masterpiece of Japanese literature by Murasaki Shikibu . Written at the start of the 11th century, it is generally considered the world’s first novel ."
+      },
+      {
+        "url": "https://www.britannica.com/biography/Shikibu-Murasaki",
+        "title": "Murasaki Shikibu | Britannica",
+        "quote": "Murasaki Shikibu (born c. 978, Kyōto , Japan—died c. 1014, Kyōto) was a Japanese writer and lady-in-waiting who was the author of the Genji monogatari ( c. 1010; The Tale of Genji )"
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-08",
+    "deck": "fareast",
+    "topic": "Nara period",
+    "q": "Which emperor ordered the building of Tōdai-ji and its Great Buddha in Nara?",
+    "a": "Shōmu",
+    "accept": [
+      "Shomu",
+      "Emperor Shomu",
+      "Emperor Shōmu"
+    ],
+    "wrong": [
+      "Kammu",
+      "Meiji",
+      "Go-Daigo"
+    ],
+    "explain": "Emperor Shōmu proclaimed the erection of a Great Buddha image in 743; the image was dedicated at Tōdai-ji in 752.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.todaiji.or.jp/en/history",
+        "title": "History of Tōdai-ji Temple",
+        "quote": "In 743 Emperor Shōmu issued his proclamation for the erection of a Great Buddha Image and when the capital was returned to Heijō (Nara) construction of the colossal image of Vairocana was begun"
+      },
+      {
+        "url": "https://www.visitnara.jp/history",
+        "title": "History - Official Nara Travel Guide",
+        "quote": "During this period, Emperor Shomu directed the building of Todaiji Temple and the world’s largest bronze Buddha, as a way to bring hope after wars, a smallpox outbreak and the failure of crops."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-09",
+    "deck": "fareast",
+    "topic": "Samurai and shoguns",
+    "q": "Which samurai leader established Japan's first shogunate at Kamakura?",
+    "a": "Minamoto Yoritomo",
+    "accept": [
+      "Minamoto no Yoritomo",
+      "Yoritomo"
+    ],
+    "wrong": [
+      "Tokugawa Ieyasu",
+      "Ashikaga Takauji",
+      "Oda Nobunaga"
+    ],
+    "explain": "Minamoto Yoritomo gained military hegemony in 1185 and in 1192 took the title of shogun, founding the Kamakura bakufu.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/shogunate",
+        "title": "Shogunate | Britannica",
+        "quote": "The samurai leader Minamoto Yoritomo gained military hegemony over Japan in 1185. Seven years later he assumed the title of shogun and established the first shogunate, or bakufu (literally, “tent government”), at his Kamakura headquarters."
+      },
+      {
+        "url": "https://japansociety.org/news/japans-medieval-age-the-kamakura-muromachi-periods",
+        "title": "Japan's Medieval Age: The Kamakura & Muromachi Periods — Japan Society",
+        "quote": "The Kamakura bakufu was established by Minamoto Yoritomo (1147-1199)."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-10",
+    "deck": "fareast",
+    "topic": "Samurai and shoguns",
+    "q": "What was the full title, meaning 'barbarian-quelling generalissimo', that is usually abbreviated as 'shogun'?",
+    "a": "Seii taishōgun",
+    "accept": [
+      "seii taishogun",
+      "sei-i tai-shogun",
+      "sei-i tai-shōgun",
+      "seii tai shogun"
+    ],
+    "wrong": [
+      "Kampaku",
+      "Dajō-daijin",
+      "Daimyō"
+    ],
+    "explain": "Seii taishōgun was the highest warrior rank; Minamoto Yoritomo received it from the court in 1192.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/shogunate",
+        "title": "Shogunate | Britannica",
+        "quote": "The highest warrior rank, seii taishōgun (“barbarian-quelling generalissimo”), was first attained by Sakanoue Tamuramaro, and the title (abbreviated as shogun ) was later applied to all shogunate leaders."
+      },
+      {
+        "url": "https://japansociety.org/news/japans-medieval-age-the-kamakura-muromachi-periods",
+        "title": "Japan's Medieval Age: The Kamakura & Muromachi Periods — Japan Society",
+        "quote": "In 1192 Yoritomo secured from the court his appointment as “Barbarian-quelling Great General,” sei-i tai-shôgun."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-11",
+    "deck": "fareast",
+    "topic": "Tokugawa / Edo period",
+    "q": "In what year did Tokugawa Ieyasu become shogun, founding the Tokugawa (Edo) shogunate?",
+    "a": "1603",
+    "accept": [],
+    "wrong": [
+      "1600",
+      "1588",
+      "1615"
+    ],
+    "explain": "Ieyasu founded the last shogunate in Japan, the Tokugawa or Edo shogunate, which lasted from 1603 to 1867.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Tokugawa-Ieyasu",
+        "title": "Tokugawa Ieyasu | Britannica",
+        "quote": "Tokugawa Ieyasu (born Jan. 31, 1543, Okazaki , Japan—died June 1, 1616, Sumpu) was the founder of the last shogunate in Japan—the Tokugawa, or Edo, shogunate (1603–1867)."
+      },
+      {
+        "url": "https://nagasakidejima.jp/english/history",
+        "title": "Dejima History | Dejima (official site)",
+        "quote": "1603 | |Tokugawa Ieyasu establishes a Shogunate in Edo."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-12",
+    "deck": "fareast",
+    "topic": "Tokugawa / Edo period",
+    "q": "From which city, now called Tokyo, did the Tokugawa shoguns govern Japan?",
+    "a": "Edo",
+    "accept": [],
+    "wrong": [
+      "Kyoto",
+      "Kamakura",
+      "Osaka"
+    ],
+    "explain": "During the Tokugawa period the political center was Edo (modern Tokyo), while the imperial court remained in Kyoto.",
+    "hook": "Edo period, Edo government.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Tokugawa-period",
+        "title": "Tokugawa period | Britannica",
+        "quote": "During this time Tokugawa Ieyasu established a government at Edo (now Tokyo ), where Japan’s central government remains today."
+      },
+      {
+        "url": "https://nagasakidejima.jp/english/history",
+        "title": "Dejima History | Dejima (official site)",
+        "quote": "1603 | |Tokugawa Ieyasu establishes a Shogunate in Edo."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-13",
+    "deck": "fareast",
+    "topic": "Sakoku",
+    "q": "On which artificial island in Nagasaki were Dutch traders confined during Japan's sakoku seclusion policy?",
+    "a": "Dejima",
+    "accept": [
+      "Deshima"
+    ],
+    "wrong": [
+      "Hakodate",
+      "Okinawa",
+      "Sado"
+    ],
+    "explain": "Under sakoku the Dutch and Chinese were exceptions to the trade ban but were confined to Dejima, which served as Japan's only open window to Europe from 1636 to 1859.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/sakoku",
+        "title": "Sakoku | Britannica",
+        "quote": "The Dutch and Chinese were exceptions but were confined to Dejima Island in Nagasaki."
+      },
+      {
+        "url": "https://nagasakidejima.jp/english/history",
+        "title": "Dejima History | Dejima (official site)",
+        "quote": "The artificial island of Dejima served as Japan’s only open window to Europe from the time of construction in 1636 to the closing of the Dutch Factory in 1859"
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-14",
+    "deck": "fareast",
+    "topic": "Tokugawa / Edo period",
+    "q": "What was the Tokugawa 'alternate attendance' system, made official in 1635, that required daimyo to reside in Edo for part of the time?",
+    "a": "Sankin kōtai",
+    "accept": [
+      "sankin kotai",
+      "sankin-kotai",
+      "sankin-kōtai"
+    ],
+    "wrong": [
+      "Sakoku",
+      "Bushidō",
+      "Ritsuryō"
+    ],
+    "explain": "Shogun Tokugawa Iemitsu inaugurated sankin kōtai in 1635; when lords returned to their fiefs they had to leave their wives and families in Edo.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/sankin-kotai",
+        "title": "Sankin kōtai | Britannica",
+        "quote": "sankin kōtai , system inaugurated in 1635 in Japan by the Tokugawa shogun (hereditary military dictator) Iemitsu by which the great feudal lords (daimyo) had to reside several months each year in the Tokugawa capital at Edo (modern Tokyo). When the lords returned to their fiefs, they were required to leave their wives and families in Edo."
+      },
+      {
+        "url": "https://www.nippon.com/en/articles/-/13670",
+        "title": "All Roads Lead to Edo: The “Sankin Kōtai” System | Nippon.com",
+        "quote": "In 1635, however, it did become official. The third shōgun, Tokugawa Iemitsu, issued an edict revising the Buke shohatto (Laws for the Military Houses) to state clearly that in the fourth lunar month of each year, different groups of domain leaders had to rotate from their domains to Edo or vice versa."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-15",
+    "deck": "fareast",
+    "topic": "Commodore Perry 1853",
+    "q": "Which U.S. naval commodore sailed warships into Tokyo (Edo) Bay in 1853 to press Japan to open its ports?",
+    "a": "Matthew Perry",
+    "accept": [
+      "Matthew C. Perry",
+      "Commodore Perry",
+      "Perry",
+      "Matthew Calbraith Perry"
+    ],
+    "wrong": [
+      "George Dewey",
+      "David Farragut",
+      "John Paul Jones"
+    ],
+    "explain": "On July 8, 1853, Commodore Matthew Perry led four ships into Tokyo Bay, which the Japanese called 'black ships'.",
+    "hook": "Perry's black ships, 1853.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://history.state.gov/milestones/1830-1860/opening-to-japan",
+        "title": "The United States and the Opening to Japan, 1853 - Office of the Historian",
+        "quote": "On July 8, 1853, American Commodore Matthew Perry led his four ships into the harbor at Tokyo Bay , seeking to re-establish for the first time in over 200 years regular trade and discourse between Japan and the western world."
+      },
+      {
+        "url": "https://www.archives.gov/publications/prologue/2004/spring/treaty-of-kanagawa",
+        "title": "Treaty of Kanagawa | National Archives",
+        "quote": "Perry sailed into what is now Tokyo Bay in July 1853 with a sinister-looking armada of four “black ships,” described as such by the Japanese because of their color and the smoke that spewed from their stacks."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-16",
+    "deck": "fareast",
+    "topic": "Commodore Perry 1853",
+    "q": "What 1854 treaty, Japan's first with a Western nation, resulted from Commodore Perry's expedition?",
+    "a": "Treaty of Kanagawa",
+    "accept": [
+      "Kanagawa",
+      "Convention of Kanagawa",
+      "Perry Convention",
+      "Kanagawa Treaty"
+    ],
+    "wrong": [
+      "Treaty of Shimonoseki",
+      "Treaty of Portsmouth",
+      "Treaty of San Francisco"
+    ],
+    "explain": "Signed on March 31, 1854, it opened the ports of Shimoda and Hakodate to U.S. ships and marked the end of Japan's period of seclusion.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Treaty-of-Kanagawa",
+        "title": "Treaty of Kanagawa | Britannica",
+        "quote": "Treaty of Kanagawa , (March 31, 1854), Japan’s first treaty with a Western nation. Concluded by representatives of the United States and Japan at Kanagawa (now part of Yokohama), it marked the end of Japan’s period of seclusion (1639–1854)."
+      },
+      {
+        "url": "https://history.state.gov/milestones/1830-1860/opening-to-japan",
+        "title": "The United States and the Opening to Japan, 1853 - Office of the Historian",
+        "quote": "The Japanese grudgingly agreed to Perry’s demands, and the two sides signed the Treaty of Kanagawa on March 31, 1854. According to the terms of the treaty, Japan would protect stranded seamen and open two ports for refueling and provisioning American ships: Shimoda and Hakodate."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-17",
+    "deck": "fareast",
+    "topic": "Meiji Restoration",
+    "q": "In what year did the Meiji Restoration end the Tokugawa shogunate and restore imperial rule?",
+    "a": "1868",
+    "accept": [],
+    "wrong": [
+      "1853",
+      "1889",
+      "1912"
+    ],
+    "explain": "The Meiji Restoration of 1868 ended the shogunate; the capital then moved from Kyoto to Edo, which was renamed Tokyo ('eastern capital').",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Meiji-Restoration",
+        "title": "Meiji Restoration | Britannica",
+        "quote": "Meiji Restoration , in Japanese history, the political revolution in 1868 that brought about the final demise of the Tokugawa shogunate (military government)—thus ending the Edo (Tokugawa) period (1603–1867)—and, at least nominally, returned control of the country to direct imperial rule under Mutsuhito (the emperor Meiji )."
+      },
+      {
+        "url": "https://www.britannica.com/place/Tokyo",
+        "title": "Tokyo | Britannica",
+        "quote": "With the Meiji Restoration of 1868, which ended the shogunate, the capital was moved to Edo. The city was renamed Tokyo, meaning “eastern capital.”"
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-18",
+    "deck": "fareast",
+    "topic": "Meiji Restoration",
+    "q": "What was the personal name of the Meiji emperor?",
+    "a": "Mutsuhito",
+    "accept": [],
+    "wrong": [
+      "Hirohito",
+      "Yoshihito",
+      "Akihito"
+    ],
+    "explain": "Mutsuhito reigned from 1867 to 1912 and took the name Meiji, by which his era is also known.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Meiji",
+        "title": "Meiji | Britannica",
+        "quote": "In 1868 his coronation ceremony was carried out, and he took the name Meiji, by which the era of his reign is also known."
+      },
+      {
+        "url": "https://www.britannica.com/event/Meiji-Restoration",
+        "title": "Meiji Restoration | Britannica",
+        "quote": "returned control of the country to direct imperial rule under Mutsuhito (the emperor Meiji )."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-01-19",
+    "deck": "fareast",
+    "topic": "Osaka Castle / Hideyoshi",
+    "q": "Which warlord began building Osaka Castle in 1583?",
+    "a": "Toyotomi Hideyoshi",
+    "accept": [
+      "Hideyoshi",
+      "Toyotomi"
+    ],
+    "wrong": [
+      "Oda Nobunaga",
+      "Tokugawa Ieyasu",
+      "Minamoto Yoritomo"
+    ],
+    "explain": "Hideyoshi built Osaka Castle on the site of Ishiyama Honganji Temple from 1583; it was destroyed in the 1615 Osaka Summer Campaign and later rebuilt by the Edo shogunate.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.ndl.go.jp/en/landmarks/sights/osakajo",
+        "title": "Osaka Castle | National Diet Library Digital Exhibitions",
+        "quote": "TOYOTOMI Hideyoshi built this castle on the site of Ishiyama Honganji Temple over a period of three years from 1583."
+      },
+      {
+        "url": "https://edolegacytravel.metro.tokyo.lg.jp/spots/osaka-castle",
+        "title": "Osaka Castle | Journey Through Edo's Legacy (Tokyo Metropolitan Government)",
+        "quote": "In 1583, during an era of international exchange that began with contact with Portugal, Hideyoshi began construction of this magnificent castle as a symbol of his authority as the ruler of Japan."
+      }
+    ]
+  }
+]

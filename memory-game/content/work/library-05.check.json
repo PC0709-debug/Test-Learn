@@ -1,0 +1,442 @@
+[
+ {
+  "id": "library-05-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/list/timeline-of-world-war-i",
+   "https://www.britannica.com/event/World-War-I",
+   "https://www.theworldwar.org/learn/about-wwi/key-dates"
+  ]
+ },
+ {
+  "id": "library-05-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/World-War-I",
+   "https://www.theworldwar.org/learn/about-wwi/key-dates"
+  ]
+ },
+ {
+  "id": "library-05-03",
+  "source": 22,
+  "match": 25,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 85,
+  "hardFail": "'5:00 am' signing time and 'Rethondes' are stated only by Britannica (single source for a number)",
+  "pass": false,
+  "issue": "Explain's 5:00 am signing time is single-sourced (Britannica only; WWI Museum confirms Nov 11 signing and 11 a.m. ceasefire but not 5 am). Drop the 5:00 am time or cite a second independent source (e.g. theworldwar.org key dates already confirms 11 a.m.).",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/World-War-I/The-end-of-the-German-war",
+   "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles",
+   "https://www.theworldwar.org/learn/about-wwi/key-dates"
+  ]
+ },
+ {
+  "id": "library-05-04",
+  "source": 20,
+  "match": 25,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 83,
+  "hardFail": "Entry-into-force date January 10, 1920 and Hall of Mirrors are stated only by Britannica; National Archives quote confirms only the June 28, 1919 signing",
+  "pass": false,
+  "issue": "Add a second independent source for Hall of Mirrors and January 10, 1920 (e.g. chateauversailles.fr, Avalon Project), or drop the in-force date from explain.",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Treaty-of-Versailles-1919",
+   "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles"
+  ]
+ },
+ {
+  "id": "library-05-05",
+  "source": 24,
+  "match": 27,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 90,
+  "hardFail": "Annulment by the Armistice of November 11, 1918 is supported only by Britannica (single publisher)",
+  "pass": false,
+  "issue": "March 3, 1918 is confirmed by Britannica and the WWI Museum. The annulment and its date rest on Britannica alone; add an independent source or drop the last sentence.",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/treaties-of-Brest-Litovsk",
+   "https://www.theworldwar.org/learn/about-wwi/key-dates",
+   "https://www.britannica.com/list/timeline-of-world-war-i"
+  ]
+ },
+ {
+  "id": "library-05-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Bolshevik",
+   "https://encyclopedia.ushmm.org/content/en/article/the-russian-revolution-1917",
+   "https://www.britannica.com/summary/Russian-Revolution"
+  ]
+ },
+ {
+  "id": "library-05-07",
+  "source": 18,
+  "match": 25,
+  "unique": 10,
+  "current": 15,
+  "precise": 8,
+  "total": 76,
+  "hardFail": "Abdication date March 15, 1917 cited only from Britannica (two Britannica pages are not independent; the WWI Museum quote concerns the July 1918 murder); accept list includes bare 'Nicholas' which also matches Nicholas I",
+  "pass": false,
+  "issue": "Add an independent source for the March 15, 1917 (N.S.) abdication date (e.g. USHMM Russian Revolution article confirms the abdication), and remove 'Nicholas' from accept.",
+  "verifiedUrls": [
+   "https://www.britannica.com/list/russian-revolution-timeline",
+   "https://www.britannica.com/event/Russian-Revolution",
+   "https://www.theworldwar.org/learn/about-wwi/key-dates"
+  ]
+ },
+ {
+  "id": "library-05-08",
+  "source": 18,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 85,
+  "hardFail": "All dates and the 16 million share figure come only from Britannica (single publisher)",
+  "pass": false,
+  "issue": "Cite an independent second source (e.g. Federal Reserve History, Library of Congress) for October 29, October 24 and the >16 million shares figure; Britannica's own pages give 16.4 million.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Black-Tuesday-1929",
+   "https://www.britannica.com/event/stock-market-crash-of-1929"
+  ]
+ },
+ {
+  "id": "library-05-09",
+  "source": 18,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 88,
+  "hardFail": "1933 launch date and FDR attribution cited only from Britannica (single publisher)",
+  "pass": false,
+  "issue": "Add an independent source (e.g. FDR Library, National Archives, Library of Congress) confirming FDR launched the New Deal in 1933.",
+  "verifiedUrls": [
+   "https://www.britannica.com/summary/New-Deal-Key-Facts",
+   "https://www.britannica.com/event/New-Deal"
+  ]
+ },
+ {
+  "id": "library-05-10",
+  "source": 28,
+  "match": 30,
+  "unique": 8,
+  "current": 15,
+  "precise": 10,
+  "total": 91,
+  "hardFail": "Accept entry '12/7/1941' is ambiguous (reads as 12 July 1941 in day/month format), so it is not truly equivalent",
+  "pass": false,
+  "issue": "Facts confirmed by National Archives and Britannica. Remove the numeric '12/7/1941' accept entry.",
+  "verifiedUrls": [
+   "https://www.archives.gov/legislative/features/pearl-harbor",
+   "https://www.britannica.com/topic/Timeline-of-World-War-II"
+  ]
+ },
+ {
+  "id": "library-05-11",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: 'largest amphibious invasion in military history' is supported only by the Eisenhower Library among this card's sources (USHMM D-Day page also says it).",
+  "verifiedUrls": [
+   "https://www.army.mil/d-day/",
+   "https://www.eisenhowerlibrary.gov/research/online-documents/world-war-ii-d-day-invasion-normandy"
+  ]
+ },
+ {
+  "id": "library-05-12",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.eisenhowerlibrary.gov/research/online-documents/world-war-ii-d-day-invasion-normandy",
+   "https://encyclopedia.ushmm.org/content/en/article/d-day",
+   "https://www.army.mil/d-day/"
+  ]
+ },
+ {
+  "id": "library-05-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://encyclopedia.ushmm.org/content/en/article/invasion-of-the-soviet-union-june-1941",
+   "https://www.britannica.com/event/Operation-Barbarossa"
+  ]
+ },
+ {
+  "id": "library-05-14",
+  "source": 18,
+  "match": 22,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 78,
+  "hardFail": "Paulus/February 1943 surrender cited only from Britannica, and Britannica's main article says Paulus himself surrendered January 31, 1943 (the last troops surrendered February 2), so 'army under Paulus surrendering in February 1943' is imprecise",
+  "pass": false,
+  "issue": "Reword to 'the battle ended with the surrender of the German Sixth Army on February 2, 1943' and add an independent source (e.g. USHMM or Britannica plus another). Volgograd answer itself is correct.",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Battle-of-Stalingrad",
+   "https://www.britannica.com/summary/Battle-of-Stalingrad",
+   "https://www.britannica.com/list/timeline-of-the-battle-of-stalingrad"
+  ]
+ },
+ {
+  "id": "library-05-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/atomic-bombings-of-Hiroshima-and-Nagasaki",
+   "https://www.nps.gov/articles/000/the-atomic-bombings-of-hiroshima-and-nagasaki.htm"
+  ]
+ },
+ {
+  "id": "library-05-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.un.org/en/about-us/un-charter",
+   "https://www.archives.gov/milestone-documents/united-nations-charter"
+  ]
+ },
+ {
+  "id": "library-05-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://history.state.gov/milestones/1937-1945/bretton-woods",
+   "https://www.un.org/en/un-chronicle/story-charter"
+  ]
+ },
+ {
+  "id": "library-05-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://history.state.gov/milestones/1937-1945/bretton-woods",
+   "https://www.un.org/en/un-chronicle/story-charter"
+  ]
+ },
+ {
+  "id": "library-05-19",
+  "source": 22,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 90,
+  "hardFail": "Exact date August 15, 1971 in explain rests on a single publisher (both cited pages are the State Department Office of the Historian; the second gives only 'August 1971')",
+  "pass": false,
+  "issue": "Add an independent source for August 15, 1971 (e.g. Federal Reserve History 'Nixon Ends Convertibility', Nixon Library) or say 'in August 1971'.",
+  "verifiedUrls": [
+   "https://history.state.gov/milestones/1969-1976/nixon-shock",
+   "https://history.state.gov/milestones/1937-1945/bretton-woods"
+  ]
+ },
+ {
+  "id": "library-05-20",
+  "source": 18,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 85,
+  "hardFail": "Answer name and all explain figures (June 5, 1947; March 1948; over $12 billion) come only from the State Department Office of the Historian (single publisher)",
+  "pass": false,
+  "issue": "Add an independent source (e.g. National Archives Marshall Plan milestone document, George C. Marshall Foundation) confirming 'European Recovery Program' and the figures.",
+  "verifiedUrls": [
+   "https://history.state.gov/milestones/1945-1952/berlin-airlift",
+   "https://history.state.gov/milestones/1945-1952/marshall-plan"
+  ]
+ },
+ {
+  "id": "library-05-21",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Note: State Dept page says the blockade was lifted May 11/12, 1949; DoD says May 11. Explain's 'May 1949' is consistent.",
+  "verifiedUrls": [
+   "https://history.state.gov/milestones/1945-1952/berlin-airlift",
+   "https://www.defense.gov/News/Feature-Stories/Story/Article/3072635/the-berlin-airlift-what-it-was-its-importance-in-the-cold-war"
+  ]
+ },
+ {
+  "id": "library-05-22",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty",
+   "https://history.state.gov/historicaldocuments/frus1949v04/d144"
+  ]
+ },
+ {
+  "id": "library-05-23",
+  "source": 24,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 91,
+  "hardFail": "'13 days' (explain and hook) is stated only by the National Archives; the State Department page does not give the figure",
+  "pass": false,
+  "issue": "Add a second independent source for the 13 days (October 16-28, 1962), e.g. JFK Library, or drop the figure from explain and hook.",
+  "verifiedUrls": [
+   "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis",
+   "https://www.archives.gov/news/topics/cuban-missile-crisis"
+  ]
+ },
+ {
+  "id": "library-05-24",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nasa.gov/history/sputnik/index.html",
+   "https://www.britannica.com/story/timeline-of-the-space-race"
+  ]
+ },
+ {
+  "id": "library-05-25",
+  "source": 24,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 91,
+  "hardFail": "'orbited Earth once in 1 hour 29 minutes' is single-sourced (Britannica only)",
+  "pass": false,
+  "issue": "Launch date April 12, 1961 confirmed by Britannica and Smithsonian. Drop the 1 h 29 min figure or cite a second source (e.g. NASA, ESA).",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Yuri-Gagarin",
+   "https://airandspace.si.edu/explore/stories/apollo-11-moon-landing"
+  ]
+ },
+ {
+  "id": "library-05-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C",
+   "https://www.nasa.gov/centers-and-facilities/kennedy/50-years-ago-apollo-astronauts-land-take-first-steps-on-moon"
+  ]
+ },
+ {
+  "id": "library-05-27",
+  "source": 30,
+  "match": 30,
+  "unique": 8,
+  "current": 15,
+  "precise": 10,
+  "total": 93,
+  "hardFail": "Accept entry '11/9/1989' is ambiguous (reads as 11 September 1989 in day/month format), so it is not truly equivalent",
+  "pass": false,
+  "issue": "Facts confirmed by three sources. Remove the numeric '11/9/1989' accept entry.",
+  "verifiedUrls": [
+   "https://history.state.gov/milestones/1953-1960/berlin-crises",
+   "https://www.britannica.com/topic/Berlin-Wall",
+   "https://www.stiftung-berliner-mauer.de/en/topics/berlin-wall"
+  ]
+ }
+]

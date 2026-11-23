@@ -1,0 +1,433 @@
+[
+ {
+  "id": "floor-03-01",
+  "source": 28,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "BLS CPI FAQ excerpt returned only the TOC, so the quoted sentence could not be seen; publisher fact confirmed via BEA page naming 'Bureau of Labor Statistics' consumer price index' and BLS Handbook/technical notes. Consider citing bls.gov/opub/hom/cpi/concepts.htm instead.",
+  "verifiedUrls": [
+   "http://bea.gov/resources/learning-center/what-to-know-prices-inflation",
+   "https://www.bls.gov/opub/hom/cpi/concepts.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "http://bea.gov/resources/learning-center/what-to-know-prices-inflation",
+   "http://www.bea.gov/data/personal-consumption-expenditures-price-index"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "http://www.bea.gov/help/faq/518",
+   "https://www.bls.gov/opub/hom/cpi/concepts.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-04",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/economy-at-a-glance-inflation-pce.htm",
+   "https://www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-05",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf",
+   "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125c.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-06",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "BLS FAQ quote not visible in excerpt; CPI-U = All Urban Consumers confirmed by technical notes and HOM. Accept entry 'urban' is loose but acceptable.",
+  "verifiedUrls": [
+   "https://www.bls.gov/cpi/technical-notes",
+   "https://www.bls.gov/opub/hom/cpi/concepts.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-07",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bls.gov/cpi/technical-notes",
+   "https://www.bls.gov/opub/hom/cpi/concepts.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bea.gov/data/gdp/gross-domestic-product",
+   "https://www.bea.gov/help/glossary/gross-domestic-product-gdp"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bea.gov/resources/methodologies/nipa-handbook/pdf/chapter-08.pdf",
+   "https://www.bea.gov/data/gdp/gross-domestic-product"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-10",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bea.gov/help/glossary/gross-domestic-product-gdp",
+   "https://www.bea.gov/resources/methodologies/nipa-handbook/pdf/chapter-08.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-11",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bea.gov/help/glossary/gross-domestic-product-gdp",
+   "https://www.bea.gov/resources/methodologies/nipa-handbook/pdf/chapter-08.pdf"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-12",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "issue": "SCB methodology quote not visible in excerpt; advance/second/third sequence confirmed by BEA 2Q26 third-estimate PDF and GDP page (Q3 advance released Oct 29).",
+  "verifiedUrls": [
+   "https://www.bea.gov/sites/default/files/2026-09/gdp2q26-3rd.pdf",
+   "https://www.bea.gov/data/gdp/gross-domestic-product"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bls.gov/web/empsit/ces_cps_trends.htm",
+   "https://www.bls.gov/news.release/archives/empsit_10022026.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-14",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "issue": "CES FAQ quote not visible in excerpt (collapsed); confirmed by ces_cps_trends and empsit quick guide.",
+  "verifiedUrls": [
+   "https://www.bls.gov/web/empsit/ces_cps_trends.htm",
+   "https://www.bls.gov/bls/empsitquickguide.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-15",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bls.gov/web/empsit/ces_cps_trends.htm",
+   "https://www.bls.gov/bls/empsitquickguide.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bls.gov/cps/cps_over.htm",
+   "https://www.bls.gov/news.release/archives/empsit_10022026.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bls.gov/bls/empsitquickguide.htm",
+   "https://www.bls.gov/web/empsit/ces_cps_trends.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-18",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "issue": "CES FAQ quote not visible in excerpt; reference period confirmed by ces_cps_trends and Sept 2026 Employment Situation technical note.",
+  "verifiedUrls": [
+   "https://www.bls.gov/web/empsit/ces_cps_trends.htm",
+   "https://www.bls.gov/news.release/archives/empsit_10022026.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bls.gov/cps/definitions.htm",
+   "https://www.bls.gov/webapps/legacy/cpsatab15.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-20",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bls.gov/cps/definitions.htm",
+   "https://www.bls.gov/webapps/legacy/cpsatab15.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-21",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bls.gov/webapps/legacy/cpsatab15.htm",
+   "https://www.bls.gov/news.release/empsit.t15.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-22",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/september",
+   "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-23",
+  "source": 12,
+  "match": 28,
+  "unique": 11,
+  "current": 15,
+  "precise": 9,
+  "total": 75,
+  "hardFail": "Only one cited source for a name/renaming fact (two independent sources required).",
+  "issue": "Quote confirmed on ISM Services October 2026 page, but only one source is cited; add a second independent source (e.g. an ISM press release or another ISM report page). Also drop 'NMI'/'Non-Manufacturing Index' from accept: that was the index name, not the report name.",
+  "verifiedUrls": [
+   "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october"
+  ],
+  "pass": false
+ },
+ {
+  "id": "floor-03-24",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bls.gov/jlt",
+   "https://www.bls.gov/opub/hom/jlt/concepts.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-25",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.bls.gov/opub/hom/jlt/concepts.htm",
+   "https://www.bls.gov/news.release/archives/jolts_09292026.htm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nber.org/research/business-cycle-dating",
+   "https://www.congress.gov/crs-product/IF12774"
+  ],
+  "pass": true
+ },
+ {
+  "id": "floor-03-27",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nber.org/research/business-cycle-dating/business-cycle-dating-procedure-frequently-asked-questions",
+   "https://www.congress.gov/crs-product/IF12774"
+  ],
+  "pass": true
+ }
+]

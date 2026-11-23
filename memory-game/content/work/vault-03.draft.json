@@ -1,0 +1,797 @@
+[
+  {
+    "id": "vault-03-01",
+    "deck": "vault",
+    "topic": "ASC 606 five steps",
+    "q": "How many steps are in the ASC 606 revenue recognition model?",
+    "a": "5",
+    "accept": [
+      "five",
+      "5 steps",
+      "five steps"
+    ],
+    "wrong": [
+      "3",
+      "4",
+      "6"
+    ],
+    "explain": "ASC 606 applies a five-step model: identify the contract, identify performance obligations, determine the transaction price, allocate it, and recognize revenue when (or as) obligations are satisfied.",
+    "hook": "Contract, Obligations, Price, Allocate, Recognize: one step per finger.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf",
+        "title": "FASB ASU 2014-09, Revenue from Contracts with Customers (Topic 606)",
+        "quote": "Step 1: Identify the contract(s) with a customer. Step 2: Identify the performance obligations in the contract. Step 3: Determine the transaction price. Step 4: Allocate the transaction price to the performance obligations in the contract. Step 5: Recognize revenue when (or as) the entity satisfies a performance obligation."
+      },
+      {
+        "url": "https://assets.kpmg.com/content/dam/kpmg/pdf/2014/06/Defining-Issues-O-1405-24.pdf",
+        "title": "KPMG Defining Issues 14-24: FASB, IASB Issue Revenue Recognition Standard",
+        "quote": "The standard provides a five-step analysis of transactions to determine when and how revenue is recognized."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-02",
+    "deck": "vault",
+    "topic": "ASC 606 five steps",
+    "q": "What is Step 1 of the ASC 606 revenue recognition model?",
+    "a": "Identify the contract",
+    "accept": [
+      "Identify the contract with a customer",
+      "Identify the contract(s) with a customer",
+      "identify contract"
+    ],
+    "wrong": [
+      "Determine the transaction price",
+      "Identify the performance obligations",
+      "Allocate the transaction price"
+    ],
+    "explain": "Step 1 is to identify the contract(s) with a customer; a contract is an agreement between two or more parties that creates enforceable rights and obligations.",
+    "hook": "No contract, no revenue: everything starts with the deal paper.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf",
+        "title": "FASB ASU 2014-09, Revenue from Contracts with Customers (Topic 606)",
+        "quote": "Step 1: Identify the contract(s) with a customer."
+      },
+      {
+        "url": "https://storage.fasb.org/FIF%20ASU%202014-09%20Revenue%20from%20Contracts%20with%20Customers%20(Rev%206-3-20).pdf",
+        "title": "FASB In Focus - ASU 2014-09, Revenue from Contracts with Customers (Topic 606)",
+        "quote": "Step 1: Identify the contract with a customer. A contract is an agreement between two or more parties that creates enforceable rights and obligations."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-03",
+    "deck": "vault",
+    "topic": "ASC 606 five steps",
+    "q": "What is Step 3 of the ASC 606 revenue recognition model?",
+    "a": "Determine the transaction price",
+    "accept": [
+      "Determine transaction price",
+      "transaction price"
+    ],
+    "wrong": [
+      "Identify the contract",
+      "Allocate the transaction price",
+      "Recognize revenue"
+    ],
+    "explain": "Step 3 determines the transaction price: the consideration the entity expects to be entitled to for transferring promised goods or services, excluding amounts collected on behalf of third parties.",
+    "hook": "Step 3 puts a price tag on the deal before Step 4 slices it up.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf",
+        "title": "FASB ASU 2014-09, Revenue from Contracts with Customers (Topic 606)",
+        "quote": "Step 3: Determine the transaction price."
+      },
+      {
+        "url": "https://storage.fasb.org/Post-Implementation%20Review%E2%80%94Revenue%20from%20Contracts%20with%20Customers%20(Topic%20606).pdf",
+        "title": "FASB Post-Implementation Review - Revenue from Contracts with Customers (Topic 606)",
+        "quote": "Step 3: Determine the transaction price. The transaction price is the amount of consideration (for example, payment) to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-04",
+    "deck": "vault",
+    "topic": "ASC 606 allocation",
+    "q": "In ASC 606 Step 4, on what basis is the transaction price typically allocated to performance obligations?",
+    "a": "Relative standalone selling price",
+    "accept": [
+      "Standalone selling price",
+      "relative standalone selling prices",
+      "SSP",
+      "relative SSP"
+    ],
+    "wrong": [
+      "Relative cost to produce",
+      "Equal split per obligation",
+      "Relative gross margin"
+    ],
+    "explain": "An entity typically allocates the transaction price to each performance obligation based on the relative standalone selling price of each distinct good or service in the contract.",
+    "hook": "Price each piece as if sold alone, then share the pie pro rata.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/FIF%20ASU%202014-09%20Revenue%20from%20Contracts%20with%20Customers%20(Rev%206-3-20).pdf",
+        "title": "FASB In Focus - ASU 2014-09, Revenue from Contracts with Customers (Topic 606)",
+        "quote": "A reporting organization typically allocates the transaction price to each performance obligation on the basis of the relative standalone selling price of each distinct good or service promised in the contract."
+      },
+      {
+        "url": "https://storage.fasb.org/Post-Implementation%20Review%E2%80%94Revenue%20from%20Contracts%20with%20Customers%20(Topic%20606).pdf",
+        "title": "FASB Post-Implementation Review - Revenue from Contracts with Customers (Topic 606)",
+        "quote": "The entity must determine the standalone selling price at contract inception of the distinct goods or services underlying each performance obligation and typically would allocate the transaction price on a relative standalone selling price basis."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-05",
+    "deck": "vault",
+    "topic": "ASC 606 recognition",
+    "q": "Under ASC 606, a good or service is transferred when the customer obtains what?",
+    "a": "Control",
+    "accept": [
+      "control of the good or service",
+      "control of it"
+    ],
+    "wrong": [
+      "Legal title only",
+      "An invoice",
+      "Risks and rewards"
+    ],
+    "explain": "Revenue is recognized when (or as) a performance obligation is satisfied, which is when the customer obtains control of the promised good or service; this replaced the older risks-and-rewards basis for goods.",
+    "hook": "Revenue follows control, not cash.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/Post-Implementation%20Review%E2%80%94Revenue%20from%20Contracts%20with%20Customers%20(Topic%20606).pdf",
+        "title": "FASB Post-Implementation Review - Revenue from Contracts with Customers (Topic 606)",
+        "quote": "A good or service is transferred when (or as) the customer obtains control of that good or service."
+      },
+      {
+        "url": "https://storage.fasb.org/ASU%202014-09_Section%20D.pdf",
+        "title": "FASB ASU 2014-09 Basis for Conclusions (Section D)",
+        "quote": "Both U.S. GAAP and IFRS required revenue to be recognized for goods when risks and rewards transferred and, for services, as the service was performed."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-06",
+    "deck": "vault",
+    "topic": "ASC 606 contract criteria",
+    "q": "Under ASC 606 Step 1, collection of the consideration must be at what level of likelihood for a contract to exist?",
+    "a": "Probable",
+    "accept": [
+      "it is probable"
+    ],
+    "wrong": [
+      "Remote",
+      "Reasonably possible",
+      "Virtually certain"
+    ],
+    "explain": "One of the five contract criteria is that it is probable the entity will collect the consideration to which it will be entitled for the goods or services transferred.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf",
+        "title": "FASB ASU 2014-09, Revenue from Contracts with Customers (Topic 606)",
+        "quote": "It is probable that the entity will collect the consideration to which it will be entitled in exchange for the goods or services that will be transferred to the customer."
+      },
+      {
+        "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frdbb3043-09-08-2026.pdf",
+        "title": "EY Financial reporting developments: Revenue from contracts with customers (ASC 606)",
+        "quote": "It is probable that the entity will collect substantially all of the consideration to which it will be entitled in exchange for the goods or services that will be transferred to the customer."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-07",
+    "deck": "vault",
+    "topic": "ASC 606 history",
+    "q": "In what month and year did the FASB issue ASU 2014-09, which created ASC 606?",
+    "a": "May 2014",
+    "accept": [
+      "05/2014",
+      "2014-05"
+    ],
+    "wrong": [
+      "January 2014",
+      "December 2015",
+      "May 2016"
+    ],
+    "explain": "The FASB issued Accounting Standards Update No. 2014-09, Revenue from Contracts with Customers (Topic 606), in May 2014.",
+    "hook": "The update number tells you the year: 2014-09.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/Comparison%20of%20Topic%20606%20and%20IFRS%2015.pdf",
+        "title": "FASB - Comparison of Topic 606 and IFRS 15",
+        "quote": "In May 2014, the FASB issued Accounting Standards Update No. 2014-09, Revenue from Contracts with Customers (Topic 606)."
+      },
+      {
+        "url": "https://storage.fasb.org/ASU%202014-09_Section%20A.pdf",
+        "title": "FASB ASU 2014-09, Revenue from Contracts with Customers (Topic 606)",
+        "quote": "Revenue from Contracts with Customers (Topic 606) No. 2014-09 May 2014"
+      }
+    ]
+  },
+  {
+    "id": "vault-03-08",
+    "deck": "vault",
+    "topic": "ASC 606 vs IFRS",
+    "q": "Which IFRS standard is the counterpart to ASC 606 for revenue from contracts with customers?",
+    "a": "IFRS 15",
+    "accept": [
+      "IFRS15",
+      "IFRS 15 Revenue from Contracts with Customers"
+    ],
+    "wrong": [
+      "IFRS 9",
+      "IFRS 16",
+      "IFRS 3"
+    ],
+    "explain": "The FASB publishes a comparison of Topic 606 and IFRS 15, the converged revenue standards; IFRS 9 covers financial instruments, IFRS 16 leases and IFRS 3 business combinations.",
+    "hook": "606 in the US, 15 abroad.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/Comparison%20of%20Topic%20606%20and%20IFRS%2015.pdf",
+        "title": "FASB - Comparison of Topic 606 and IFRS 15",
+        "quote": "REVENUE FROM CONTRACTS WITH CUSTOMERS Comparison of Topic 606 and IFRS 15"
+      }
+    ]
+  },
+  {
+    "id": "vault-03-09",
+    "deck": "vault",
+    "topic": "Deferred revenue",
+    "q": "On which part of the balance sheet is deferred revenue recorded?",
+    "a": "Liabilities",
+    "accept": [
+      "Liability",
+      "a liability",
+      "current liabilities"
+    ],
+    "wrong": [
+      "Current assets",
+      "Shareholders' equity",
+      "Non-current assets"
+    ],
+    "explain": "Cash received before goods or services are delivered cannot yet be counted as revenue, so it is recorded as a liability representing the remaining obligation to the customer.",
+    "hook": "You owe the customer the product, so it is a debt you pay in delivery.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/deferred-revenue",
+        "title": "Wall Street Prep - Deferred Revenue",
+        "quote": "Deferred revenue is classified as a liability on the balance sheet, and represents the cash collected prior to the customer receiving the products or services."
+      },
+      {
+        "url": "https://dart.deloitte.com/USDART/home/codification/revenue/asc606-10/roadmap-revenue-recognition/chapter-14-presentation/14-2-contract-liabilities",
+        "title": "Deloitte DART - 14.2 Contract Liabilities",
+        "quote": "A contract liability would exist when an entity has received consideration but has not transferred the related goods or services to the customer. This is commonly referred to as deferred revenue."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-10",
+    "deck": "vault",
+    "topic": "Deferred revenue",
+    "q": "What term does ASC 606 use for the balance commonly called deferred revenue?",
+    "a": "Contract liability",
+    "accept": [
+      "contract liabilities"
+    ],
+    "wrong": [
+      "Contract asset",
+      "Accrued revenue",
+      "Unbilled receivable"
+    ],
+    "explain": "ASC 606-10-45-2 defines a contract liability as an entity's obligation to transfer goods or services to a customer for which it has received consideration (or an amount is due); this is commonly referred to as deferred revenue.",
+    "hook": "Customer paid first: liability. You delivered first: asset.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://dart.deloitte.com/USDART/home/codification/revenue/asc606-10/roadmap-revenue-recognition/chapter-14-presentation/14-2-contract-liabilities",
+        "title": "Deloitte DART - 14.2 Contract Liabilities",
+        "quote": "A contract liability is an entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or an amount of consideration is due) from the customer. A contract liability would exist when an entity has received consideration but has not transferred the related goods or services to the customer. This is commonly referred to as deferred revenue."
+      },
+      {
+        "url": "https://arch.bdo.com/getContentAsset/118430f1-fe4d-4112-adf6-884d6a0347f3/bb620d56-5e9c-4774-8d17-fb9323eefdf4/Revenue-Recognition-Under-ASC-606-BDO-Blueprint-10-2025.pdf",
+        "title": "BDO Blueprint - Revenue Recognition Under ASC 606",
+        "quote": "Contract liability (deferred revenue)"
+      }
+    ]
+  },
+  {
+    "id": "vault-03-11",
+    "deck": "vault",
+    "topic": "Stock-based compensation",
+    "q": "Which ASC topic governs accounting for stock-based compensation?",
+    "a": "ASC 718",
+    "accept": [
+      "718",
+      "Topic 718",
+      "ASC Topic 718"
+    ],
+    "wrong": [
+      "ASC 606",
+      "ASC 805",
+      "ASC 350"
+    ],
+    "explain": "Topic 718 provides guidance on share-based compensation awards such as share options; ASC 606 is revenue, ASC 805 business combinations and ASC 350 goodwill and intangibles.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU_2021-07.pdf",
+        "title": "FASB ASU 2021-07",
+        "quote": "Topic 718 provides guidance on accounting for share-based compensation awards such as share-option awards, which are classified as either liabilities or equity."
+      },
+      {
+        "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_2_measuremen_US/26_grant_date_requis_US.html",
+        "title": "PwC Viewpoint - 2.6 Grant date, requisite service period, and expense attribution",
+        "quote": "Under ASC 718, the fair value of stock-based compensation is recognized over the employee's requisite service period."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-12",
+    "deck": "vault",
+    "topic": "Stock-based compensation",
+    "q": "Under ASC 718, as of what date is an equity-classified award initially measured at fair value?",
+    "a": "Grant date",
+    "accept": [
+      "the grant date",
+      "grant-date"
+    ],
+    "wrong": [
+      "Vesting date",
+      "Exercise date",
+      "Settlement date"
+    ],
+    "explain": "Equity-classified share-based awards are measured at grant-date fair value and are not subsequently remeasured unless modified.",
+    "hook": "Equity awards are frozen at the grant.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU_2021-07.pdf",
+        "title": "FASB ASU 2021-07",
+        "quote": "Equity-classified share-based awards are initially measured at fair value at the grant date (referred to as grant-date fair value) and are not subsequently remeasured unless they are modified and meet certain requirements."
+      },
+      {
+        "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_2_measuremen_US/26_grant_date_requis_US.html",
+        "title": "PwC Viewpoint - 2.6 Grant date, requisite service period, and expense attribution",
+        "quote": "The fair value of an award is measured on the grant date. For equity awards, the fair value is generally not remeasured unless there is a modification."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-13",
+    "deck": "vault",
+    "topic": "Stock-based compensation",
+    "q": "Over what period is the fair value of stock-based compensation recognized as expense under ASC 718?",
+    "a": "Requisite service period",
+    "accept": [
+      "the requisite service period",
+      "service period",
+      "vesting period"
+    ],
+    "wrong": [
+      "Option's contractual term",
+      "Fiscal year of grant",
+      "Expected holding period"
+    ],
+    "explain": "The fair value of stock-based compensation is recognized over the requisite service period, the period during which the employee must provide service in exchange for the award.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_2_measuremen_US/26_grant_date_requis_US.html",
+        "title": "PwC Viewpoint - 2.6 Grant date, requisite service period, and expense attribution",
+        "quote": "The requisite service period is the period during which an employee is required to provide service in exchange for stock-based compensation."
+      },
+      {
+        "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frd06440-191us-07-29-2026.pdf",
+        "title": "EY Financial Reporting Developments: Share-based payment",
+        "quote": "The fair value is recognized (generally as compensation cost) over the service period for all awards that vest."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-14",
+    "deck": "vault",
+    "topic": "Stock-based compensation",
+    "q": "Which closed-form option-pricing model is commonly used to value employee stock options under ASC 718?",
+    "a": "Black-Scholes-Merton",
+    "accept": [
+      "Black-Scholes",
+      "Black Scholes",
+      "Black-Scholes model",
+      "BSM"
+    ],
+    "wrong": [
+      "Binomial lattice model",
+      "Monte Carlo simulation",
+      "Gordon Growth Model"
+    ],
+    "explain": "ASC 718 accepts both lattice models (such as binomial) and closed-form models; Black-Scholes-Merton is the closed-form model and is the most commonly used by nonpublic entities.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU_2021-07.pdf",
+        "title": "FASB ASU 2021-07",
+        "quote": "For share-options and similar awards, a lattice model (for example, a binomial model) and a closed-form model (for example, the Black-Scholes-Merton model) are option-pricing models used for estimating fair value that are accepted under Topic 718. The PCC learned that the Black-Scholes-Merton model is the most commonly used model by nonpublic entities"
+      },
+      {
+        "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_8_estimating_US/84_the_blackscholes__US.html",
+        "title": "PwC Viewpoint - 8.4 The Black-Scholes model",
+        "quote": "To estimate an option's fair value using the Black-Scholes model, it is first necessary to develop assumptions at the measurement date (generally the grant date)."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-15",
+    "deck": "vault",
+    "topic": "Stock-based compensation",
+    "q": "For an equity-classified award, which balance sheet account is credited as stock-based compensation expense is recognized?",
+    "a": "Additional paid-in capital",
+    "accept": [
+      "APIC",
+      "paid-in capital",
+      "additional paid in capital"
+    ],
+    "wrong": [
+      "Retained earnings",
+      "Accrued liabilities",
+      "Treasury stock"
+    ],
+    "explain": "Stock-based compensation is recognized through a charge to compensation cost and a corresponding increase to additional paid-in capital, or to a liability for liability-classified awards.",
+    "hook": "Expense down the P&L, APIC up on the balance sheet.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_2_measuremen_US/26_grant_date_requis_US.html",
+        "title": "PwC Viewpoint - 2.6 Grant date, requisite service period, and expense attribution",
+        "quote": "The fair value of stock-based compensation is recognized in a company's financial statements over the requisite service period through a charge to compensation cost and a corresponding increase to additional paid-in capital or to a liability, depending on the classification of the award."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-16",
+    "deck": "vault",
+    "topic": "Stock-based compensation",
+    "q": "Under ASC 718, until when is a liability-classified award remeasured at fair value each reporting period?",
+    "a": "Settlement",
+    "accept": [
+      "until settlement",
+      "settlement date"
+    ],
+    "wrong": [
+      "Grant date",
+      "Service inception date",
+      "First reporting date"
+    ],
+    "explain": "Unlike equity-classified awards, which are fixed at grant-date fair value, liability-classified awards are remeasured at fair value at the end of each reporting period until settlement.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/stockbased_compensat/stockbased_compensat__3_US/chapter_2_measuremen_US/26_grant_date_requis_US.html",
+        "title": "PwC Viewpoint - 2.6 Grant date, requisite service period, and expense attribution",
+        "quote": "For liability-classified awards, the fair value is remeasured each period until settlement."
+      },
+      {
+        "url": "https://storage.fasb.org/ASU_2021-07.pdf",
+        "title": "FASB ASU 2021-07",
+        "quote": "Liability-classified awards are remeasured at the end of each reporting period."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-17",
+    "deck": "vault",
+    "topic": "Goodwill impairment",
+    "q": "Under the general ASC 350 model, at minimum how often must goodwill be tested for impairment?",
+    "a": "Annually",
+    "accept": [
+      "once a year",
+      "at least annually",
+      "yearly"
+    ],
+    "wrong": [
+      "Quarterly",
+      "Every 3 years",
+      "Only at acquisition"
+    ],
+    "explain": "Goodwill is not amortized; instead it is tested at least annually for impairment, and between annual tests if a triggering event occurs.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU2017-04.pdf",
+        "title": "FASB ASU 2017-04",
+        "quote": "350-20-35-1 Goodwill shall not be amortized. Instead, goodwill shall be tested at least annually for impairment at a level of reporting referred to as a reporting unit."
+      },
+      {
+        "url": "https://dart.deloitte.com/USDART/home/codification/assets/asc350-20/goodwill/chapter-2-subsequent-accounting-for-goodwill/2-5-when-test-goodwill-for",
+        "title": "Deloitte DART - 2.5 When to Test Goodwill for Impairment",
+        "quote": "The goodwill in each reporting unit must be tested for impairment at least annually as well as in between annual tests if an event occurs or circumstances change that may more likely than not reduce the fair value of a reporting unit below its carrying amount."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-18",
+    "deck": "vault",
+    "topic": "Goodwill impairment",
+    "q": "At what level of the company is goodwill tested for impairment under the general ASC 350 model?",
+    "a": "Reporting unit",
+    "accept": [
+      "reporting unit level",
+      "the reporting unit"
+    ],
+    "wrong": [
+      "Individual asset",
+      "Legal entity",
+      "Consolidated parent only"
+    ],
+    "explain": "Goodwill is tested for impairment at a level of reporting called a reporting unit; only private companies electing the accounting alternative may choose the entity level instead.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU2017-04.pdf",
+        "title": "FASB ASU 2017-04",
+        "quote": "Instead, goodwill shall be tested at least annually for impairment at a level of reporting referred to as a reporting unit."
+      },
+      {
+        "url": "https://dart.deloitte.com/USDART/home/publications/deloitte/on-the-radar/goodwill-accounting-intangible-assets",
+        "title": "Deloitte DART - On the Radar: Goodwill and Intangible Assets",
+        "quote": "Unit of account |Goodwill is tested for impairment at the reporting unit level |An entity elects to test goodwill at either the entity level or the reporting unit level"
+      }
+    ]
+  },
+  {
+    "id": "vault-03-19",
+    "deck": "vault",
+    "topic": "Goodwill impairment",
+    "q": "Which step of the goodwill impairment test did ASU 2017-04 eliminate?",
+    "a": "Step 2",
+    "accept": [
+      "Step two",
+      "the second step",
+      "2"
+    ],
+    "wrong": [
+      "Step 1",
+      "The qualitative assessment",
+      "The annual test requirement"
+    ],
+    "explain": "ASU 2017-04 removed Step 2, which required computing the implied fair value of goodwill by fair valuing all assets and liabilities as in a business combination.",
+    "hook": "2017 killed Step 2.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU2017-04.pdf",
+        "title": "FASB ASU 2017-04",
+        "quote": "To simplify the subsequent measurement of goodwill, the Board eliminated Step 2 from the goodwill impairment test."
+      },
+      {
+        "url": "https://dart.deloitte.com/USDART/home/codification/assets/asc350-20/goodwill/chapter-1-overview-scope/1-2-history-goodwill-impairment-model",
+        "title": "Deloitte DART - 1.2 History of the Goodwill Impairment Model",
+        "quote": "the FASB issued ASU 2017-04 in January 2017, which eliminated step 2 of the goodwill impairment test for all entities"
+      }
+    ]
+  },
+  {
+    "id": "vault-03-20",
+    "deck": "vault",
+    "topic": "Goodwill impairment",
+    "q": "After ASU 2017-04, a goodwill impairment equals the excess of a reporting unit's carrying amount over what?",
+    "a": "Its fair value",
+    "accept": [
+      "fair value",
+      "the reporting unit's fair value"
+    ],
+    "wrong": [
+      "Its book value of equity",
+      "Its undiscounted cash flows",
+      "The implied fair value of goodwill"
+    ],
+    "explain": "If a reporting unit's carrying amount exceeds its fair value, an impairment loss equal to that excess is recognized, limited to the total goodwill allocated to that reporting unit.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://dart.deloitte.com/USDART/home/codification/assets/asc350-20/goodwill/chapter-1-overview-scope/1-2-history-goodwill-impairment-model",
+        "title": "Deloitte DART - 1.2 History of the Goodwill Impairment Model",
+        "quote": "ASU 2017-04 instead required that if \"the carrying amount of a reporting unit exceeds its fair value, an impairment loss shall be recognized in an amount equal to that excess, limited to the total amount of goodwill allocated to that reporting unit.\""
+      },
+      {
+        "url": "https://rsmus.com/content/dam/rsm/insights/services/audit/1pdf/goodwill-alternatives-for-private-companies-and-not-for-profits.pdf",
+        "title": "RSM - Goodwill alternatives for private companies and not-for-profits",
+        "quote": "When the carrying amount of the reporting unit is greater than its fair value, recognize an impairment loss for the excess, not to exceed the carrying amount of goodwill"
+      }
+    ]
+  },
+  {
+    "id": "vault-03-21",
+    "deck": "vault",
+    "topic": "Goodwill impairment",
+    "q": "Under both U.S. GAAP and IFRS, can a goodwill impairment loss be reversed later?",
+    "a": "No",
+    "accept": [
+      "Not permitted",
+      "never",
+      "no, it cannot"
+    ],
+    "wrong": [
+      "Yes, in full",
+      "Yes, up to the original carrying amount",
+      "Yes, under IFRS only"
+    ],
+    "explain": "U.S. GAAP does not permit reversal of impairment losses (except for assets held for sale), and IFRS requires reversals when recoverable amount increases except for goodwill.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frdbb1499-07-14-2026.pdf",
+        "title": "EY Financial reporting developments: Intangibles - goodwill and other",
+        "quote": "Reversal of loss Reversal of impairment losses is not permitted (except for assets held for sale). Reversal of impairment losses is required if the recoverable amount increases, except for goodwill."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-22",
+    "deck": "vault",
+    "topic": "Goodwill private company alternative",
+    "q": "Under the private company goodwill alternative, over what maximum period is goodwill amortized?",
+    "a": "10 years",
+    "accept": [
+      "ten years",
+      "10",
+      "10 yrs"
+    ],
+    "wrong": [
+      "5 years",
+      "15 years",
+      "40 years"
+    ],
+    "explain": "Private companies and not-for-profits electing the alternative amortize goodwill straight-line over 10 years, or less if another useful life is more appropriate; public companies do not amortize goodwill.",
+    "hook": "Private goodwill: ten and done.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/ASU%202014-02_2.pdf",
+        "title": "FASB ASU 2014-02, Intangibles - Goodwill and Other (Topic 350)",
+        "quote": "An entity within the scope of the amendments that elects the accounting alternative in this Update should amortize goodwill on a straight-line basis over 10 years, or less than 10 years if the entity demonstrates that another useful life is more appropriate."
+      },
+      {
+        "url": "https://dart.deloitte.com/USDART/home/publications/deloitte/on-the-radar/goodwill-accounting-intangible-assets",
+        "title": "Deloitte DART - On the Radar: Goodwill and Intangible Assets",
+        "quote": "Goodwill is amortized over a useful life of 10 years or less"
+      }
+    ]
+  },
+  {
+    "id": "vault-03-23",
+    "deck": "vault",
+    "topic": "Purchase price allocation",
+    "q": "In a stock acquisition, writing up the target's assets for book but not tax purposes creates what balance?",
+    "a": "Deferred tax liability",
+    "accept": [
+      "DTL",
+      "deferred tax liabilities"
+    ],
+    "wrong": [
+      "Deferred tax asset",
+      "Income tax receivable",
+      "Noncontrolling interest"
+    ],
+    "explain": "Book write-ups without a matching tax basis step-up create a DTL equal to the tax rate times the difference between fair value and tax basis; no DTL arises in an asset deal because the tax basis is stepped up.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://macabacus.com/accounting/purchase-price-allocation1",
+        "title": "Macabacus - M&A Purchase Price Allocation",
+        "quote": "The write-up of identifiable intangibles for book purposes but not for tax purposes also gives rise to a DTL due to the resulting incremental book amortization expense."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/purchase-price-allocation-ppa",
+        "title": "Wall Street Prep - Purchase Price Allocation",
+        "quote": "But the tax implications from the write-up must not be forgotten, as deferred tax liabilities (DTLs) are created from the PP&E being written up."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-24",
+    "deck": "vault",
+    "topic": "Intangibles tax amortization",
+    "q": "Over how many years are Section 197 intangibles, including goodwill, amortized for U.S. tax purposes?",
+    "a": "15 years",
+    "accept": [
+      "15",
+      "fifteen years",
+      "fifteen"
+    ],
+    "wrong": [
+      "5 years",
+      "10 years",
+      "40 years"
+    ],
+    "explain": "Section 197 requires ratable amortization over 15 years for acquired intangibles such as goodwill; in a stock deal this applies only with a Section 338 election.",
+    "hook": "Tax 15, private-company book 10.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://uscode.house.gov/us/usc/119-120/t26/s197",
+        "title": "26 U.S.C. § 197: Amortization of goodwill and certain other intangibles",
+        "quote": "The amount of such deduction shall be determined by amortizing the adjusted basis (for purposes of determining gain) of such intangible ratably over the 15-year period beginning with the month in which such intangible was acquired."
+      },
+      {
+        "url": "https://www.ecfr.gov/current/title-26/section-1.197-2",
+        "title": "26 CFR § 1.197-2 Amortization of goodwill and certain other intangibles",
+        "quote": "The amortization deduction under section 197 is determined by amortizing basis ratably over a 15-year period under the rules of paragraph (f) of this section."
+      },
+      {
+        "url": "https://macabacus.com/accounting/purchase-price-allocation1",
+        "title": "Macabacus - M&A Purchase Price Allocation",
+        "quote": "For tax purposes, Section 197 of the IRS tax code requires straight-line amortization of all intangible assets (including goodwill) over 15 years only in an: Asset acquisition or a Stock acquisition with a Section 338 election."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-25",
+    "deck": "vault",
+    "topic": "Identifiable intangibles",
+    "q": "Besides arising from contractual or legal rights, what criterion lets an acquired intangible be recognized separately from goodwill?",
+    "a": "Separability",
+    "accept": [
+      "separable",
+      "it is separable",
+      "separability criterion"
+    ],
+    "wrong": [
+      "Materiality",
+      "Indefinite life",
+      "Positive cash flow"
+    ],
+    "explain": "An intangible is recognized apart from goodwill if it arises from contractual or other legal rights, or is separable, meaning it can be sold, transferred, licensed, rented or exchanged.",
+    "hook": "Contract or separate: two doors out of goodwill.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://macabacus.com/accounting/purchase-price-allocation1",
+        "title": "Macabacus - M&A Purchase Price Allocation",
+        "quote": "An intangible asset is recognized separately from goodwill if it either 1) arises from contractual or other legal rights, or 2) is separable, that is, capable of being divided from the acquired entity and sold, transferred, licensed, rented, exchanged, etc."
+      }
+    ]
+  },
+  {
+    "id": "vault-03-26",
+    "deck": "vault",
+    "topic": "Identifiable intangibles",
+    "q": "For book purposes, over what period are finite-lived acquired intangibles amortized?",
+    "a": "Useful life",
+    "accept": [
+      "their useful lives",
+      "expected useful life",
+      "estimated useful life"
+    ],
+    "wrong": [
+      "15 years fixed",
+      "Indefinitely",
+      "The deal's holding period"
+    ],
+    "explain": "Finite-lived intangibles are amortized over their useful lives, while indefinite-lived intangibles and goodwill are not amortized but tested for impairment.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://macabacus.com/accounting/purchase-price-allocation1",
+        "title": "Macabacus - M&A Purchase Price Allocation",
+        "quote": "For book accounting purposes, intangibles with finite lives are amortized over their useful lives, while indefinite-lived intangibles (like goodwill) are not amortized but, rather, tested for impairment."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/purchase-price-allocation-ppa",
+        "title": "Wall Street Prep - Purchase Price Allocation",
+        "quote": "Likewise, the acquired intangible assets are amortized over their expected useful lives, if applicable."
+      }
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+[
+  {"id":"sectors-02-24","source":30,"match":30,"unique":14,"current":15,"precise":9,"total":98,"hardFail":false,"pass":true,"issue":"Both quotes verbatim on pages. NIBS NBIMS-US V4 defines Building Information Modeling (from ISO 19650-1); Penn State states BIM is the acronym of Building Information Modeling. Distractors clearly wrong; 'Modelling' is spelling variant. Minor: NBIMS also notes BIM can refer to Model/Management, but none is a distractor. Explain paraphrases 'facilitate' as 'support' - acceptable.","verifiedUrls":["http://nibs.org/nbims/v4/terms-and-definitions","https://bim.psu.edu/bim-an-introduction/defining-bim"]}
+]

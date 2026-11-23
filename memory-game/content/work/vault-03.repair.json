@@ -1,0 +1,38 @@
+[
+  {
+    "id": "vault-03-08",
+    "deck": "vault",
+    "topic": "ASC 606 vs IFRS",
+    "q": "Which IFRS standard is the counterpart to ASC 606 for revenue from contracts with customers?",
+    "a": "IFRS 15",
+    "accept": [
+      "IFRS15",
+      "IFRS 15 Revenue from Contracts with Customers"
+    ],
+    "wrong": [
+      "IFRS 9",
+      "IFRS 16",
+      "IFRS 3"
+    ],
+    "explain": "The IASB issued IFRS 15 in May 2014 together with the FASB's Topic 606; the two standards were developed jointly and were substantially converged when issued.",
+    "hook": "606 in the US, 15 abroad.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://storage.fasb.org/Comparison%20of%20Topic%20606%20and%20IFRS%2015.pdf",
+        "title": "FASB - Comparison of Topic 606 and IFRS 15",
+        "quote": "Topic 606, together with the IASB’s IFRS 15, Revenue from Contracts with Customers, completed a joint effort by the FASB and the IASB to improve financial reporting by creating common revenue recognition guidance for U.S. GAAP and IFRS"
+      },
+      {
+        "url": "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers",
+        "title": "IFRS - IFRS 15 Revenue from Contracts with Customers",
+        "quote": "In May 2014 the Board issued IFRS 15 Revenue from Contracts with Customers , together with the introduction of Topic 606 into the Financial Accounting Standards Board’s Accounting Standards Codification ®."
+      },
+      {
+        "url": "https://www.ifrs.org/content/dam/ifrs/project/pir-ifrs-15/pir-ifrs15-feedbackstatement-portrait-sept2024.pdf",
+        "title": "Project Summary and Feedback Statement: Post-implementation Review IFRS 15 Revenue from Contracts with Customers",
+        "quote": "IFRS 15 was developed jointly with the FASB to improve the accounting for revenue arising from contracts with customers. When issued, the requirements in IFRS 15 and FASB ASC Topic 606 Revenue from Contracts with Customers were substantially converged."
+      }
+    ]
+  }
+]

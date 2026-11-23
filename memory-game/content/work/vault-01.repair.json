@@ -1,0 +1,303 @@
+[
+  {
+    "id": "vault-01-16",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 20%, how much does net income change?",
+    "a": "Decreases by $8",
+    "accept": [
+      "-8",
+      "-$8",
+      "down 8",
+      "down $8",
+      "decrease of $8",
+      "$8 decrease",
+      "falls by $8",
+      "8 decrease"
+    ],
+    "wrong": [
+      "Decreases by $10",
+      "Decreases by $2",
+      "Increases by $2"
+    ],
+    "explain": "Pre-tax income falls by $10, taxes fall by $2 at a 20% rate, so net income falls by $8.",
+    "hook": "NI falls by D x (1 - t).",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.lumovest.com/library/investment-banking-interview-questions/how-does-10-increase-in-depreciation-affect-the-financial-statements",
+        "title": "How does $10 increase in depreciation affect the financial statements?",
+        "quote": "Starting with the Income Statement, Depreciation goes up by $10, which causes Pre-Tax Income to decrease by 10. Assuming a 20% tax rate, Net Income decreases by 8."
+      },
+      {
+        "url": "https://cdn.uconnectlabs.com/wp-content/uploads/sites/74/2019/09/Finance-Technical-Mock-Interview-101-Student-Resource.pdf",
+        "title": "Finance Technical Mock Interviews 101 | uConnect",
+        "quote": "IS: Operating income and pre-tax income would decline by $10, tax shield of +$2, net income is down -$8"
+      }
+    ]
+  },
+  {
+    "id": "vault-01-17",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 20%, how much does the ending cash balance change?",
+    "a": "Increases by $2",
+    "accept": [
+      "+2",
+      "+$2",
+      "up 2",
+      "up $2",
+      "increase of $2",
+      "$2 increase",
+      "rises by $2",
+      "2 increase"
+    ],
+    "wrong": [
+      "Decreases by $8",
+      "Increases by $10",
+      "No change"
+    ],
+    "explain": "Net income falls by $8, but the $10 of non-cash depreciation is added back, so cash rises by $2.",
+    "hook": "Cash rises by D x t.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.lumovest.com/library/investment-banking-interview-questions/how-does-10-increase-in-depreciation-affect-the-financial-statements",
+        "title": "How does $10 increase in depreciation affect the financial statements?",
+        "quote": "But we need to add back the $10 increase in Depreciation because it's a non-cash expense. And so Cash Flow from Operations increases by 2. No changes to Cash Flow from Investing and Cash Flow from Financing, so total Net Change in Cash goes up by 2."
+      },
+      {
+        "url": "https://cdn.uconnectlabs.com/wp-content/uploads/sites/74/2019/09/Finance-Technical-Mock-Interview-101-Student-Resource.pdf",
+        "title": "Finance Technical Mock Interviews 101 | uConnect",
+        "quote": "CFS: Net income at top goes down by $8, but $10 depreciation is a non-cash expense so gets added back. Overall cash flow from operations (CFO) goes up by $2. No other changes – net change in cash is +$2"
+      }
+    ]
+  },
+  {
+    "id": "vault-01-18",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 30%, how much does net income change?",
+    "a": "Decreases by $7",
+    "accept": [
+      "-7",
+      "-$7",
+      "down 7",
+      "down $7",
+      "decrease of $7",
+      "$7 decrease",
+      "falls by $7",
+      "7 decrease"
+    ],
+    "wrong": [
+      "Decreases by $10",
+      "Decreases by $3",
+      "Increases by $3"
+    ],
+    "explain": "Operating income falls by $10; with a 30% tax rate, net income falls by $7.",
+    "hook": "NI falls by D x (1 - t).",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/depreciation",
+        "title": "Depreciation Expense | Formula + Calculation Tutorial",
+        "quote": "If depreciation increases by $10, operating income (EBIT) would decrease by $10. Assuming a 30% tax rate, net income would decline by $7."
+      },
+      {
+        "url": "https://wallstreetclub.nd.edu/assets/594564/education_session_1.pdf",
+        "title": "Presentation 1A: Company Strategy, Competitive Position, and Fundamental Analysis",
+        "quote": "Answer: Income Statement: If depreciation increases by $10, operating income would decrease by $10. With a tax rate of 30%, net income would decrease by $7."
+      }
+    ]
+  },
+  {
+    "id": "vault-01-19",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 30%, how much does the ending cash balance change?",
+    "a": "Increases by $3",
+    "accept": [
+      "+3",
+      "+$3",
+      "up 3",
+      "up $3",
+      "increase of $3",
+      "$3 increase",
+      "rises by $3",
+      "3 increase"
+    ],
+    "wrong": [
+      "Decreases by $7",
+      "Increases by $10",
+      "No change"
+    ],
+    "explain": "Net income is down $7, but the $10 of non-cash depreciation is added back, so cash rises by $3.",
+    "hook": "Cash rises by D x t.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/depreciation",
+        "title": "Depreciation Expense | Formula + Calculation Tutorial",
+        "quote": "At the top of the cash flow statement, net income is down by $7, but recall the $10 depreciation is a non-cash expense and therefore added back. The net impact on the ending cash balance is a $3 increase, which comes from the tax-deductibility of depreciation (i.e., the $10 in depreciation x 30% tax rate)."
+      },
+      {
+        "url": "https://wallstreetclub.nd.edu/assets/594564/education_session_1.pdf",
+        "title": "Presentation 1A: Company Strategy, Competitive Position, and Fundamental Analysis",
+        "quote": "Cash Flow Statement: Net income decreases by $7, but we add back depreciation since it is a non cash expense, so cash increases by $3."
+      }
+    ]
+  },
+  {
+    "id": "vault-01-20",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10, how much does PP&E on the balance sheet change?",
+    "a": "Decreases by $10",
+    "accept": [
+      "-10",
+      "-$10",
+      "down 10",
+      "down $10",
+      "decrease of $10",
+      "$10 decrease",
+      "falls by $10",
+      "10 decrease"
+    ],
+    "wrong": [
+      "Increases by $10",
+      "No change",
+      "Increases by $2"
+    ],
+    "explain": "The extra depreciation reduces net PP&E by the full $10, whatever the tax rate.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.lumovest.com/library/investment-banking-interview-questions/how-does-10-increase-in-depreciation-affect-the-financial-statements",
+        "title": "How does $10 increase in depreciation affect the financial statements?",
+        "quote": "But PP&E decreases by 10 because of the extra Depreciation."
+      },
+      {
+        "url": "https://ibinterviewquestions.com/blog/walk-me-through-the-three-statements",
+        "title": "Walk Me Through the Three Financial Statements",
+        "quote": "Balance sheet: cash is up $4 , net property, plant and equipment is down $10 (the depreciation), so assets are down $6 net"
+      }
+    ]
+  },
+  {
+    "id": "vault-01-22",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 20%, how much do total assets change?",
+    "a": "Decrease by $8",
+    "accept": [
+      "-8",
+      "-$8",
+      "down 8",
+      "down $8",
+      "decrease of $8",
+      "$8 decrease",
+      "falls by $8",
+      "8 decrease",
+      "Decreases by $8"
+    ],
+    "wrong": [
+      "Decrease by $10",
+      "Increase by $2",
+      "Decrease by $2"
+    ],
+    "explain": "Cash rises by $2 while PP&E falls by $10, so total assets fall by $8, matching the $8 drop in retained earnings.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.lumovest.com/library/investment-banking-interview-questions/how-does-10-increase-in-depreciation-affect-the-financial-statements",
+        "title": "How does $10 increase in depreciation affect the financial statements?",
+        "quote": "On the Balance Sheet, under the Assets side, Cash and Cash Equivalents increases by 2. But PP&E decreases by 10 because of the extra Depreciation. So Total Assets decreases by 8."
+      },
+      {
+        "url": "https://cdn.uconnectlabs.com/wp-content/uploads/sites/74/2019/09/Finance-Technical-Mock-Interview-101-Student-Resource.pdf",
+        "title": "Finance Technical Mock Interviews 101 | uConnect",
+        "quote": "BS: PPE decreases by $10 on asset side (depreciation), cash is +$2 from changes in CFS, so Assets down by $8."
+      }
+    ]
+  },
+  {
+    "id": "vault-01-24",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 40%, how much does net income change?",
+    "a": "Decreases by $6",
+    "accept": [
+      "-6",
+      "-$6",
+      "down 6",
+      "down $6",
+      "decrease of $6",
+      "$6 decrease",
+      "falls by $6",
+      "6 decrease"
+    ],
+    "wrong": [
+      "Decreases by $10",
+      "Decreases by $4",
+      "Increases by $4"
+    ],
+    "explain": "Pre-tax income falls by $10 and, at a 40% tax rate, net income falls by $6 while cash rises by $4.",
+    "hook": "NI falls by D x (1 - t).",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://ibinterviewquestions.com/blog/walk-me-through-the-three-statements",
+        "title": "Walk Me Through the Three Financial Statements",
+        "quote": "Income statement: depreciation is an expense, so pre-tax income falls by $10 , and at a 40% tax rate net income falls by $6 ."
+      },
+      {
+        "url": "https://www.wallstreetguide.net/post/how-the-three-financial-statements-link",
+        "title": "The Three Financial Statements: How They Link and How to Explain It",
+        "quote": "You may be given a 40 percent rate instead, which gives net income down 6 and cash up 4."
+      }
+    ]
+  },
+  {
+    "id": "vault-01-26",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 25%, how much does net income change?",
+    "a": "Decreases by $7.50",
+    "accept": [
+      "-7.5",
+      "-$7.5",
+      "down 7.5",
+      "down $7.5",
+      "decrease of $7.5",
+      "$7.5 decrease",
+      "falls by $7.5",
+      "7.5 decrease",
+      "-7.50",
+      "-$7.50",
+      "down $7.50",
+      "Decreases by $7.5"
+    ],
+    "wrong": [
+      "Decreases by $10",
+      "Decreases by $2.50",
+      "Increases by $2.50"
+    ],
+    "explain": "Pre-tax income falls by $10 and taxes fall by $2.50 at a 25% rate, so net income falls by $7.50.",
+    "hook": "NI falls by D x (1 - t).",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://guidingwallstreet.com/guides/investment-banking/recruiting/interviews/technical/depreciation-increases-by-10-walk-me-through-the-3-statements",
+        "title": "Depreciation Increases by $10: Three-Statement Interview Answer | Guiding Wall Street",
+        "quote": "Net income therefore decreases by $7.50. That is the $10 pre-tax decline minus the $2.50 tax benefit."
+      },
+      {
+        "url": "https://www.wallstreetguide.net/post/how-the-three-financial-statements-link",
+        "title": "The Three Financial Statements: How They Link and How to Explain It",
+        "quote": "At a 25 percent tax rate, $10 of depreciation lowers net income by 7.5 and raises cash by 2.5 , and it lowers both total assets and total liabilities and equity by 7.5."
+      }
+    ]
+  }
+]

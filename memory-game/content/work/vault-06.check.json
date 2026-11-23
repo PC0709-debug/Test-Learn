@@ -1,0 +1,417 @@
+[
+ {
+  "id": "vault-06-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow",
+   "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/free-cash-flow-to-firm-fcff"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+   "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/unlevered-free-cash-flow"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-03",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "issue": "WSP 'non-cash add backs' sentence not surfaced in excerpts; CFI and BIWS UFCF pages confirm D&A is added back.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+   "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/unlevered-free-cash-flow"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-04",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "issue": "WSP NWC sentence not surfaced in excerpts; CFI confirms 'Subtract any increases in non-cash net working capital'.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+   "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-05",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+   "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+   "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/unlevered-free-cash-flow"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-07",
+  "source": 15,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 85,
+  "hardFail": "Numeric card cites only one source (WSP UFCF example)",
+  "issue": "Arithmetic is correct and WSP example uses these exact figures, but only one source cited for the numbers. Add a second independent source or reframe as a pure computation citing the formula from CFI as well.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow"
+  ],
+  "pass": false
+ },
+ {
+  "id": "vault-06-08",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "Only one cited source; fact also confirmed on WSP UFCF and CFI WACC pages. Add a second citation.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow",
+   "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow",
+   "https://corporatefinanceinstitute.com/resources/valuation/what-is-wacc-formula/"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/cost-of-debt",
+   "https://corporatefinanceinstitute.com/learn/resources/financial-modeling/unlevered-free-cash-flow"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-10",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "issue": "WSP book-equity sentence not surfaced verbatim; WSP WACC formula lists market values, CFI confirms.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/financial-modeling/wacc-calculator/",
+   "https://www.wallstreetprep.com/knowledge/wacc"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-11",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "issue": "Only one cited source (WSP). Consider adding a second (e.g. CFI market value of debt).",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/wacc"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-12",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/wacc",
+   "https://www.wallstreetprep.com/knowledge/cost-of-debt"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/what-is-wacc-formula/?ref=davidseacombe.com",
+   "https://www.wallstreetprep.com/knowledge/cost-of-debt"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/what-is-wacc-formula/?ref=davidseacombe.com",
+   "https://www.wallstreetprep.com/knowledge/wacc-private-company"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+   "https://corporatefinanceinstitute.com/resources/valuation/what-is-wacc-formula/?ref=davidseacombe.com"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+   "https://www.britannica.com/money/capital-asset-pricing-model"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/money/capital-asset-pricing-model",
+   "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/equity-risk-premium/",
+   "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+   "https://corporatefinanceinstitute.com/resources/valuation/equity-risk-premium/"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-20",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://openstax.org/books/principles-finance-2e/pages/15-3-the-capital-asset-pricing-model-capm",
+   "https://www.wallstreetprep.com/knowledge/wacc"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-21",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/capm-capital-asset-pricing-model",
+   "https://openstax.org/books/principles-finance-2e/pages/15-3-the-capital-asset-pricing-model-capm"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-22",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "issue": "Both quotes from same CFI URL; WSP beta page also calls levered beta 'equity beta'.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/what-is-beta-guide",
+   "https://www.wallstreetprep.com/knowledge/beta-levered-unlevered"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-23",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/beta-levered-unlevered",
+   "https://corporatefinanceinstitute.com/resources/valuation/what-is-beta-guide"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-24",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/beta-levered-unlevered",
+   "https://corporatefinanceinstitute.com/resources/valuation/what-is-beta-guide"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-25",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1972.tb00971.x",
+   "https://ideas.repec.org/a/bla/jfinan/v27y1972i2p435-52.html"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-06-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nobelprize.org/prizes/economic-sciences/1990/press-release",
+   "https://www.gsb.stanford.edu/faculty-research/faculty/william-f-sharpe"
+  ],
+  "pass": true
+ }
+]

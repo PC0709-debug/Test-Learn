@@ -1,0 +1,411 @@
+[
+ {
+  "id": "vault-02-01",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/what-is-net-working-capital",
+   "https://www.wallstreetprep.com/knowledge/working-capital"
+  ]
+ },
+ {
+  "id": "vault-02-02",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked"
+  ]
+ },
+ {
+  "id": "vault-02-03",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows"
+  ]
+ },
+ {
+  "id": "vault-02-04",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://openstax.org/books/principles-financial-accounting/pages/16-3-prepare-the-statement-of-cash-flows-using-the-indirect-method",
+   "https://www.wallstreetprep.com/knowledge/cash-flow-from-operations/"
+  ]
+ },
+ {
+  "id": "vault-02-05",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/days-sales-outstanding-dso"
+  ]
+ },
+ {
+  "id": "vault-02-06",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows",
+   "https://www.wallstreetprep.com/knowledge/cash-flow-from-operations/"
+  ]
+ },
+ {
+  "id": "vault-02-07",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/depreciation"
+  ]
+ },
+ {
+  "id": "vault-02-08",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://dart.deloitte.com/USDART/home/publications/deloitte/on-the-radar/goodwill-accounting-intangible-assets"
+  ]
+ },
+ {
+  "id": "vault-02-09",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows",
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked"
+  ]
+ },
+ {
+  "id": "vault-02-10",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/accounting/net-operating-losses"
+  ]
+ },
+ {
+  "id": "vault-02-11",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/deferred-tax-liability-dtl",
+   "https://pro.bloombergtax.com/insights/provision/example-how-is-a-valuation-allowance-recorded-for-deferred-tax-assets",
+   "https://breakingintowallstreet.com/kb/accounting/net-operating-losses"
+  ]
+ },
+ {
+  "id": "vault-02-12",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/income_taxes/income_taxes__16_US/chapter_5_valuation__US/52_assessing_the_nee_US.html",
+   "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/accounting-for-income-taxes-valuation-allowance1.pdf"
+  ]
+ },
+ {
+  "id": "vault-02-13",
+  "source": 24,
+  "match": 20,
+  "unique": 15,
+  "current": 15,
+  "precise": 5,
+  "total": 79,
+  "hardFail": "Explain adds an unsupported number: '\"probable\" is a higher threshold, often 75% in practice' - no cited source states 75% (PwC only says probable is higher than MLTN).",
+  "pass": false,
+  "issue": "Remove 'often 75% in practice' (keep 'probable is a higher threshold', supported by PwC Viewpoint 5.2.2).",
+  "verifiedUrls": [
+   "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/income_taxes/income_taxes__16_US/chapter_5_valuation__US/52_assessing_the_nee_US.html",
+   "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/accounting-for-income-taxes-valuation-allowance1.pdf"
+  ]
+ },
+ {
+  "id": "vault-02-14",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://pro.bloombergtax.com/insights/provision/asc-740-valuation-allowances-deferred-tax-assets",
+   "https://tax.thomsonreuters.com/en/glossary/deferred-tax-assets"
+  ]
+ },
+ {
+  "id": "vault-02-15",
+  "source": 24,
+  "match": 20,
+  "unique": 15,
+  "current": 15,
+  "precise": 5,
+  "total": 79,
+  "hardFail": "Explain states 'pre-2018 NOLs had a 20-year carryforward' - this number is supported by only one opened source (IRS IRM 4.11.11); RSM only says pre-2018 NOLs still expire.",
+  "pass": false,
+  "issue": "Either drop the '20-year' clause or cite a second independent source for the 20-year pre-2018 carryforward. Also IRM wording seen is 'for tax years beginning after December 31, 2020, most taxpayers can only carry their NOLs forward' - quote should be checked verbatim.",
+  "verifiedUrls": [
+   "https://www.irs.gov/irm/part4/irm_04-011-011",
+   "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/accounting-for-income-taxes-valuation-allowance1.pdf"
+  ]
+ },
+ {
+  "id": "vault-02-16",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.irs.gov/irm/part4/irm_04-011-011",
+   "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/accounting-for-income-taxes-valuation-allowance1.pdf"
+  ]
+ },
+ {
+  "id": "vault-02-17",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://uscode.house.gov/us/usc/119-124/t26/s382",
+   "https://www.irs.gov/irm/part4/irm_04-011-011"
+  ]
+ },
+ {
+  "id": "vault-02-18",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://dart.deloitte.com/USDART/home/codification/broad-transactions/asc842-10/roadmap-leasing/chapter-8-lessee-accounting/8-4-recognition-measurement",
+   "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frd00195-171us-05-27-2026.pdf"
+  ]
+ },
+ {
+  "id": "vault-02-19",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://dart.deloitte.com/USDART/home/codification/broad-transactions/asc842-10/roadmap-leasing/chapter-8-lessee-accounting/8-2-policy-decisions-that-affect",
+   "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frd00195-171us-05-27-2026.pdf"
+  ]
+ },
+ {
+  "id": "vault-02-20",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/technical/accountinglink/documents/ey-frd00195-171us-05-27-2026.pdf",
+   "https://storage.fasb.org/PCC%20Topic%205-Leases-FASBPIRReport-2025%2012%2011.pdf"
+  ]
+ },
+ {
+  "id": "vault-02-21",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://storage.fasb.org/PCC%20Topic%205-Leases-FASBPIRReport-2025%2012%2011.pdf",
+   "https://arch.bdo.com/getContentAsset/9f7428e4-09d3-4ee2-a530-b026eb0bc16e/bb620d56-5e9c-4774-8d17-fb9323eefdf4/Accounting-for-Leases-Under-ASC-842-BDO-06-2025.pdf"
+  ]
+ },
+ {
+  "id": "vault-02-22",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://storage.fasb.org/ASU%202018-11.pdf",
+   "https://rsmus.com/content/dam/rsm/insights/financial-reporting/1pdf/leases-overview-of-asc-842.pdf"
+  ]
+ },
+ {
+  "id": "vault-02-23",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/fifo-vs-lifo-accounting/"
+  ]
+ },
+ {
+  "id": "vault-02-24",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/ias2.html",
+   "https://openstax.org/books/principles-financial-accounting/pages/10-1-describe-and-demonstrate-the-basic-inventory-valuation-methods-and-their-cost-flow-assumptions"
+  ]
+ },
+ {
+  "id": "vault-02-25",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.irs.gov/pub/fatca/int_practice_units/cor_c_017.pdf",
+   "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/inventory/Inventory-Guide/3_chapter_LIFO_inv/34_Book_tax_confo_req.html"
+  ]
+ },
+ {
+  "id": "vault-02-26",
+  "source": 28,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.irs.gov/pub/fatca/int_practice_units/cor_c_014.pdf"
+  ]
+ }
+]

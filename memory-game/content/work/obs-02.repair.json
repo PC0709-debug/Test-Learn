@@ -1,0 +1,290 @@
+[
+  {
+    "id": "obs-02-03",
+    "deck": "observatory",
+    "topic": "Newton's laws",
+    "q": "Newton's third law says that for every action there is an equal and opposite what?",
+    "a": "Reaction",
+    "accept": [
+      "a reaction"
+    ],
+    "wrong": [
+      "Acceleration",
+      "Velocity",
+      "Temperature"
+    ],
+    "explain": "If object A exerts a force on object B, then object B also exerts an equal force on object A; the forces act on different objects.",
+    "hook": "Push the wall, the wall pushes back.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.grc.nasa.gov/www/k-12/BGP/newton.html",
+        "title": "Newton's Laws of Motion (NASA Glenn Research Center)",
+        "quote": "The third law states that for every action (force) in nature there is an equal and opposite reaction. In other words, if object A exerts a force on object B, then object B also exerts an equal force on object A. Notice that the forces are exerted on different objects."
+      },
+      {
+        "url": "https://www.britannica.com/science/Newtons-laws-of-motion",
+        "title": "Newton's laws of motion | Britannica",
+        "quote": "In the third law, when two objects interact, they apply forces to each other of equal magnitude and opposite direction."
+      }
+    ]
+  },
+  {
+    "id": "obs-02-06",
+    "deck": "observatory",
+    "topic": "Relativity",
+    "q": "In Einstein's equation E = mc², what does the letter c stand for?",
+    "a": "Speed of light",
+    "accept": [
+      "the speed of light",
+      "speed of light in a vacuum",
+      "light speed"
+    ],
+    "wrong": [
+      "Electric charge",
+      "Heat capacity",
+      "Coulomb's constant"
+    ],
+    "explain": "In E = mc², the speed of light c is the constant linking mass and energy: a body's rest energy equals its mass times the speed of light squared.",
+    "hook": "c is the constant that links mass and energy.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/science/speed-of-light",
+        "title": "Speed of light | Britannica",
+        "quote": "In the famous relativity equation, E = mc2, the speed of light (c) serves as a constant of proportionality, linking the formerly disparate concepts of mass (m) and energy (E)."
+      },
+      {
+        "url": "https://guides.loc.gov/einstein-annus-mirabilis/1905-papers",
+        "title": "The 1905 Papers - Annus Mirabilis of Albert Einstein (Library of Congress)",
+        "quote": "This equation showed that the energy of a body at rest equals its mass times the speed of light squared."
+      }
+    ]
+  },
+  {
+    "id": "obs-02-08",
+    "deck": "observatory",
+    "topic": "Quantum basics",
+    "q": "Which German physicist formulated the uncertainty principle in 1927?",
+    "a": "Werner Heisenberg",
+    "accept": [
+      "Heisenberg"
+    ],
+    "wrong": [
+      "Niels Bohr",
+      "Erwin Schrödinger",
+      "Max Planck"
+    ],
+    "explain": "Heisenberg's uncertainty relation sets limits on how precisely the position and velocity of a particle can be determined at the same time.",
+    "hook": "Heisenberg: 'not sure where, not sure how fast'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/science/uncertainty-principle",
+        "title": "Uncertainty principle | Britannica",
+        "quote": "The uncertainty principle was formulated by the German physicist Werner Heisenberg in 1927."
+      },
+      {
+        "url": "https://www.aps.org/apsnews/2008/02/1927-heisenberg-uncertainty-principle",
+        "title": "1927: Heisenberg's Uncertainty Principle | American Physical Society",
+        "quote": "In February 1927, the young Werner Heisenberg developed a key piece of quantum theory, the uncertainty principle, with profound implications."
+      },
+      {
+        "url": "https://www.nobelprize.org/prizes/physics/1932/heisenberg/facts",
+        "title": "Werner Heisenberg – Facts - NobelPrize.org",
+        "quote": "In 1927 he proposed the “uncertainty relation”, setting limits for how precisely the position and velocity of a particle can be simultaneously determined."
+      }
+    ]
+  },
+  {
+    "id": "obs-02-09",
+    "deck": "observatory",
+    "topic": "Quantum basics",
+    "q": "Which German physicist discovered the quantum of action, now called his constant h, in 1900?",
+    "a": "Max Planck",
+    "accept": [
+      "Planck"
+    ],
+    "wrong": [
+      "Werner Heisenberg",
+      "Albert Einstein",
+      "Niels Bohr"
+    ],
+    "explain": "Planck's discovery laid the foundation for quantum theory and won him the 1918 Nobel Prize for Physics, which he received in 1919.",
+    "hook": "Planck's constant carries Planck's name.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Max-Planck",
+        "title": "Max Planck | Britannica",
+        "quote": "Max Planck was a German theoretical physicist who discovered the quantum of action, now known as Planck's constant, h, in 1900. This work laid the foundation for quantum theory, which won him the Nobel Prize for Physics in 1918."
+      },
+      {
+        "url": "https://www.nobelprize.org/prizes/physics/1918/planck/facts/",
+        "title": "Max Planck – Facts - NobelPrize.org",
+        "quote": "Max Planck solved this problem in 1900 by introducing the theory of “quanta”, that is, that radiation consists of quanta with specific energies determined by a new fundamental constant, thereafter called Planck’s constant. ... Max Planck received his Nobel Prize one year later, in 1919."
+      }
+    ]
+  },
+  {
+    "id": "obs-02-13",
+    "deck": "observatory",
+    "topic": "Thermodynamics",
+    "q": "What is absolute zero on the Celsius scale?",
+    "a": "−273.15 °C",
+    "accept": [
+      "-273.15",
+      "-273.15 C",
+      "-273.15 °C",
+      "minus 273.15"
+    ],
+    "wrong": [
+      "−459.67 °C",
+      "−100 °C",
+      "0 °C"
+    ],
+    "explain": "Absolute zero is −273.15 °C (−459.67 °F); the third law of thermodynamics implies it cannot actually be reached.",
+    "hook": "−459.67 is the Fahrenheit trap, not Celsius.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/science/laws-of-thermodynamics",
+        "title": "Laws of thermodynamics | Britannica",
+        "quote": "The entropy of an isolated system approaches a constant value as the temperature of the system approaches absolute zero (−273.15 °C, or −459.67 °F). In practical terms, this theorem implies the impossibility of attaining absolute zero"
+      },
+      {
+        "url": "https://physics.nist.gov/cuu/Units/kelvin.html",
+        "title": "Kelvin: Introduction | NIST",
+        "quote": "(0 K = -273.15 degrees C = -459.67 degrees F. Room temperature is about 70 degrees F, 21 degrees C or 294 K.)"
+      }
+    ]
+  },
+  {
+    "id": "obs-02-14",
+    "deck": "observatory",
+    "topic": "Thermodynamics",
+    "q": "Which law of thermodynamics says that two bodies each in thermal equilibrium with a third are in equilibrium with each other?",
+    "a": "Zeroth law",
+    "accept": [
+      "the zeroth law",
+      "zeroth law of thermodynamics",
+      "0th law"
+    ],
+    "wrong": [
+      "First law",
+      "Second law",
+      "Third law"
+    ],
+    "explain": "If two bodies are each in thermal equilibrium with a third body, they must also be in equilibrium with each other; this is the zeroth law.",
+    "hook": "Zero comes before one, two and three.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/science/laws-of-thermodynamics",
+        "title": "Laws of thermodynamics | Britannica",
+        "quote": "The law states that if two bodies are each in thermal equilibrium with a third body, they must also be in equilibrium with each other."
+      },
+      {
+        "url": "https://www.britannica.com/science/thermodynamics",
+        "title": "Thermodynamics | Britannica",
+        "quote": "The zeroth law of thermodynamics. When two systems are each in thermal equilibrium with a third system, the first two systems are in thermal equilibrium with each other."
+      }
+    ]
+  },
+  {
+    "id": "obs-02-18",
+    "deck": "observatory",
+    "topic": "Marie Curie",
+    "q": "Besides polonium, which radioactive element did Pierre and Marie Curie discover in 1898?",
+    "a": "Radium",
+    "accept": [
+      "Ra"
+    ],
+    "wrong": [
+      "Uranium",
+      "Thorium",
+      "Plutonium"
+    ],
+    "explain": "The Curies announced radium on Boxing Day (26 December) 1898; Marie isolated radium chloride in 1902.",
+    "hook": "Radium radiates.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://edu.rsc.org/feature/four-curie-centennial-elements/2020149.article",
+        "title": "Four Curie centennial elements | RSC Education",
+        "quote": "In 1898 Pierre and Marie Curie discovered polonium and radium ... Soon after their announcement of polonium the Curies reported another radio-element, radium, on Boxing Day 1898. ... In 1902 Marie isolated 0.1 g of anhydrous RaCl ₂"
+      },
+      {
+        "url": "https://www.britannica.com/summary/Marie-Curie",
+        "title": "Marie Curie summary | Britannica",
+        "quote": "Together they discovered the elements polonium (which Marie named after her native Poland) and radium"
+      }
+    ]
+  },
+  {
+    "id": "obs-02-21",
+    "deck": "observatory",
+    "topic": "Periodic table",
+    "q": "In which group of the modern periodic table are the noble gases?",
+    "a": "Group 18",
+    "accept": [
+      "18",
+      "group eighteen",
+      "VIIIA",
+      "group VIIIA"
+    ],
+    "wrong": [
+      "Group 1",
+      "Group 2",
+      "Group 17"
+    ],
+    "explain": "The noble gases helium, neon, argon, krypton, xenon, radon and oganesson make up Group 18 of the periodic table.",
+    "hook": "Noble gases: 18, the end of the row.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/science/noble-gas",
+        "title": "Noble gas | Britannica",
+        "quote": "Noble gas, any of the seven chemical elements that make up Group 18 (VIIIA) of the periodic table."
+      },
+      {
+        "url": "https://openstax.org/books/chemistry-2e/pages/18-12-occurrence-preparation-and-properties-of-the-noble-gases",
+        "title": "18.12 Occurrence, Preparation, and Properties of the Noble Gases - Chemistry 2e | OpenStax",
+        "quote": "The elements in group 18 are the noble gases (helium, neon, argon, krypton, xenon, and radon)."
+      }
+    ]
+  },
+  {
+    "id": "obs-02-25",
+    "deck": "observatory",
+    "topic": "Atomic structure",
+    "q": "Which English physicist discovered the electron in 1897?",
+    "a": "J.J. Thomson",
+    "accept": [
+      "JJ Thomson",
+      "Thomson",
+      "Joseph John Thomson",
+      "J. J. Thomson"
+    ],
+    "wrong": [
+      "Ernest Rutherford",
+      "James Chadwick",
+      "John Dalton"
+    ],
+    "explain": "In 1897 Thomson showed that cathode rays consist of particles, electrons, and concluded that electrons are part of atoms.",
+    "hook": "Thomson's tube revealed the tiny electron.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/science/atom/Discovery-of-electrons",
+        "title": "Atom - Discovery of electrons | Britannica",
+        "quote": "Their work culminated in the discovery by English physicist J.J. Thomson of the electron in 1897."
+      },
+      {
+        "url": "https://www.nobelprize.org/prizes/physics/1906/thomson/facts/",
+        "title": "J.J. Thomson – Facts - NobelPrize.org",
+        "quote": "In 1897 he showed that cathode rays (radiation emitted when a voltage is applied between two metal plates inside a glass tube filled with low-pressure gas) consist of particles— electrons—that conduct electricity. Thomson also concluded that electrons are part of atoms."
+      }
+    ]
+  }
+]

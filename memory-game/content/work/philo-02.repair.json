@@ -1,0 +1,139 @@
+[
+  {
+    "id": "philo-02-01",
+    "deck": "library",
+    "topic": "Socrates",
+    "q": "Which ancient Greek philosopher wrote nothing and is known mainly through the accounts of Plato and Xenophon?",
+    "a": "Socrates",
+    "accept": [],
+    "wrong": [
+      "Aristotle",
+      "Epicurus",
+      "Heraclitus"
+    ],
+    "explain": "Socrates wrote nothing; what is known of him comes from members of his circle, primarily Plato and Xenophon.",
+    "hook": "The philosopher who only talked.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Socrates",
+        "title": "Socrates | Britannica",
+        "quote": "Socrates wrote nothing. All that is known about him has been inferred from accounts by members of his circle—primarily Plato and Xenophon"
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/socrates/",
+        "title": "Socrates (Stanford Encyclopedia of Philosophy)",
+        "quote": "What, after all, is our motive for reading a dead philosopher’s words about another dead philosopher who never wrote anything himself?"
+      }
+    ]
+  },
+  {
+    "id": "philo-02-09",
+    "deck": "library",
+    "topic": "Aristotle",
+    "q": "What name was given to the members of Aristotle's school, after the covered walkway (peripatos) on its grounds?",
+    "a": "Peripatetics",
+    "accept": [
+      "Peripatetic",
+      "Peripatetic school"
+    ],
+    "wrong": [
+      "Stoics",
+      "Cynics",
+      "Sophists"
+    ],
+    "explain": "Those affiliated with Aristotle's school at the Lyceum came to be called Peripatetics, probably from the ambulatory (peripatos) on the school's property.",
+    "hook": "Peripatos = walkway, so Peripatetics.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/aristotle/",
+        "title": "Aristotle (Stanford Encyclopedia of Philosophy)",
+        "quote": "Those affiliated with Aristotle’s school later came to be called Peripatetics, probably because of the existence of an ambulatory (peripatos) on the school’s property adjacent to the exercise ground."
+      },
+      {
+        "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/peripatetics",
+        "title": "Peripatetics | Encyclopedia.com",
+        "quote": "The original meaning of the word peripatos was \"a covered walking place.\" The house that Theophrastus provided for the school of Aristotle contained such a peripatos. This yielded a proper name for the school itself — the Peripatos — and its members came to be known as \"those from the Peripatos\" or \"Peripatetics.\""
+      },
+      {
+        "url": "https://iep.utm.edu/aristotle/",
+        "title": "Aristotle | Internet Encyclopedia of Philosophy",
+        "quote": "Aristotle was the founder of the Lyceum, a school based in Athens, Greece; and he was the first of the Peripatetics, his followers from the Lyceum."
+      }
+    ]
+  },
+  {
+    "id": "philo-02-25",
+    "deck": "library",
+    "topic": "The Buddha",
+    "q": "What was the personal name of the Buddha, the founder of Buddhism?",
+    "a": "Siddhartha Gautama",
+    "accept": [
+      "Siddhartha",
+      "Gautama",
+      "Siddhartha Gotama"
+    ],
+    "wrong": [
+      "Ashoka Maurya",
+      "Mahavira",
+      "Nagarjuna"
+    ],
+    "explain": "Siddhartha Gautama, known as the Buddha ('the enlightened one'), founded Buddhism in India; Siddhartha was his given name and Gautama his family name.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism",
+        "title": "Buddha | Britannica",
+        "quote": "Siddhartha Gautama, the founder of Buddhism, is known as the Buddha, meaning the enlightened one who has awakened from ignorance and is free from suffering."
+      },
+      {
+        "url": "https://iep.utm.edu/buddha/",
+        "title": "Buddha | Internet Encyclopedia of Philosophy",
+        "quote": "The historical Buddha, also known as Gotama Buddha, Siddhārtha Gautama, and Buddha Śākyamuni, was born in Lumbini, in the Nepalese region of Terai, near the Indian border."
+      },
+      {
+        "url": "https://www.worldhistory.org/Siddhartha_Gautama",
+        "title": "Siddhartha Gautama | World History Encyclopedia",
+        "quote": "Siddhartha Gautama (better known as the Buddha, l. c. 563 - c. 483 BCE) was, according to legend, a Hindu prince who renounced his position and wealth to seek enlightenment as a spiritual ascetic, attained his goal and, in preaching his path to others, founded Buddhism in India in the 6th-5th centuries BCE."
+      },
+      {
+        "url": "https://encyclopediaofbuddhism.org/wiki/Sakyamuni_Buddha",
+        "title": "Gautama Buddha - Encyclopedia of Buddhism",
+        "quote": "Siddhartha, his given name, means \"one who achieves his goals\"; Gautama is his family name."
+      }
+    ]
+  },
+  {
+    "id": "philo-02-26",
+    "deck": "library",
+    "topic": "The Buddha",
+    "q": "At which site in India, under a pipal (Bo) tree, did the Buddha attain enlightenment?",
+    "a": "Bodh Gaya",
+    "accept": [
+      "Bodhgaya",
+      "Buddh Gaya"
+    ],
+    "wrong": [
+      "Sarnath",
+      "Varanasi",
+      "Lumbini"
+    ],
+    "explain": "Bodh Gaya, home of the Mahabodhi Temple Complex, marks where Prince Siddhartha attained enlightenment under the sacred pipal, or Bo (Bodhi), tree and became the Buddha.",
+    "hook": "Bodh(i) = awakening.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/place/Bodh-Gaya",
+        "title": "Bodh Gaya | Britannica",
+        "quote": "Bodh Gaya contains one of the holiest of Buddhist sites: the location where, under the sacred pipal, or Bo tree, Gautama Buddha (Prince Siddhartha) attained enlightenment and became the Buddha."
+      },
+      {
+        "url": "https://whc.unesco.org/en/list/1056/",
+        "title": "Mahabodhi Temple Complex at Bodh Gaya - UNESCO World Heritage Centre",
+        "quote": "In the context of philosophical and cultural history, Mahabodhi Temple Complex is of great relevance as it marks the most important event in the life of Lord Buddha, the moment when Prince Siddhartha attained Enlightenment and became Buddha, an event that shaped human thought and belief."
+      }
+    ]
+  }
+]

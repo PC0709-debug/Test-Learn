@@ -1,0 +1,217 @@
+[
+  {
+    "id": "library-01-05",
+    "deck": "library",
+    "topic": "Code of Hammurabi",
+    "q": "Hammurabi, known for his law code, was king of which city?",
+    "a": "Babylon",
+    "accept": [],
+    "wrong": [
+      "Nineveh",
+      "Memphis",
+      "Persepolis"
+    ],
+    "explain": "Hammurabi was the sixth and best-known ruler of the 1st (Amorite) dynasty of Babylon.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Hammurabi",
+        "title": "Hammurabi | Britannica",
+        "quote": "Hammurabi (born, Babylon [now in Iraq]—died c. 1750 bce ) was the sixth and best-known ruler of the 1st (Amorite) dynasty of Babylon (reigning c. 1792–1750 bce ), noted for his surviving set of laws"
+      },
+      {
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi",
+        "title": "The Code of Hammurabi | Louvre",
+        "quote": "It contains 282 legal judgements handed down by Hammurabi, king of Babylon, which are organised in overarching chapters related to areas like family, property, trade and labour."
+      }
+    ]
+  },
+  {
+    "id": "library-01-07",
+    "deck": "library",
+    "topic": "Code of Hammurabi",
+    "q": "In which museum is the stela of the Code of Hammurabi kept today?",
+    "a": "Louvre",
+    "accept": [
+      "the Louvre",
+      "Musée du Louvre",
+      "Louvre Museum"
+    ],
+    "wrong": [
+      "British Museum",
+      "Metropolitan Museum of Art",
+      "Pergamon Museum"
+    ],
+    "explain": "The stela is one of the key pieces in the Louvre's Department of Near Eastern Antiquities in Paris.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Code-of-Hammurabi",
+        "title": "Code of Hammurabi | Britannica",
+        "quote": "The Code of Hammurabi is principally known from a stela that was discovered at Susa in late 1901 or early 1902 by the French Orientalist Jean-Vincent Scheil and now preserved in the Louvre ."
+      },
+      {
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi",
+        "title": "The Code of Hammurabi | Louvre",
+        "quote": "The stela has been on display at the Louvre since 1904, where it is one of the key pieces in the Department of Near Eastern Antiquities."
+      }
+    ]
+  },
+  {
+    "id": "library-01-08",
+    "deck": "library",
+    "topic": "Code of Hammurabi",
+    "q": "At which ancient site, in present-day Iran, was the Code of Hammurabi stela discovered by French excavators?",
+    "a": "Susa",
+    "accept": [
+      "Shush"
+    ],
+    "wrong": [
+      "Ur",
+      "Nineveh",
+      "Persepolis"
+    ],
+    "explain": "The stela had been brought to Susa as a spoil of war many centuries after it was made; it is now preserved in the Louvre.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi",
+        "title": "The Code of Hammurabi | Louvre",
+        "quote": "The stela was discovered in 1902 during French excavations in Susa, Iran. It had been brought there as a spoil of war by the Elamite king Shutruk-Nahhunte (reigned around 1185–1160 BC), many centuries after it was made."
+      },
+      {
+        "url": "https://www.britannica.com/topic/Code-of-Hammurabi",
+        "title": "Code of Hammurabi | Britannica",
+        "quote": "The Code of Hammurabi is principally known from a stela that was discovered at Susa in late 1901 or early 1902 by the French Orientalist Jean-Vincent Scheil and now preserved in the Louvre ."
+      }
+    ]
+  },
+  {
+    "id": "library-01-13",
+    "deck": "library",
+    "topic": "Ancient Egypt",
+    "q": "Which French scholar announced the decipherment of Egyptian hieroglyphs in 1822?",
+    "a": "Champollion",
+    "accept": [
+      "Jean-François Champollion",
+      "Jean-Francois Champollion"
+    ],
+    "wrong": [
+      "Howard Carter",
+      "Auguste Mariette",
+      "Flinders Petrie"
+    ],
+    "explain": "Champollion recognised that hieroglyphic writing was a phonetic script rather than a system of symbols.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/hieroglyphic-writing/Discovery-of-the-Rosetta-Stone",
+        "title": "Hieroglyphic writing - Rosetta Stone | Britannica",
+        "quote": "This task of complete decipherment was first accomplished by the Frenchman Jean-François Champollion (1790–1832) in 1822, after long years of intensive work and many setbacks. His success was due to the recognition that hieroglyphic writing, exactly like the hieratic and demotic scripts derived from it, did not constitute a writing system of symbols but rather a phonetic script."
+      },
+      {
+        "url": "https://www.britishmuseum.org/exhibitions/hieroglyphs-unlocking-ancient-egypt/egyptian-hieroglyphs-decipherment-timeline",
+        "title": "How Egyptian hieroglyphs were decoded, a timeline to decipherment | British Museum",
+        "quote": "The public reading of this letter on 27 September 1822 is considered the moment of decipherment."
+      }
+    ]
+  },
+  {
+    "id": "library-01-16",
+    "deck": "library",
+    "topic": "Persia",
+    "q": "Which Persian king founded Persepolis as a capital of the Achaemenid Empire?",
+    "a": "Darius I",
+    "accept": [
+      "Darius the Great"
+    ],
+    "wrong": [
+      "Cambyses II",
+      "Artaxerxes III",
+      "Cyrus the Great"
+    ],
+    "explain": "Darius I made Persepolis the capital of Persia proper, replacing Pasargadae, the burial place of Cyrus the Great.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/114",
+        "title": "Persepolis - UNESCO World Heritage Centre",
+        "quote": "Founded by Darius I in 518 B.C., Persepolis was the capital of the Achaemenid Empire."
+      },
+      {
+        "url": "https://www.britannica.com/place/Persepolis/History",
+        "title": "Persepolis - History | Britannica",
+        "quote": "inscriptions indicate that construction of the city began under Darius I , who, as a member of a new branch of the royal house, made Persepolis the capital of Persia proper, replacing Pasargadae , the burial place of Cyrus II (the Great)."
+      }
+    ]
+  },
+  {
+    "id": "library-01-19",
+    "deck": "library",
+    "topic": "Classical Greece",
+    "q": "In what year BCE did the Athenians defeat the Persians at the Battle of Marathon?",
+    "a": "490 BCE",
+    "accept": [
+      "490",
+      "490 BC",
+      "490 B.C."
+    ],
+    "wrong": [
+      "480 BCE",
+      "431 BCE",
+      "331 BCE"
+    ],
+    "explain": "Led by Miltiades, the Athenians and their Plataean allies repulsed the first Persian invasion of Greece.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Marathon",
+        "title": "Battle of Marathon | Britannica",
+        "quote": "Battle of Marathon , (September 490 bce ), in the Greco-Persian Wars , decisive battle fought on the Marathon plain of northeastern Attica in which the Athenians, in a single afternoon, repulsed the first Persian invasion of Greece ."
+      },
+      {
+        "url": "https://2500years.culture.gov.gr/en/chapters/i-machi-tou-marathona/chalkinos-levitas-marathonomachon",
+        "title": "The Battle of Marathon | 2500 Years (Hellenic Ministry of Culture)",
+        "quote": "It was the beginning of the year of the archon Phaenippus (early September 490 BC), when the Persian army with 600 ships disembarked at Marathon."
+      }
+    ]
+  },
+  {
+    "id": "library-01-26",
+    "deck": "library",
+    "topic": "Alexander the Great",
+    "q": "In what year BCE did Alexander the Great decisively defeat Darius III at the Battle of Gaugamela?",
+    "a": "331 BCE",
+    "accept": [
+      "331",
+      "331 BC",
+      "331 B.C."
+    ],
+    "wrong": [
+      "333 BCE",
+      "490 BCE",
+      "323 BCE"
+    ],
+    "explain": "Gaugamela, fought in 331 BCE, effectively ended the Achaemenid Empire and left Alexander master of southwest Asia.",
+    "hook": "Issus 333, Gaugamela 331: two years apart, counting down.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Gaugamela",
+        "title": "Battle of Gaugamela | Britannica",
+        "quote": "The Battle of Gaugamela occurred on October 1, 331 BCE, between Alexander the Great and Darius III , deciding the fate of the Persian Achaemenian Empire."
+      },
+      {
+        "url": "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc",
+        "title": "ALEXANDER THE GREAT - Encyclopaedia Iranica",
+        "quote": "On 1 October 331 the two armies met at the village of Gaugamela, east of the Tigris in the district of Arbela (Erbel) ( Figure 1 ). Once again Darius was defeated and put to flight"
+      }
+    ]
+  }
+]

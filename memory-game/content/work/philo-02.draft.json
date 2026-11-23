@@ -1,0 +1,352 @@
+[
+  {
+    "id": "philo-02-01", "deck": "library", "topic": "Socrates",
+    "q": "Which ancient Greek philosopher wrote nothing and is known mainly through the accounts of Plato and Xenophon?",
+    "a": "Socrates", "accept": [],
+    "wrong": ["Aristotle", "Epicurus", "Heraclitus"],
+    "explain": "Socrates wrote nothing; what is known of him comes from members of his circle, primarily Plato and Xenophon.",
+    "hook": "The philosopher who only talked.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Socrates", "title": "Socrates | Britannica", "quote": "Socrates wrote nothing. All that is known about him has been inferred from accounts by members of his circle—primarily Plato and Xenophon"},
+      {"url": "https://www.britannica.com/biography/Plato", "title": "Plato | Britannica", "quote": "Since the latter wrote nothing, what is known of his characteristic activity of engaging his fellow citizens ... derives wholly from the writings of others, most notably Plato himself."}
+    ]
+  },
+  {
+    "id": "philo-02-02", "deck": "library", "topic": "Socrates",
+    "q": "In what year BCE was Socrates tried and executed in Athens?",
+    "a": "399 BCE", "accept": ["399", "399 BC", "399 B.C.", "399 B.C.E."],
+    "wrong": ["322 BCE", "347 BCE", "431 BCE"],
+    "explain": "Socrates was tried on charges of impiety and corrupting the youth and executed in 399 BCE.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Plato", "title": "Plato | Britannica", "quote": "Resentment against Socrates grew, leading ultimately to his trial and execution on charges of impiety and corrupting the youth in 399."},
+      {"url": "https://plato.stanford.edu/entries/socrates/", "title": "Socrates (Stanford Encyclopedia of Philosophy)", "quote": "This brings us to the spring and summer of 399, to Socrates’s trial and execution."}
+    ]
+  },
+  {
+    "id": "philo-02-03", "deck": "library", "topic": "Socratic method",
+    "q": "In Plato's dialogue Euthyphro, Socrates asks the title character to define which concept?",
+    "a": "Piety", "accept": ["pious", "what is piety"],
+    "wrong": ["Courage", "Beauty", "Friendship"],
+    "explain": "In the Euthyphro, Socrates asks what piety is and, through supplementary questions, shows that Euthyphro's answers do not fit together, a classic example of the Socratic method.",
+    "hook": "Euthyphro: \"What is piety?\"",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Socratic-method", "title": "Socratic method | Britannica", "quote": "In Plato’s Socratic dialogue Euthyphro, for example, the character after whom the dialogue is named, having been asked what piety is, replies that it is whatever is “dear to the gods.”"}
+    ]
+  },
+  {
+    "id": "philo-02-04", "deck": "library", "topic": "Plato",
+    "q": "Which philosopher founded the Academy in Athens, often considered an ancestor of the modern university?",
+    "a": "Plato", "accept": [],
+    "wrong": ["Aristotle", "Socrates", "Epicurus"],
+    "explain": "Plato founded the Academy in the 380s BCE; it is regarded as the ultimate ancestor of the modern university, hence the English word 'academic'.",
+    "hook": "Plato → Academy → 'academic'.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Plato", "title": "Plato | Britannica", "quote": "Plato’s Academy, founded in the 380s, was the ultimate ancestor of the modern university (hence the English term academic)"},
+      {"url": "https://plato.stanford.edu/entries/aristotle/", "title": "Aristotle (Stanford Encyclopedia of Philosophy)", "quote": "Aristotle was sent to Athens at about the age of seventeen to study in Plato’s Academy, then a pre-eminent place of learning in the Greek world."}
+    ]
+  },
+  {
+    "id": "philo-02-05", "deck": "library", "topic": "Plato",
+    "q": "In which of Plato's dialogues does the Allegory of the Cave appear?",
+    "a": "Republic", "accept": ["The Republic"],
+    "wrong": ["Symposium", "Phaedo", "Apology"],
+    "explain": "The analogy of the cave appears in the Republic, alongside the images of the Sun and the Line; it represents the philosopher's education from ignorance to knowledge of the Forms.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://iep.utm.edu/republic/", "title": "Plato: The Republic | Internet Encyclopedia of Philosophy", "quote": "Socrates continues his discussion of the philosopher and the Forms with a third analogy, the analogy of the cave (514a-517c). This represents the philosopher’s education from ignorance to knowledge of the Forms."},
+      {"url": "https://plato.stanford.edu/entries/plato-ethics-politics/", "title": "Plato’s Ethics and Politics in The Republic (Stanford Encyclopedia of Philosophy)", "quote": "The form of the good is a shadowy presence in the Republic, lurking behind the images of the Sun, Line, and Cave."}
+    ]
+  },
+  {
+    "id": "philo-02-06", "deck": "library", "topic": "Plato",
+    "q": "In Plato's metaphysics, which Form is the most fundamental of all the Forms?",
+    "a": "The Good", "accept": ["Good", "Form of the Good", "the One"],
+    "wrong": ["The Beautiful", "The Just", "The Equal"],
+    "explain": "Plato envisioned a systematic treatment of the Forms starting with the most fundamental among them, the Good (also called the One).",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Plato", "title": "Plato | Britannica", "quote": "In metaphysics Plato envisioned a systematic, rational treatment of the forms and their interrelations, starting with the most fundamental among them (the Good, or the One)"},
+      {"url": "https://plato.stanford.edu/entries/plato-ethics-politics/", "title": "Plato’s Ethics and Politics in The Republic (Stanford Encyclopedia of Philosophy)", "quote": "The form of the good is a shadowy presence in the Republic, lurking behind the images of the Sun, Line, and Cave."}
+    ]
+  },
+  {
+    "id": "philo-02-07", "deck": "library", "topic": "Aristotle",
+    "q": "What was the name of the school Aristotle founded in Athens?",
+    "a": "Lyceum", "accept": ["The Lyceum"],
+    "wrong": ["Academy", "Stoa", "Garden"],
+    "explain": "Aristotle founded his own school in Athens, the Lyceum; his followers there became known as the Peripatetics.",
+    "hook": "French 'lycée' (high school) descends from the Lyceum.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Aristotle", "title": "Aristotle | Britannica", "quote": "Aristotle was also a teacher and founded his own school in Athens, known as the Lyceum."},
+      {"url": "https://iep.utm.edu/aristotle/", "title": "Aristotle | Internet Encyclopedia of Philosophy", "quote": "Aristotle was the founder of the Lyceum, a school based in Athens, Greece; and he was the first of the Peripatetics, his followers from the Lyceum."}
+    ]
+  },
+  {
+    "id": "philo-02-08", "deck": "library", "topic": "Aristotle",
+    "q": "Which future conqueror did Aristotle tutor at the Macedonian court?",
+    "a": "Alexander the Great", "accept": ["Alexander", "Alexander III of Macedon"],
+    "wrong": ["Julius Caesar", "Philip II", "Pericles"],
+    "explain": "Philip II of Macedon summoned Aristotle to Pella in 343 or 342 BCE to tutor his 13-year-old son, the future Alexander the Great.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Aristotle", "title": "Aristotle | Britannica", "quote": "In 343 or 342 Aristotle was summoned by Philip II to the Macedonian capital at Pella to act as tutor to Philip’s 13-year-old son, the future Alexander the Great."},
+      {"url": "https://iep.utm.edu/aristotle/", "title": "Aristotle | Internet Encyclopedia of Philosophy", "quote": "the couple relocated to Macedonia, where Aristotle was employed by Philip, serving as tutor to his son, Alexander the Great (DL 5.1.3–4)."}
+    ]
+  },
+  {
+    "id": "philo-02-09", "deck": "library", "topic": "Aristotle",
+    "q": "What name was given to Aristotle's followers at the Lyceum, from a Greek word meaning 'to walk up and down'?",
+    "a": "Peripatetics", "accept": ["Peripatetic", "Peripatetic school"],
+    "wrong": ["Stoics", "Cynics", "Sophists"],
+    "explain": "'Peripatetic' comes from the Greek peripatein, 'to walk up and down'; Aristotle's students at the Lyceum were called Peripatetics.",
+    "hook": "Peri-pat-etic: they patrolled while they talked.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Peripatetic", "title": "Peripatetic | Britannica", "quote": "The term \"Peripatetic\" originates from the Greek word peripatein, meaning \"to walk up and down.\" This term became associated with the followers of the ancient Greek philosopher Aristotle."},
+      {"url": "https://iep.utm.edu/aristotle/", "title": "Aristotle | Internet Encyclopedia of Philosophy", "quote": "he was the first of the Peripatetics, his followers from the Lyceum."}
+    ]
+  },
+  {
+    "id": "philo-02-10", "deck": "library", "topic": "Aristotle: golden mean",
+    "q": "Under Aristotle's golden mean, courage is the mean between cowardice (deficiency) and which excess?",
+    "a": "Rashness", "accept": ["foolhardiness", "recklessness"],
+    "wrong": ["Temperance", "Humility", "Justice"],
+    "explain": "For Aristotle, every virtue is a mean between deficiency and excess; courage lies between cowardice and rashness.",
+    "hook": "Too little = coward, too much = rash, just right = brave.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/golden-mean", "title": "Golden mean | Britannica", "quote": "Aristotle argued that virtues exist as a balance between deficiency and excess. For example, courage is the midpoint between cowardice (deficiency) and rashness (excess)."},
+      {"url": "https://www.britannica.com/topic/eudaimonia", "title": "Eudaimonia | Britannica", "quote": "He emphasized that virtue is a \"golden mean\" between deficiency and excess. For example, courage is the mean between cowardice and foolhardiness."}
+    ]
+  },
+  {
+    "id": "philo-02-11", "deck": "library", "topic": "Aristotle: four causes",
+    "q": "Which of Aristotle's four causes is 'that for the sake of which' something is done?",
+    "a": "Final cause", "accept": ["final", "telos"],
+    "wrong": ["Material cause", "Formal cause", "Efficient cause"],
+    "explain": "Aristotle's four causes are material, formal, efficient and final; the final cause answers 'what is its good?', i.e. the end for the sake of which something happens.",
+    "hook": "Final = the finish line (telos).",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://plato.stanford.edu/entries/aristotle-causality/", "title": "Aristotle on Causality (Stanford Encyclopedia of Philosophy)", "quote": "The final cause is that which is given in reply to the question: “What is its good?”. What is singled out in the answer is that for the sake of which something is done or takes place."},
+      {"url": "https://plato.stanford.edu/entries/aristotle/", "title": "Aristotle (Stanford Encyclopedia of Philosophy)", "quote": "In Aristotle’s terms, in asking these questions we are seeking knowledge of the statue’s four causes (aitia): the formal, material, efficient, and final."}
+    ]
+  },
+  {
+    "id": "philo-02-12", "deck": "library", "topic": "Aristotle: ethics",
+    "q": "What Greek term did Aristotle use for the highest human good, often translated as 'flourishing'?",
+    "a": "Eudaimonia", "accept": ["eudaemonia", "eudaimonia (flourishing)"],
+    "wrong": ["Ataraxia", "Apatheia", "Arete"],
+    "explain": "For Aristotle, eudaimonia is the highest human good, the only good desirable for its own sake; it means human flourishing or living well, not merely a feeling of pleasure.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/eudaimonia", "title": "Eudaimonia | Britannica", "quote": "Eudaimonia, in Aristotelian ethics, is the condition of human flourishing or living well."},
+      {"url": "https://www.britannica.com/topic/eudaimonia", "title": "Eudaimonia | Britannica", "quote": "For Aristotle, eudaimonia is the highest human good, the only human good that is desirable for its own sake (as an end in itself) rather than for the sake of something else"}
+    ]
+  },
+  {
+    "id": "philo-02-13", "deck": "library", "topic": "Epicurus",
+    "q": "What was the name of the school Epicurus established in Athens?",
+    "a": "The Garden", "accept": ["Garden", "Kepos", "Ho Kepos"],
+    "wrong": ["The Lyceum", "The Academy", "The Stoa"],
+    "explain": "Epicurus bought a house in Athens in 306 BCE and set up his school in its garden; it came to be known as Ho Kepos (The Garden).",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Epicurus", "title": "Epicurus | Britannica", "quote": "When Epicurus and his followers came to Athens in 306, he bought a house and, in the garden, established a school, which came to be known as Ho Kepos (The Garden)."},
+      {"url": "https://plato.stanford.edu/entries/epicurus/", "title": "Epicurus (Stanford Encyclopedia of Philosophy)", "quote": "In Athens, he purchased the property that became known as the “Garden” (later used as a name for his school itself) and began to develop his own school in earnest."}
+    ]
+  },
+  {
+    "id": "philo-02-14", "deck": "library", "topic": "Epicurus",
+    "q": "What Greek term names the Epicurean goal of tranquility, or freedom from mental disturbance?",
+    "a": "Ataraxia", "accept": ["ataraxy"],
+    "wrong": ["Eudaimonia", "Logos", "Wuwei"],
+    "explain": "Ataraxia, or imperturbability, together with freedom from physical pain, is one way of specifying the goal of life for Epicurus.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/ataraxia", "title": "Ataraxia | Britannica", "quote": "Ataraxia is a philosophical concept, primarily associated with Epicureanism, that signifies a state of profound tranquility and freedom from mental or emotional disturbance."},
+      {"url": "https://plato.stanford.edu/entries/epicurus/", "title": "Epicurus (Stanford Encyclopedia of Philosophy)", "quote": "ataraxy, lack of perturbation, and ataraxy, together with freedom from physical pain, is one way of specifying the goal of life, for Epicurus."}
+    ]
+  },
+  {
+    "id": "philo-02-15", "deck": "library", "topic": "Cynics",
+    "q": "From which city did Diogenes the Cynic come?",
+    "a": "Sinope", "accept": ["Sinop"],
+    "wrong": ["Miletus", "Ephesus", "Samos"],
+    "explain": "Diogenes of Sinope was the archetype of the Cynics; he was almost certainly exiled from Sinope before arriving in Athens.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Diogenes-Greek-philosopher", "title": "Diogenes | Britannica", "quote": "Diogenes (born, Sinope, Paphlygonia—died c. 320 bce, probably at Corinth, Greece) was the archetype of the Cynics"},
+      {"url": "https://iep.utm.edu/cynics/", "title": "Cynics | Internet Encyclopedia of Philosophy", "quote": "If Antisthenes was not the first Cynic by name, then the origin of the appellation falls to Diogenes of Sinope, an individual well known for dog-like behavior."}
+    ]
+  },
+  {
+    "id": "philo-02-16", "deck": "library", "topic": "Cynics",
+    "q": "The name 'Cynic' comes from a Greek word meaning like which animal?",
+    "a": "Dog", "accept": ["dog-like", "doglike", "canine"],
+    "wrong": ["Wolf", "Fox", "Owl"],
+    "explain": "The Cynic name, kunikos, is a Greek word meaning 'dog-like'; Diogenes even called himself 'Diogenes the Dog'.",
+    "hook": "Cynic ~ canine.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://iep.utm.edu/cynics/", "title": "Cynics | Internet Encyclopedia of Philosophy", "quote": "The origin of the Cynic name kunikos, a Greek word meaning “dog-like”, is a point of contention."},
+      {"url": "https://www.britannica.com/biography/Antisthenes", "title": "Antisthenes | Britannica", "quote": "The Cynic (Greek: Canine, or Doglike) school of philosophy long survived him."}
+    ]
+  },
+  {
+    "id": "philo-02-17", "deck": "library", "topic": "Cynics",
+    "q": "Which disciple of Socrates is considered the founder of the Cynic school, though Diogenes often gets the credit?",
+    "a": "Antisthenes", "accept": [],
+    "wrong": ["Xenophon", "Zeno of Citium", "Theophrastus"],
+    "explain": "Antisthenes, an Athenian disciple of Socrates, is considered the founder of the Cynic school, although Diogenes of Sinope is often given that credit.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Antisthenes", "title": "Antisthenes | Britannica", "quote": "Antisthenes (born c. 445 bc—died c. 365) was a Greek philosopher, of Athens, who was a disciple of Socrates and is considered the founder of the Cynic school of philosophy, though Diogenes of Sinope often is given that credit."},
+      {"url": "https://iep.utm.edu/cynics/", "title": "Cynics | Internet Encyclopedia of Philosophy", "quote": "Two competing stories explain the source of the name using the figure of Antisthenes (whom Diogenes Laertius identifies controversially as the original Cynic)"}
+    ]
+  },
+  {
+    "id": "philo-02-18", "deck": "library", "topic": "Pre-Socratics",
+    "q": "Which substance did Thales of Miletus propose as the fundamental principle of all things?",
+    "a": "Water", "accept": ["moisture"],
+    "wrong": ["Fire", "Air", "Earth"],
+    "explain": "Aristotle reports that Thales was the first to suggest a single material substratum for the universe, namely water; Thales pictured Earth as a flat disk floating on water.",
+    "hook": "Thales of Miletus: the 'wet' founder.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Thales-of-Miletus", "title": "Thales of Miletus | Britannica", "quote": "He is remembered primarily for his cosmology based on water as the essence of all matter, with Earth a flat disk floating on a vast sea."},
+      {"url": "https://iep.utm.edu/thales/", "title": "Thales of Miletus | Internet Encyclopedia of Philosophy", "quote": "He recorded: ‘Thales says that it is water’. ‘it’ is the nature, the archê, the originating principle."}
+    ]
+  },
+  {
+    "id": "philo-02-19", "deck": "library", "topic": "Pre-Socratics",
+    "q": "Which pre-Socratic philosopher from Ephesus held that fire is the basic material of the world and is known for the doctrine of flux?",
+    "a": "Heraclitus", "accept": ["Heraclitus of Ephesus"],
+    "wrong": ["Parmenides", "Thales", "Democritus"],
+    "explain": "Heraclitus of Ephesus is best known for universal flux, the unity of opposites, and fire as the basic material; Plato reports him comparing things to a river you cannot step into twice.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Heraclitus", "title": "Heraclitus | Britannica", "quote": "Heraclitus (born c. 540 bce, Ephesus, Anatolia [now Selçuk, Turkey]—died c. 480) was a Greek philosopher remembered for his cosmology, in which fire forms the basic material principle of an orderly universe."},
+      {"url": "https://plato.stanford.edu/entries/heraclitus/", "title": "Heraclitus (Stanford Encyclopedia of Philosophy)", "quote": "He is best known for his doctrines that things are constantly changing (universal flux), that opposites coincide (unity of opposites), and that fire is the basic material of the world."}
+    ]
+  },
+  {
+    "id": "philo-02-20", "deck": "library", "topic": "Pre-Socratics",
+    "q": "Who was Democritus' teacher and fellow founder of ancient atomism?",
+    "a": "Leucippus", "accept": [],
+    "wrong": ["Anaximander", "Empedocles", "Pythagoras"],
+    "explain": "Democritus elaborated the atomist system of his teacher Leucippus: everything consists of indivisible atoms moving in an infinite void.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Democritus", "title": "Democritus | Britannica", "quote": "Democritus’s physical and cosmological doctrines were an elaborated and systematized version of those of his teacher, Leucippus."},
+      {"url": "https://plato.stanford.edu/entries/democritus/", "title": "Democritus (Stanford Encyclopedia of Philosophy)", "quote": "Democritus ... was one of the two founders of ancient atomist theory. He elaborated a system originated by his teacher Leucippus into a materialist account of the natural world."}
+    ]
+  },
+  {
+    "id": "philo-02-21", "deck": "library", "topic": "Confucius",
+    "q": "What collection of sayings, known in Chinese as the Lunyu, is the most reliable source of Confucius' teachings?",
+    "a": "Analects", "accept": ["The Analects", "Lunyu", "Analects of Confucius"],
+    "wrong": ["Daodejing", "Art of War", "Book of Changes"],
+    "explain": "The Lunyu, translated as The Analects of Confucius, is considered the most reliable source of Confucius' doctrine and became one of the Four Books.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Lunyu", "title": "Lunyu | Britannica", "quote": "Lunyu has been translated into English as The Analects of Confucius. Lunyu is considered by scholars to be the most reliable source of the doctrine of the ancient sage Confucius (551–479 bc)"},
+      {"url": "https://plato.stanford.edu/entries/confucius/", "title": "Confucius (Stanford Encyclopedia of Philosophy)", "quote": "integrated the study of the Analects into a curriculum based on the “Four Books” (Sishu 四書) that became widely influential in China, Korea, and Japan."}
+    ]
+  },
+  {
+    "id": "philo-02-22", "deck": "library", "topic": "Confucius",
+    "q": "What Confucian virtue, translated as 'humaneness' or 'benevolence', did Confucius treat as a higher ideal?",
+    "a": "Ren", "accept": ["jen", "仁"],
+    "wrong": ["Wuwei", "Dharma", "Karma"],
+    "explain": "Confucius called the higher ideal humaneness (ren); asked what it is, he replied, 'Do not impose on others what you do not want.'",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Confucius", "title": "Confucius | Britannica", "quote": "And this rightness of expression or intent serves a higher ideal, which Confucius called humaneness (ren)."},
+      {"url": "https://plato.stanford.edu/entries/confucius/", "title": "Confucius (Stanford Encyclopedia of Philosophy)", "quote": "Five behaviors of the gentleman most central to the Analects are benevolence (ren 仁), righteousness (yi 義), ritual propriety (li 禮), wisdom (zhi 智), and trustworthiness (xin 信)."}
+    ]
+  },
+  {
+    "id": "philo-02-23", "deck": "library", "topic": "Laozi",
+    "q": "Which primary Daoist text is traditionally attributed to Laozi?",
+    "a": "Daodejing", "accept": ["Tao Te Ching", "Dao De Jing", "Laozi"],
+    "wrong": ["Analects", "Zhongyong", "Mencius"],
+    "explain": "Laozi is the first philosopher of Chinese Daoism and the alleged author of the Daodejing, though modern scholars doubt it was written by one person.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Laozi", "title": "Laozi | Britannica", "quote": "Laozi (flourished 6th century bce, China) was the first philosopher of Chinese Daoism and the alleged author of the Daodejing, a primary Daoist writing."},
+      {"url": "https://plato.stanford.edu/entries/laozi/", "title": "Laozi (Stanford Encyclopedia of Philosophy)", "quote": "The Daodejing is concerned with both Dao and de."}
+    ]
+  },
+  {
+    "id": "philo-02-24", "deck": "library", "topic": "Laozi",
+    "q": "What Daoist concept, usually translated as 'nonaction', means no unnatural action rather than total passivity?",
+    "a": "Wuwei", "accept": ["wu wei", "wu-wei"],
+    "wrong": ["Ren", "Li", "Nirvana"],
+    "explain": "Wuwei, 'nonaction', is understood as no unnatural action, implying spontaneity and noninterference; it does not mean total inaction.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Laozi", "title": "Laozi | Britannica", "quote": "Wuwei Consisting of \"nonaction\", understood as no unnatural action rather than complete passivity, implying spontaneity and noninterference."},
+      {"url": "https://plato.stanford.edu/entries/laozi/", "title": "Laozi (Stanford Encyclopedia of Philosophy)", "quote": "Wuwei does not mean total inaction."}
+    ]
+  },
+  {
+    "id": "philo-02-25", "deck": "library", "topic": "The Buddha",
+    "q": "What was the personal name of the Buddha, the founder of Buddhism?",
+    "a": "Siddhartha Gautama", "accept": ["Siddhartha", "Gautama", "Siddhartha Gotama"],
+    "wrong": ["Ashoka Maurya", "Mahavira", "Nagarjuna"],
+    "explain": "Siddhartha Gautama, known as the Buddha ('enlightened one'), founded Buddhism and lived in northern India between the 6th and 4th centuries BCE.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism", "title": "Buddha | Britannica", "quote": "Siddhartha Gautama, the founder of Buddhism, is known as the Buddha, meaning the enlightened one who has awakened from ignorance and is free from suffering."},
+      {"url": "https://www.britannica.com/topic/golden-mean", "title": "Golden mean | Britannica", "quote": "In Buddhist teachings, the Buddha, Siddhartha Gautama, is said to have taken a “middle way” or “middle path” between the extremes of self-satisfaction and self-denial."}
+    ]
+  },
+  {
+    "id": "philo-02-26", "deck": "library", "topic": "The Buddha",
+    "q": "At which site in India, under a pipal (Bo) tree, did the Buddha attain enlightenment?",
+    "a": "Bodh Gaya", "accept": ["Bodhgaya", "Buddh Gaya"],
+    "wrong": ["Sarnath", "Varanasi", "Lumbini"],
+    "explain": "Bodh Gaya holds one of the holiest Buddhist sites: where, under the sacred pipal or Bo tree, Siddhartha attained enlightenment and became the Buddha.",
+    "hook": "Bodh(i) = awakening.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/place/Bodh-Gaya", "title": "Bodh Gaya | Britannica", "quote": "Bodh Gaya contains one of the holiest of Buddhist sites: the location where, under the sacred pipal, or Bo tree, Gautama Buddha (Prince Siddhartha) attained enlightenment and became the Buddha."},
+      {"url": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism", "title": "Buddha | Britannica", "quote": "all had achieved enlightenment at Bodh Gaya, all had preached in the deer park at Sarnath, and so on."}
+    ]
+  },
+  {
+    "id": "philo-02-27", "deck": "library", "topic": "The Buddha",
+    "q": "What fundamental Buddhist doctrine about suffering, its origin, its cessation and the path did the Buddha set out in his first sermon?",
+    "a": "Four Noble Truths", "accept": ["The Four Noble Truths"],
+    "wrong": ["Five Precepts", "Three Jewels", "Ten Commandments"],
+    "explain": "The Four Noble Truths, set forth in the Buddha's first sermon after his enlightenment, are: there is suffering, its origination, its cessation, and a path to its cessation.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Four-Noble-Truths", "title": "Four Noble Truths | Britannica", "quote": "Four Noble Truths, one of the fundamental doctrines of Buddhism, said to have been set forth by the Buddha, the founder of the religion, in his first sermon, which he gave after his enlightenment."},
+      {"url": "https://plato.stanford.edu/entries/buddha/", "title": "Buddha (Stanford Encyclopedia of Philosophy)", "quote": "The Buddha’s basic teachings are usually summarized using the device of the Four Nobles’ Truths: There is suffering. There is the origination of suffering. There is the cessation of suffering. There is a path to the cessation of suffering."}
+    ]
+  }
+]

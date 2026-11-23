@@ -1,0 +1,414 @@
+[
+  {
+    "id": "vault-07-01",
+    "deck": "vault",
+    "topic": "Terminal value methods",
+    "q": "Besides the exit multiple method, what is the other widely used method to calculate terminal value in a DCF?",
+    "a": "Perpetuity growth method",
+    "accept": ["perpetuity growth", "Gordon growth method", "Gordon growth", "growth in perpetuity", "perpetual growth method", "perpetual growth"],
+    "wrong": ["Liquidation value method", "Book value method", "Payback period method"],
+    "explain": "The two standard approaches are the growth in perpetuity (Gordon growth) approach and the exit multiple approach.",
+    "hook": "Two roads to TV: grow it forever, or sell it at a multiple.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "In practice, there are two widely used methods to calculate the terminal value as part of performing a DCF analysis . 1. Growth in Perpetuity Approach 2. Exit Multiple Approach"},
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/dcf-terminal-value-formula/", "title": "DCF Terminal Value Formula - How to Calculate Terminal Value, Model", "quote": "There are two approaches to the DCF terminal value formula: (1) perpetual growth, and (2) exit multiple."}
+    ]
+  },
+  {
+    "id": "vault-07-02",
+    "deck": "vault",
+    "topic": "Gordon growth formula",
+    "q": "In the perpetuity growth terminal value formula for an unlevered DCF, what is the denominator?",
+    "a": "WACC minus g",
+    "accept": ["WACC - g", "WACC – g", "discount rate minus growth rate", "r - g", "r minus g"],
+    "wrong": ["WACC plus g", "1 plus g", "g minus WACC"],
+    "explain": "TV = Final-year FCF x (1 + g) / (WACC - g), so the denominator is the discount rate less the perpetuity growth rate.",
+    "hook": "Grow the top, shrink the bottom: (1+g) up, (WACC-g) down.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/dcf-terminal-value-formula/", "title": "DCF Terminal Value Formula - How to Calculate Terminal Value, Model", "quote": "TV = (FCFn x (1 + g)) / (WACC – g)"},
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "The formula under the perpetuity approach involves taking the final year's FCF and growing it by the long-term growth rate assumption and then dividing that amount by the discount rate minus the perpetuity growth rate."}
+    ]
+  },
+  {
+    "id": "vault-07-03",
+    "deck": "vault",
+    "topic": "Gordon growth formula",
+    "q": "In the perpetuity growth terminal value formula, what is the numerator?",
+    "a": "Final-year FCF x (1 + g)",
+    "accept": ["final year FCF times (1+g)", "FCFn x (1 + g)", "FCFn*(1+g)", "next year's FCF", "final-year FCF grown by g"],
+    "wrong": ["Final-year EBITDA x exit multiple", "First-year FCF x (1 - g)", "Final-year net income x (1 + WACC)"],
+    "explain": "The final forecast year's free cash flow is grown one year at the perpetuity growth rate before being divided by (WACC - g).",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "Terminal Value = [Final Year FCF × (1 + Perpetuity Growth Rate)] ÷ (Discount Rate – Perpetuity Growth Rate)"},
+      {"url": "https://macabacus.com/valuation/dcf-terminal-value", "title": "Terminal Value: DCF & Valuation Methods | Macabacus", "quote": "TV = (FCFn × (1 + g)) / (WACC − g) Where FCFn is the final year’s free cash flow, g is the perpetuity growth rate, and WACC is the weighted average cost of capital."}
+    ]
+  },
+  {
+    "id": "vault-07-04",
+    "deck": "vault",
+    "topic": "Exit multiple method",
+    "q": "Under the exit multiple method, which final-year metric is most commonly multiplied by the exit multiple to get terminal value?",
+    "a": "EBITDA",
+    "accept": ["final-year EBITDA", "terminal year EBITDA"],
+    "wrong": ["Dividends per share", "Total assets", "Accounts receivable"],
+    "explain": "The exit multiple TV is typically final-year EBITDA times an EV/EBITDA multiple drawn from comparable companies or precedent transactions.",
+    "hook": "Exit = EBITDA x multiple.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "Terminal Value = Final Year EBITDA × Exit Multiple"},
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/dcf-terminal-value-formula/", "title": "DCF Terminal Value Formula - How to Calculate Terminal Value, Model", "quote": "TV = Financial Metric (e.g., EBITDA) x Trading Multiple (e.g., 10x)"}
+    ]
+  },
+  {
+    "id": "vault-07-05",
+    "deck": "vault",
+    "topic": "Exit multiple method",
+    "q": "The exit multiple assumption in a DCF is usually derived from the trading multiples of what?",
+    "a": "Comparable companies",
+    "accept": ["comps", "comparable public companies", "public comps", "trading comps"],
+    "wrong": ["Government bond yields", "The company's credit rating", "The company's dividend payout ratio"],
+    "explain": "The exit multiple is drawn from current trading multiples of comparable companies, and sometimes from precedent transactions of comparable targets.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "The exit multiple assumption is derived from market data on the current public trading multiples of comparable companies and multiples obtained from precedent transactions of comparable targets."},
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/dcf-terminal-value-formula/", "title": "DCF Terminal Value Formula - How to Calculate Terminal Value, Model", "quote": "The exit multiple approach assumes the business is sold for a multiple of some metric (e.g., EBITDA) based on currently observed comparable trading multiples for similar businesses."}
+    ]
+  },
+  {
+    "id": "vault-07-06",
+    "deck": "vault",
+    "topic": "Terminal value methods",
+    "q": "Which terminal value method is more common among industry practitioners?",
+    "a": "Exit multiple method",
+    "accept": ["exit multiple", "terminal multiple method", "multiples method"],
+    "wrong": ["Perpetuity growth method", "Liquidation value method", "Book value method"],
+    "explain": "Practitioners favor the exit multiple approach because it ties value to observable market pricing; the perpetuity growth method is favored by academics for its theoretical grounding.",
+    "hook": "Bankers like what they can see in the market.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/dcf-terminal-value-formula/", "title": "DCF Terminal Value Formula - How to Calculate Terminal Value, Model", "quote": "The exit multiple approach is more common among industry professionals, as they prefer to compare the value of a business to something they can observe in the market. You will hear more talk about the perpetual growth model among academics since it has more theory behind it."},
+      {"url": "https://macabacus.com/valuation/dcf-terminal-value", "title": "Terminal Value: DCF & Valuation Methods | Macabacus", "quote": "The perpetuity growth method is not used as frequently in practice due to the difficulty in estimating the perpetuity growth rate and determining when the company achieves steady-state."}
+    ]
+  },
+  {
+    "id": "vault-07-07",
+    "deck": "vault",
+    "topic": "Why TV dominates",
+    "q": "Roughly what share of total value does terminal value typically represent in a 5-year DCF?",
+    "a": "75%",
+    "accept": ["about 75%", "three-quarters", "~75%", "75 percent"],
+    "wrong": ["10%", "25%", "40%"],
+    "explain": "Terminal value usually contributes around three-quarters of the implied value in a DCF, which is why its assumptions deserve close scrutiny.",
+    "hook": "Three of every four valuation dollars live after the forecast.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "Usually, the terminal value contributes around three-quarters of the total implied valuation derived from a discounted cash flow (DCF) model."},
+      {"url": "https://macabacus.com/valuation/dcf-terminal-value", "title": "Terminal Value: DCF & Valuation Methods | Macabacus", "quote": "Depending on the circumstance, the terminal value can constitute approximately 75% of the value in a 5-year DCF and 50% of the value in a 10-year DCF."}
+    ]
+  },
+  {
+    "id": "vault-07-08",
+    "deck": "vault",
+    "topic": "Why TV dominates",
+    "q": "Shortening the explicit forecast period does what to terminal value's share of total DCF value?",
+    "a": "Increases it",
+    "accept": ["increase", "raises it", "it goes up", "higher"],
+    "wrong": ["Decreases it", "Eliminates it", "Has no effect"],
+    "explain": "A shorter forecast pushes more of the valuation into the terminal value; Macabacus cites about 75% in a 5-year DCF versus 50% in a 10-year DCF.",
+    "hook": "Less forecast, more terminal.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "A shorter explicit forecast period pushes more of the total valuation into the terminal value, which increases the model's sensitivity to the terminal growth or exit multiple assumption."},
+      {"url": "https://macabacus.com/valuation/dcf-terminal-value", "title": "Terminal Value: DCF & Valuation Methods | Macabacus", "quote": "Depending on the circumstance, the terminal value can constitute approximately 75% of the value in a 5-year DCF and 50% of the value in a 10-year DCF."}
+    ]
+  },
+  {
+    "id": "vault-07-09",
+    "deck": "vault",
+    "topic": "Why TV dominates",
+    "q": "Why does terminal value usually make up most of a DCF's value?",
+    "a": "It captures all cash flows beyond the forecast",
+    "accept": ["captures all cash flows after the forecast period", "it covers every year after the forecast", "all subsequent cash flows", "it captures cash flows forever"],
+    "wrong": ["It excludes all future cash flows", "It is never discounted", "It includes only one year of cash flow"],
+    "explain": "TV compresses every year of cash flow beyond the 5-10 year explicit forecast into a single lump sum, so it naturally carries most of the value.",
+    "hook": "Five years vs. forever: forever wins.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "Terminal value dominates a DCF because it captures every year of cash flow beyond the explicit forecast period, essentially compressing decades of a company's future into a single lump-sum estimate."},
+      {"url": "https://macabacus.com/valuation/dcf-terminal-value", "title": "Terminal Value: DCF & Valuation Methods | Macabacus", "quote": "The terminal value (TV) captures the value of a business beyond the projection period in a DCF analysis , and is the present value of all subsequent cash flows."}
+    ]
+  },
+  {
+    "id": "vault-07-10",
+    "deck": "vault",
+    "topic": "Implied multiple cross-check",
+    "q": "To back out the implied exit multiple from a perpetuity-growth terminal value, you divide the TV by what?",
+    "a": "Final-year EBITDA",
+    "accept": ["EBITDA", "terminal year EBITDA", "EBITDA n", "final year EBITDA"],
+    "wrong": ["WACC", "Final-year capex", "Perpetuity growth rate"],
+    "explain": "Implied exit multiple = TV / final-year EBITDA; it is compared against comps to sanity-check the growth assumption.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "Implied Exit Multiple = Unadjusted TV ÷ Final Year EBITDA"},
+      {"url": "https://macabacus.com/valuation/dcf-terminal-value", "title": "Terminal Value: DCF & Valuation Methods | Macabacus", "quote": "Likewise, a multiple implied (e.g. EBITDA ) by the TV calculated using the perpetual growth method can be calculated as follows: | Implied terminal EBITDA multiple | = | TV | | EBITDA n |"}
+    ]
+  },
+  {
+    "id": "vault-07-11",
+    "deck": "vault",
+    "topic": "Implied growth cross-check",
+    "q": "When terminal value is calculated with the exit multiple method, which implied figure should you back into to check it is reasonable?",
+    "a": "Implied perpetuity growth rate",
+    "accept": ["implied growth rate", "implied terminal growth rate", "implied g", "implied perpetual growth rate"],
+    "wrong": ["Implied credit rating", "Implied dividend yield", "Implied tax rate"],
+    "explain": "Each method sanity-checks the other: an exit-multiple TV implies a perpetuity growth rate, and a growth-based TV implies an exit multiple.",
+    "hook": "Multiple in, growth out; growth in, multiple out.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "If the exit multiple approach was used to calculate the TV, it is important to cross-check the amount by backing into an implied growth rate to confirm that it's reasonable."},
+      {"url": "https://macabacus.com/valuation/dcf-terminal-value", "title": "Terminal Value: DCF & Valuation Methods | Macabacus", "quote": "However, the perpetuity growth rate implied using the terminal multiple method should always be calculated to check the validity of the terminal multiple assumption."}
+    ]
+  },
+  {
+    "id": "vault-07-12",
+    "deck": "vault",
+    "topic": "Gordon growth formula",
+    "q": "What kind of terminal value results if the perpetuity growth rate is set higher than the discount rate?",
+    "a": "Negative terminal value",
+    "accept": ["negative", "a negative TV", "nonsensical negative value"],
+    "wrong": ["Zero terminal value", "Exactly double the terminal value", "Terminal value equal to final-year FCF"],
+    "explain": "With g above the discount rate, the (r - g) denominator turns negative and the formula produces a nonsensical result that signals a flawed input.",
+    "hook": "g must stay below WACC.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "A negative terminal value usually signals a flawed input, most often a perpetuity growth rate that's set higher than the discount rate, which causes the formula's denominator to go negative and produces a nonsensical result."}
+    ]
+  },
+  {
+    "id": "vault-07-13",
+    "deck": "vault",
+    "topic": "Terminal growth rate",
+    "q": "A DCF's terminal growth rate should generally be at or below what macroeconomic benchmark?",
+    "a": "Long-term GDP growth",
+    "accept": ["GDP growth", "long-term GDP growth rate", "GDP", "economic growth rate"],
+    "wrong": ["The company's revenue CAGR", "The S&P 500's historical return", "The WACC plus 5%"],
+    "explain": "A company cannot outgrow the economy forever, so the terminal rate is kept low, below long-term GDP growth, especially in developed countries.",
+    "hook": "No company outgrows the economy forever.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/how-to-calculate-terminal-value", "title": "How to Calculate Terminal Value in a DCF Analysis", "quote": "As shown in the slide above, this “Terminal Growth Rate” should be low – below the long-term GDP growth rate of the country, especially in developed countries such as Australia, the U.S., and the U.K."},
+      {"url": "https://macabacus.com/valuation/dcf-terminal-value", "title": "Terminal Value: DCF & Valuation Methods | Macabacus", "quote": "If you assume a perpetuity growth rate in excess of 5%, you are basically saying that you expect the company’s growth to outpace the economy’s growth forever."}
+    ]
+  },
+  {
+    "id": "vault-07-14",
+    "deck": "vault",
+    "topic": "Discount rate",
+    "q": "If the projected cash flows are unlevered free cash flows, which discount rate is used in the terminal value formula?",
+    "a": "WACC",
+    "accept": ["weighted average cost of capital", "weighted-average cost of capital"],
+    "wrong": ["Cost of equity only", "Risk-free rate only", "Pre-tax cost of debt only"],
+    "explain": "Unlevered FCF belongs to all capital providers, so it is discounted at WACC and the output is enterprise value.",
+    "hook": "Unlevered FCF -> WACC -> EV.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "If the cash flows being projected are unlevered free cash flows, then the proper discount rate to use would be the weighted average cost of capital (WACC) and the ending output is going to be the enterprise value ."},
+      {"url": "https://macabacus.com/valuation/dcf-enterprise-equity-values", "title": "Enterprise and Equity Values - Examples, Templates | Macabacus", "quote": "The enterprise value (EV) of the business is calculated by discounting the unlevered free cash flows (UFCFs) projected over the projection period and the terminal value calculated at the end of the projection period to their present values using the chosen discount rate (WACC)."}
+    ]
+  },
+  {
+    "id": "vault-07-15",
+    "deck": "vault",
+    "topic": "Discount rate",
+    "q": "If a DCF projects levered free cash flows, which discount rate should be used?",
+    "a": "Cost of equity",
+    "accept": ["the cost of equity", "required return on equity"],
+    "wrong": ["Pre-tax cost of debt", "Risk-free rate", "Perpetuity growth rate"],
+    "explain": "Levered FCF is the cash flow available to equity holders, so it is discounted at the cost of equity and the result is equity value.",
+    "hook": "Levered FCF -> cost of equity -> equity value.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "But if the cash flows are levered FCFs, the discount rate should be the cost of equity and the equity value is the resulting output."}
+    ]
+  },
+  {
+    "id": "vault-07-16",
+    "deck": "vault",
+    "topic": "Exit multiple method",
+    "q": "In an unlevered DCF, which type of multiple must be used for the exit multiple?",
+    "a": "Enterprise value multiples",
+    "accept": ["EV multiples", "enterprise value multiple", "EV/EBITDA", "EV-based multiples"],
+    "wrong": ["P/E multiples", "Price-to-book multiples", "PEG ratio multiples"],
+    "explain": "Unlevered FCF goes to all capital providers, so the exit multiple must be an enterprise value multiple such as EV/EBITDA, EV/EBIT or EV/Revenue, not an equity value multiple.",
+    "hook": "Match the numerator: unlevered cash flow, enterprise value multiple.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-growth-rate", "title": "Terminal Growth Rate | Formula + Calculator", "quote": "Since the unlevered DCF values the projected free cash flow to firm (FCFF) available to all capital providers, including debt lenders and equity shareholders, enterprise value multiples must be used here, rather than equity value multiples."},
+      {"url": "https://macabacus.com/valuation/dcf-terminal-value", "title": "Terminal Value: DCF & Valuation Methods | Macabacus", "quote": "The terminal value is typically calculated by applying an appropriate multiple ( EV/EBITDA , EV/EBIT, etc.) to the relevant statistic projected for the last projected year."}
+    ]
+  },
+  {
+    "id": "vault-07-17",
+    "deck": "vault",
+    "topic": "Discount periods",
+    "q": "Using end-of-period discounting in a 5-year DCF, the Year 5 terminal value is discounted back over how many periods?",
+    "a": "5",
+    "accept": ["five", "5 years", "5 periods"],
+    "wrong": ["1", "4.5", "6"],
+    "explain": "TV is a value as of the final forecast year, so it is divided by (1 + discount rate) raised to the final year's period number.",
+    "hook": "TV lives in the last year; discount it from there.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/terminal-value/", "title": "Terminal Value (DCF) | Formula + Calculator", "quote": "But once again, the PV of this amount must be calculated by dividing $480mm by (1 + 10% discount rate) raised to the power of 5, which comes out to $298mm."},
+      {"url": "https://macabacus.com/valuation/dcf-enterprise-equity-values", "title": "Enterprise and Equity Values - Examples, Templates | Macabacus", "quote": "In Excel, EV = NPV(r, array of FCFs for years 1 through n) + TV/(1+r) n ."}
+    ]
+  },
+  {
+    "id": "vault-07-18",
+    "deck": "vault",
+    "topic": "Mid-year convention",
+    "q": "Compared with end-of-year discounting, what does the mid-year convention do to a DCF's implied value?",
+    "a": "Increases it",
+    "accept": ["increase", "raises it", "higher valuation", "it goes up"],
+    "wrong": ["Decreases it", "Has no effect", "Makes it negative"],
+    "explain": "Assuming cash arrives mid-year means shorter discount periods, so each cash flow has a higher present value.",
+    "hook": "Cash sooner = worth more.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/mid-year-convention/", "title": "Mid-Year Convention (DCF) | Formula + Calculator", "quote": "Since the discount periods are of lower value, this means the cash flows are received earlier, which leads to higher present values (and implied valuations)."},
+      {"url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf", "title": "Mid-Year Convention DCF and Mid-Year Discounting", "quote": "The company’s Implied Value increases because the cash flows arrive earlier, and money today is worth more than money tomorrow."}
+    ]
+  },
+  {
+    "id": "vault-07-19",
+    "deck": "vault",
+    "topic": "Mid-year convention",
+    "q": "Under the mid-year convention with no stub period, what discount period is used for the Year 3 cash flow?",
+    "a": "2.5",
+    "accept": ["2.5 years", "two and a half"],
+    "wrong": ["3.0", "1.5", "3.5"],
+    "explain": "Mid-year discount periods are the period number minus 0.5: 0.5, 1.5, 2.5, 3.5 and so on.",
+    "hook": "Mid-year: subtract a half.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/mid-year-convention/", "title": "Mid-Year Convention (DCF) | Formula + Calculator", "quote": "For mid-year discounting, the discount periods used are: 1 st Year → 0.5 2 nd Year → 1.5 3 rd Year → 2.5 4 th Year → 3.5 5 th Year → 4.5"},
+      {"url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf", "title": "Mid-Year Convention DCF and Mid-Year Discounting", "quote": "So, it is more accurate to use discount periods such as 0.5, 1.5, 2.5, and 3.5 when you calculate the Present Value of Free Cash Flows"}
+    ]
+  },
+  {
+    "id": "vault-07-20",
+    "deck": "vault",
+    "topic": "Mid-year convention and TV",
+    "q": "Under the mid-year convention, which terminal value method still discounts the TV using the full final-year period (e.g., 10.0 in a 10-year DCF)?",
+    "a": "Exit multiple method",
+    "accept": ["exit multiple", "multiples method", "terminal multiple method"],
+    "wrong": ["Perpetuity growth method", "Liquidation value method", "Book value method"],
+    "explain": "The terminal multiple applies to final-year metrics at the end of that year, so nothing changes; under the perpetuity growth method the TV moves back half a year (e.g., 9.5 instead of 10.0).",
+    "hook": "Multiples sell at year-end; cash flows arrive mid-year.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf", "title": "Mid-Year Convention DCF and Mid-Year Discounting", "quote": "If you use the Multiples Method to calculate the Terminal Value in a DCF (e.g., assign a Terminal EBITDA Multiple to the company’s EBITDA in its final projected year), nothing changes. That’s because the Terminal Multiple always applies to the company’s financial metrics in the final projected year at the end of that year – regardless of when the cash flows in the projected period are generated."},
+      {"url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf", "title": "Mid-Year Convention DCF and Mid-Year Discounting", "quote": "Therefore, if the DCF projection period is 10 years, the Terminal Value is as of Year 9.5 rather than Year 10.0 under the mid-year convention and the Perpetuity Growth method."}
+    ]
+  },
+  {
+    "id": "vault-07-21",
+    "deck": "vault",
+    "topic": "Discount periods",
+    "q": "Which timing convention does Excel's NPV function assume for cash flows?",
+    "a": "End-of-period convention",
+    "accept": ["end-period", "end of period", "end-period convention", "end-of-year"],
+    "wrong": ["Mid-year convention", "Beginning-of-period convention", "Continuous compounding convention"],
+    "explain": "Excel's NPV treats each cash flow as occurring at the end of its interval, so a mid-year DCF must discount manually or adjust the NPV result.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://macabacus.com/valuation/dcf-enterprise-equity-values", "title": "Enterprise and Equity Values - Examples, Templates | Macabacus", "quote": "Note that the NPV function in Excel uses an end-period convention."}
+    ]
+  },
+  {
+    "id": "vault-07-22",
+    "deck": "vault",
+    "topic": "Stub period",
+    "q": "When a DCF is valued partway through a year, what is the partial interval from the valuation date to year-end called?",
+    "a": "Stub period",
+    "accept": ["stub", "the stub period"],
+    "wrong": ["Terminal period", "Look-back period", "Lock-up period"],
+    "explain": "The stub period's discount period equals the remaining days in the year divided by total days, e.g., 245/365 = 0.671 for an April 30 valuation date.",
+    "hook": "A stub is the leftover piece of the year.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf", "title": "Mid-Year Convention DCF and Mid-Year Discounting", "quote": "This interval between April 30 and December 31 is called the stub period . To determine the discount period for this stub period , you take the remaining days of the year and divide by the total days in the year."}
+    ]
+  },
+  {
+    "id": "vault-07-23",
+    "deck": "vault",
+    "topic": "Stub period",
+    "q": "When combining a stub period with the mid-year convention, the first-year discount period equals the stub fraction divided by what?",
+    "a": "2",
+    "accept": ["two", "divided by 2", "half"],
+    "wrong": ["4", "12", "365"],
+    "explain": "Cash flow is assumed to arrive midway between the valuation date and year-end; later periods use the normal discount period minus 0.5, not another halving.",
+    "hook": "Halve only the first stub.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf", "title": "Mid-Year Convention DCF and Mid-Year Discounting", "quote": "If you do this, the first discount period will be the stub period fraction divided by 2."},
+      {"url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/mid-year-convention-dcf", "title": "Mid-Year Convention DCF and Mid-Year Discounting", "quote": "In each period AFTER that first one, you take the normal discount period and subtract 0.5."}
+    ]
+  },
+  {
+    "id": "vault-07-24",
+    "deck": "vault",
+    "topic": "Sensitivity tables",
+    "q": "On a perpetuity-growth DCF, which assumption is typically flexed against WACC in the sensitivity table?",
+    "a": "Terminal growth rate",
+    "accept": ["perpetuity growth rate", "terminal growth", "long-term growth rate", "g"],
+    "wrong": ["Corporate tax rate", "Share count", "Days sales outstanding"],
+    "explain": "Because TV drives most of the value, DCF outputs are shown across ranges of WACC and the terminal growth rate (or exit multiple).",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://macabacus.com/valuation/dcf-enterprise-equity-values", "title": "Enterprise and Equity Values - Examples, Templates | Macabacus", "quote": "Always calculate the EV for a range of terminal multiples and perpetuity growth rates to illustrate the sensitivity of the DCF analysis to these critical inputs."},
+      {"url": "https://breakingintowallstreet.com/how-to-calculate-terminal-value", "title": "How to Calculate Terminal Value in a DCF Analysis", "quote": "With WACC, we generally want our actual value of 9.16% to be in the middle of the range and to go up and down based on the range of values we found in the Discount Rate calculations."}
+    ]
+  },
+  {
+    "id": "vault-07-25",
+    "deck": "vault",
+    "topic": "Sensitivity tables",
+    "q": "Which Excel feature is used to build DCF sensitivity tables (shortcut Alt, D, T)?",
+    "a": "Data Table",
+    "accept": ["data tables", "What-If Analysis Data Table", "Excel data table"],
+    "wrong": ["Pivot Table", "Goal Seek", "Text to Columns"],
+    "explain": "A data table recalculates the model output for each combination of the inputs placed on its row and column headers.",
+    "hook": "Alt-D-T: D for Data, T for Table.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/how-to-calculate-terminal-value", "title": "How to Calculate Terminal Value in a DCF Analysis", "quote": "We then link to the Implied Share Price cells in the top left-hand corner of both tables, and create the sensitivity tables with Alt, D, T."},
+      {"url": "https://www.wallstreetprep.com/knowledge/financial-modeling-techniques-sensitivity-what-if-analysis-2", "title": "Sensitivity Analysis (What-If) | Excel Tutorial Lesson", "quote": "In conclusion, performing sensitivity analysis via a data table is an effective and easy way to present valuable financial information to a boss or client."}
+    ]
+  },
+  {
+    "id": "vault-07-26",
+    "deck": "vault",
+    "topic": "Sensitivity tables",
+    "q": "If a DCF sensitivity data table is not updating, which key recalculates the worksheet?",
+    "a": "F9",
+    "accept": ["the F9 key"],
+    "wrong": ["F2", "F4", "F12"],
+    "explain": "Excel is sometimes set to calculate automatically except for data tables; pressing F9 or setting calculation to Automatic refreshes them.",
+    "hook": "Table stuck? Hit F9.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/financial-modeling-techniques-sensitivity-what-if-analysis-2", "title": "Sensitivity Analysis (What-If) | Excel Tutorial Lesson", "quote": "One thing to know is that sometimes Excel is set to calculate automatically, except for data tables. If it looks as though your data table is not working, try hitting “F9” to recalculate the entire worksheet."},
+      {"url": "https://breakingintowallstreet.com/how-to-calculate-terminal-value", "title": "How to Calculate Terminal Value in a DCF Analysis", "quote": "If this doesn’t work for you, go into Options (Alt, T, O), Formulas, and set Workbook Calculations to “Automatic” or just press F9 to refresh the spreadsheet."}
+    ]
+  }
+]

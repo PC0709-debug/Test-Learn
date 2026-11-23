@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sectors-02-24",
+    "deck": "sectors",
+    "topic": "BIM",
+    "q": "In AEC software, what does the acronym BIM stand for?",
+    "a": "Building Information Modeling",
+    "accept": [
+      "Building Information Modelling"
+    ],
+    "wrong": [
+      "Built Infrastructure Mapping",
+      "Building Inspection Method",
+      "Basic Industrial Modeling"
+    ],
+    "explain": "The US National BIM Standard defines Building Information Modeling as generating and using a shared digital representation of a built environment asset to support design, construction and operation.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "http://nibs.org/nbims/v4/terms-and-definitions",
+        "title": "NBIMS-US V4 - Terms and Definitions - National Institute of Building Sciences",
+        "quote": "Building Information Modeling Generating and using a shared digital representation of a built environment asset to facilitate design, construction, and operation processes to form a reliable basis for decisions."
+      },
+      {
+        "url": "https://bim.psu.edu/bim-an-introduction/defining-bim",
+        "title": "Defining BIM - BIM Planning - Penn State",
+        "quote": "BIM is the acronym of \"Building Information Modeling,\" reflecting and emphasizing the process aspects, and not of \"Building Information Model.\""
+      }
+    ]
+  }
+]

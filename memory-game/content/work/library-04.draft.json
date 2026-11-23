@@ -1,0 +1,413 @@
+[
+  {
+    "id": "library-04-01",
+    "deck": "library",
+    "topic": "Glorious Revolution",
+    "q": "Which English king was deposed in the Glorious Revolution of 1688-89?",
+    "a": "James II",
+    "accept": ["King James II", "James 2"],
+    "wrong": ["Charles I", "George III", "Henry VIII"],
+    "explain": "The Glorious Revolution of 1688-89 saw James II deposed and replaced by his daughter Mary II and her husband William III, prince of Orange.",
+    "hook": "James II went 'too far' and fled to France.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Glorious-Revolution", "title": "Glorious Revolution | Britannica", "quote": "Glorious Revolution , in English history, the events of 1688–89 that resulted in the deposition of James II and the accession of his daughter Mary II and her husband, William III , prince of Orange and stadholder of the United Provinces of the Netherlands ."},
+      {"url": "https://researchbriefings.files.parliament.uk/documents/SN00293/SN00293.pdf", "title": "The Bill of Rights 1689 - House of Commons Library", "quote": "The Bill of Rights was an historic statute that emerged from the “Glorious Revolution” of 1688-89, which culminated in the exile of King James II and the accession to the throne of William of Orange and Mary."}
+    ]
+  },
+  {
+    "id": "library-04-02",
+    "deck": "library",
+    "topic": "Glorious Revolution",
+    "q": "In what year was the English Bill of Rights passed into law?",
+    "a": "1689",
+    "accept": [],
+    "wrong": ["1215", "1649", "1707"],
+    "explain": "The Bill of Rights (1689) turned much of the Declaration of Rights accepted by William and Mary into statute; Parliament passed it in December 1689.",
+    "hook": "Revolution in '88, rights written in '89.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/place/United-Kingdom/The-Revolution-of-1688", "title": "United Kingdom - Revolution, 1688, Glorious | Britannica", "quote": "The Bill of Rights (1689), a more conservative document than even the declaration, was passed into law, and it established the principle that only a Protestant could wear the crown of England."},
+      {"url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/overview/billofrights/", "title": "The Convention and Bill of Rights - UK Parliament", "quote": "The rights affirmed in the Declaration did, however, take statutory effect in December 1689 when the Convention, with William and Mary's royal assent, passed the Declaration as an Act of Parliament, now known as the Bill of Rights."}
+    ]
+  },
+  {
+    "id": "library-04-03",
+    "deck": "library",
+    "topic": "Scientific Revolution",
+    "q": "In what year was Isaac Newton's Principia first published?",
+    "a": "1687",
+    "accept": [],
+    "wrong": ["1543", "1610", "1776"],
+    "explain": "Newton's Philosophiae Naturalis Principia Mathematica, published in London in 1687, set out his three laws of motion and the law of universal gravitation.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Principia", "title": "Principia | Britannica", "quote": "The Principia was published in 1687 and is considered one of the most important works in the history of modern science."},
+      {"url": "https://www.loc.gov/item/2021667054/", "title": "Principia. | Library of Congress", "quote": "The Principia appeared in three editions during Newton's lifetime: the first in 1687, with a print run of 300--400 copies"}
+    ]
+  },
+  {
+    "id": "library-04-04",
+    "deck": "library",
+    "topic": "Scientific Revolution",
+    "q": "Which English physician published De motu cordis in 1628, describing the circulation of the blood?",
+    "a": "William Harvey",
+    "accept": ["Harvey"],
+    "wrong": ["Isaac Newton", "Edward Jenner", "Robert Hooke"],
+    "explain": "Harvey's De motu cordis (1628) argued that the heart pumps blood around the body through a single system of arteries and veins.",
+    "hook": "Harvey's heart: blood goes round and round.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/William-Harvey/Key-discoveries-and-influences", "title": "William Harvey - Circulation, Anatomy, Physiology | Britannica", "quote": "Harvey’s key work was Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus ( Anatomical Exercise on the Motion of the Heart and Blood in Animals ), published in 1628, with an English version in 1653. Harvey’s greatest achievement was to recognize that the blood flows rapidly around the human body , being pumped through a single system of arteries and veins"},
+      {"url": "https://history.rcp.ac.uk/exhibitions/past-exhibitions/ceaseless-motion-experimentations-circulation", "title": "Ceaseless motion: William Harvey’s experimentations in circulation | RCP Museum", "quote": "In 1628, after 10 years of painstaking solitary research, Harvey at last published his discovery in a book, known as De motu cordis . His idea, that blood is pumped around the body by the heart in a state of ceaseless motion, proved highly controversial to some"}
+    ]
+  },
+  {
+    "id": "library-04-05",
+    "deck": "library",
+    "topic": "American Revolution",
+    "q": "On what date did the Continental Congress adopt the Declaration of Independence?",
+    "a": "July 4, 1776",
+    "accept": ["4 July 1776", "July 4 1776", "7/4/1776"],
+    "wrong": ["July 2, 1775", "September 3, 1783", "September 17, 1787"],
+    "explain": "Congress adopted the Declaration on July 4, 1776; the engrossed parchment copy was signed starting August 2, 1776.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.archives.gov/milestone-documents/declaration-of-independence", "title": "Declaration of Independence (1776) | National Archives", "quote": "The Continental Congress adopted the Declaration of Independence on July 4, 1776. It was engrossed on parchment and on August 2, 1776, delegates began signing it."},
+      {"url": "https://www.archives.gov/founding-docs/timeline", "title": "Creating the Declaration: A Timeline | National Archives", "quote": "Late in the morning of July 4, the Declaration was officially adopted, and the \"Committee of Five\" took the manuscript copy of the document to John Dunlap, official printer to the Congress."}
+    ]
+  },
+  {
+    "id": "library-04-06",
+    "deck": "library",
+    "topic": "American Revolution",
+    "q": "In what year was the Treaty of Paris signed, ending the American Revolution?",
+    "a": "1783",
+    "accept": [],
+    "wrong": ["1776", "1789", "1812"],
+    "explain": "Signed on September 3, 1783, the treaty ended the war and had Britain formally recognize the United States as independent.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.archives.gov/milestone-documents/treaty-of-paris", "title": "Treaty of Paris (1783) | National Archives", "quote": "This treaty, signed on September 3, 1783, between the American colonies and Great Britain, ended the American Revolution and formally recognized the United States as an independent nation."},
+      {"url": "https://history.state.gov/milestones/1776-1783/treaty", "title": "Treaty of Paris, 1783 - Office of the Historian", "quote": "France signed preliminary articles of peace with Great Britain on January 20, 1783, followed by a formal peace of Paris signed on September 3, 1783."}
+    ]
+  },
+  {
+    "id": "library-04-07",
+    "deck": "library",
+    "topic": "French Revolution",
+    "q": "On what date did Parisians storm the Bastille?",
+    "a": "July 14, 1789",
+    "accept": ["14 July 1789", "July 14 1789"],
+    "wrong": ["July 4, 1776", "January 21, 1793", "December 2, 1804"],
+    "explain": "The storming of the Bastille, a Paris fortress-prison seen as a symbol of royal tyranny, is commemorated each year as Bastille Day, France's national holiday.",
+    "hook": "Bastille Day: 14/7.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/event/storming-of-the-Bastille", "title": "Storming of the Bastille | Britannica", "quote": "On July 14, 1789, a crowd of Parisians stormed the Bastille , a medieval fortress and state prison, fearing King Louis XVI would suppress the newly formed National Assembly."},
+      {"url": "https://www.britannica.com/summary/French-Revolution-Timeline", "title": "French Revolution | Timeline | Britannica", "quote": "The storming of the Bastille prison on July 14, 1789, was one of the opening events of the French Revolution."}
+    ]
+  },
+  {
+    "id": "library-04-08",
+    "deck": "library",
+    "topic": "French Revolution",
+    "q": "In what year was King Louis XVI of France executed?",
+    "a": "1793",
+    "accept": [],
+    "wrong": ["1789", "1799", "1815"],
+    "explain": "Convicted by the National Convention, Louis XVI was guillotined in the Place de la Revolution in Paris on January 21, 1793.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Louis-XVI", "title": "Louis XVI | Britannica", "quote": "He was guillotined in the Place de la Révolution in Paris on January 21, 1793."},
+      {"url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/proces-et-execution-de-louis-xvi", "title": "Procès et exécution de Louis XVI - Assemblée nationale", "quote": "Le 21 janvier 1793 à 10 h 22, place de la Révolution (actuelle place de la Concorde), la guillotine s’abat sur le corps du roi."}
+    ]
+  },
+  {
+    "id": "library-04-09",
+    "deck": "library",
+    "topic": "French Revolution",
+    "q": "Which revolutionary leader oversaw the Reign of Terror and was executed in July 1794?",
+    "a": "Maximilien Robespierre",
+    "accept": ["Robespierre"],
+    "wrong": ["Napoleon Bonaparte", "Louis XVI", "Marquis de Lafayette"],
+    "explain": "Robespierre was overthrown in the National Convention on July 27, 1794 and executed the next day, which marked the end of the Reign of Terror.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/summary/French-Revolution-Timeline", "title": "French Revolution | Timeline | Britannica", "quote": "The Reign of Terror is overseen by Maximilien Robespierre . ... Robespierre is overthrown in the National Convention. He is executed the next day, signaling the end of the Reign of Terror."},
+      {"url": "https://marcuse.faculty.history.ucsb.edu/classes/4c/frrev.h96.htm", "title": "The French Revolution: Phases and Dates - UC Santa Barbara", "quote": "July 28, 1794 : \" Thermidor :\" Robespierre executed, end of terror."}
+    ]
+  },
+  {
+    "id": "library-04-10",
+    "deck": "library",
+    "topic": "Napoleon",
+    "q": "In which Paris cathedral was Napoleon crowned emperor in December 1804?",
+    "a": "Notre-Dame",
+    "accept": ["Notre Dame", "Notre-Dame de Paris", "Notre Dame de Paris", "Notre-Dame Cathedral"],
+    "wrong": ["Reims Cathedral", "Westminster Abbey", "St. Peter's Basilica"],
+    "explain": "Napoleon's coronation took place at Notre-Dame de Paris on December 2, 1804, in the presence of Pope Pius VII.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.napoleon.org/en/history-of-the-two-empires/close-up/a-close-up-on-the-coronation-of-napoleon-i", "title": "A close-up on: the coronation of Napoleon I - napoleon.org", "quote": "On 2 December, 1804, the cathedral of Notre-Dame de Paris was the stage on which the coronation of Napoleon I was played out, in the presence of Pope Pius VII."},
+      {"url": "https://digital.library.mcgill.ca/napoleon//english/timeline.htm", "title": "The McGill University Napoleon Collection - Timeline", "quote": "2 December (11 frimaire, an XIII). Coronation of Napoleon and Josephine at Notre-Dame cathedral in Paris ."}
+    ]
+  },
+  {
+    "id": "library-04-11",
+    "deck": "library",
+    "topic": "Napoleon",
+    "q": "Which pope was present at Napoleon's 1804 coronation, where Napoleon crowned himself?",
+    "a": "Pius VII",
+    "accept": ["Pope Pius VII", "Pius 7"],
+    "wrong": ["Leo XIII", "Pius IX", "John Paul II"],
+    "explain": "Pope Pius VII presided over the ceremony, but Napoleon broke with tradition by placing the crown on his own head and then crowning Josephine.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.napoleon.org/en/history-of-the-two-empires/close-up/a-close-up-on-the-coronation-of-napoleon-i", "title": "A close-up on: the coronation of Napoleon I - napoleon.org", "quote": "On 2 December, 1804, the cathedral of Notre-Dame de Paris was the stage on which the coronation of Napoleon I was played out, in the presence of Pope Pius VII. The new emperor broke with tradition by crowning himself"},
+      {"url": "https://collections.museumsvictoria.com.au/articles/17658", "title": "The Life of Napoleon Bonaparte - Timeline of Key Events | Museums Victoria", "quote": "While the ceremony was officiated over by Pope Pius VII, Napoleon actually crowned himself and then Joséphine, thus rejecting the authority of the Church."}
+    ]
+  },
+  {
+    "id": "library-04-12",
+    "deck": "library",
+    "topic": "Napoleon",
+    "q": "In what year was the Napoleonic Code (French Civil Code) enacted?",
+    "a": "1804",
+    "accept": [],
+    "wrong": ["1789", "1815", "1848"],
+    "explain": "The Code Civil des Francais was enacted on March 21, 1804, consolidating principles such as equality before the law and the abolition of feudalism; it is still in force in revised form.",
+    "hook": "Same year Napoleon became emperor.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Napoleonic-Code", "title": "Napoleonic Code | Britannica", "quote": "The Napoleonic Code is the French civil code enacted on March 21, 1804, and is still extant, with revisions."},
+      {"url": "https://digital.library.mcgill.ca/napoleon//english/timeline.htm", "title": "The McGill University Napoleon Collection - Timeline", "quote": "21 March (30 ventôse, an XII). Publication of the Civil Code ."}
+    ]
+  },
+  {
+    "id": "library-04-13",
+    "deck": "library",
+    "topic": "Napoleon",
+    "q": "In what year was the Battle of Waterloo, Napoleon's final defeat, fought?",
+    "a": "1815",
+    "accept": [],
+    "wrong": ["1805", "1812", "1821"],
+    "explain": "Fought on June 18, 1815 near Brussels, Waterloo ended 23 years of recurrent warfare between France and the other European powers.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Battle-of-Waterloo", "title": "Battle of Waterloo | Britannica", "quote": "Battle of Waterloo , (June 18, 1815), Napoleon ’s final defeat, ending 23 years of recurrent warfare between France and the other powers of Europe ."},
+      {"url": "https://www.nam.ac.uk/explore/battle-waterloo", "title": "Battle of Waterloo | National Army Museum", "quote": "The Battle of Waterloo was fought on 18 June 1815 between Napoleon’s French Army and a coalition led by the Duke of Wellington and Marshal Blücher."}
+    ]
+  },
+  {
+    "id": "library-04-14",
+    "deck": "library",
+    "topic": "Napoleon",
+    "q": "Which British commander led the allied army that defeated Napoleon at Waterloo?",
+    "a": "Duke of Wellington",
+    "accept": ["Wellington", "Arthur Wellesley", "Arthur Wellesley, 1st Duke of Wellington"],
+    "wrong": ["Horatio Nelson", "Charles Cornwallis", "John Churchill, Duke of Marlborough"],
+    "explain": "Wellington's coalition army, joined by Prussian forces under Blucher, defeated Napoleon at Waterloo on June 18, 1815.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Battle-of-Waterloo", "title": "Battle of Waterloo | Britannica", "quote": "Fought near Waterloo village, Belgium, it pitted Napoleon’s 72,000 French troops against the duke of Wellington ’s army of 68,000 (British, Dutch, Belgian, and German soldiers) aided by 45,000 Prussians under Gebhard Leberecht von Blücher . Napoleon was defeated"},
+      {"url": "https://www.nam.ac.uk/explore/battle-waterloo", "title": "Battle of Waterloo | National Army Museum", "quote": "The Battle of Waterloo was fought on 18 June 1815 between Napoleon’s French Army and a coalition led by the Duke of Wellington and Marshal Blücher."}
+    ]
+  },
+  {
+    "id": "library-04-15",
+    "deck": "library",
+    "topic": "Napoleon",
+    "q": "Which Prussian field marshal brought his army to support Wellington at Waterloo?",
+    "a": "Blücher",
+    "accept": ["Blucher", "Bluecher", "Gebhard von Blücher", "Gebhard Leberecht von Blücher", "Marshal Blücher"],
+    "wrong": ["Otto von Bismarck", "Helmuth von Moltke", "Frederick the Great"],
+    "explain": "Although beaten at Ligny two days earlier, Blucher's Prussians joined Wellington at Waterloo and their flank attack helped complete Napoleon's defeat.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/summary/Battle-of-Waterloo", "title": "Napoleon’s defeat at the Battle of Waterloo and its aftermath | Britannica", "quote": "The battle was fought near Waterloo village, south of Brussels, during the Hundred Days of Napoleon’s restoration, by Napoleon’s 72,000 troops against the duke of Wellington ’s combined Allied army of 68,000 aided by 45,000 Prussians under Gebhard von Blücher."},
+      {"url": "https://www.nam.ac.uk/explore/battle-waterloo", "title": "Battle of Waterloo | National Army Museum", "quote": "Wellington’s army beats off a succession of French attacks. The arrival of the Prussians completes Napoleon’s defeat."}
+    ]
+  },
+  {
+    "id": "library-04-16",
+    "deck": "library",
+    "topic": "Napoleon",
+    "q": "To which South Atlantic island was Napoleon exiled after Waterloo, where he died in 1821?",
+    "a": "Saint Helena",
+    "accept": ["St Helena", "St. Helena", "Sainte-Hélène"],
+    "wrong": ["Elba", "Corsica", "Sardinia"],
+    "explain": "After his second abdication in June 1815, Napoleon was exiled to remote St. Helena, where he died on May 5, 1821. (Elba was his first exile, in 1814.)",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Napoleon-I", "title": "Napoleon I | Britannica", "quote": "In October 1815 Napoleon was exiled to the remote island of St. Helena in the South Atlantic Ocean, where he remained until he died on May 5, 1821, at age 51."},
+      {"url": "https://www.nam.ac.uk/explore/battle-waterloo", "title": "Battle of Waterloo | National Army Museum", "quote": "He spent the rest of his life in exile on the island of St Helena in the South Atlantic."}
+    ]
+  },
+  {
+    "id": "library-04-17",
+    "deck": "library",
+    "topic": "Industrial Revolution",
+    "q": "In which country did the Industrial Revolution begin?",
+    "a": "Britain",
+    "accept": ["Great Britain", "England", "United Kingdom", "UK"],
+    "wrong": ["France", "United States", "Germany"],
+    "explain": "The Industrial Revolution began in Britain in the 18th century and spread from there to continental Europe, North America and beyond.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Industrial-Revolution", "title": "Industrial Revolution | Britannica", "quote": "This process began in Britain in the 18th century and from there spread to other parts of the world."},
+      {"url": "https://www.britannica.com/summary/Industrial-Revolution-Key-Facts", "title": "Industrial Revolution | Key Facts | Britannica", "quote": "The process began in Britain, where the Industrial Revolution was largely confined from the 1760s to the 1830s."}
+    ]
+  },
+  {
+    "id": "library-04-18",
+    "deck": "library",
+    "topic": "Industrial Revolution",
+    "q": "Which English inventor created the spinning jenny, patented in 1770?",
+    "a": "James Hargreaves",
+    "accept": ["Hargreaves"],
+    "wrong": ["Richard Arkwright", "Samuel Crompton", "John Kay"],
+    "explain": "Hargreaves conceived the hand-powered spinning jenny about 1764; it let one worker spin several threads at once. Arkwright (water frame), Crompton (spinning mule) and Kay (flying shuttle) made other textile inventions.",
+    "hook": "Jenny spins many threads at once.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/technology/spinning-jenny", "title": "Spinning jenny | Britannica", "quote": "Spinning jenny , early multiple-spindle machine for spinning wool or cotton , invented by James Hargreaves in England and patented in 1770."},
+      {"url": "https://www.britannica.com/biography/James-Hargreaves", "title": "James Hargreaves | Britannica", "quote": "James Hargreaves invented the spinning jenny about 1764 and patented it in 1770. ... Hargreaves’s invention also helped pave the way for other important advances in spinning technology , including Richard Arkwright’s water frame and Samuel Crompton’s spinning mule ."}
+    ]
+  },
+  {
+    "id": "library-04-19",
+    "deck": "library",
+    "topic": "Industrial Revolution",
+    "q": "What device, conceived in 1765, was James Watt's key improvement to the Newcomen steam engine?",
+    "a": "Separate condenser",
+    "accept": ["The separate condenser", "condenser"],
+    "wrong": ["Flying shuttle", "Cotton gin", "Spinning mule"],
+    "explain": "By condensing steam in a chamber apart from the cylinder, Watt's separate condenser kept the cylinder hot and greatly cut fuel use; he patented it in 1769.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/James-Watt", "title": "James Watt | Britannica", "quote": "In 1765 Watt conceived of a separate condenser—a device to reduce the amount of waste produced by the Newcomen steam engine. Watt patented the device in 1769."},
+      {"url": "https://collection.sciencemuseumgroup.org.uk/objects/co50928/watts-second-separate-condenser-1765", "title": "Watt's second separate condenser, 1765 | Science Museum Group Collection", "quote": "Early Newcomen engines were inefficient as their working cycle entailed continual heating and cooling of the cylinder, which wasted fuel. The separate condenser meant the steam was condensed in a separate chamber, allowing the cylinder to be kept hot and greatly increasing fuel efficiency."}
+    ]
+  },
+  {
+    "id": "library-04-20",
+    "deck": "library",
+    "topic": "US Civil War",
+    "q": "The Confederate attack on which fort in April 1861 began the American Civil War?",
+    "a": "Fort Sumter",
+    "accept": ["Sumter"],
+    "wrong": ["Fort McHenry", "Fort Knox", "Fort Ticonderoga"],
+    "explain": "Confederate batteries opened fire on Fort Sumter in Charleston Harbor, South Carolina, on April 12, 1861; the Union garrison surrendered and the war formally began.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://home.nps.gov/gett/learn/historyculture/civil-war-timeline.htm", "title": "Civil War Timeline - Gettysburg National Military Park (NPS)", "quote": "April 12, 1861- Confederate forces fire upon Fort Sumter, South Carolina . The Civil War formally begins."},
+      {"url": "https://www.britannica.com/event/Battle-of-Fort-Sumter", "title": "Battle of Fort Sumter | Britannica", "quote": "The Battle of Fort Sumter , which took place April 12–14, 1861, was the opening engagement of the American Civil War."}
+    ]
+  },
+  {
+    "id": "library-04-21",
+    "deck": "library",
+    "topic": "US Civil War",
+    "q": "In what year did Abraham Lincoln issue the Emancipation Proclamation (effective January 1)?",
+    "a": "1863",
+    "accept": [],
+    "wrong": ["1861", "1865", "1870"],
+    "explain": "Issued January 1, 1863, it declared that all persons held as slaves within the rebellious areas \"are, and henceforward shall be free.\"",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.archives.gov/milestone-documents/emancipation-proclamation", "title": "Emancipation Proclamation (1863) | National Archives", "quote": "President Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, announcing, \"that all persons held as slaves\" within the rebellious areas \"are, and henceforward shall be free.\""},
+      {"url": "https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation/transcript.html", "title": "Transcript of the Proclamation | National Archives", "quote": "Done at the City of Washington, this first day of January, in the year of our Lord one thousand eight hundred and sixty three"}
+    ]
+  },
+  {
+    "id": "library-04-22",
+    "deck": "library",
+    "topic": "US Civil War",
+    "q": "On what date did Lincoln deliver the Gettysburg Address?",
+    "a": "November 19, 1863",
+    "accept": ["19 November 1863", "Nov 19, 1863", "November 19 1863"],
+    "wrong": ["July 3, 1863", "January 1, 1863", "April 14, 1865"],
+    "explain": "Lincoln spoke at the dedication of the Soldiers' National Cemetery at Gettysburg, Pennsylvania, months after the battle of July 1-3, 1863.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.loc.gov/item/today-in-history/november-19", "title": "Today in History - November 19 | Library of Congress", "quote": "On November 19 , 1863, President Abraham Lincoln delivered a short speech at the close of ceremonies dedicating the battlefield cemetery at Gettysburg , Pennsylvania."},
+      {"url": "https://home.nps.gov/gett/learn/historyculture/civil-war-timeline.htm", "title": "Civil War Timeline - Gettysburg National Military Park (NPS)", "quote": "November 19, 1863- Dedication of the Soldiers' National Cemetery at Gettysburg. President Abraham Lincoln delivers the Gettysburg Address."}
+    ]
+  },
+  {
+    "id": "library-04-23",
+    "deck": "library",
+    "topic": "Unification of Italy",
+    "q": "Who led the 1860 Expedition of the Thousand that conquered Sicily?",
+    "a": "Giuseppe Garibaldi",
+    "accept": ["Garibaldi"],
+    "wrong": ["Giuseppe Mazzini", "Victor Emmanuel II", "Benito Mussolini"],
+    "explain": "Garibaldi's volunteers landed at Marsala on May 11, 1860 and conquered Sicily in under three months, overthrowing the Bourbon Kingdom of the Two Sicilies.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/event/Expedition-of-the-Thousand", "title": "Expedition of the Thousand | Britannica", "quote": "Expedition of the Thousand , campaign undertaken in 1860 by Giuseppe Garibaldi that overthrew the Bourbon Kingdom of the  Two Sicilies (Naples) and permitted the union of southern Italy and Sicily with the north."},
+      {"url": "https://www.britannica.com/place/Italy/Garibaldi-and-the-Thousand", "title": "Italy - Garibaldi, Thousand, Unification | Britannica", "quote": "Despite scant preparations and a shortage of weapons, Garibaldi’s volunteers landed at Marsala on May 11, 1860, and in less than three months conquered the entire island of Sicily."}
+    ]
+  },
+  {
+    "id": "library-04-24",
+    "deck": "library",
+    "topic": "Unification of Italy",
+    "q": "Who became the first king of Italy when the kingdom was proclaimed in 1861?",
+    "a": "Victor Emmanuel II",
+    "accept": ["Vittorio Emanuele II", "Victor Emmanuel 2"],
+    "wrong": ["Umberto I", "Charles Albert", "Napoleon III"],
+    "explain": "Victor Emmanuel II, king of Piedmont-Sardinia, was proclaimed king of Italy on March 17, 1861; he kept the numeral II to show continuity with the kingdom of Sardinia.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://history.state.gov/countries/piedmont-sardinia", "title": "Piedmont-Sardinia - Countries - Office of the Historian", "quote": "When the King of Piedmont-Sardinia, Victor Emmanuel II , was proclaimed King of Italy on March 17, 1861, George Perkins Marsh was appointed U.S. Minister to the King of Italy at Turin on April 26, 1861."},
+      {"url": "https://www.britannica.com/topic/unification-of-Italy/Piedmont-in-1850", "title": "Unification of Italy - Piedmont in 1850 | Britannica", "quote": "In March 1861 the parliament declared Victor Emmanuel to be king of Italy—his title remained Victor Emmanuel II, to show that it was no new state but a continuation of the old kingdom of Sardinia."}
+    ]
+  },
+  {
+    "id": "library-04-25",
+    "deck": "library",
+    "topic": "Unification of Italy",
+    "q": "Which Piedmontese statesman engineered Italian unification and became the first prime minister of the Kingdom of Italy?",
+    "a": "Cavour",
+    "accept": ["Count Cavour", "Camillo Benso, count di Cavour", "Camillo di Cavour", "Camillo Cavour"],
+    "wrong": ["Giuseppe Garibaldi", "Giuseppe Mazzini", "Otto von Bismarck"],
+    "explain": "Cavour, prime minister of Piedmont from 1852, used international rivalries to unify Italy under the House of Savoy in 1861; he died in June 1861.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Camillo-Benso-conte-di-Cavour", "title": "Camillo Benso, count di Cavour | Britannica", "quote": "Camillo Benso, count di Cavour (born August 10, 1810, Turin , Piedmont, French Empire—died June 6, 1861, Turin, Italy) was a Piedmontese statesman, a conservative whose exploitation of international rivalries and of revolutionary movements brought about the unification of Italy (1861) under the House of Savoy , with himself as the first prime minister of the new kingdom."},
+      {"url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cavour,_Camillo_Benso,_Count", "title": "1911 Encyclopædia Britannica/Cavour, Camillo Benso, Count - Wikisource", "quote": "By the 4th of November he was prime minister, a position which he held with two short interruptions until his death."}
+    ]
+  },
+  {
+    "id": "library-04-26",
+    "deck": "library",
+    "topic": "Unification of Germany",
+    "q": "In which French palace was the German Empire proclaimed in January 1871?",
+    "a": "Versailles",
+    "accept": ["Palace of Versailles", "Château de Versailles", "Hall of Mirrors", "Hall of Mirrors at Versailles"],
+    "wrong": ["Louvre", "Fontainebleau", "Tuileries"],
+    "explain": "On January 18, 1871, near the end of the Franco-Prussian War, Bismarck read the proclamation of the German Empire in the Hall of Mirrors at Versailles.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://en.chateauversailles.fr/discover/history/key-dates/proclamation-german-empire-1871", "title": "Proclamation of the German Empire, 1871 | Château de Versailles", "quote": "The Confederation was dissolved on the 20th, and the proclamation of the Empire was set to be delivered on 18 January 1871 in the Hall of Mirrors ."},
+      {"url": "https://www.britannica.com/place/German-Empire/The-Franco-German-War", "title": "German Empire - Franco-Prussian War, Unification, Bismarck | Britannica", "quote": "He was proclaimed German emperor at Versailles on January 18, 1871."}
+    ]
+  },
+  {
+    "id": "library-04-27",
+    "deck": "library",
+    "topic": "Unification of Germany",
+    "q": "Which king of Prussia was proclaimed the first German emperor in 1871?",
+    "a": "William I",
+    "accept": ["Wilhelm I", "Kaiser Wilhelm I", "Emperor William I"],
+    "wrong": ["Frederick the Great", "William II", "Frederick William IV"],
+    "explain": "King William I of Prussia (king from 1861) was proclaimed German emperor at Versailles on January 18, 1871, with Bismarck as chancellor.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/place/German-Empire", "title": "German Empire | Britannica", "quote": "The first German Emperor was William I , who was proclaimed as such on January 18, 1871, in Versailles. Prior to this, he was the King of Prussia from 1861."},
+      {"url": "https://en.chateauversailles.fr/discover/history/key-dates/proclamation-german-empire-1871", "title": "Proclamation of the German Empire, 1871 | Château de Versailles", "quote": "After the Te Deum the proclamation was read out by Bismarck, dressed in a cuirassier uniform. At the end the Grand Duke of Bade cried: “Long live His Majesty Emperor Wilhelm!”"}
+    ]
+  }
+]

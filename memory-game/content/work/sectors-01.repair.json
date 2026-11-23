@@ -1,0 +1,100 @@
+[
+  {
+    "id": "sectors-01-06",
+    "deck": "sectors",
+    "topic": "Churn",
+    "q": "A SaaS company starts the month with $20 million of MRR and loses $5 million of it to churn; what is its gross revenue churn?",
+    "a": "25%",
+    "accept": [
+      "25",
+      "25 percent",
+      "0.25"
+    ],
+    "wrong": [
+      "20%",
+      "75%",
+      "4%"
+    ],
+    "explain": "Gross revenue churn divides the MRR lost by the MRR at the start of the period (ignoring expansion), so $5m ÷ $20m = 25%.",
+    "hook": "5 out of 20 = one quarter.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/revenue-churn-mrr",
+        "title": "Revenue Churn | Formula + Calculator",
+        "quote": "Gross Revenue Churn = Churned MRR ÷ Beginning MRR For example, if a SaaS company with $20 million in MRR lost $5 million in that specific month, the gross churn is 25%."
+      },
+      {
+        "url": "https://chartmogul.com/saas-metrics/revenue-churn",
+        "title": "Revenue churn (net and gross revenue churn rate) | ChartMogul",
+        "quote": "To calculate gross revenue churn, sum up your churn and contraction MRR and divide it by MRR at the start of the same period."
+      }
+    ]
+  },
+  {
+    "id": "sectors-01-07",
+    "deck": "sectors",
+    "topic": "Churn",
+    "q": "A SaaS company with $20 million of beginning MRR loses $5 million to churn but adds $3 million of expansion MRR; what is its net revenue churn?",
+    "a": "10%",
+    "accept": [
+      "10",
+      "10 percent",
+      "0.10",
+      "0.1"
+    ],
+    "wrong": [
+      "25%",
+      "40%",
+      "15%"
+    ],
+    "explain": "Net revenue churn subtracts expansion MRR from lost MRR before dividing by beginning MRR: ($5m − $3m) ÷ $20m = 10%.",
+    "hook": "Net churn nets expansion against losses.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/revenue-churn-mrr",
+        "title": "Revenue Churn | Formula + Calculator",
+        "quote": "Net Revenue Churn = (Churned MRR – Expansion MRR) ÷ Beginning MRR Continuing from the previous example, let’s say that the SaaS company was able to bring in $3 million in expansion revenue. In that case, the net churn is 10% instead of the 25% gross churn."
+      },
+      {
+        "url": "https://techcrunch.com/2022/04/20/study-up-on-churn-rate-basics-to-set-customer-and-revenue-benchmarks/",
+        "title": "Study up on churn rate basics to set customer and revenue benchmarks | TechCrunch",
+        "quote": "Net MRR churn rate — (sum of churn and contraction MRR – sum of expansion an reactivation MRR) / (MRR at start of period)."
+      }
+    ]
+  },
+  {
+    "id": "sectors-01-16",
+    "deck": "sectors",
+    "topic": "Magic number",
+    "q": "Below what magic number did Scale Venture Partners say a company still has not figured out its model?",
+    "a": "0.5x",
+    "accept": [
+      "0.5",
+      ".5",
+      ".5x",
+      "0.50"
+    ],
+    "wrong": [
+      "1.5x",
+      "2.0x",
+      "3.0x"
+    ],
+    "explain": "Scale's original guidance: above 1x is a compelling investment, below 0.5x means the model is not yet working; CFI likewise advises against further sales and marketing investment below 0.50.",
+    "hook": "Under half = half-baked model.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.scalevp.com/insights/magic-number-math/",
+        "title": "Insights | ScaleVP | Magic Number Math",
+        "quote": "A result greater than 1x, has proven to be a compelling business investment, a result below .5x is a company that still has not figured out it’s model, and a result in between, is a deal that will probably get to success and cashflow breakeven but only in a relatively capital in-efficient way."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/saas-magic-number/",
+        "title": "The SaaS Magic Number: A Guide to Calculation and Analysis | CFI",
+        "quote": "If the SaaS Magic Number is below 0.50, the company should generally avoid further investment in sales and marketing costs and explore other actions."
+      }
+    ]
+  }
+]

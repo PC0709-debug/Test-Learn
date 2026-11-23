@@ -1,0 +1,413 @@
+[
+  {
+    "id": "vault-12-01",
+    "deck": "vault",
+    "topic": "Fund structure: LP/GP",
+    "q": "In a private equity fund, which party makes the investment decisions and oversees the portfolio companies?",
+    "a": "General partner",
+    "accept": ["GP", "the GP", "general partner (GP)", "the general partner"],
+    "wrong": ["Limited partner", "Placement agent", "Fund administrator"],
+    "explain": "The GP makes investment decisions, oversees portfolio companies and executes the value-creation strategy; LPs are typically institutional investors such as pension funds and endowments.",
+    "hook": "GP = the one who Picks the deals.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf", "title": "The Economics of Private Equity: A Critical Review (CFA Institute Research Foundation)", "quote": "The GP makes investment decisions, oversees portfolio companies, and executes the fund’s value-creation strategy. LPs are typically institutional investors—such as pension funds, college endowments, foundations, insurance companies, family offices, and sovereign wealth funds—or high-net- worth individuals."}
+    ]
+  },
+  {
+    "id": "vault-12-02",
+    "deck": "vault",
+    "topic": "Fund structure: LPA",
+    "q": "Which document governs the relationship between a private equity fund's GP and its LPs?",
+    "a": "Limited partnership agreement",
+    "accept": ["LPA", "the LPA", "limited partnership agreement (LPA)"],
+    "wrong": ["Certificate of incorporation", "Stock purchase agreement", "Credit agreement"],
+    "explain": "The LPA sets out, among other things, the fund's strategy, permitted investments, its term and how much capital each LP has committed.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf", "title": "The Economics of Private Equity: A Critical Review (CFA Institute Research Foundation)", "quote": "The relationship between the GP and the fund’s LPs is governed by the fund’s limited partnership agreement (LPA). Among other conditions, the LPA sets out the: • fund’s purpose and strategy;"}
+    ]
+  },
+  {
+    "id": "vault-12-03",
+    "deck": "vault",
+    "topic": "Fund structure: fees",
+    "q": "In the fee shorthand \"2 and 20\", what does the 20 refer to?",
+    "a": "Carried interest",
+    "accept": ["carry", "20% carried interest", "performance fee", "20% performance fee", "incentive fee"],
+    "wrong": ["Management fee", "Hurdle rate", "GP commitment"],
+    "explain": "Per the SEC, \"2 and 20\" means a 2% yearly management fee plus a 20% performance fee on profits, and that performance fee is often called carried interest.",
+    "hook": "2 for running the fund, 20 for winning.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.sec.gov/resources-small-businesses/glossary", "title": "SEC.gov | Glossary (Management Fees)", "quote": "For example, a private equity fund manager typically uses a fee structure that includes a yearly management fee based on committed capital or invested capital (for example, 1%, 2%, etc.) and a performance fee based on the profits made above a certain benchmark (for example, 10%, 20%, etc.). The latter is often referred to as “carried interest.” These arrangements are often referred to by these percentages (for example, a 2% management fee and 20% performance fee is referred to as “2 and 20”)."},
+      {"url": "https://www.sec.gov/resources-small-businesses/glossary", "title": "SEC.gov | Glossary (Performance Fees)", "quote": "For example, carried interest is a type of performance fee, in the form of a portion of profits from an investment or investments, paid to private fund managers in venture capital and private equity firms."}
+    ]
+  },
+  {
+    "id": "vault-12-04",
+    "deck": "vault",
+    "topic": "Fund structure: hurdle",
+    "q": "What is the other common name for the hurdle rate in a private equity fund?",
+    "a": "Preferred return",
+    "accept": ["pref", "preferred return (pref)", "the preferred return"],
+    "wrong": ["Catch-up", "Clawback", "Management fee"],
+    "explain": "Performance compensation typically requires investors to recoup capital contributions plus a minimum annual return, called the hurdle rate or preferred return, before the GP earns carry.",
+    "hook": "LPs are 'preferred' until they clear the hurdle.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.sec.gov/files/rules/final/2023/ia-6383.pdf", "title": "SEC Final Rule: Private Fund Advisers (Release IA-6383)", "quote": "Performance-based compensation arrangements in private equity funds typically require that investors recoup capital contributions plus a minimum annual return (called the “hurdle rate” or “preferred return”)"},
+      {"url": "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf", "title": "CalPERS: Private Equity Cash Flow Distribution Examples", "quote": "Must achieve preferred return (“hurdle rate”) before the GP can distribute the carry"}
+    ]
+  },
+  {
+    "id": "vault-12-05",
+    "deck": "vault",
+    "topic": "Waterfall: European",
+    "q": "A whole-fund distribution waterfall is also known as which style of waterfall?",
+    "a": "European",
+    "accept": ["European-style", "European waterfall", "European style"],
+    "wrong": ["American", "Deal-by-deal", "Asian"],
+    "explain": "In a whole-fund (European) waterfall, investors typically get back all their contributed capital plus the preferred return before the GP begins receiving carried interest.",
+    "hook": "European = Entire fund first.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.sec.gov/files/rules/final/2023/ia-6383.pdf", "title": "SEC Final Rule: Private Fund Advisers (Release IA-6383)", "quote": "fund investors can depend on whether the proceeds are distributed on a whole-fund (known as European-style) basis or a deal-by-deal (known as American-style) basis."},
+      {"url": "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf", "title": "CalPERS: Private Equity Cash Flow Distribution Examples", "quote": "European Waterfall – GP receives carried interest only after all capital, including fees and expenses, is returned to LPs."}
+    ]
+  },
+  {
+    "id": "vault-12-06",
+    "deck": "vault",
+    "topic": "Waterfall: American",
+    "q": "Under which style of distribution waterfall can the GP potentially receive carried interest earlier in the fund's life?",
+    "a": "American",
+    "accept": ["American-style", "deal-by-deal", "American (deal-by-deal)", "deal by deal", "American waterfall"],
+    "wrong": ["European", "Whole-fund", "Whole-of-fund"],
+    "explain": "In a deal-by-deal (American) waterfall, successful investments can deliver carry to the GP before investors have recouped their entire capital contributions to the fund.",
+    "hook": "American = deal-by-deal = paid sooner.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.sec.gov/files/rules/final/2023/ia-6383.pdf", "title": "SEC Final Rule: Private Fund Advisers (Release IA-6383)", "quote": "Under the deal-by-deal waterfall, advisers can potentially receive performance- based compensation earlier in the life of the fund, as successful investments can deliver advisers performance-based compensation before investors have recouped their entire capital contributions to the fund."},
+      {"url": "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf", "title": "CalPERS: Private Equity Cash Flow Distribution Examples", "quote": "Deal-by-deal (“American”) Waterfall – GP receives carried interest after capital associated with each investment, including fees and expenses, is returned to LPs, regardless of performance of other investments."}
+    ]
+  },
+  {
+    "id": "vault-12-07",
+    "deck": "vault",
+    "topic": "Fund structure: clawback",
+    "q": "What fund provision requires the GP to return carried interest it received in excess of what the LPA entitles it to?",
+    "a": "Clawback",
+    "accept": ["GP clawback", "clawback provision", "claw-back"],
+    "wrong": ["Catch-up", "Hurdle rate", "Capital call"],
+    "explain": "Clawback provisions protect LPs by requiring the GP to restore carried-interest distributions if it has received more than agreed in the LPA.",
+    "hook": "Claw the carry back.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://publishedresearch.cambridgeassociates.com/private-investment-fund-terms-fees-and-distribution-waterfall", "title": "Private Investment Fund Terms: Fees and Distribution Waterfall (Cambridge Associates)", "quote": "Clawback provisions protect LPs by requiring that the GP restore carried-interest distributions if it has received more than what was agreed to in the LPA (Figure 14)."},
+      {"url": "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf", "title": "CalPERS: Private Equity Cash Flow Distribution Examples", "quote": "Clawback – GP carried interest received that is required to be returned to LPs due to failure of the Fund to achieve the hurdle rate."}
+    ]
+  },
+  {
+    "id": "vault-12-08",
+    "deck": "vault",
+    "topic": "Waterfall: clawback risk",
+    "q": "Which waterfall style creates greater clawback risk for the GP: European or American?",
+    "a": "American",
+    "accept": ["American-style", "deal-by-deal", "American (deal-by-deal)", "deal by deal"],
+    "wrong": ["European", "Whole-fund", "Neither"],
+    "explain": "CalPERS describes the deal-by-deal waterfall as GP-friendly and creating clawback risk, while the LP-friendly European waterfall minimizes clawback risk because no carry is paid until contributed capital is returned.",
+    "hook": "Paid early, may pay back.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf", "title": "CalPERS: Private Equity Cash Flow Distribution Examples", "quote": "GP-friendly Distribution Waterfall creates clawback risk ... LP-Friendly Distribution Waterfall minimizes clawback risk – Because the GP cannot distribute any carry until the contributed capital has been returned, it is unlikely for the distributions to the GP to exceed 20% of total profits."},
+      {"url": "https://www.sec.gov/files/rules/final/2023/ia-6383.pdf", "title": "SEC Final Rule: Private Fund Advisers (Release IA-6383)", "quote": "Waterfalls (especially deal-by-deal waterfalls) typically have clawback arrangements to ensure that advisers do not retain carried interest unless investors recoup their entire capital contributions on the whole fund, plus a preferred return."}
+    ]
+  },
+  {
+    "id": "vault-12-09",
+    "deck": "vault",
+    "topic": "Fund metrics: DPI",
+    "q": "DPI divides a fund's cumulative distributions to LPs by what?",
+    "a": "Paid-in capital",
+    "accept": ["paid in capital", "called capital", "contributed capital", "capital called"],
+    "wrong": ["Committed capital", "Net asset value", "Residual value"],
+    "explain": "DPI (distributions to paid-in capital) uses capital actually called from LPs, not total committed capital, as its denominator.",
+    "hook": "D over P: Distributions over Paid-in.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/financial-modeling/distributed-to-paid-in-capital", "title": "Distributed to Paid-In Capital (DPI) - Corporate Finance Institute", "quote": "DPI = Cumulative Distributions ÷ Paid In Capital"},
+      {"url": "https://www.investeurope.eu/investor-reporting-guidelines/performance-measurement-and-reporting/", "title": "Invest Europe Investor Reporting Guidelines: Performance measurement", "quote": "DPI measures on a net basis the cumulative realised proceeds returned by a fund to its investors relative to its paid-in capital (i.e., committed capital that has been called by the fund (contributed capital), not the total committed capital)."}
+    ]
+  },
+  {
+    "id": "vault-12-10",
+    "deck": "vault",
+    "topic": "Fund metrics: DPI",
+    "q": "DPI is also sometimes known as what multiple?",
+    "a": "Realization multiple",
+    "accept": ["realisation multiple", "the realization multiple"],
+    "wrong": ["Paper multiple", "Leverage multiple", "Entry multiple"],
+    "explain": "Because DPI counts only actual, realized distributions paid to LPs, it is sometimes called the realization multiple.",
+    "hook": "DPI = cash Delivered, Paid out, In hand.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/financial-modeling/distributed-to-paid-in-capital", "title": "Distributed to Paid-In Capital (DPI) - Corporate Finance Institute", "quote": "The Distributions to Paid In Capital ratio (or DPI) represents the cumulative distributions paid by a private equity fund to its limited partners, relative to the amount the partners have invested. DPI is also sometimes known as the realization multiple."}
+    ]
+  },
+  {
+    "id": "vault-12-11",
+    "deck": "vault",
+    "topic": "Fund metrics: TVPI",
+    "q": "TVPI equals DPI plus which other fund metric?",
+    "a": "RVPI",
+    "accept": ["residual value to paid-in capital", "residual value to paid-in", "residual value to paid in capital"],
+    "wrong": ["IRR", "MOIC", "PME"],
+    "explain": "TVPI combines realized distributions (DPI) and the unrealized residual value (RVPI), each measured against paid-in capital.",
+    "hook": "Total = Distributed + Residual.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.investeurope.eu/investor-reporting-guidelines/performance-measurement-and-reporting/", "title": "Invest Europe Investor Reporting Guidelines: Performance measurement", "quote": "TVPI = DPI + RVPI."},
+      {"url": "https://docs.preqin.com/pro/Private-Capital-Performance-Guide.pdf", "title": "Preqin Private Capital Performance Data Guide", "quote": "It is the sum of the DPI plus RVPI, expressed as a multiple"}
+    ]
+  },
+  {
+    "id": "vault-12-12",
+    "deck": "vault",
+    "topic": "Fund metrics: RVPI",
+    "q": "Once a fund has fully exited and distributed all its investments, what is its RVPI?",
+    "a": "Zero",
+    "accept": ["0", "0x", "0.0x", "zero"],
+    "wrong": ["1.0x", "Equal to DPI", "Equal to TVPI"],
+    "explain": "RVPI measures unrealized value against paid-in capital; it falls as investments are realized and ultimately goes to zero at the end of the fund's life.",
+    "hook": "Nothing Residual left = RVPI of nothing.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.investeurope.eu/investor-reporting-guidelines/performance-measurement-and-reporting/", "title": "Invest Europe Investor Reporting Guidelines: Performance measurement", "quote": "However, the ratio becomes lower as investments are realised and ultimately goes to zero at the end of a fund’s life."},
+      {"url": "https://corporatefinanceinstitute.com/resources/financial-modeling/distributed-to-paid-in-capital", "title": "Distributed to Paid-In Capital (DPI) - Corporate Finance Institute", "quote": "Of course, at the end of the fund’s life there will be no more residual value since all investments would have been liquidated and distributed."}
+    ]
+  },
+  {
+    "id": "vault-12-13",
+    "deck": "vault",
+    "topic": "Fund metrics: IRR",
+    "q": "IRR is the discount rate at which the net present value of all of a fund's cash flows equals what?",
+    "a": "Zero",
+    "accept": ["0", "zero"],
+    "wrong": ["One", "Committed capital", "Paid-in capital"],
+    "explain": "IRR accounts for both the magnitude and the timing of cash flows, so returns achieved over a short period have a larger impact on IRR.",
+    "hook": "IRR: the rate that zeroes out NPV.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.ukprivatecapital.co.uk/static/87234996-55f9-4132-9063503d1de2a824/Private-capital-performance-overview-Sept-24.pdf", "title": "Private capital performance (UK Private Capital / BVCA)", "quote": "IRR is the discount rate that makes the net present value of all cash flows equal to zero. The calculation accounts not only for the magnitude of the returns but also their timing."},
+      {"url": "https://www.privateequityinternational.com/fund-performance-methodology", "title": "Fund performance methodology | PEI Private Equity", "quote": "A rate of return is formulated by calculating the current net cashflows and then discounting the net present value of the investment to equal zero. This discount rate is the estimated, annualised return of the investment."}
+    ]
+  },
+  {
+    "id": "vault-12-14",
+    "deck": "vault",
+    "topic": "Fund metrics: IRR vs TVPI",
+    "q": "Which of the three standard PE fund KPIs (IRR, TVPI, DPI) accounts for the time value of money?",
+    "a": "IRR",
+    "accept": ["internal rate of return", "the IRR"],
+    "wrong": ["TVPI", "DPI", "RVPI"],
+    "explain": "IRR is an annualized return that considers the timing and magnitude of cash flows; TVPI and DPI ignore the time value of money, so the same TVPI can imply very different annual returns.",
+    "hook": "IRR has a clock; multiples don't.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf", "title": "The Economics of Private Equity: A Critical Review (CFA Institute Research Foundation)", "quote": "It mea- sures the fund’s annualized rate of return, considering the timing and magnitude of the fund’s cash flows (i.e., its drawdowns and net-of-fees distributions). ... Unlike IRR, TVPI ignores the time value of money. ... Like TVPI, DPI ignores the time value of money."}
+    ]
+  },
+  {
+    "id": "vault-12-15",
+    "deck": "vault",
+    "topic": "Fund lifecycle: J-curve",
+    "q": "What term describes PE funds' pattern of negative cash flows and returns in early years followed by gains in later years?",
+    "a": "J-curve",
+    "accept": ["J curve", "J-curve effect", "the J-curve"],
+    "wrong": ["S-curve", "Yield curve", "Hockey-stick multiple"],
+    "explain": "Early capital calls and management fees are outflows for LPs, so cumulative returns dip before turning upward as the fund exits investments and distributes proceeds.",
+    "hook": "Dip down, then climb up: the shape of a J.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/j-curve", "title": "J-Curve Effect | Private Equity Fund Economics - Wall Street Prep", "quote": "The J-curve is a graphical representation of private equity returns, where initial losses cause a dip, followed by a reversal as the firm realizes gains on its investments."},
+      {"url": "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf", "title": "The Economics of Private Equity: A Critical Review (CFA Institute Research Foundation)", "quote": "As the J-curve illustrates, PE funds are usually cash flow negative for many years before they begin returning capital, and they typically generate capital gains only toward the end of their lives."}
+    ]
+  },
+  {
+    "id": "vault-12-16",
+    "deck": "vault",
+    "topic": "Fund lifecycle: term",
+    "q": "A private equity fund's term is usually limited to how many years, before any extensions?",
+    "a": "10 years",
+    "accept": ["10", "ten", "ten years"],
+    "wrong": ["3 years", "5 years", "25 years"],
+    "explain": "The LPA usually limits the fund's term to 10 years, often extendable by a year or two before the fund must be liquidated.",
+    "hook": "A decade-long marriage between GP and LPs.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf", "title": "The Economics of Private Equity: A Critical Review (CFA Institute Research Foundation)", "quote": "fund’s term, which is usually limited to 10 years but often can be extended for a year or two before the fund must be liquidated;"},
+      {"url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity", "title": "Private Equity Funds | Investor.gov (SEC)", "quote": "Unlike mutual funds or hedge funds, however, private equity firms often focus on long-term investment opportunities in assets that take time to sell with an investment time horizon typically of 10 or more years."}
+    ]
+  },
+  {
+    "id": "vault-12-17",
+    "deck": "vault",
+    "topic": "Fund lifecycle: vintage year",
+    "q": "In PE performance data, what term denotes the year in which a fund first calls capital from investors?",
+    "a": "Vintage year",
+    "accept": ["vintage", "the vintage year"],
+    "wrong": ["Fiscal year", "Harvest year", "Base year"],
+    "explain": "Funds are benchmarked against peers of the same vintage year, which is primarily the year capital is first called (first investment/drawdown).",
+    "hook": "Like wine: funds are compared by vintage.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.privateequityinternational.com/fund-performance-methodology", "title": "Fund performance methodology | PEI Private Equity", "quote": "Primarily, the vintage year denotes the year in which capital is first called by the fund."},
+      {"url": "https://docs.preqin.com/pro/Private-Capital-Performance-Guide.pdf", "title": "Preqin Private Capital Performance Data Guide", "quote": "Vintage year Defined as the first year of investment/drawdown from the investor."}
+    ]
+  },
+  {
+    "id": "vault-12-18",
+    "deck": "vault",
+    "topic": "Fund lifecycle: dry powder",
+    "q": "What is the industry term for committed capital that has not yet been called for investment?",
+    "a": "Dry powder",
+    "accept": ["uncalled capital", "uncalled commitments"],
+    "wrong": ["Paid-in capital", "Residual value", "Carried interest"],
+    "explain": "Preqin measures fund AUM as dry powder (committed but uncalled capital) plus the unrealized value of portfolio investments.",
+    "hook": "Powder kept dry until the GP fires a capital call.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://learning-center.hec.edu/wp-content/uploads/2022/10/Private-Capital-Performance-Guide.pdf", "title": "Preqin Private Capital Performance Data Guide (hosted by HEC Paris)", "quote": "It is the sum of both dry powder and unrealized value: • Dry Powder: Available capital to fund managers for investment, i.e. committed capital that has not yet been called for investment."}
+    ]
+  },
+  {
+    "id": "vault-12-19",
+    "deck": "vault",
+    "topic": "Growth vs buyout vs VC",
+    "q": "Growth equity deals generally involve what kind of ownership stake?",
+    "a": "Minority",
+    "accept": ["minority stake", "minority investment", "non-controlling", "non-controlling stake"],
+    "wrong": ["Majority", "Controlling", "100% ownership"],
+    "explain": "Growth equity is generally a minority investment, often via preferred shares, in established companies that need capital for expansion, typically with low or no leverage.",
+    "hook": "Growth investors ride along; buyout investors drive.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/growth-equity/", "title": "Growth Equity - Overview, Uses, and Characteristics - Corporate Finance Institute", "quote": "Growth equity deals generally imply minority investments. Such deals are commonly executed using preferred shares . Note that growth equity investors tend to prefer companies with low leverage or no debt at all."},
+      {"url": "https://investor.vanguard.com/content/dam/retail/publicsite/en/documents/private-equity-primer.pdf", "title": "Private Equity Primer - Vanguard", "quote": "Growth equity Minority stakes in established companies requiring capital for expansion."}
+    ]
+  },
+  {
+    "id": "vault-12-20",
+    "deck": "vault",
+    "topic": "Preferred stock: participation",
+    "q": "Which type of preferred stock receives its liquidation preference and then also shares pro rata in the remaining proceeds (\"double-dipping\")?",
+    "a": "Participating preferred",
+    "accept": ["participating", "participating preferred stock", "full participating preferred", "participating liquidation preference"],
+    "wrong": ["Non-participating preferred", "Straight preferred", "Common stock"],
+    "explain": "Participating preferred investors first receive their liquidation preference and then share in the remaining proceeds pro rata; a capped version limits total proceeds to a multiple of the investment.",
+    "hook": "Participating = gets paid twice.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/liquidation-preference-how-it-works-and-how-it-is-used-in-the-vc-term-sheet", "title": "Liquidation Preference | Definition + VC Examples - Wall Street Prep", "quote": "Commonly referred to as “participating preferred” , “full participating preferred”, or “participating preferred with no cap” * In this structure, investors first receive their liquidation preference and then share in the remaining proceeds on a pro rata basis (i.e. “double-dipping”)"},
+      {"url": "https://scaleup.mofo.com/guidance/ask-a-mofo-common-provisions-in-venture-capital-term-sheets-liquidation-preference", "title": "Ask a MoFo: Common Provisions in Venture Capital Term Sheets: Liquidation Preference", "quote": "A participating preferred stockholder gets back some multiple of its investment before common stockholders AND gets to participate in the distribution of proceeds with the common stockholders pro rata on top of the fixed amount."}
+    ]
+  },
+  {
+    "id": "vault-12-21",
+    "deck": "vault",
+    "topic": "Preferred stock: liquidation preference",
+    "q": "In an exit, a non-participating preferred holder receives the greater of its liquidation preference or what?",
+    "a": "As-converted value",
+    "accept": ["as converted value", "its as-converted share", "value as converted to common", "converted to common", "as-converted to common value"],
+    "wrong": ["Accrued management fees", "The GP's carried interest", "Twice its investment plus pro rata share"],
+    "explain": "Non-participating (\"straight\") preferred acts as downside protection: the holder takes either its preference amount or converts to common and takes its ownership share, whichever is greater.",
+    "hook": "Non-participating: pick one, not both.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://scaleup.mofo.com/guidance/ask-a-mofo-common-provisions-in-venture-capital-term-sheets-liquidation-preference", "title": "Ask a MoFo: Common Provisions in Venture Capital Term Sheets: Liquidation Preference", "quote": "A non-participating preferred stockholder receives the greater of 1) the agreed multiple of its initial investment (to the extent there are sufficient proceeds); OR 2) the value of its shares if they were converted to common stock pursuant to the then effective conversion ratio (which starts at 1:1)."},
+      {"url": "https://www.wallstreetprep.com/knowledge/liquidation-preference-how-it-works-and-how-it-is-used-in-the-vc-term-sheet", "title": "Liquidation Preference | Definition + VC Examples - Wall Street Prep", "quote": "The investor is provided with the option, in a liquidity event, of either: * Receiving their preferred return as originally stated * (or) Converting into common shares and receiving their percentage ownership as their return"}
+    ]
+  },
+  {
+    "id": "vault-12-22",
+    "deck": "vault",
+    "topic": "Preferred stock: anti-dilution",
+    "q": "Which anti-dilution provision reduces the investor's conversion price all the way to the price used in a down-round issuance?",
+    "a": "Full ratchet",
+    "accept": ["full-ratchet", "full ratchet anti-dilution"],
+    "wrong": ["Broad-based weighted average", "Narrow-based weighted average", "Pre-emptive rights"],
+    "explain": "Full ratchet resets the conversion price to the new lower issue price, whereas weighted-average methods use a formula that also reflects how many new shares are issued.",
+    "hook": "Full ratchet = all the way down.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://ca.practicallaw.thomsonreuters.com/0-382-3231?contextData=(sc.Default)&transitionType=Default", "title": "Anti-Dilution Provision | Practical Law (Thomson Reuters)", "quote": "weighted average, reducing the applicable price to the weighted average price at which the company has sold its securities, including the sale of securities in the down round issuance; or * full ratchet, reducing the applicable price to the price used in the down round issuance."},
+      {"url": "https://corporatefinanceinstitute.com/resources/equities/anti-dilution-provisions", "title": "Anti-Dilution Provisions - Corporate Finance Institute", "quote": "Company ABC issues more shares at a conversion price of $5. The original conversion price of $10 would be lowered to $5."}
+    ]
+  },
+  {
+    "id": "vault-12-23",
+    "deck": "vault",
+    "topic": "Preferred stock: protective provisions",
+    "q": "What term-sheet provisions require approval by preferred investors before the company can take listed actions such as a sale or issuing senior stock?",
+    "a": "Protective provisions",
+    "accept": ["protective provision", "veto rights", "consent rights"],
+    "wrong": ["Drag-along rights", "Liquidation preferences", "Anti-dilution provisions"],
+    "explain": "Typical protective provisions cover a sale, merger or dissolution, adverse charter changes, issuing senior equity, changing board size, paying dividends and increasing authorized capital.",
+    "hook": "Protective = the investor's veto list.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://scaleup.mofo.com/guidance/nvca-protective-provisions", "title": "Ask a MoFo: Protective Provisions", "quote": "Protective provisions are a list of actions or events that a company cannot take or consummate without first obtaining a specified approval by investors (either at the stockholder level or board level)."},
+      {"url": "https://www.faegredrinker.com/en/insights/publications/2022/9/cashing-in-getting-ready-for-your-series-a-round", "title": "Cashing In: Getting Ready for Your Series-A Round | Faegre Drinker", "quote": "Protective Provisions — The NVCA form contemplates protective provisions that provide investors in the series with consent rights, voting separately as a class, over certain company actions that would have an adverse effect on such investors."}
+    ]
+  },
+  {
+    "id": "vault-12-24",
+    "deck": "vault",
+    "topic": "Secondaries: LP-led",
+    "q": "What is the secondary transaction called in which an LP sells all or part of its interest in a fund to a secondary buyer?",
+    "a": "LP-led secondary",
+    "accept": ["LP-led", "LP led secondary", "LP interest secondary", "traditional secondary", "LP-led transaction"],
+    "wrong": ["GP-led secondary", "Continuation fund", "Strip sale"],
+    "explain": "LP-led deals are investor-initiated sales of fund interests, while GP-led transactions such as continuation funds, strip sales and tender offers are initiated by the sponsor.",
+    "hook": "Who starts the sale names the deal.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://rpc.cfainstitute.org/sites/default/files/docs/research-reports/rpc_deane_continuationfunds-ethicsinprivatemarkets_pti_online.pdf", "title": "Continuation Funds: Ethics in Private Markets, Part I (CFA Institute)", "quote": "LP-led transactions include the sale by an LP of all or part of its interests in a particular private market fund to a secondary buyer, such as an asset owner or secondary fund."},
+      {"url": "https://thefundlawyer.cooley.com/primer-continuation-funds-in-private-equity-and-venture-capital", "title": "Primer: Continuation Funds in Private Equity and Venture Capital (Cooley)", "quote": "An LP-led secondary , by contrast, is an investor selling its own fund interest into the market, with or without the sponsor’s active involvement beyond consent."}
+    ]
+  },
+  {
+    "id": "vault-12-25",
+    "deck": "vault",
+    "topic": "Secondaries: continuation vehicles",
+    "q": "A continuation vehicle acquires one or more assets from an existing fund managed by whom?",
+    "a": "The same GP",
+    "accept": ["same GP", "the same general partner", "same sponsor", "the same sponsor", "same manager"],
+    "wrong": ["A new, unaffiliated GP", "The selling LPs", "The portfolio company's management"],
+    "explain": "In a GP-led continuation vehicle, the sponsor moves assets from its older (legacy) fund into a new fund it also manages, which is why these deals raise conflict-of-interest concerns.",
+    "hook": "Same GP, new wrapper.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://rpc.cfainstitute.org/sites/default/files/docs/research-reports/rpc_deane_continuationfunds-ethicsinprivatemarkets_pti_online.pdf", "title": "Continuation Funds: Ethics in Private Markets, Part I (CFA Institute)", "quote": "A continuation fund is a private fund that acquires one or more assets from a preexisting private fund. The GP of the older fund also manages the new fund."},
+      {"url": "https://thefundlawyer.cooley.com/primer-continuation-funds-in-private-equity-and-venture-capital", "title": "Primer: Continuation Funds in Private Equity and Venture Capital (Cooley)", "quote": "A continuation fund (or continuation vehicle – the market uses “CV” constantly, and we will too) is a new fund formed by an existing sponsor for the specific purpose of acquiring one or more assets from a prior fund managed by the same sponsor."}
+    ]
+  },
+  {
+    "id": "vault-12-26",
+    "deck": "vault",
+    "topic": "Secondaries: unfunded commitments",
+    "q": "When an LP sells its fund interest in a secondary, the buyer takes over the current investment and what else?",
+    "a": "Unfunded commitments",
+    "accept": ["unfunded commitment", "undrawn commitments", "undrawn commitment", "unfunded future commitments", "uncalled commitments"],
+    "wrong": ["The GP's carried interest", "The management company", "The GP's clawback obligation"],
+    "explain": "The selling LP transfers both its existing investment and its obligation to fund future capital calls; GP consent is generally required for the transfer.",
+    "hook": "You buy the stake and the future capital calls.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.cambridgeassociates.com/insight/seven-things-investors-should-know-about-the-private-equity-secondary-market", "title": "Seven Things Investors Should Know About the Private Equity Secondary Market - Cambridge Associates", "quote": "When an original LP in a fund sells its position into the secondary market, it is selling both its current investment in the PE fund as well as any unfunded future commitments to the fund."},
+      {"url": "https://www.dlapiper.com/en/insights/publications/2023/11/lp-led-secondaries-trends-opportunities-and-key-considerations", "title": "LP-led Secondaries: Trends, opportunities and key considerations | DLA Piper", "quote": "These transactions are typically bilateral (subject to the GP prior consent generally provided for in the fund’s documentation) with the LP-buyer(s) taking over all the rights and obligations previously held by the selling LP, including its undrawn commitment(s)."}
+    ]
+  }
+]

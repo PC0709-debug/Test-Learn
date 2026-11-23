@@ -1,0 +1,436 @@
+[
+  {
+    "id": "library-01-01",
+    "source": 27,
+    "match": 28,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 94,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Britannica quote not seen verbatim in fetched excerpt (page summary states the fact); BM corroborates.",
+    "verifiedUrls": [
+      "https://www.britannica.com/place/Mesopotamia-historical-region-Asia",
+      "https://www.britishmuseum.org/collection/galleries/mesopotamia"
+    ]
+  },
+  {
+    "id": "library-01-02",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/cuneiform",
+      "https://kids.britannica.com/students/article/Sumer/337656"
+    ]
+  },
+  {
+    "id": "library-01-03",
+    "source": 26,
+    "match": 27,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 92,
+    "hardFail": null,
+    "pass": true,
+    "issue": "mud-brick core quote not visible in fetched excerpt; Ur best-preserved confirmed. Both sources are the same Britannica article (not independent), acceptable since no number in answer.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/ziggurat",
+      "https://www.britannica.com/technology/ziggurat"
+    ]
+  },
+  {
+    "id": "library-01-04",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Epic-of-Gilgamesh",
+      "https://www.metmuseum.org/essays/gilgamesh"
+    ]
+  },
+  {
+    "id": "library-01-05",
+    "source": 28,
+    "match": 28,
+    "unique": 8,
+    "current": 15,
+    "precise": 8,
+    "total": 87,
+    "hardFail": "accept list includes 'Babylonia' (a region), not equivalent to the city Babylon",
+    "pass": false,
+    "issue": "Remove 'Babylonia' from accept.",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Hammurabi",
+      "https://www.louvre.fr/en/the-code-of-hammurabi"
+    ]
+  },
+  {
+    "id": "library-01-06",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Code-of-Hammurabi",
+      "https://www.louvre.fr/en/the-code-of-hammurabi"
+    ]
+  },
+  {
+    "id": "library-01-07",
+    "source": 28,
+    "match": 24,
+    "unique": 15,
+    "current": 15,
+    "precise": 8,
+    "total": 90,
+    "hardFail": "explain date 'since 1904' backed by only one cited source (Louvre)",
+    "pass": false,
+    "issue": "Drop 'since 1904' or cite a second independent source for the 1904 display date.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Code-of-Hammurabi",
+      "https://www.louvre.fr/en/the-code-of-hammurabi"
+    ]
+  },
+  {
+    "id": "library-01-08",
+    "source": 28,
+    "match": 24,
+    "unique": 15,
+    "current": 15,
+    "precise": 8,
+    "total": 90,
+    "hardFail": "named-person attribution (Shutruk-Nahhunte carried stela to Susa) backed by only one cited source (Louvre)",
+    "pass": false,
+    "issue": "Remove the Shutruk-Nahhunte clause or add a second independent source naming him.",
+    "verifiedUrls": [
+      "https://www.louvre.fr/en/the-code-of-hammurabi",
+      "https://www.britannica.com/topic/Code-of-Hammurabi"
+    ]
+  },
+  {
+    "id": "library-01-09",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Great-Pyramid-of-Giza",
+      "https://www.si.edu/spotlight/ancient-egypt/pyramid"
+    ]
+  },
+  {
+    "id": "library-01-10",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Step-Pyramid-of-Djoser",
+      "https://egymonuments.gov.eg/en/monuments/the-step-pyramid-complex-of-djoser"
+    ]
+  },
+  {
+    "id": "library-01-11",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Step-Pyramid-of-Djoser",
+      "https://egymonuments.gov.eg/en/monuments/the-step-pyramid-complex-of-djoser",
+      "https://www.si.edu/spotlight/ancient-egypt/pyramid"
+    ]
+  },
+  {
+    "id": "library-01-12",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Rosetta-Stone",
+      "https://www.britishmuseum.org/collection/egypt/explore-rosetta-stone"
+    ]
+  },
+  {
+    "id": "library-01-13",
+    "source": 26,
+    "match": 22,
+    "unique": 15,
+    "current": 15,
+    "precise": 6,
+    "total": 84,
+    "hardFail": "explain claims Champollion built on Thomas Young's work; no cited source states this (BM timeline says Young came 'later' with overlapping work)",
+    "pass": false,
+    "issue": "Remove the Thomas Young clause or cite sources that state it.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/hieroglyphic-writing/Discovery-of-the-Rosetta-Stone",
+      "https://www.britishmuseum.org/exhibitions/hieroglyphs-unlocking-ancient-egypt/egyptian-hieroglyphs-decipherment-timeline"
+    ]
+  },
+  {
+    "id": "library-01-14",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/hieroglyphic-writing/Discovery-of-the-Rosetta-Stone",
+      "https://www.britishmuseum.org/exhibitions/hieroglyphs-unlocking-ancient-egypt/egyptian-hieroglyphs-decipherment-timeline"
+    ]
+  },
+  {
+    "id": "library-01-15",
+    "source": 29,
+    "match": 29,
+    "unique": 13,
+    "current": 15,
+    "precise": 9,
+    "total": 95,
+    "hardFail": null,
+    "pass": true,
+    "issue": "accept 'Cyrus' slightly ambiguous (Cyrus I); consider removing.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Achaemenian-Empire",
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+    ]
+  },
+  {
+    "id": "library-01-16",
+    "source": 27,
+    "match": 22,
+    "unique": 11,
+    "current": 15,
+    "precise": 7,
+    "total": 82,
+    "hardFail": "explain date 330 BCE for burning of Xerxes' palace has only one cited source (Britannica Persepolis; UNESCO silent); accept 'Darius' is ambiguous with Darius III",
+    "pass": false,
+    "issue": "Drop the year or add a second cited source; remove 'Darius' from accept.",
+    "verifiedUrls": [
+      "https://whc.unesco.org/en/list/114",
+      "https://www.britannica.com/place/Persepolis/History"
+    ]
+  },
+  {
+    "id": "library-01-17",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/satrap",
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+    ]
+  },
+  {
+    "id": "library-01-18",
+    "source": 28,
+    "match": 29,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Bessus/330 sourced from two Britannica pages; Met corroborates murder.",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Darius-III",
+      "https://www.britannica.com/event/Battle-of-Gaugamela",
+      "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc"
+    ]
+  },
+  {
+    "id": "library-01-19",
+    "source": 28,
+    "match": 15,
+    "unique": 15,
+    "current": 15,
+    "precise": 6,
+    "total": 79,
+    "hardFail": "explain figure '10,000 Athenians' conflicts: Britannica says 10,000, Greek Ministry of Culture (cited) says 9,000",
+    "pass": false,
+    "issue": "Remove troop numbers from explain (keep Miltiades and Plataeans).",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Battle-of-Marathon",
+      "https://2500years.culture.gov.gr/en/chapters/i-machi-tou-marathona/chalkinos-levitas-marathonomachon"
+    ]
+  },
+  {
+    "id": "library-01-20",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Battle-of-Thermopylae-Greek-history-480-BC",
+      "https://2500years.culture.gov.gr/en/chapters/i-machi-ton-thermopilon"
+    ]
+  },
+  {
+    "id": "library-01-21",
+    "source": 29,
+    "match": 29,
+    "unique": 14,
+    "current": 15,
+    "precise": 8,
+    "total": 95,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Spartan Eurybiades was nominal fleet commander; 'Athenian commander' qualifier keeps answer unique. Note Met essay misdates Salamis to 479.",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Battle-of-Salamis",
+      "https://clmaxnikias.usc.edu/2020/10/01/nikias-highlights-international-webinar-celebrating-the-2500-year-anniversary-of-the-battle-of-salamis"
+    ]
+  },
+  {
+    "id": "library-01-22",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Parthenon",
+      "http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=912"
+    ]
+  },
+  {
+    "id": "library-01-23",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/summary/Socrates",
+      "https://plato.stanford.edu/entries/socrates/"
+    ]
+  },
+  {
+    "id": "library-01-24",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Alexander-the-Great",
+      "https://plato.stanford.edu/ENTRIES/aristotle/"
+    ]
+  },
+  {
+    "id": "library-01-25",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Alexander-the-Great",
+      "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/alexandergreat.html"
+    ]
+  },
+  {
+    "id": "library-01-26",
+    "source": 28,
+    "match": 20,
+    "unique": 15,
+    "current": 15,
+    "precise": 8,
+    "total": 86,
+    "hardFail": "explain day 'October 1' is disputed: Britannica Alexander biography says October 31 while Britannica Gaugamela and Iranica say 1 October",
+    "pass": false,
+    "issue": "Drop the day; say 'in 331 BCE'.",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Battle-of-Gaugamela",
+      "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc"
+    ]
+  },
+  {
+    "id": "library-01-27",
+    "source": 28,
+    "match": 29,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.colorado.edu/classics/2018/06/19/alexander-and-bucephalus",
+      "https://kids.britannica.com/students/article/Alexander-the-Great/272799"
+    ]
+  }
+]

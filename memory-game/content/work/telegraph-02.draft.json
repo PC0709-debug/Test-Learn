@@ -1,0 +1,555 @@
+[
+  {
+    "id": "telegraph-02-01",
+    "deck": "telegraph",
+    "topic": "git commit",
+    "q": "Which git command creates a new commit from the current contents of the index (staging area)?",
+    "a": "git commit",
+    "accept": ["commit"],
+    "wrong": ["git push", "git clone", "git pull"],
+    "explain": "git commit creates a new commit containing the current contents of the index plus a log message; the current branch is updated to point to it.",
+    "hook": "Stage it, then commit it.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://git-scm.com/docs/git-commit",
+        "title": "Git - git-commit Documentation",
+        "quote": "Create a new commit containing the current contents of the index and the given log message describing the changes. The new commit is a direct child of HEAD, usually the tip of the current branch, and the branch is updated to point to it"
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-02",
+    "deck": "telegraph",
+    "topic": "git push",
+    "q": "Which git command updates branches in a remote repository from your local repository?",
+    "a": "git push",
+    "accept": ["push"],
+    "wrong": ["git pull", "git commit", "git clone"],
+    "explain": "git push updates one or more branches, tags or other references in a remote repository and sends any data the remote does not already have; for example, git push origin main.",
+    "hook": "Push sends up; pull brings down.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://git-scm.com/docs/git-push",
+        "title": "Git - git-push Documentation",
+        "quote": "Updates one or more branches, tags, or other references in one or more remote repositories from your local repository, and sends all necessary data that isn't already on the remote."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-03",
+    "deck": "telegraph",
+    "topic": "git pull",
+    "q": "Before integrating remote changes into the current branch, which git command does git pull run first?",
+    "a": "git fetch",
+    "accept": ["fetch"],
+    "wrong": ["git push", "git commit", "git add"],
+    "explain": "git pull integrates changes from a remote repository into the current branch: it first runs git fetch to download the remote branch, then integrates it into the current branch.",
+    "hook": "Pull = fetch + integrate.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://git-scm.com/docs/git-pull",
+        "title": "Git - git-pull Documentation",
+        "quote": "Integrate changes from a remote repository into the current branch. First, git pull runs git fetch with the same arguments (excluding merge options) to fetch remote branch(es)."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-04",
+    "deck": "telegraph",
+    "topic": "git merge",
+    "q": "Which git command incorporates changes from named commits into the current branch, for example to combine one branch into another?",
+    "a": "git merge",
+    "accept": ["merge"],
+    "wrong": ["git clone", "git push", "git init"],
+    "explain": "git merge incorporates changes from the named commits (since their histories diverged) into the current branch; git pull also uses it to bring in changes from another repository.",
+    "hook": "Merge = two histories join.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://git-scm.com/docs/git-merge",
+        "title": "Git - git-merge Documentation",
+        "quote": "Incorporates changes from the named commits (since the time their histories diverged from the current branch) into the current branch. This command is used by git pull to incorporate changes from another repository and can be used by hand to merge changes from one branch into another."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-05",
+    "deck": "telegraph",
+    "topic": "git merge",
+    "q": "What is the name of a merge in which git simply moves the branch pointer forward without creating a merge commit, because the current branch head is an ancestor of the merged commit?",
+    "a": "fast-forward",
+    "accept": ["fast forward", "fast-forward merge", "fast forward merge", "ff"],
+    "wrong": ["octopus merge", "squash merge", "cherry-pick"],
+    "explain": "When the current branch head is an ancestor of the named commit, no new commit is needed: HEAD is just updated to point at the named commit. git merge --ff does this when possible.",
+    "hook": "Nothing to combine, so just fast-forward the tape.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://git-scm.com/docs/git-merge",
+        "title": "Git - git-merge Documentation",
+        "quote": "With --ff, when possible resolve the merge as a fast-forward (only update the branch pointer to match the merged branch; do not create a merge commit)."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-06",
+    "deck": "telegraph",
+    "topic": "pull requests",
+    "q": "On GitHub, what is the name of a proposal to merge code changes into a project so they can be discussed and reviewed first?",
+    "a": "pull request",
+    "accept": ["PR", "pull requests"],
+    "wrong": ["issue", "fork", "release"],
+    "explain": "GitHub describes pull requests as proposals to merge code changes into a project, letting teams discuss and review changes before merging them.",
+    "hook": "You request that the maintainer pull your changes in.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests",
+        "title": "About pull requests - GitHub Docs",
+        "quote": "Pull requests are proposals to merge code changes into a project. A pull request is GitHub's foundational collaboration feature, letting you discuss and review changes before merging them."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-07",
+    "deck": "telegraph",
+    "topic": "GitHub Pages",
+    "q": "What kind of hosting service is GitHub Pages?",
+    "a": "static site hosting",
+    "accept": ["static site", "static website hosting", "static hosting", "static site hosting service"],
+    "wrong": ["database hosting", "email hosting", "virtual machine hosting"],
+    "explain": "GitHub Pages takes HTML, CSS and JavaScript files straight from a GitHub repository, optionally runs a build process, and publishes a website.",
+    "hook": "Pages serves files as they are: static.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+        "title": "What is GitHub Pages?",
+        "quote": "GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-08",
+    "deck": "telegraph",
+    "topic": "GitHub Pages",
+    "q": "By default, GitHub Pages sites are published under which domain (as in <owner>.<domain>)?",
+    "a": "github.io",
+    "accept": ["<owner>.github.io"],
+    "wrong": ["github.com", "gitlab.io", "pages.dev"],
+    "explain": "The default site location is http(s)://<owner>.github.io for user or organization sites and http(s)://<owner>.github.io/<repositoryname> for project sites.",
+    "hook": "Code lives on .com; Pages sites live on .io.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+        "title": "What is GitHub Pages?",
+        "quote": "Default site location http(s)://<owner>.github.io http(s)://<owner>.github.io/<repositoryname>"
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-09",
+    "deck": "telegraph",
+    "topic": "localStorage",
+    "q": "Which web storage object has its data cleared when the page session ends, unlike localStorage, which has no expiration time?",
+    "a": "sessionStorage",
+    "accept": ["session storage", "window.sessionStorage"],
+    "wrong": ["localStorage", "IndexedDB", "CacheStorage"],
+    "explain": "MDN: localStorage data has no expiration time and is saved across browser sessions, while sessionStorage data is cleared when the page session ends, that is, when the page is closed.",
+    "hook": "Session storage lasts one session.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage",
+        "title": "Window: localStorage property - Web APIs | MDN",
+        "quote": "localStorage is similar to sessionStorage, except that while localStorage data has no expiration time, sessionStorage data gets cleared when the page session ends — that is, when the page is closed."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-10",
+    "deck": "telegraph",
+    "topic": "localStorage",
+    "q": "In what format are the keys and values stored with localStorage kept?",
+    "a": "strings",
+    "accept": ["string", "UTF-16 strings", "UTF-16 string", "text strings"],
+    "wrong": ["integers", "binary blobs", "JavaScript objects"],
+    "explain": "localStorage keys and values are UTF-16 strings; even integer keys are automatically converted to strings, so objects are usually serialized (for example with JSON.stringify) before saving.",
+    "hook": "localStorage only speaks string.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage",
+        "title": "Window: localStorage property - Web APIs | MDN",
+        "quote": "The keys and the values stored with localStorage are in the UTF-16 string format. As with objects, integer keys are automatically converted to strings."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-11",
+    "deck": "telegraph",
+    "topic": "service workers",
+    "q": "Service workers essentially act as what kind of server sitting between web apps, the browser and the network?",
+    "a": "proxy server",
+    "accept": ["proxy", "proxy servers", "a proxy server"],
+    "wrong": ["database server", "DNS server", "mail server"],
+    "explain": "Service workers sit between web applications, the browser and the network, intercepting requests; this lets them provide offline experiences and update assets.",
+    "hook": "A service worker stands in (proxies) for the network.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API",
+        "title": "Service Worker API - Web APIs | MDN",
+        "quote": "Service workers essentially act as proxy servers that sit between web applications, the browser, and the network (when available). They are intended, among other things, to enable the creation of effective offline experiences, intercept network requests, and take appropriate action based on whether the network is available, and update assets residing on the server."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-12",
+    "deck": "telegraph",
+    "topic": "service workers",
+    "q": "Apart from localhost during development, service workers only work on pages served over which protocol?",
+    "a": "HTTPS",
+    "accept": ["https"],
+    "wrong": ["FTP", "plain HTTP", "SMTP"],
+    "explain": "Service workers are only available in secure contexts, meaning the document is served over HTTPS; browsers also treat http://localhost as secure to make local development easier.",
+    "hook": "A powerful proxy needs the S for secure.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API",
+        "title": "Service Worker API - Web APIs | MDN",
+        "quote": "Service workers are only available in secure contexts: this means that their document is served over HTTPS, although browsers also treat http://localhost as a secure context, to facilitate local development."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-13",
+    "deck": "telegraph",
+    "topic": "offline caching",
+    "q": "Which service worker event is the standard place to create a cache and store the assets an app needs to run offline?",
+    "a": "install",
+    "accept": ["install event", "oninstall"],
+    "wrong": ["activate", "message", "push"],
+    "explain": "A standard action in the install event is to create a cache and put assets in it for offline use; the later activate event is generally a good time to clean up old caches.",
+    "hook": "Install = stock the shelves; activate = clear out the old stock.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API",
+        "title": "Service Worker API - Web APIs | MDN",
+        "quote": "You can listen for the install event; a standard action is to prepare your service worker for usage when this fires, for example by creating a cache using the built-in storage API, and placing assets inside it that you'll want for running your app offline. There is also an activate event. The point where this event fires is generally a good time to clean up old caches and other things associated with the previous version of your service worker."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-14",
+    "deck": "telegraph",
+    "topic": "web app manifest",
+    "q": "A Progressive Web App's web application manifest is a text file in which format?",
+    "a": "JSON",
+    "accept": ["json"],
+    "wrong": ["XML", "YAML", "CSV"],
+    "explain": "A web application manifest, defined in the W3C Web Application Manifest specification, is a JSON text file containing a single JSON object whose top-level keys are called members.",
+    "hook": "manifest.json says it in the name.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Manifest",
+        "title": "Web application manifest - Progressive web apps | MDN",
+        "quote": "A web application manifest, defined in the Web Application Manifest specification, is a JSON text file that provides information about a web application."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-15",
+    "deck": "telegraph",
+    "topic": "web app manifest",
+    "q": "Which web app manifest member specifies the URL that opens when a user launches the installed app?",
+    "a": "start_url",
+    "accept": ["start url", "starturl"],
+    "wrong": ["scope", "short_name", "theme_color"],
+    "explain": "start_url sets the page opened when the user launches the app, for example from its home-screen icon; it must be same-origin with the manifest, and browsers treat it as a hint.",
+    "hook": "Where the app starts: start_url.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Manifest/Reference/start_url",
+        "title": "start_url - Web app manifest | MDN",
+        "quote": "The start_url manifest member is used to specify the URL that should be opened when a user launches your web application, such as when tapping the application's icon on their device's home screen or in an application list."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-16",
+    "deck": "telegraph",
+    "topic": "web app manifest",
+    "q": "Which value of the manifest display member opens a PWA in its own window like a native app, without the browser's URL bar?",
+    "a": "standalone",
+    "accept": ["\"standalone\""],
+    "wrong": ["browser", "inline", "popup"],
+    "explain": "With display set to standalone, the app can get its own window and launcher icon and the browser leaves out UI such as the URL bar, though the device status bar may still show.",
+    "hook": "Standalone = stands alone, outside the browser.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Manifest/Reference/display",
+        "title": "display - Web app manifest | MDN",
+        "quote": "standalone Opens the app to look and feel like a standalone native app. This can include the app having a different window and its own icon in the app launcher. The browser will exclude UI elements such as a URL bar but can still include other UI elements such as the status bar."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-17",
+    "deck": "telegraph",
+    "topic": "HTTP status codes",
+    "q": "What is the standard reason phrase for HTTP status code 404?",
+    "a": "Not Found",
+    "accept": ["not found", "404 Not Found"],
+    "wrong": ["Forbidden", "Bad Request", "Gone"],
+    "explain": "404 means the server cannot find the requested resource (the origin server found no current representation for it). It is a 4xx client error.",
+    "hook": "404: the page went missing.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+        "title": "HTTP response status codes - HTTP | MDN",
+        "quote": "404 Not Found The server cannot find the requested resource. In the browser, this means the URL is not recognized."
+      },
+      {
+        "url": "https://www.ietf.org/rfc/rfc9110.html",
+        "title": "RFC 9110: HTTP Semantics",
+        "quote": "The 404 (Not Found) status code indicates that the origin server did not find a current representation for the target resource or is not willing to disclose that one exists."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-18",
+    "deck": "telegraph",
+    "topic": "HTTP status codes",
+    "q": "What is the standard reason phrase for HTTP status code 503, used when a server is temporarily overloaded or down for maintenance?",
+    "a": "Service Unavailable",
+    "accept": ["service unavailable", "503 Service Unavailable"],
+    "wrong": ["Bad Gateway", "Gateway Timeout", "Internal Server Error"],
+    "explain": "503 means the server cannot currently handle the request, usually because of a temporary overload or scheduled maintenance; the server may send a Retry-After header.",
+    "hook": "503: the service is out of office for now.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+        "title": "HTTP response status codes - HTTP | MDN",
+        "quote": "503 Service Unavailable The server is not ready to handle the request. Common causes are a server that is down for maintenance or that is overloaded."
+      },
+      {
+        "url": "https://www.ietf.org/rfc/rfc9110.html",
+        "title": "RFC 9110: HTTP Semantics",
+        "quote": "The 503 (Service Unavailable) status code indicates that the server is currently unable to handle the request due to a temporary overload or scheduled maintenance, which will likely be alleviated after some delay."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-19",
+    "deck": "telegraph",
+    "topic": "HTTP status codes",
+    "q": "Which HTTP status code means the request succeeded and a new resource was created, typically after a POST?",
+    "a": "201",
+    "accept": ["201 Created", "Created"],
+    "wrong": ["200", "202", "204"],
+    "explain": "201 Created means the request was fulfilled and one or more new resources were created; it is typically sent after POST requests or some PUT requests.",
+    "hook": "200 = OK; 201 = OK and one new thing made.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+        "title": "HTTP response status codes - HTTP | MDN",
+        "quote": "201 Created The request succeeded, and a new resource was created as a result. This is typically the response sent after POST requests, or some PUT requests."
+      },
+      {
+        "url": "https://www.ietf.org/rfc/rfc9110.html",
+        "title": "RFC 9110: HTTP Semantics",
+        "quote": "The 201 (Created) status code indicates that the request has been fulfilled and has resulted in one or more new resources being created."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-20",
+    "deck": "telegraph",
+    "topic": "HTTP status codes",
+    "q": "HTTP status codes in the 500 to 599 range belong to which class of responses?",
+    "a": "server error",
+    "accept": ["server errors", "server error responses", "5xx server error"],
+    "wrong": ["client error", "redirection", "informational"],
+    "explain": "HTTP responses fall into five classes: informational (1xx), successful (2xx), redirection (3xx), client error (4xx) and server error (5xx).",
+    "hook": "4xx = your fault; 5xx = the server's fault.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+        "title": "HTTP response status codes - HTTP | MDN",
+        "quote": "Responses are grouped in five classes: Informational responses (100 – 199) Successful responses (200 – 299) Redirection messages (300 – 399) Client error responses (400 – 499) Server error responses (500 – 599)"
+      },
+      {
+        "url": "https://www.iana.org/assignments/http-status-codes",
+        "title": "Hypertext Transfer Protocol (HTTP) Status Code Registry",
+        "quote": "5xx: Server Error - The server failed to fulfill an apparently valid request"
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-21",
+    "deck": "telegraph",
+    "topic": "APIs",
+    "q": "What does the acronym REST stand for in REST APIs?",
+    "a": "Representational State Transfer",
+    "accept": ["representational state transfer"],
+    "wrong": ["Remote Execution Service Transfer", "Request Endpoint Service Technology", "Resource Exchange Standard Transport"],
+    "explain": "REST refers to a group of software architecture design constraints for efficient, reliable and scalable distributed systems; services that follow them are called RESTful.",
+    "hook": "REST moves a representation of a resource's state.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/REST",
+        "title": "REST - Glossary | MDN",
+        "quote": "REST (Representational State Transfer) refers to a group of software architecture design constraints that bring about efficient, reliable and scalable distributed systems."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-22",
+    "deck": "telegraph",
+    "topic": "APIs",
+    "q": "Which of these HTTP methods is not guaranteed to be idempotent: GET, PUT, DELETE or POST?",
+    "a": "POST",
+    "accept": ["post"],
+    "wrong": ["GET", "PUT", "DELETE"],
+    "explain": "A method is idempotent if one request has the same intended effect as several identical ones. All safe methods (like GET), plus PUT and DELETE, are idempotent; POST and PATCH are not guaranteed to be.",
+    "hook": "POST the same form twice, get two rows.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/Idempotent",
+        "title": "Idempotent - Glossary | MDN",
+        "quote": "All safe methods are idempotent, as well as PUT and DELETE. The POST and PATCH methods are not guaranteed to be idempotent."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-23",
+    "deck": "telegraph",
+    "topic": "Big O notation",
+    "q": "What is the worst-case time complexity of binary search on a sorted array of n elements, in Big O notation?",
+    "a": "O(log n)",
+    "accept": ["O(logn)", "log n", "logarithmic", "O(log(n))"],
+    "wrong": ["O(n)", "O(1)", "O(n log n)"],
+    "explain": "Binary search halves the remaining range each step, so its worst case is logarithmic time, O(log n); linear search is O(n).",
+    "hook": "Halve, halve, halve: log n steps.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.cs.cmu.edu/~15122/handouts/lectures/05-bigo.pdf",
+        "title": "Lecture 5 Sorting (CMU 15-122)",
+        "quote": "The asymptotic worst-case time complexity of linear search is O(n), which we also refer to as linear time. The worst-case asymptotic time complexity of binary search is O(log n), which we also refer to as logarithmic time."
+      },
+      {
+        "url": "https://www.cs.cornell.edu/courses/cs2110/2012sp/lectures/10-Complexity_6up.pdf",
+        "title": "CS211 Complexity lecture (Cornell)",
+        "quote": "Searching a sorted array – Linear search: O(n) worst-case time – Binary search: O(log n) worst-case time"
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-24",
+    "deck": "telegraph",
+    "topic": "Big O notation",
+    "q": "What is the worst-case time complexity of linear search through n elements, in Big O notation?",
+    "a": "O(n)",
+    "accept": ["n", "linear", "linear time"],
+    "wrong": ["O(log n)", "O(1)", "O(n^2)"],
+    "explain": "In the worst case linear search checks every element, so its time grows in proportion to n: linear time, O(n).",
+    "hook": "One look per item: n looks.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.cs.cmu.edu/~15122/handouts/lectures/05-bigo.pdf",
+        "title": "Lecture 5 Sorting (CMU 15-122)",
+        "quote": "The asymptotic worst-case time complexity of linear search is O(n), which we also refer to as linear time."
+      },
+      {
+        "url": "https://www.cs.cornell.edu/courses/cs2110/2012sp/lectures/10-Complexity_6up.pdf",
+        "title": "CS211 Complexity lecture (Cornell)",
+        "quote": "Searching a sorted array – Linear search: O(n) worst-case time – Binary search: O(log n) worst-case time"
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-25",
+    "deck": "telegraph",
+    "topic": "Leitner system",
+    "q": "In the Leitner system of flashcard boxes, where does a card go when you answer it incorrectly from a later box?",
+    "a": "Box 1",
+    "accept": ["box one", "the first box", "first box", "1"],
+    "wrong": ["the last box", "out of the deck", "it stays in its box"],
+    "explain": "In the Leitner system, correctly answered cards move up to boxes reviewed less often, while incorrectly answered ones go back to the first box for more frequent review.",
+    "hook": "Miss it, and it's back to square one.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://subjectguides.york.ac.uk/study-revision/leitner-system",
+        "title": "The Leitner System - Study & revision: a practical guide - University of York",
+        "quote": "Correctly answered cards progress to boxes that you don't need to review as often, while incorrect ones are moved back to the first box for more frequent review."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-26",
+    "deck": "telegraph",
+    "topic": "SM-2 algorithm",
+    "q": "In the SM-2 spaced repetition algorithm, what E-Factor (easiness factor) does every new item start with?",
+    "a": "2.5",
+    "accept": ["2.50", "250%"],
+    "wrong": ["1.3", "1.0", "3.0"],
+    "explain": "SM-2 gives every item an initial E-Factor of 2.5 and lowers it when recall is difficult; after the first two intervals, each new interval is the previous one multiplied by the E-Factor.",
+    "hook": "Every new card starts with an easy 2.5.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://super-memory.com/english/ol/sm2.htm",
+        "title": "SuperMemo 2: Algorithm",
+        "quote": "With all items associate an E-Factor equal to 2.5."
+      },
+      {
+        "url": "https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html",
+        "title": "What spaced repetition algorithm does Anki use? - Anki FAQs",
+        "quote": "In SM-2, once a card is graduated, it gets an ease factor. By default is 2.5, but you can set another value using the Deck Options."
+      }
+    ]
+  },
+  {
+    "id": "telegraph-02-27",
+    "deck": "telegraph",
+    "topic": "SM-2 algorithm",
+    "q": "In the SM-2 algorithm, what is the lowest value an item's E-Factor is allowed to fall to?",
+    "a": "1.3",
+    "accept": ["1.30", "130%"],
+    "wrong": ["1.0", "2.5", "0.5"],
+    "explain": "Wozniak found that items with E-Factors below 1.3 were repeated annoyingly often, so SM-2 resets any E-Factor below 1.3 to 1.3. Anki's SM-2 variant likewise never lets ease drop below 130%.",
+    "hook": "The floor is 1.3.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://super-memory.com/english/ol/sm2.htm",
+        "title": "SuperMemo 2: Algorithm",
+        "quote": "If EF is less than 1.3 then let EF be 1.3."
+      },
+      {
+        "url": "https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html",
+        "title": "What spaced repetition algorithm does Anki use? - Anki FAQs",
+        "quote": "Eases will never be decreased below 130%; SuperMemo's research has shown that eases below 130% tend to result in cards becoming due more often than is useful and annoying users."
+      }
+    ]
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "id": "floor-04-01",
+    "deck": "floor",
+    "topic": "S&P 500 construction",
+    "q": "What weighting method does the S&P 500 use?",
+    "a": "Float-adjusted market cap",
+    "accept": ["float-adjusted market capitalization", "float adjusted market cap", "float-adjusted market-cap-weighted", "float market cap weighted", "float-adjusted market cap weighted"],
+    "wrong": ["Price-weighted", "Equal-weighted", "Revenue-weighted"],
+    "explain": "Each stock's weight is its price times shares outstanding, adjusted for public float, so larger companies move the index more. Public float excludes non-trading blocks such as shares held by founders, executives or government agencies.",
+    "hook": "S&P = Size (after float).",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow", "title": "Icons: The S&P 500 and The Dow | S&P Dow Jones Indices", "quote": "The S&P 500 is a float-adjusted market-cap-weighted index. Float-adjusted market cap is a measure of company size that is calculated by multiplying a stock's price by its number of shares outstanding, adjusted for public float."},
+      {"url": "https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-brochure.pdf", "title": "S&P 500 brochure | S&P Dow Jones Indices", "quote": "It is weighted by float-adjusted market capitalization and includes liquidity and tradability criteria in the constituent selection process."}
+    ]
+  },
+  {
+    "id": "floor-04-02",
+    "deck": "floor",
+    "topic": "Dow construction",
+    "q": "What weighting method does the Dow Jones Industrial Average use?",
+    "a": "Price-weighted",
+    "accept": ["price weighted", "price weighting", "price-weighting", "price"],
+    "wrong": ["Float-adjusted market cap", "Equal-weighted", "Revenue-weighted"],
+    "explain": "In a price-weighted index, price changes in the highest-priced stocks have a greater impact on the index level than changes in lower-priced stocks. For this reason, extremely high-priced stocks have historically not been included in the Dow.",
+    "hook": "Dow = dollars per share, not company size.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow", "title": "Icons: The S&P 500 and The Dow | S&P Dow Jones Indices", "quote": "The Dow is price-weighted. This means that price changes in the highest-priced stocks have greater impact on the index level than price changes in the lower-priced stocks. This methodology has meant, over the years, that extremely high-priced stocks have not been included in The Dow."}
+    ]
+  },
+  {
+    "id": "floor-04-03",
+    "deck": "floor",
+    "topic": "Dow construction",
+    "q": "How many stocks make up the Dow Jones Industrial Average?",
+    "a": "30",
+    "accept": ["thirty", "30 stocks"],
+    "wrong": ["12", "100", "500"],
+    "explain": "The Dow has 30 constituents versus 500 for the S&P 500. The Dow started in 1896 with 12 companies.",
+    "hook": "Dow 30, S&P 500.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow", "title": "Icons: The S&P 500 and The Dow | S&P Dow Jones Indices", "quote": "The Dow S&P 500 Launch Date May 26, 1896 March 4, 1957 Constituents 30 500"},
+      {"url": "https://indexes.nasdaqomx.com/docs/NDX%20Extended%20Presentation.pdf", "title": "Nasdaq-100 Index presentation | Nasdaq Global Indexes", "quote": "1896 THE DOW 30 Industrials Starting with 12 companies capturing the rise of railroads and manufacturing."}
+    ]
+  },
+  {
+    "id": "floor-04-04",
+    "deck": "floor",
+    "topic": "Dow construction",
+    "q": "The Dow's level is calculated by dividing the sum of its component stock prices by what?",
+    "a": "Dow divisor",
+    "accept": ["the Dow divisor", "divisor", "the divisor", "index divisor"],
+    "wrong": ["Total shares outstanding", "Total public float", "The S&P 500 level"],
+    "explain": "The Dow's numerator is the sum of its component prices, divided by a divisor that is adjusted to keep the index level constant through events such as component changes. A divisor adjustment is also required when a Dow stock splits.",
+    "hook": "Sum of prices / divisor = Dow.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow", "title": "Icons: The S&P 500 and The Dow | S&P Dow Jones Indices", "quote": "Both The Dow and the S&P 500 are calculated by dividing a numerator by a divisor. In the case of The Dow, the numerator is the sum of the prices of its component stocks. ... Each index has its own divisor. Each is adjusted regularly to keep the level of its index constant. ... A divisor adjustment is also required when a stock in The Dow is split and its price is reduced."}
+    ]
+  },
+  {
+    "id": "floor-04-05",
+    "deck": "floor",
+    "topic": "Dow history",
+    "q": "In what year was the Dow Jones Industrial Average launched?",
+    "a": "1896",
+    "accept": [],
+    "wrong": ["1929", "1957", "1971"],
+    "explain": "The Dow launched on May 26, 1896, starting with 12 companies; the S&P 500 launched on March 4, 1957.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow", "title": "Icons: The S&P 500 and The Dow | S&P Dow Jones Indices", "quote": "The Dow S&P 500 Launch Date May 26, 1896 March 4, 1957"},
+      {"url": "https://indexes.nasdaqomx.com/docs/NDX%20Extended%20Presentation.pdf", "title": "Nasdaq-100 Index presentation | Nasdaq Global Indexes", "quote": "1896 THE DOW 30 Industrials Starting with 12 companies capturing the rise of railroads and manufacturing."}
+    ]
+  },
+  {
+    "id": "floor-04-06",
+    "deck": "floor",
+    "topic": "Nasdaq-100",
+    "q": "Companies from which sector are excluded from the Nasdaq-100?",
+    "a": "Financials",
+    "accept": ["financial", "financial companies", "financial sector", "financials sector"],
+    "wrong": ["Technology", "Health care", "Consumer discretionary"],
+    "explain": "The Nasdaq-100 tracks 100 of the largest non-financial companies listed on the Nasdaq Stock Market. Technology, consumer discretionary and healthcare are its top sectors.",
+    "hook": "NDX: no banks.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.nasdaq.com/newsroom/what-is-the-nasdaq-100-guide-to-one-of-worlds-most-watched-indexes", "title": "What is the Nasdaq-100? | Nasdaq", "quote": "At its core, the Nasdaq-100 tracks 100 of the largest non-financial Nasdaq-listed companies, as measured by the total market value of those companies' outstanding shares."},
+      {"url": "https://indexes.nasdaq.com/docs/Methodology_NDX.pdf", "title": "Nasdaq-100 Index Methodology", "quote": "The Nasdaq-100 Index® (the \"Index\") is designed to measure the performance of 100 of the largest Nasdaq-listed non-financial companies."}
+    ]
+  },
+  {
+    "id": "floor-04-07",
+    "deck": "floor",
+    "topic": "Nasdaq-100",
+    "q": "What weighting method does the Nasdaq-100 use?",
+    "a": "Modified market cap",
+    "accept": ["modified market capitalization", "modified market-cap", "modified market cap weighted", "modified market capitalization weighting"],
+    "wrong": ["Price-weighted", "Equal-weighted", "Revenue-weighted"],
+    "explain": "Bigger companies have more influence, but caps applied at rebalances prevent any single company from dominating the index. This distinguishes it from a pure market-cap-weighted index.",
+    "hook": "Market cap with guardrails.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://indexes.nasdaq.com/docs/Methodology_NDX.pdf", "title": "Nasdaq-100 Index Methodology", "quote": "The Index employs a modified market capitalization weighting scheme."},
+      {"url": "https://www.nasdaq.com/newsroom/what-is-the-nasdaq-100-guide-to-one-of-worlds-most-watched-indexes", "title": "What is the Nasdaq-100? | Nasdaq", "quote": "The index uses a modified market capitalization weighting method, which means bigger companies have more influence on the index's movements, but with guardrails in place to prevent any single company from dominating the whole index. This distinguishes it from a pure market-cap-weighted index and helps limit concentration among its top holdings."}
+    ]
+  },
+  {
+    "id": "floor-04-08",
+    "deck": "floor",
+    "topic": "Nasdaq-100",
+    "q": "In what year was the Nasdaq-100 index launched?",
+    "a": "1985",
+    "accept": [],
+    "wrong": ["1971", "1957", "1999"],
+    "explain": "The Nasdaq-100's inception date is January 31, 1985. It is distinct from the Nasdaq Composite, which includes every company listed on the Nasdaq Stock Market.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.nasdaq.com/newsroom/what-is-the-nasdaq-100-guide-to-one-of-worlds-most-watched-indexes", "title": "What is the Nasdaq-100? | Nasdaq", "quote": "Inception Date | January 31, 1985"},
+      {"url": "https://indexes.nasdaqomx.com/docs/NDX%20Extended%20Presentation.pdf", "title": "Nasdaq-100 Index presentation | Nasdaq Global Indexes", "quote": "1985 NASDAQ - 100 A New Blueprint"}
+    ]
+  },
+  {
+    "id": "floor-04-09",
+    "deck": "floor",
+    "topic": "Russell 2000",
+    "q": "Which market-cap segment of US equities does the Russell 2000 measure?",
+    "a": "Small-cap",
+    "accept": ["small cap", "small caps", "small-caps", "small capitalization"],
+    "wrong": ["Large-cap", "Mega-cap", "Mid-cap"],
+    "explain": "The Russell 2000 includes approximately 2,000 of the smallest securities based on market cap and current index membership, and is the default US small-cap benchmark.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.lseg.com/en/ftse-russell/indices/russell-2000-index", "title": "Russell 2000 Index | LSEG", "quote": "The Russell 2000® Index measures the performance of the small-cap segment of the US equity universe. It includes approximately 2,000 of the smallest securities based on a combination of their market cap and current index membership."}
+    ]
+  },
+  {
+    "id": "floor-04-10",
+    "deck": "floor",
+    "topic": "Russell 2000",
+    "q": "The Russell 2000 is the smaller-company portion of which broader Russell index?",
+    "a": "Russell 3000",
+    "accept": ["the Russell 3000", "Russell 3000 Index"],
+    "wrong": ["Russell 1000", "S&P 500", "Nasdaq Composite"],
+    "explain": "The Russell 3000 covers the top 3,000 US stocks by market cap; the largest 1,000 form the Russell 1000 and the next 2,000 form the Russell 2000.",
+    "hook": "1,000 + 2,000 = 3,000.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.lseg.com/content/dam/ftse-russell/en_us/documents/research/russell-2000-index-the-original-benchmark-for-us-small-caps.pdf", "title": "Russell 2000 Index: The original benchmark for US small caps | FTSE Russell", "quote": "1,000 + 2,000 = 3,000 It's really that simple The Russell 1000 ® Index —The largest 1,000 stocks by market cap ... The Russell 2000 ® Index —The next 2,000 largest stocks by market cap ... The Russell 3000 ® Index —This broad cap index of the top 3,000 US stocks by market cap"},
+      {"url": "https://www.lseg.com/en/ftse-russell/indices/russell-3000-index", "title": "Russell 3000 Index | LSEG", "quote": "The Russell 3000 Index measures the performance of approximately 3,000 stocks and includes all large-cap, mid-cap and small-cap US equities."}
+    ]
+  },
+  {
+    "id": "floor-04-11",
+    "deck": "floor",
+    "topic": "VIX",
+    "q": "Options on which index are used to calculate the Cboe Volatility Index (VIX)?",
+    "a": "S&P 500",
+    "accept": ["S&P 500 Index", "SPX", "S and P 500"],
+    "wrong": ["Dow Jones Industrial Average", "Nasdaq-100", "Russell 2000"],
+    "explain": "VIX is calculated from the prices of a range of S&P 500 call and put options. It measures implied volatility rather than changes in stock prices.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://cdn.cboe.com/resources/indices/Volatility_Index_Methodology_Cboe_Volatility_Index.pdf", "title": "Cboe Volatility Index Methodology", "quote": "The Cboe Volatility Index (VIX) is designed to measure the market's expectation of 30-day forward looking volatility of the U.S. equity market, as conveyed by S&P 500 Index option prices."},
+      {"url": "https://www.spglobal.com/spdji/en/vix-intro/", "title": "VIX | S&P Dow Jones Indices", "quote": "The options used to calculate VIX are put and call options on the S&P 500."}
+    ]
+  },
+  {
+    "id": "floor-04-12",
+    "deck": "floor",
+    "topic": "VIX",
+    "q": "The VIX measures expected S&P 500 volatility over how many days?",
+    "a": "30",
+    "accept": ["30 days", "thirty", "thirty days"],
+    "wrong": ["7", "90", "365"],
+    "explain": "VIX is a forward-looking measure of expected volatility implied by S&P 500 option prices, in contrast to realized volatility based on historical prices. It is quoted as an annualized number.",
+    "hook": "VIX looks one month ahead.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://cdn.cboe.com/resources/indices/Volatility_Index_Methodology_Cboe_Volatility_Index.pdf", "title": "Cboe Volatility Index Methodology", "quote": "The VIX Index measures 30-day expected volatility of the S&P 500 Index."},
+      {"url": "http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-faqs", "title": "Cboe VIX FAQ", "quote": "The VIX Index measures the level of expected volatility of the S&P 500 Index over the next 30 days that is implied in the bid/ask quotations of SPX options. Thus, the VIX Index is a forward looking measure, in contrast to realized (or actual) volatility, which measures the variability of historical (or known) prices."},
+      {"url": "https://www.spglobal.com/spdji/en/vix-intro/", "title": "VIX | S&P Dow Jones Indices", "quote": "VIX is reported as an annualized number."}
+    ]
+  },
+  {
+    "id": "floor-04-13",
+    "deck": "floor",
+    "topic": "VIX",
+    "q": "What nickname is the VIX often given in the financial press?",
+    "a": "Fear gauge",
+    "accept": ["the fear gauge", "fear index", "the fear index"],
+    "wrong": ["Greed index", "Big Board", "Main Street index"],
+    "explain": "Cboe notes the VIX is often called the 'fear gauge' in leading financial publications and business news shows. A high VIX indicates high expected volatility.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://cdn.cboe.com/resources/indices/Volatility_Index_Methodology_Cboe_Volatility_Index.pdf", "title": "Cboe Volatility Index Methodology", "quote": "It is regularly featured in the Wall Street Journal, Barron's, and other leading financial publications, as well as business news shows on CNBC, Bloomberg TV, and CNN/Money, where the VIX Index is often referred to as the \"fear gauge.\""},
+      {"url": "https://corporatefinanceinstitute.com/resources/capital_markets/vix-volatility-index/", "title": "VIX - Definition, Overview of the CBOE Volatility Index | CFI", "quote": "The Chicago Board Options Exchange (CBOE) created the VIX ( CBOE Volatility Index ) to measure the 30-day expected volatility of the US stock market , sometimes called the \"fear index\". ... A high VIX indicates high expected volatility, and a low VIX number indicates low expected volatility."}
+    ]
+  },
+  {
+    "id": "floor-04-14",
+    "deck": "floor",
+    "topic": "VIX",
+    "q": "In what year did Cboe introduce the VIX?",
+    "a": "1993",
+    "accept": [],
+    "wrong": ["1973", "1987", "2008"],
+    "explain": "The original 1993 VIX was based on S&P 100 option prices; in 2003 Cboe and Goldman Sachs updated it to use S&P 500 options.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://cdn.cboe.com/resources/indices/Volatility_Index_Methodology_Cboe_Volatility_Index.pdf", "title": "Cboe Volatility Index Methodology", "quote": "In 1993, Cboe Global Markets, Incorporated® (Cboe®) introduced the Cboe Volatility Index® (VIX® Index). Originally designed to measure the market's expectation of 30-day volatility implied by at-the-money S&P 100® Index (OEX® Index) option prices ... Ten years later in 2003, Cboe collaborated with Goldman Sachs to update the VIX Index. ... The new VIX Index is based on the S&P 500® Index"},
+      {"url": "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/rfbr-moran-vix-volatility.pdf", "title": "The VIX Index and Volatility-Based Global Indexes and Trading Instruments | CFA Institute Research Foundation", "quote": "In 1993, the Chicago Board Options Exchange® (now known as Cboe®) introduced the original version of the VIX Index to measure the market's expectation of 30-day volatility of the S&P 100 Index as implied by the prices of at-the-money options"}
+    ]
+  },
+  {
+    "id": "floor-04-15",
+    "deck": "floor",
+    "topic": "Valuation",
+    "q": "The P/E ratio is the current stock price divided by what?",
+    "a": "Earnings per share",
+    "accept": ["EPS", "earnings per share (EPS)", "earnings-per-share"],
+    "wrong": ["Book value per share", "Dividends per share", "Revenue per share"],
+    "explain": "P/E gauges whether a stock price is high or low compared to the past or to other companies. In the SEC's definition, EPS is the past 12 months' earnings divided by common shares outstanding.",
+    "hook": "P over E: Price over Earnings.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/price-earnings-pe-ratio", "title": "Price-earnings (P/E) Ratio | Investor.gov", "quote": "A company's P/E ratio is a way of gauging whether the stock price is high or low compared to the past or to other companies. The ratio is calculated by dividing the current stock price by the current earnings per share. Earnings per share are calculated by dividing the earnings for the past 12 months by the number of common shares outstanding."}
+    ]
+  },
+  {
+    "id": "floor-04-16",
+    "deck": "floor",
+    "topic": "Market cycles",
+    "q": "A bear market is generally defined as a decline of at least what percentage in a broad market index?",
+    "a": "20%",
+    "accept": ["20", "20 percent", "twenty percent"],
+    "wrong": ["5%", "10%", "50%"],
+    "explain": "The SEC's Investor.gov describes a bear market as a broad index falling 20% or more over at least a two-month period. A 10% drop is generally called a correction.",
+    "hook": "Bear = 20 down; correction = 10 down.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/bear-market", "title": "Bear Market | Investor.gov", "quote": "A time when stock prices are declining and market sentiment is pessimistic. Generally, a bear market occurs when a broad market index falls by 20% or more over at least a two-month period."},
+      {"url": "https://www.finra.org/investors/insights/key-terms-tough-times-vocabulary-stressed-markets", "title": "Key Terms for Tough Times: The Vocabulary of Stressed Markets | FINRA.org", "quote": "Generally, a decline of 20 percent or more in a broad market index is said to meet the threshold of a bear market."}
+    ]
+  },
+  {
+    "id": "floor-04-17",
+    "deck": "floor",
+    "topic": "Market cycles",
+    "q": "A market correction is generally defined as a decline of at least what percentage from a recent high?",
+    "a": "10%",
+    "accept": ["10", "10 percent", "ten percent"],
+    "wrong": ["2%", "20%", "50%"],
+    "explain": "A correction is commonly described as a drop of at least 10% but less than 20% from recent highs; a drop of 20% or more is a bear market.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.finra.org/investors/insights/key-terms-tough-times-vocabulary-stressed-markets", "title": "Key Terms for Tough Times: The Vocabulary of Stressed Markets | FINRA.org", "quote": "Correction: A correction is when stocks, bonds, commodities or indices reverse course by at least 10 percent before resuming their previous upward or downward trend."},
+      {"url": "https://corporatefinanceinstitute.com/resources/capital_markets/market-correction", "title": "Market Correction - Overview, How It Works, How To Prepare | CFI", "quote": "A market correction is described as a drop of at least 10% but less than 20% in a stock market index from recent highs."}
+    ]
+  },
+  {
+    "id": "floor-04-18",
+    "deck": "floor",
+    "topic": "Short selling",
+    "q": "In theory, how large can the loss on a short sale of a stock be?",
+    "a": "Unlimited",
+    "accept": ["infinite", "unlimited loss", "no limit"],
+    "wrong": ["Limited to the amount invested", "Limited to the premium paid", "Zero"],
+    "explain": "A short seller sells borrowed shares and must later buy them back; because a stock can theoretically keep rising indefinitely, the potential loss is unlimited, unlike a long position where risk is limited to the amount invested.",
+    "hook": "Price has no ceiling, so neither does the short's loss.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-51", "title": "Investor Bulletin: An Introduction to Short Sales | Investor.gov", "quote": "Unlike a traditional long position — when risk is limited to the amount invested — shorting a stock leaves an investor open to the possibility of unlimited losses, since a stock can theoretically keep rising indefinitely ."},
+      {"url": "https://www.sec.gov/investor/pubs/regsho.htm", "title": "Key Points About Regulation SHO | SEC", "quote": "Unlike a traditional long position — when risk is limited to the amount invested — shorting a stock leaves an investor open to the possibility of unlimited losses, since a stock can theoretically keep rising indefinitely."}
+    ]
+  },
+  {
+    "id": "floor-04-19",
+    "deck": "floor",
+    "topic": "Options",
+    "q": "A call option gives its buyer the right to do what with the underlying stock at the strike price?",
+    "a": "Buy it",
+    "accept": ["buy", "purchase", "buy the stock", "purchase it"],
+    "wrong": ["Sell it", "Short it", "Lend it"],
+    "explain": "A call gives the buyer the right to buy shares at the strike price for a specified period; the call seller is obligated to sell if the buyer exercises. A put gives the right to sell.",
+    "hook": "Call it up to you (buy); put it away (sell).",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-63", "title": "An Introduction to Options – Investor Bulletin | Investor.gov", "quote": "A call option is a contract that gives the buyer the right to buy shares of an underlying stock at the strike price (discussed below) for a specified period of time.  Conversely, the seller of the call option is obligated to sell those shares to the buyer of the call option who exercises his or her option to buy on or before the expiration date."},
+      {"url": "https://www.sec.gov/oiea/investor-alerts-bulletins/ib_introductionoptions", "title": "Investor Bulletin: An Introduction to Options | SEC", "quote": "A put option is a contract that gives the buyer the right to sell shares of an underlying stock at the strike price for a specified period of time."}
+    ]
+  },
+  {
+    "id": "floor-04-20",
+    "deck": "floor",
+    "topic": "Options",
+    "q": "A put option is in-the-money when its strike price is above or below the stock price?",
+    "a": "Above",
+    "accept": ["above the stock price", "higher", "greater"],
+    "wrong": ["Below", "Equal to", "Unrelated to"],
+    "explain": "A put lets the buyer sell at the strike, so it has intrinsic value when the strike is above the market price. A call is in-the-money when the strike is below the stock price.",
+    "hook": "Right to sell high: put strike sits above.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.sec.gov/oiea/investor-alerts-bulletins/ib_introductionoptions", "title": "Investor Bulletin: An Introduction to Options | SEC", "quote": "A call option is in-the-money if the strike price is below the actual stock price; A put option is in-the-money if the strike price is above the actual stock price."},
+      {"url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-63", "title": "An Introduction to Options – Investor Bulletin | Investor.gov", "quote": "A call option is in-the-money if the strike price is below the actual stock price; A put option is in-the-money if the strike price is above the actual stock price."}
+    ]
+  },
+  {
+    "id": "floor-04-21",
+    "deck": "floor",
+    "topic": "Circuit breakers",
+    "q": "A single-day S&P 500 decline of what percentage triggers a Level 1 market-wide circuit breaker?",
+    "a": "7%",
+    "accept": ["7", "7 percent", "seven percent"],
+    "wrong": ["5%", "10%", "13%"],
+    "explain": "The three thresholds are 7% (Level 1), 13% (Level 2) and 20% (Level 3), measured against the prior day's S&P 500 close. A Level 1 or 2 trigger before 3:25 p.m. halts market-wide trading for 15 minutes.",
+    "hook": "7-13-20.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/stock-market-circuit-breakers", "title": "Stock Market Circuit Breakers | Investor.gov", "quote": "A cross-market trading halt can be triggered at three circuit breaker thresholds—7% (Level 1), 13% (Level 2), and 20% (Level 3).  These triggers are set by the markets at point levels that are calculated daily based on the prior day's closing price of the S&P 500 Index. A market decline that triggers a Level 1 or Level 2 circuit breaker before 3:25 p.m. will halt market-wide trading for 15 minutes"},
+      {"url": "https://www.sec.gov/investor/alerts/circuitbreakersbulletin.htm", "title": "Investor Bulletin: New Measures to Address Market Volatility | SEC", "quote": "A cross-market trading halt can be triggered at three circuit breaker thresholds—7% (Level 1), 13% (Level 2), and 20% (Level 3)."}
+    ]
+  },
+  {
+    "id": "floor-04-22",
+    "deck": "floor",
+    "topic": "Circuit breakers",
+    "q": "How long does a Level 3 market-wide circuit breaker halt trading?",
+    "a": "Rest of the day",
+    "accept": ["rest of day", "remainder of the day", "remainder of the trading day", "rest of the trading day", "for the rest of the day"],
+    "wrong": ["15 minutes", "1 hour", "1 week"],
+    "explain": "A Level 3 trigger (a 20% S&P 500 decline) at any time during the trading day halts market-wide trading for the remainder of the day.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/stock-market-circuit-breakers", "title": "Stock Market Circuit Breakers | Investor.gov", "quote": "A market decline that triggers a Level 3 circuit breaker, at any time during the trading day, will halt market-wide trading for the remainder of the trading day."},
+      {"url": "https://www.sec.gov/investor/alerts/circuitbreakersbulletin.htm", "title": "Investor Bulletin: New Measures to Address Market Volatility | SEC", "quote": "A market decline that triggers a Level 3 circuit breaker, at any time during the trading day, will halt market-wide trading for the remainder of the trading day."}
+    ]
+  },
+  {
+    "id": "floor-04-23",
+    "deck": "floor",
+    "topic": "Crash of 1929",
+    "q": "On what date was Black Tuesday, the final day of the 1929 stock market crash?",
+    "a": "October 29, 1929",
+    "accept": ["Oct 29, 1929", "October 29 1929", "10/29/1929", "29 October 1929"],
+    "wrong": ["October 19, 1929", "November 29, 1929", "October 29, 1931"],
+    "explain": "Over four business days from Black Thursday (October 24) to Black Tuesday (October 29), the Dow fell from 305.85 to 230.07, about 25%. On Black Tuesday more than 16 million shares were traded.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/event/stock-market-crash-of-1929", "title": "Stock market crash of 1929 | Britannica", "quote": "Over the course of four business days—Black Thursday (October 24) through Black Tuesday (October 29)—the Dow Jones Industrial Average dropped from 305.85 points to 230.07 points, representing a decrease in stock prices of 25 percent. ... On Black Tuesday (October 29) more than 16 million shares were traded."},
+      {"url": "https://guides.loc.gov/this-month-in-business-history/october/black-monday-stock-market-crash", "title": "The Black Monday Stock Market Crash | Library of Congress", "quote": "Just as the stock market crash of October 29, 1929, has forever come to be remembered as \"Black Tuesday,\" so October 19, 1987, has come to be known as \"Black Monday.\""}
+    ]
+  },
+  {
+    "id": "floor-04-24",
+    "deck": "floor",
+    "topic": "Black Monday 1987",
+    "q": "By what percentage did the Dow fall on Black Monday, October 19, 1987?",
+    "a": "22.6%",
+    "accept": ["22.6", "22.6 percent"],
+    "wrong": ["7.0%", "12.8%", "50.0%"],
+    "explain": "The Dow finished down 508 points, or 22.6%, in a single session. In response, US exchanges established the first market-wide circuit breakers, approved by the SEC in 1988.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987", "title": "Stock Market Crash of 1987 | Federal Reserve History", "quote": "In the United States, the DJIA crashed at the opening bell and eventually finished down 508 points, or 22.6 percent."},
+      {"url": "https://www.nyse.com/publicdocs/nyse/markets/nyse/Report_of_the_Market-Wide_Circuit_Breaker_Working_Group.pdf", "title": "Report of the Market-Wide Circuit Breaker Working Group Regarding the March 2020 MWCB Events | NYSE", "quote": "On October 19, 1987, the DJIA declined 22.6%. In response, U.S. exchanges established the first \"circuit breakers,\" ... This original circuit breakers mechanism, approved by the SEC in 1988"},
+      {"url": "https://guides.loc.gov/this-month-in-business-history/october/black-monday-stock-market-crash", "title": "The Black Monday Stock Market Crash | Library of Congress", "quote": "the Dow Jones Industrial Average (DJIA) dropped 508 points, or 22.6% of its value."}
+    ]
+  },
+  {
+    "id": "floor-04-25",
+    "deck": "floor",
+    "topic": "Dot-com bubble",
+    "q": "At what level did the Nasdaq Composite peak in March 2000 at the height of the dot-com bubble?",
+    "a": "5,048",
+    "accept": ["5048", "about 5,048", "~5,048"],
+    "wrong": ["1,139", "10,000", "2,500"],
+    "explain": "Between March 2000 and October 2002 the Nasdaq fell from 5,048 to 1,139, erasing nearly all of its dot-com gains.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/money/dot-com-bubble", "title": "Dot-com Bubble & Bust | Britannica Money", "quote": "Between March 2000 and October 2002, the Nasdaq fell from 5,048 to 1,139, erasing nearly all of its gains during the dot-com bubble."},
+      {"url": "https://www.goldmansachs.com/our-firm/history/moments/2000-dot-com-bubble", "title": "The Late 1990s Dot-Com Bubble Implodes in 2000 | Goldman Sachs", "quote": "The Nasdaq index rose 86% in 1999 alone, and peaked on March 10, 2000, at 5,048 units."}
+    ]
+  },
+  {
+    "id": "floor-04-26",
+    "deck": "floor",
+    "topic": "2008 financial crisis",
+    "q": "On what date did Lehman Brothers file for bankruptcy?",
+    "a": "September 15, 2008",
+    "accept": ["Sept 15, 2008", "Sep 15, 2008", "September 15 2008", "9/15/2008", "15 September 2008"],
+    "wrong": ["March 16, 2008", "October 29, 2008", "September 15, 2007"],
+    "explain": "Lehman's Chapter 11 filing was the largest bankruptcy in US history and a pivotal event of the 2007-08 financial crisis. The next day, AIG received support from the New York Fed.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/event/bankruptcy-of-Lehman-Brothers", "title": "Bankruptcy of Lehman Brothers | Britannica", "quote": "The collapse of Lehman Brothers on September 15, 2008, marked the largest bankruptcy in U.S. history and a pivotal event in the 2007–08 financial crisis."},
+      {"url": "https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/Support-for-Specific-Institutions-_-Federal-Reserve-History.pdf", "title": "Support for Specific Institutions | Federal Reserve History", "quote": "Lehman Brothers, an investment bank, filed for bankruptcy on September 15, 2008. The next day, AIG, a large insurance and financial services company received support from the FRBNY."},
+      {"url": "https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1000&context=journal-of-financial-crises", "title": "The Lehman Brothers Bankruptcy A: Overview | Yale Program on Financial Stability", "quote": "On September 15, 2008, Lehman Brothers Holdings, Inc., the fourth-largest U.S. investment bank, sought Chapter 11 protection, initiating the largest bankruptcy proceeding in U.S. history."}
+    ]
+  },
+  {
+    "id": "floor-04-27",
+    "deck": "floor",
+    "topic": "COVID crash 2020",
+    "q": "How many market-wide circuit breaker trading halts occurred in March 2020?",
+    "a": "Four",
+    "accept": ["4", "four halts"],
+    "wrong": ["One", "Two", "Seven"],
+    "explain": "The volatility of March 2020 produced four market-wide trading halts, which the exchanges and FINRA later studied at the SEC's request.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.nyse.com/publicdocs/nyse/markets/nyse/Report_of_the_Market-Wide_Circuit_Breaker_Working_Group.pdf", "title": "Report of the Market-Wide Circuit Breaker Working Group Regarding the March 2020 MWCB Events | NYSE", "quote": "On September 17, 2020, the Director of the Securities Exchange Commission's (\"SEC\") Division of Trading and Markets formally asked the national securities exchanges and FINRA (collectively, \"SROs\") to conduct a study of the volatility events of March 2020 that resulted in four market-wide trading halts prescribed by common SRO rules governing Market Wide Circuit Breakers (\"MWCB\")."},
+      {"url": "https://www.sec.gov/files/rules/sro/nyse/2021/34-92428-ex3.pdf", "title": "Report of the MWCB Working Group (SEC filing exhibit)", "quote": "to conduct a study of the volatility events of March 2020 that resulted in four market-wide trading halts prescribed by common SRO rules governing Market Wide Circuit Breakers (\"MWCB\")."}
+    ]
+  }
+]

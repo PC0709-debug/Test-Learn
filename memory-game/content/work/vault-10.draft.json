@@ -1,0 +1,405 @@
+[
+  {
+    "id": "vault-10-01",
+    "deck": "vault",
+    "topic": "Accretion/dilution",
+    "q": "What is a deal called when the acquirer's pro forma EPS is greater than its standalone EPS before the deal?",
+    "a": "Accretive",
+    "accept": ["accretive deal", "accretion", "accretive acquisition"],
+    "wrong": ["Dilutive", "Breakeven", "Leveraged"],
+    "explain": "An accretive deal raises the buyer's post-deal EPS; a dilutive deal lowers it. Pro forma EPS equal to standalone EPS is breakeven.",
+    "hook": "Accrete = add on; the EPS grows.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/accretion-dilution/", "title": "Accretion Dilution Analysis - Definition, Affect Merger", "quote": "An accretive acquisition or merger is one where the pro forma (post-deal) Earnings per Share is greater than the acquirer's (buyer's) EPS before the deal is made."},
+      {"url": "https://www.wallstreetprep.com/knowledge/merger-model", "title": "Merger Model | M&A Training Tutorial + Excel Template", "quote": "Accretive Merger → Increase in Pro Forma EPS"}
+    ]
+  },
+  {
+    "id": "vault-10-02",
+    "deck": "vault",
+    "topic": "Accretion/dilution",
+    "q": "If an acquirer's standalone EPS is $2.00 and its pro forma EPS is $2.20, what is the percentage EPS accretion?",
+    "a": "10%",
+    "accept": ["10", "10 percent", "10.0%", "0.10"],
+    "wrong": ["20%", "9.1%", "1.1%"],
+    "explain": "Accretion/(dilution) = (pro forma EPS / standalone EPS) - 1, so $2.20 / $2.00 - 1 = 10%.",
+    "hook": "Divide new by old, then subtract one.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/merger-model", "title": "Merger Model | M&A Training Tutorial + Excel Template", "quote": "EPS Accretion / (Dilution) = (Pro Forma EPS ÷ Standalone EPS) – 1"}
+    ]
+  },
+  {
+    "id": "vault-10-03",
+    "deck": "vault",
+    "topic": "Cost of stock",
+    "q": "In the accretion/dilution rule of thumb, the acquirer's after-tax cost of issuing stock equals the reciprocal of which multiple?",
+    "a": "P/E",
+    "accept": ["P/E multiple", "price-to-earnings", "price to earnings", "PE", "P/E ratio"],
+    "wrong": ["EV/EBITDA", "EV/Revenue", "Price-to-book"],
+    "explain": "The cost of stock is 1 / the buyer's P/E multiple, i.e. the after-tax profit each buyer share generates relative to its price.",
+    "hook": "Flip the P/E to get the earnings yield.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution", "title": "EPS Accretion Dilution – Rules of Thumb for Merger Models", "quote": "After-Tax Cost of Issuing Stock = 1 / Buyer's P/E Multiple (i.e., take the reciprocal of the buyer's P/E multiple )"}
+    ]
+  },
+  {
+    "id": "vault-10-04",
+    "deck": "vault",
+    "topic": "Cost of stock",
+    "q": "Using the rule of thumb, what is the cost of stock for an acquirer trading at a P/E multiple of 20x?",
+    "a": "5%",
+    "accept": ["5", "5 percent", "5.0%", "0.05"],
+    "wrong": ["20%", "2%", "10%"],
+    "explain": "Cost of stock = 1 / P/E, so 1 / 20 = 5%.",
+    "hook": "1 over 20 = 5%.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution", "title": "EPS Accretion Dilution – Rules of Thumb for Merger Models", "quote": "After-Tax Cost of Issuing Stock = 1 / Buyer's P/E Multiple (i.e., take the reciprocal of the buyer's P/E multiple )"}
+    ]
+  },
+  {
+    "id": "vault-10-05",
+    "deck": "vault",
+    "topic": "Cost of debt",
+    "q": "What is the after-tax cost of new acquisition debt with an 8% interest rate if the buyer's tax rate is 25%?",
+    "a": "6%",
+    "accept": ["6", "6 percent", "6.0%", "0.06"],
+    "wrong": ["8%", "2%", "10%"],
+    "explain": "After-tax cost of debt = interest rate on debt x (1 - buyer's tax rate) = 8% x 75% = 6%.",
+    "hook": "Interest is tax-deductible, so shave off the tax rate.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution", "title": "EPS Accretion Dilution – Rules of Thumb for Merger Models", "quote": "After-Tax Cost of Debt = Interest Rate on Debt * (1 – Buyer's Tax Rate)"}
+    ]
+  },
+  {
+    "id": "vault-10-06",
+    "deck": "vault",
+    "topic": "Accretion/dilution",
+    "q": "In the accretion/dilution rule of thumb, the seller's yield equals the seller's net income divided by what?",
+    "a": "Equity purchase price",
+    "accept": ["purchase price", "the equity purchase price", "equity value paid"],
+    "wrong": ["Enterprise value", "Seller's revenue", "Buyer's share price"],
+    "explain": "Seller's yield = seller's net income / equity purchase price, which is compared against the buyer's weighted cost of acquisition.",
+    "hook": "Yield = what you earn / what you paid for the equity.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution", "title": "EPS Accretion Dilution – Rules of Thumb for Merger Models", "quote": "Seller's Yield = Seller's Net Income / Equity Purchase Price."}
+    ]
+  },
+  {
+    "id": "vault-10-07",
+    "deck": "vault",
+    "topic": "Accretion/dilution",
+    "q": "If the buyer's weighted cost of acquisition is higher than the seller's yield, is the deal accretive or dilutive?",
+    "a": "Dilutive",
+    "accept": ["dilution", "dilutive deal"],
+    "wrong": ["Accretive", "Breakeven", "Neither"],
+    "explain": "When the buyer's weighted cost of acquisition exceeds the seller's yield, the deal is dilutive; if the seller's yield is higher, it is accretive.",
+    "hook": "Paying more than you earn dilutes.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution", "title": "EPS Accretion Dilution – Rules of Thumb for Merger Models", "quote": "If the Weighted Cost of Acquisition is higher than the Seller's Yield, the deal will be dilutive ; otherwise, if the Seller's Yield is higher, it will be accretive ."}
+    ]
+  },
+  {
+    "id": "vault-10-08",
+    "deck": "vault",
+    "topic": "Accretion/dilution",
+    "q": "A deal is funded 50% with cash (after-tax cost 3%) and 50% with stock (cost 5%); what is the buyer's weighted cost of acquisition?",
+    "a": "4%",
+    "accept": ["4", "4 percent", "4.0%", "0.04"],
+    "wrong": ["8%", "3%", "5%"],
+    "explain": "Weighted cost = 3% x 50% + 5% x 50% = 4%. Against a seller's yield above 4%, the deal would be accretive.",
+    "hook": "Halfway between 3 and 5.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution", "title": "EPS Accretion Dilution – Rules of Thumb for Merger Models", "quote": "Weighted Cost of Acquisition = After-Tax Cost of Cash * % Cash Used + After-Tax Cost of Debt * % Debt Used + Cost of Stock * % Stock Used"}
+    ]
+  },
+  {
+    "id": "vault-10-09",
+    "deck": "vault",
+    "topic": "Forms of consideration",
+    "q": "From a financial perspective, which funding source is described as the lowest-cost way for an acquirer to pay for a deal?",
+    "a": "Cash",
+    "accept": ["cash on hand", "existing cash"],
+    "wrong": ["Stock", "Debt", "Preferred stock"],
+    "explain": "Each funding source has a different cost, and acquirers want to use cash, the lowest-cost source, as much as possible.",
+    "hook": "Cash only gives up a little interest income.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models", "title": "Merger Model Tutorials", "quote": "Each funding source has a different “cost,” so from a financial perspective, acquirers want to use the lowest-cost funding source (Cash) as much as possible."}
+    ]
+  },
+  {
+    "id": "vault-10-10",
+    "deck": "vault",
+    "topic": "Accretion/dilution",
+    "q": "Which income statement metric reflects the full impact of deal financing, including foregone interest on cash, new interest expense and new shares?",
+    "a": "EPS",
+    "accept": ["earnings per share", "diluted EPS"],
+    "wrong": ["EBITDA", "Revenue", "Operating income"],
+    "explain": "EPS = net income / shares outstanding, and net income includes interest income and expense, so EPS captures cash, debt and stock financing effects.",
+    "hook": "Only EPS sees the share count.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models", "title": "Merger Model Tutorials", "quote": "EPS accretion/dilution is significant because Earnings per Share (EPS) is the only Income Statement metric that reflects the full impact of the deal financing: Foregone Interest Income on Cash Used, Interest Expense on Debt Used, and the additional shares from Stock Issued."}
+    ]
+  },
+  {
+    "id": "vault-10-11",
+    "deck": "vault",
+    "topic": "Synergies",
+    "q": "Cross-selling each company's products to the other company's customers is an example of which type of synergy?",
+    "a": "Revenue synergy",
+    "accept": ["revenue synergies", "revenue"],
+    "wrong": ["Cost synergy", "Financial synergy", "Tax synergy"],
+    "explain": "Revenue synergies are extra revenue the combined company generates beyond what the two firms could separately, e.g. from cross-selling or new markets.",
+    "hook": "Cross-sell = more sales = revenue.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/synergies-revenue-cost", "title": "Synergies in M&A | Formula + Calculator", "quote": "Revenue synergies can arise from cross-selling the products of each company to the customers of the other, entering new markets or geographies by utilizing the expanded reach of the combined firm, developing new products by merging capabilities, and increasing prices through enhanced pricing power and market reach."}
+    ]
+  },
+  {
+    "id": "vault-10-12",
+    "deck": "vault",
+    "topic": "Synergies",
+    "q": "Which type of synergy is generally considered easier to estimate and achieve?",
+    "a": "Cost synergies",
+    "accept": ["cost synergy", "cost", "cost savings"],
+    "wrong": ["Revenue synergies", "Cross-selling synergies", "Pricing synergies"],
+    "explain": "Cost synergies come from eliminating redundancies and are considered easier to estimate and achieve; revenue synergies are more speculative and take longer.",
+    "hook": "Cutting costs is in your control; customers are not.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/synergies-revenue-cost", "title": "Synergies in M&A | Formula + Calculator", "quote": "Cost synergies are considered easier to estimate and achieve compared to revenue synergies."}
+    ]
+  },
+  {
+    "id": "vault-10-13",
+    "deck": "vault",
+    "topic": "Synergies",
+    "q": "Assuming a 60% gross margin, how much pre-tax profit do $10 million of revenue synergies contribute?",
+    "a": "$6 million",
+    "accept": ["6 million", "$6m", "6m", "$6.0 million", "6"],
+    "wrong": ["$10 million", "$4 million", "$16 million"],
+    "explain": "Revenue synergies are reduced by the margin assumption before being taxed: $10 million x 60% = $6 million. Cost synergies, by contrast, flow through with only a tax adjustment.",
+    "hook": "Revenue synergies pay for their own costs first.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/synergies-revenue-cost", "title": "Synergies in M&A | Formula + Calculator", "quote": "In comparison, revenue synergies are reduced by the margin assumption prior to being taxed."}
+    ]
+  },
+  {
+    "id": "vault-10-14",
+    "deck": "vault",
+    "topic": "Stock vs asset deals",
+    "q": "In a taxable asset purchase, what kind of tax basis does the acquirer receive in the acquired net assets?",
+    "a": "Stepped-up basis",
+    "accept": ["step-up", "stepped up basis", "step up in basis", "stepped-up tax basis", "cost basis"],
+    "wrong": ["Carryover basis", "Zero basis", "Historical book basis"],
+    "explain": "In a taxable asset purchase, acquired net assets are written up (or down) from the seller's tax basis to fair value on the acquirer's tax balance sheet, creating extra depreciation and amortization deductions.",
+    "hook": "Buy the assets, step up the basis.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://macabacus.com/accounting/types-of-acquisitions", "title": "Asset and Stock Deals - Examples, Templates | Macabacus", "quote": "A major tax advantage to the acquirer of structuring a transaction as a taxable asset purchase is that the acquirer receives stepped-up tax basis in the target's net assets (assets minus liabilities)."},
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/asset-purchase-vs-stock-purchase", "title": "Asset Purchase vs Stock Purchase - Pro/Cons Reasons for Each Type", "quote": "A major tax advantage is that the buyer can “step up” the basis of many assets over their current tax values and obtain tax deductions for depreciation and/or amortization."}
+    ]
+  },
+  {
+    "id": "vault-10-15",
+    "deck": "vault",
+    "topic": "Stock vs asset deals",
+    "q": "In a stock acquisition without a Section 338 election, what tax basis does the buyer take in the target's assets?",
+    "a": "Carryover basis",
+    "accept": ["carryover", "carry-over basis", "carry over basis", "seller's existing basis"],
+    "wrong": ["Stepped-up basis", "Fair value basis", "Zero basis"],
+    "explain": "In a stock deal the buyer assumes the seller's existing tax basis in the acquired net assets; the target's asset basis stays the same.",
+    "hook": "Stock deal: the old basis carries over.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://macabacus.com/accounting/types-of-acquisitions", "title": "Asset and Stock Deals - Examples, Templates | Macabacus", "quote": "The acquirer does not receive a stepped-up tax basis in the acquired net assets but, rather, a carryover basis."},
+      {"url": "https://www.ftb.ca.gov/tax-pros/procedures/s-corp-handbook/s-corp-chapter-16.pdf", "title": "S Corp Chapter 16 (California Franchise Tax Board)", "quote": "The basis of the assets held by the target corporation (now ow­ ned by the new shareholder) stays the same."}
+    ]
+  },
+  {
+    "id": "vault-10-16",
+    "deck": "vault",
+    "topic": "Step-up in basis",
+    "q": "Over how many years is tax-deductible goodwill from an asset purchase amortized for U.S. tax purposes?",
+    "a": "15",
+    "accept": ["15 years", "fifteen", "fifteen years"],
+    "wrong": ["10", "5", "40"],
+    "explain": "Goodwill from an asset sale or 338 election is tax-deductible and amortized over 15 years under IRC Section 197; goodwill from a plain stock sale is not tax-deductible.",
+    "hook": "Asset deal goodwill: 15 years of tax shields.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://macabacus.com/accounting/types-of-acquisitions", "title": "Asset and Stock Deals - Examples, Templates | Macabacus", "quote": "Tax-deductible and amortized over 15 years for tax purposes under IRC Section 197."},
+      {"url": "https://www.wallstreetprep.com/knowledge/goodwill-amortization-difference-gaap-tax-accounting/", "title": "Goodwill Amortization | GAAP vs. Tax Accounting Criteria", "quote": "Asset Sale/338 : Any goodwill created in an acquisition structured as an asset sale/338 is tax-deductible and amortizable over 15 years, along with other intangible assets that fall under IRC section 197."}
+    ]
+  },
+  {
+    "id": "vault-10-17",
+    "deck": "vault",
+    "topic": "Step-up in basis",
+    "q": "Which Internal Revenue Code section governs the 15-year tax amortization of goodwill created in an asset purchase?",
+    "a": "Section 197",
+    "accept": ["197", "IRC 197", "IRC Section 197", "Sec. 197"],
+    "wrong": ["Section 338", "Section 368", "Section 1060"],
+    "explain": "Goodwill and other Section 197 intangibles acquired in an asset sale or 338 election are amortized over 15 years for tax purposes.",
+    "hook": "197 intangibles, 15 years.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://macabacus.com/accounting/types-of-acquisitions", "title": "Asset and Stock Deals - Examples, Templates | Macabacus", "quote": "Tax-deductible and amortized over 15 years for tax purposes under IRC Section 197."},
+      {"url": "https://www.wallstreetprep.com/knowledge/goodwill-amortization-difference-gaap-tax-accounting/", "title": "Goodwill Amortization | GAAP vs. Tax Accounting Criteria", "quote": "Asset Sale/338 : Any goodwill created in an acquisition structured as an asset sale/338 is tax-deductible and amortizable over 15 years, along with other intangible assets that fall under IRC section 197."}
+    ]
+  },
+  {
+    "id": "vault-10-18",
+    "deck": "vault",
+    "topic": "338(h)(10) election",
+    "q": "A Section 338(h)(10) election treats a stock acquisition as what for U.S. federal income tax purposes?",
+    "a": "Asset acquisition",
+    "accept": ["asset purchase", "asset sale", "an asset acquisition", "deemed asset sale"],
+    "wrong": ["Tax-free reorganization", "Stock redemption", "Partnership merger"],
+    "explain": "Section 338 elections let a buyer acquire stock for legal purposes while getting the tax treatment, including the basis step-up, of an asset acquisition.",
+    "hook": "Legally stock, taxed like assets.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/section-338/", "title": "Section 338 - What it is, Implications, S Corporation", "quote": "These elections treat a stock acquisition as an asset acquisition for federal income tax purposes."},
+      {"url": "https://uk.practicallaw.thomsonreuters.com/9-382-3203?contextData=(sc.Default)&transitionType=Default", "title": "Section 338(h)(10) Election | Practical Law", "quote": "An election to treat a stock acquisition of the target corporation generally as an asset acquisition for US federal income tax purposes."}
+    ]
+  },
+  {
+    "id": "vault-10-19",
+    "deck": "vault",
+    "topic": "338(h)(10) election",
+    "q": "A qualified stock purchase (QSP), required for a Section 338 election, requires buying at least what percentage of the target's total voting power and value?",
+    "a": "80%",
+    "accept": ["80", "80 percent", "eighty percent"],
+    "wrong": ["50%", "51%", "100%"],
+    "explain": "A QSP is the purchase of at least 80% of the total voting power and value of a corporation's stock by another corporation during a 12-month acquisition period.",
+    "hook": "338 needs 80.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.irs.gov/instructions/i8023", "title": "Instructions for Form 8023 (10/2023) | Internal Revenue Service", "quote": "A QSP is the purchase of at least 80% of the total voting power and value of the stock of a corporation by another corporation during a 12-month acquisition period."},
+      {"url": "https://uk.practicallaw.thomsonreuters.com/9-382-3203?contextData=(sc.Default)&transitionType=Default", "title": "Section 338(h)(10) Election | Practical Law", "quote": "A QSP is the purchase (as defined in IRC § 338(h)(3)) of at least 80% of the total voting power and value of the stock of a corporation by another corporation in a transaction (or series of transactions) during a 12-month acquisition period."}
+    ]
+  },
+  {
+    "id": "vault-10-20",
+    "deck": "vault",
+    "topic": "338(h)(10) election",
+    "q": "If the target is an S corporation, which of its shareholders must make the Section 338(h)(10) election?",
+    "a": "All shareholders",
+    "accept": ["all of them", "every shareholder", "all of the shareholders", "all"],
+    "wrong": ["Only selling shareholders", "Majority shareholders only", "Only the largest shareholder"],
+    "explain": "For an S corporation target, the 338(h)(10) election must be made by all shareholders, including those who do not sell their stock in the qualified stock purchase.",
+    "hook": "S corp: everyone signs, sellers or not.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.irs.gov/instructions/i8023", "title": "Instructions for Form 8023 (10/2023) | Internal Revenue Service", "quote": "If the target is an S corporation, a section 338(h)(10) election must be made by all of the shareholders of the target, including shareholders who do not sell target stock in the QSP."},
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/section-338/", "title": "Section 338 - What it is, Implications, S Corporation", "quote": "All shareholders of the target S corporation (selling and non-selling) must consent to the election."}
+    ]
+  },
+  {
+    "id": "vault-10-21",
+    "deck": "vault",
+    "topic": "338(h)(10) election",
+    "q": "How many levels of tax does a regular Section 338(g) election impose?",
+    "a": "Two",
+    "accept": ["2", "two levels", "double taxation", "double"],
+    "wrong": ["One", "Zero", "Three"],
+    "explain": "A 338(g) election taxes both the shareholders' stock sale and the target's deemed asset sale, whereas a 338(h)(10) election typically imposes only one level of tax, which is why it is much more common.",
+    "hook": "(g) = double; (h)(10) = single.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/section-338/", "title": "Section 338 - What it is, Implications, S Corporation", "quote": "In a regular Section 338 election, two levels of tax are imposed: one on the shareholders upon their sale of the target stock and the other on the deemed asset sale by the target corporation (“Old Target”)."},
+      {"url": "https://www.ftb.ca.gov/tax-pros/procedures/s-corp-handbook/s-corp-chapter-16.pdf", "title": "S Corp Chapter 16 (California Franchise Tax Board)", "quote": "Therefore, electing IRC Section 338 results in double taxation."}
+    ]
+  },
+  {
+    "id": "vault-10-22",
+    "deck": "vault",
+    "topic": "338(h)(10) election",
+    "q": "By what deadline must a Section 338 election be filed on Form 8023?",
+    "a": "15th day of the 9th month after the acquisition date",
+    "accept": ["15th day of the 9th month", "15th day of the ninth month", "9th month 15th day"],
+    "wrong": ["30 days after the acquisition date", "With the next annual tax return", "75 days after the acquisition date"],
+    "explain": "Under the statute and IRS instructions, a Section 338 election is due by the 15th day of the 9th month beginning after the month in which the acquisition date occurs.",
+    "hook": "Nine months, then the 15th.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.irs.gov/instructions/i8023", "title": "Instructions for Form 8023 (10/2023) | Internal Revenue Service", "quote": "File Form 8023 by the 15th day of the 9th month after the acquisition date to make a section 338 election for the target corporation."},
+      {"url": "https://uscode.house.gov/us/usc/119-136/t26/s338", "title": "26 U.S.C. § 338: Certain stock purchases treated as asset acquisitions", "quote": "Except as otherwise provided in regulations, an election under this section shall be made not later than the 15th day of the 9th month beginning after the month in which the acquisition date occurs."}
+    ]
+  },
+  {
+    "id": "vault-10-23",
+    "deck": "vault",
+    "topic": "Exchange ratios",
+    "q": "If the offer is $30 of acquirer stock per target share and the acquirer's shares trade at $60, what is the exchange ratio?",
+    "a": "0.5",
+    "accept": ["0.5x", "0.50", ".5", "1/2", "one half"],
+    "wrong": ["2.0", "0.33", "1.5"],
+    "explain": "Exchange ratio = offer price per target share / acquirer share price = $30 / $60 = 0.5 acquirer shares per target share.",
+    "hook": "Offer over buyer price.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/exchange-ratios-ma-fixed-vs-floating-exchange-ratios-collars-caps", "title": "Exchange Ratios in M&A | Fixed vs. Floating Ratio", "quote": "On January 5, 2014 the target agrees to receive $12 from the acquirer for each of target's 24 million shares (.6667 exchange ratio) upon the completion of the deal"},
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models/exchange-ratios-in-ma-deals-fixed-floating-and-collars/", "title": "Exchange Ratio in M&A Deals: Full Tutorial", "quote": "But in real life, it's more common to use an Exchange Ratio in 100% Stock deals, where the Seller receives X new shares of the Buyer for each 1 of its own shares."}
+    ]
+  },
+  {
+    "id": "vault-10-24",
+    "deck": "vault",
+    "topic": "Exchange ratios",
+    "q": "Under a fixed exchange ratio, what is known with certainty at announcement: the number of shares issued or the value received per target share?",
+    "a": "Shares issued",
+    "accept": ["number of shares issued", "share count", "the number of shares", "shares"],
+    "wrong": ["Value per target share", "Total purchase price", "Acquirer share price at closing"],
+    "explain": "With a fixed exchange ratio the share count is locked no matter how share prices move before closing, so the deal value fluctuates with the acquirer's stock price.",
+    "hook": "Fixed ratio = fixed shares, floating value.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/exchange-ratios-ma-fixed-vs-floating-exchange-ratios-collars-caps", "title": "Exchange Ratios in M&A | Fixed vs. Floating Ratio", "quote": "No matter what happens to the target and acquirer share prices between now and February 5, 2014, the share ratio will remain fixed."},
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models/exchange-ratios-in-ma-deals-fixed-floating-and-collars/", "title": "Exchange Ratio in M&A Deals: Full Tutorial", "quote": "The most serious problem here is that if the Buyer's Share Price falls, the Seller will get a lower purchase price because the Buyer's shares will be worth less!"}
+    ]
+  },
+  {
+    "id": "vault-10-25",
+    "deck": "vault",
+    "topic": "Exchange ratios",
+    "q": "Which exchange ratio structure guarantees a fixed purchase price while letting the number of shares issued vary?",
+    "a": "Floating exchange ratio",
+    "accept": ["floating", "floating ratio", "fixed value", "fixed-value exchange ratio"],
+    "wrong": ["Fixed exchange ratio", "Walkaway right", "Earnout"],
+    "explain": "A floating (fixed-value) exchange ratio converts each target share into however many acquirer shares are needed to equal a predetermined price at closing.",
+    "hook": "Floating ratio floats so the value can stay put.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/ma-and-merger-models/exchange-ratios-in-ma-deals-fixed-floating-and-collars/", "title": "Exchange Ratio in M&A Deals: Full Tutorial", "quote": "One solution is to use a Floating Exchange Ratio, which guarantees a fixed Equity Purchase Price, but which allows the number of shares issued to the Seller to vary."},
+      {"url": "https://www.wallstreetprep.com/knowledge/exchange-ratios-ma-fixed-vs-floating-exchange-ratios-collars-caps", "title": "Exchange Ratios in M&A | Fixed vs. Floating Ratio", "quote": "Each target share is converted into the number of acquirer shares that are required to equal the predetermined per-target-share price upon closing."}
+    ]
+  },
+  {
+    "id": "vault-10-26",
+    "deck": "vault",
+    "topic": "Forms of consideration",
+    "q": "What is the formal name for an earnout in M&A?",
+    "a": "Contingent consideration",
+    "accept": ["contingent payment", "contingent consideration payment"],
+    "wrong": ["Deferred revenue", "Escrow holdback", "Break fee"],
+    "explain": "An earnout promises future payments to the seller, on top of the upfront payment, if specific milestones such as EBITDA targets are met; it helps bridge valuation gaps.",
+    "hook": "Earn it out later, contingent on results.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/earn-outs-ma", "title": "Earnouts | M&A Definition + Examples - Wall Street Prep", "quote": "An earnout, formally called a contingent consideration, is a mechanism used in M&A whereby, in addition to an upfront payment, future payments are promised to the seller upon the achievement of specific milestones (i.e. achieving specific EBITDA targets)."}
+    ]
+  }
+]

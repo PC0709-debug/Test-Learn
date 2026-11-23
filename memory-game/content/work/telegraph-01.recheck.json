@@ -1,0 +1,62 @@
+[
+  {
+    "id": "telegraph-01-04",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Both quotes verbatim on MDN box-sizing page. padding-box is an obsolete non-standard value; still wrong for this question.",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing"
+    ]
+  },
+  {
+    "id": "telegraph-01-05",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Quote verbatim; el.addEventListener(\"click\", modifyText) example on page.",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener"
+    ]
+  },
+  {
+    "id": "telegraph-01-12",
+    "source": 28,
+    "match": 30,
+    "unique": 5,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": true,
+    "pass": false,
+    "issue": "Quotes verbatim, but distractor 'block axis' can be argued correct: with flex-direction: column the main axis is the block axis, so justify-content aligns along the block axis. Replace with e.g. 'baseline axis' or 'diagonal axis'.",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Flexible_box_layout/Basic_concepts"
+    ]
+  },
+  {
+    "id": "telegraph-01-21",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Quote verbatim; example output [\"a\",\"b\",\"c\"] on page.",
+    "verifiedUrls": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys"
+    ]
+  }
+]

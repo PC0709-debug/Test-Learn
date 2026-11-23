@@ -1,0 +1,307 @@
+[
+  {
+    "id": "japan-cult-01-01",
+    "source": 30,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/art/Jomon-ware",
+      "https://www.metmuseum.org/essays/jomon-culture-ca-10500-ca-300-b-c",
+      "https://japansociety.org/news/early-japan-50000-bc-710-ad/"
+    ]
+  },
+  {
+    "id": "japan-cult-01-02",
+    "source": 26,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 95,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Both cited sources are Britannica; the explain's 'about 300 BCE' rests on one publisher. Consider adding the Met Jomon essay (ca. 300 B.C., transition to Yayoi) as an independent source.",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Jomon-culture",
+      "https://www.britannica.com/topic/Yayoi-culture"
+    ]
+  },
+  {
+    "id": "japan-cult-01-03",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Yayoi-culture",
+      "https://japansociety.org/news/early-japan-50000-bc-710-ad/"
+    ]
+  },
+  {
+    "id": "japan-cult-01-04",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Yayoi-culture",
+      "https://japanculturalexpo.bunka.go.jp/en/article/feature/202509_index"
+    ]
+  },
+  {
+    "id": "japan-cult-01-05",
+    "source": 30,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://japanculturalexpo.bunka.go.jp/en/article/feature/202509_index",
+      "https://japansociety.org/news/nara-and-heian-japan-710-ad-1185-ad"
+    ]
+  },
+  {
+    "id": "japan-cult-01-06",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://japansociety.org/news/nara-and-heian-japan-710-ad-1185-ad",
+      "https://www.visitnara.jp/history"
+    ]
+  },
+  {
+    "id": "japan-cult-01-07",
+    "source": 18,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 86,
+    "hardFail": "Named-person/date fact is supported only by Britannica pages (same publisher, not two independent sources). Fix: add an independent source naming Murasaki Shikibu as author (e.g. Japan Society Nara-Heian culture essay or a museum page).",
+    "pass": false,
+    "issue": "Named-person/date fact is supported only by Britannica pages (same publisher, not two independent sources).",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/The-Tale-of-Genji",
+      "https://www.britannica.com/biography/Shikibu-Murasaki"
+    ]
+  },
+  {
+    "id": "japan-cult-01-08",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.todaiji.or.jp/en/history",
+      "https://www.visitnara.jp/history"
+    ]
+  },
+  {
+    "id": "japan-cult-01-09",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/shogunate",
+      "https://japansociety.org/news/japans-medieval-age-the-kamakura-muromachi-periods"
+    ]
+  },
+  {
+    "id": "japan-cult-01-10",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/shogunate",
+      "https://japansociety.org/news/japans-medieval-age-the-kamakura-muromachi-periods"
+    ]
+  },
+  {
+    "id": "japan-cult-01-11",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Tokugawa-Ieyasu",
+      "https://nagasakidejima.jp/english/history"
+    ]
+  },
+  {
+    "id": "japan-cult-01-12",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Tokugawa-period",
+      "https://nagasakidejima.jp/english/history"
+    ]
+  },
+  {
+    "id": "japan-cult-01-13",
+    "source": 22,
+    "match": 22,
+    "unique": 15,
+    "current": 15,
+    "precise": 5,
+    "total": 79,
+    "hardFail": "Explain claims the Chinese were confined to Dejima; the cited Britannica sakoku page as fetched only says the Dutch were limited to Dejima (quoted sentence not found), and Chinese traders were housed in the separate Chinese Quarter (Tojin yashiki, completed 1689 per the Dejima site).",
+    "pass": false,
+    "issue": "Remove 'and Chinese' from explain (e.g. 'Under sakoku the Dutch were confined to Dejima...') and replace the Britannica quote with the verbatim sentence: 'the Dutch were allowed to remain in Japan, although after the Christian rebellion their presence was limited to a small artificial island in the Nagasaki harbour called Dejima (also known as Deshima).'",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/sakoku",
+      "https://nagasakidejima.jp/english/history"
+    ]
+  },
+  {
+    "id": "japan-cult-01-14",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/sankin-kotai",
+      "https://www.nippon.com/en/articles/-/13670"
+    ]
+  },
+  {
+    "id": "japan-cult-01-15",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://history.state.gov/milestones/1830-1860/opening-to-japan",
+      "https://www.archives.gov/publications/prologue/2004/spring/treaty-of-kanagawa"
+    ]
+  },
+  {
+    "id": "japan-cult-01-16",
+    "source": 30,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Treaty-of-Kanagawa",
+      "https://history.state.gov/milestones/1830-1860/opening-to-japan"
+    ]
+  },
+  {
+    "id": "japan-cult-01-17",
+    "source": 18,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "Named-person/date fact is supported only by Britannica pages (same publisher, not two independent sources). Fix: add an independent source for 1868 (e.g. nippon.com or a Japanese government/museum timeline).",
+    "pass": false,
+    "issue": "Named-person/date fact is supported only by Britannica pages (same publisher, not two independent sources).",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Meiji-Restoration",
+      "https://www.britannica.com/place/Tokyo"
+    ]
+  },
+  {
+    "id": "japan-cult-01-18",
+    "source": 18,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "Named-person/date fact is supported only by Britannica pages (same publisher, not two independent sources). Fix: add an independent source (e.g. Imperial Household Agency or Meiji Jingu page) confirming Mutsuhito as Meiji's personal name.",
+    "pass": false,
+    "issue": "Named-person/date fact is supported only by Britannica pages (same publisher, not two independent sources).",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Meiji",
+      "https://www.britannica.com/event/Meiji-Restoration"
+    ]
+  },
+  {
+    "id": "japan-cult-01-19",
+    "source": 30,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.ndl.go.jp/en/landmarks/sights/osakajo",
+      "https://edolegacytravel.metro.tokyo.lg.jp/spots/osaka-castle"
+    ]
+  }
+]

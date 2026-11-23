@@ -1,0 +1,121 @@
+[
+  {
+    "id": "japan-cult-02-03",
+    "deck": "fareast",
+    "topic": "Removing shoes",
+    "q": "Which indoor footwear, provided at the entrance, should be removed before stepping onto tatami mats?",
+    "a": "Slippers",
+    "accept": [
+      "slipper",
+      "indoor slippers"
+    ],
+    "wrong": [
+      "Geta",
+      "Zori",
+      "Waraji"
+    ],
+    "explain": "You swap shoes for indoor slippers at the entrance, then remove the slippers when on tatami mats or using the bathroom.",
+    "hook": "Shoes off at the door, slippers off on tatami.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette",
+        "title": "Understanding and Mastering Japanese Manners and Etiquette | JNTO",
+        "quote": "The protocol is to take off your shoes at the entrance area inside the doorway and slip on the indoor-use slippers provided and then neatly place your shoes either in the shoebox provided or to the side out of the way. When inside, it's customary to remove your slippers when on the tatami mats or using the bathroom."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-10",
+    "deck": "fareast",
+    "topic": "Tea ceremony",
+    "q": "Which 16th-century tea master codified the Japanese tea ceremony into the wabi-cha style?",
+    "a": "Sen no Rikyu",
+    "accept": [
+      "Sen no Rikyū",
+      "Sen Rikyu",
+      "Sen Rikyū",
+      "Rikyu",
+      "Rikyū"
+    ],
+    "wrong": [
+      "Toyotomi Hideyoshi",
+      "Katsushika Hokusai",
+      "Matsuo Basho"
+    ],
+    "explain": "Sen no Rikyu was an aesthete at the 16th-century court of Toyotomi Hideyoshi who codified the ceremony into the wabi-cha style, valuing simplicity and quietude.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/tea-ceremony",
+        "title": "Tea ceremony | Britannica",
+        "quote": "The most famous exponent of the tea ceremony was Sen Rikyū , an aesthete at the 16th-century court of the military dictator Toyotomi Hideyoshi, who codified the ceremony into a style known as wabi-cha (meaning roughly “simplicity,” “quietude,” and “absence of ornament”), which still enjoys popularity in Japan."
+      },
+      {
+        "url": "https://www.metmuseum.org/toah/hd/jtea/hd_jtea.htm",
+        "title": "The Japanese Tea Ceremony - The Metropolitan Museum of Art",
+        "quote": "A shift occurred in the mid-sixteenth century, pioneered by influential tea masters such as Sen no Rikyū (1522–1591)."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-15",
+    "deck": "fareast",
+    "topic": "Mount Fuji",
+    "q": "How tall is Mount Fuji, Japan's highest mountain, in meters?",
+    "a": "3,776 m",
+    "accept": [
+      "3776",
+      "3,776",
+      "3776 m",
+      "3776m",
+      "3,776 meters"
+    ],
+    "wrong": [
+      "3,067 m",
+      "4,092 m",
+      "2,983 m"
+    ],
+    "explain": "At 3,776 m, Mount Fuji is the highest mountain in Japan and the largest volcano on land in Japan.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/place/Mount-Fuji",
+        "title": "Mount Fuji | Britannica",
+        "quote": "It rises to 12,388 feet (3,776 meters) near the Pacific Ocean coast in Yamanashi and Shizuoka ken (prefectures) of central Honshu , about 60 miles (100 km) west of the Tokyo-Yokohama metropolitan area ."
+      },
+      {
+        "url": "https://www.fujisan-kouhai.metro.tokyo.lg.jp/en/fuji-eruption_en",
+        "title": "Learn about the eruption of Mount Fuji - Tokyo Metropolitan Government",
+        "quote": "With an elevation of 3,776m, it is the highest mountain in Japan, and with a volume of approximately 500km2, it is the largest volcano on land in Japan."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-17",
+    "deck": "fareast",
+    "topic": "Shinkansen",
+    "q": "In what year did the first Shinkansen line open between Tokyo and Osaka?",
+    "a": "1964",
+    "accept": [],
+    "wrong": [
+      "1958",
+      "1970",
+      "1972"
+    ],
+    "explain": "The first section, between Tokyo and Osaka, opened in 1964 as the New Tokaido Line, now the Tokaido Shinkansen.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://global.jr-central.co.jp/en/company/ir/annualreport/_pdf/annualreport2024-13.pdf",
+        "title": "Tokaido Shinkansen: Constant Effort to Enhance Service | JR Central Annual Report 2024",
+        "quote": "Since its opening on October 1, 1964, the Tokaido Shinkansen has made ensuring safe and reliable transportation its number one priority and tirelessly continued to develop technology and improve services."
+      },
+      {
+        "url": "https://www.britannica.com/topic/Shinkansen",
+        "title": "Shinkansen | Britannica",
+        "quote": "The first section, between Tokyo and Osaka, opened in 1964 and was named the New Tōkaidō Line."
+      }
+    ]
+  }
+]

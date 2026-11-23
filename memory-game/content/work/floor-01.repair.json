@@ -1,0 +1,71 @@
+[
+  {
+    "id": "floor-01-11",
+    "deck": "floor",
+    "topic": "FOMC voting rotation",
+    "q": "Which Reserve Bank shares an FOMC rotation group with only Chicago?",
+    "a": "Cleveland",
+    "accept": [
+      "Federal Reserve Bank of Cleveland",
+      "Cleveland Fed"
+    ],
+    "wrong": [
+      "New York",
+      "Boston",
+      "Kansas City"
+    ],
+    "explain": "The rotating seats come from four groups: Boston, Philadelphia and Richmond; Cleveland and Chicago; Atlanta, St. Louis and Dallas; and Minneapolis, Kansas City and San Francisco.",
+    "hook": "The two Great Lakes Feds - Cleveland and Chicago - share a seat.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm",
+        "title": "The Fed - Federal Open Market Committee",
+        "quote": "The rotating seats are filled from the following four groups of Banks, one Bank president from each group: Boston, Philadelphia, and Richmond; Cleveland and Chicago; Atlanta, St. Louis, and Dallas; and Minneapolis, Kansas City, and San Francisco."
+      },
+      {
+        "url": "https://www.kansascityfed.org/ten/looking-back-the-federal-open-market-committee-and-its-voting-rotation",
+        "title": "Looking Back: The Federal Open Market Committee and its voting rotation - Federal Reserve Bank of Kansas City",
+        "quote": "The action also moved Cleveland and Chicago into their own group, and put St. Louis with Atlanta and Dallas."
+      },
+      {
+        "url": "https://www.stlouisfed.org/in-plain-english/introduction-to-the-fomc",
+        "title": "Introduction to the FOMC | St. Louis Fed",
+        "quote": "The presidents of the Cleveland and Chicago Feds serve on a 2-year rotating schedule."
+      }
+    ]
+  },
+  {
+    "id": "floor-01-24",
+    "deck": "floor",
+    "topic": "Policy tools: discount window",
+    "q": "Relative to the FOMC's federal funds target range, where has the discount window primary credit rate been set since March 2020?",
+    "a": "Top of the range",
+    "accept": [
+      "top of the target range",
+      "upper bound",
+      "at the top",
+      "upper limit"
+    ],
+    "wrong": [
+      "Bottom of the range",
+      "Midpoint of the range",
+      "50 bp above the top of the range"
+    ],
+    "explain": "The primary credit rate is set at the top of the FOMC's target range; it is established by each Reserve Bank's board of directors, subject to review and determination by the Board of Governors.",
+    "hook": "Discount window = the ceiling lender.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.federalreserve.gov/monetarypolicy/discountrate.htm",
+        "title": "Federal Reserve Board - Discount Window",
+        "quote": "Rate: Since March 2020 the primary credit rate has been set at the top of the target range that the FOMC has set for the federal funds rate. The rate is established by each Reserve Bank's board of directors, subject to the review and determination of the Board of Governors of the Federal Reserve System."
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20241009a.htm",
+        "title": "Speech by Vice Chair Jefferson on the discount window: 1990-Present - Federal Reserve Board",
+        "quote": "Since March 2020, the Fed has set the primary credit rate at a level equal to the top of the target range for the federal funds rate."
+      }
+    ]
+  }
+]

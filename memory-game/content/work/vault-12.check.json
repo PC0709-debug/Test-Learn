@@ -1,0 +1,423 @@
+[
+ {
+  "id": "vault-12-01",
+  "source": 27,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf",
+   "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-02",
+  "source": 27,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf",
+   "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-03",
+  "source": 10,
+  "match": 20,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 68,
+  "hardFail": "Only one independent source (both citations are the same SEC glossary page); first quote is not verbatim (live page says management fee 'based on assets under management', not 'committed capital or invested capital')",
+  "pass": false,
+  "issue": "Cite a second independent source for 2 and 20 = carried interest (e.g. SEC IA-6383 final rule: '2% management fee and a 20% share of any profits', or CFA RPC brief 'carried interest or carry, often 20%') and fix the glossary quote to the live wording.",
+  "verifiedUrls": [
+   "https://www.sec.gov/resources-small-businesses/glossary"
+  ]
+ },
+ {
+  "id": "vault-12-04",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.sec.gov/files/rules/final/2023/ia-6383.pdf",
+   "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-05",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.sec.gov/files/rules/final/2023/ia-6383.pdf",
+   "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf",
+   "https://publishedresearch.cambridgeassociates.com/private-investment-fund-terms-fees-and-distribution-waterfall"
+  ]
+ },
+ {
+  "id": "vault-12-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.sec.gov/files/rules/final/2023/ia-6383.pdf",
+   "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-07",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://publishedresearch.cambridgeassociates.com/private-investment-fund-terms-fees-and-distribution-waterfall",
+   "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.calpers.ca.gov/sites/default/files/spf/docs/board-agendas/201508/invest/item09a-01.pdf",
+   "https://www.sec.gov/files/rules/final/2023/ia-6383.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/financial-modeling/distributed-to-paid-in-capital",
+   "https://www.investeurope.eu/investor-reporting-guidelines/performance-measurement-and-reporting/",
+   "https://www.privateequityinternational.com/fund-performance-methodology"
+  ]
+ },
+ {
+  "id": "vault-12-10",
+  "source": 24,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 93,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/financial-modeling/distributed-to-paid-in-capital"
+  ]
+ },
+ {
+  "id": "vault-12-11",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.investeurope.eu/investor-reporting-guidelines/performance-measurement-and-reporting/",
+   "https://docs.preqin.com/pro/Private-Capital-Performance-Guide.pdf",
+   "https://www.sec.gov/files/rules/final/2023/ia-6383.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-12",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.investeurope.eu/investor-reporting-guidelines/performance-measurement-and-reporting/",
+   "https://corporatefinanceinstitute.com/resources/financial-modeling/distributed-to-paid-in-capital"
+  ]
+ },
+ {
+  "id": "vault-12-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.ukprivatecapital.co.uk/static/87234996-55f9-4132-9063503d1de2a824/Private-capital-performance-overview-Sept-24.pdf",
+   "https://www.privateequityinternational.com/fund-performance-methodology"
+  ]
+ },
+ {
+  "id": "vault-12-14",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf",
+   "https://www.ukprivatecapital.co.uk/static/87234996-55f9-4132-9063503d1de2a824/Private-capital-performance-overview-Sept-24.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-15",
+  "source": 28,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/j-curve",
+   "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf",
+   "https://www.sec.gov/files/rules/final/2023/ia-6383.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-16",
+  "source": 12,
+  "match": 18,
+  "unique": 13,
+  "current": 13,
+  "precise": 8,
+  "total": 64,
+  "hardFail": "The 10-year figure has only one supporting source: investor.gov speaks of an investment horizon 'typically of 10 or more years', not a term limited to 10 years; the same CFA brief elsewhere refers to 'the fund's 12-or-so-year term'",
+  "pass": false,
+  "issue": "Add a second independent source that explicitly states a typical 10-year fund term (e.g. Cambridge Associates 'usually for at least ten years' is close but not identical; better a Preqin/ILPA/law-firm source stating 10-year term plus extensions), or rephrase to match sources.",
+  "verifiedUrls": [
+   "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf",
+   "https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity"
+  ]
+ },
+ {
+  "id": "vault-12-17",
+  "source": 29,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.privateequityinternational.com/fund-performance-methodology",
+   "https://docs.preqin.com/pro/Private-Capital-Performance-Guide.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-18",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://learning-center.hec.edu/wp-content/uploads/2022/10/Private-Capital-Performance-Guide.pdf",
+   "https://www.privateequityinternational.com/fund-performance-methodology"
+  ]
+ },
+ {
+  "id": "vault-12-19",
+  "source": 29,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: CFI says investors prefer target companies with low leverage; explain's 'typically with low or no leverage' should make clear it refers to the company's debt.",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/growth-equity/",
+   "https://investor.vanguard.com/content/dam/retail/publicsite/en/documents/private-equity-primer.pdf"
+  ]
+ },
+ {
+  "id": "vault-12-20",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/liquidation-preference-how-it-works-and-how-it-is-used-in-the-vc-term-sheet",
+   "https://scaleup.mofo.com/guidance/ask-a-mofo-common-provisions-in-venture-capital-term-sheets-liquidation-preference"
+  ]
+ },
+ {
+  "id": "vault-12-21",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://scaleup.mofo.com/guidance/ask-a-mofo-common-provisions-in-venture-capital-term-sheets-liquidation-preference",
+   "https://www.wallstreetprep.com/knowledge/liquidation-preference-how-it-works-and-how-it-is-used-in-the-vc-term-sheet",
+   "https://www.faegredrinker.com/en/insights/publications/2022/9/cashing-in-getting-ready-for-your-series-a-round"
+  ]
+ },
+ {
+  "id": "vault-12-22",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://ca.practicallaw.thomsonreuters.com/0-382-3231?contextData=(sc.Default)&transitionType=Default",
+   "https://corporatefinanceinstitute.com/resources/equities/anti-dilution-provisions"
+  ]
+ },
+ {
+  "id": "vault-12-23",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://scaleup.mofo.com/guidance/nvca-protective-provisions",
+   "https://www.faegredrinker.com/en/insights/publications/2022/9/cashing-in-getting-ready-for-your-series-a-round"
+  ]
+ },
+ {
+  "id": "vault-12-24",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://rpc.cfainstitute.org/sites/default/files/docs/research-reports/rpc_deane_continuationfunds-ethicsinprivatemarkets_pti_online.pdf",
+   "https://thefundlawyer.cooley.com/primer-continuation-funds-in-private-equity-and-venture-capital",
+   "https://www.dlapiper.com/en/insights/publications/2023/11/lp-led-secondaries-trends-opportunities-and-key-considerations"
+  ]
+ },
+ {
+  "id": "vault-12-25",
+  "source": 28,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: Cooley quote wording not seen verbatim in current page (updated July 2026); substance confirmed ('a fund the sponsor already manages'). Consider updating quote.",
+  "verifiedUrls": [
+   "https://thefundlawyer.cooley.com/primer-continuation-funds-in-private-equity-and-venture-capital",
+   "https://rpc.cfainstitute.org/sites/default/files/docs/research-reports/rpc_deane_continuationfunds-ethicsinprivatemarkets_pti_online.pdf",
+   "https://www.dlapiper.com/en/insights/publications/2023/11/lp-led-secondaries-trends-opportunities-and-key-considerations"
+  ]
+ },
+ {
+  "id": "vault-12-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.cambridgeassociates.com/insight/seven-things-investors-should-know-about-the-private-equity-secondary-market",
+   "https://www.dlapiper.com/en/insights/publications/2023/11/lp-led-secondaries-trends-opportunities-and-key-considerations"
+  ]
+ }
+]

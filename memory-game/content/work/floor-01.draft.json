@@ -1,0 +1,426 @@
+[
+  {
+    "id": "floor-01-01",
+    "deck": "floor",
+    "topic": "Founding",
+    "q": "In what year was the Federal Reserve Act enacted?",
+    "a": "1913",
+    "accept": [],
+    "wrong": ["1907", "1933", "1945"],
+    "explain": "The Federal Reserve Act of 1913 created the Federal Reserve System and gave it responsibility for setting monetary policy.",
+    "hook": "Fed founded in 19-13.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm", "title": "The Fed - Federal Open Market Committee", "quote": "The Federal Reserve Act of 1913 gave the Federal Reserve responsibility for setting monetary policy."},
+      {"url": "https://www.britannica.com/topic/Federal-Reserve-System", "title": "Federal Reserve System | Britannica", "quote": "The system was created by the Federal Reserve Act , which President Woodrow Wilson signed into law on December 23, 1913."}
+    ]
+  },
+  {
+    "id": "floor-01-02",
+    "deck": "floor",
+    "topic": "Structure",
+    "q": "How many regional Federal Reserve Banks are there?",
+    "a": "12",
+    "accept": ["twelve"],
+    "wrong": ["7", "10", "50"],
+    "explain": "The Federal Reserve System includes 12 regional Federal Reserve Banks alongside the Board of Governors and the FOMC.",
+    "hook": "12 districts, like 12 months.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/topic/Federal-Reserve-System", "title": "Federal Reserve System | Britannica", "quote": "It consists of the Board of Governors of the Federal Reserve System, the 12 Federal Reserve banks, the Federal Open Market Committee, and the Consumer Financial Protection Bureau (CFPB)"},
+      {"url": "https://www.federalreserve.gov/monetarypolicy/discountrate.htm", "title": "Federal Reserve Board - Discount Window", "quote": "The twelve Reserve Banks operate the discount window and work together to ensure consistent and effective operations across the Federal Reserve System."}
+    ]
+  },
+  {
+    "id": "floor-01-03",
+    "deck": "floor",
+    "topic": "Board of Governors",
+    "q": "How many members sit on the Federal Reserve Board of Governors?",
+    "a": "7",
+    "accept": ["seven"],
+    "wrong": ["5", "9", "12"],
+    "explain": "The Board of Governors has seven members, all of whom are also voting members of the FOMC.",
+    "hook": "Seven governors, seven days a week.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm", "title": "Federal Reserve Board - Board Members", "quote": "The seven members of the Board of Governors of the Federal Reserve System are nominated by the President and confirmed by the Senate."},
+      {"url": "https://www.britannica.com/topic/Federal-Reserve-System", "title": "Federal Reserve System | Britannica", "quote": "The seven-member Board of Governors of the Federal Reserve System determines the reserve requirements of the member banks within statutory limits"}
+    ]
+  },
+  {
+    "id": "floor-01-04",
+    "deck": "floor",
+    "topic": "Board of Governors",
+    "q": "How long is a full term for a member of the Fed's Board of Governors?",
+    "a": "14 years",
+    "accept": ["14", "fourteen years", "fourteen"],
+    "wrong": ["4 years", "7 years", "10 years"],
+    "explain": "A full Board term is fourteen years, which insulates governors from short-term political pressure.",
+    "hook": "Seven governors x 2 = 14-year terms.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm", "title": "Federal Reserve Board - Board Members", "quote": "A full term is fourteen years."},
+      {"url": "https://www.britannica.com/money/federal-open-market-committee", "title": "Federal Open Market Committee | Britannica Money", "quote": "Based in Washington, D.C., and serving 14-year terms, the Governors are a federal agency representing different sectors of the economy and different geographic regions across the country."}
+    ]
+  },
+  {
+    "id": "floor-01-05",
+    "deck": "floor",
+    "topic": "Board of Governors",
+    "q": "How long is the term of the Chair of the Federal Reserve Board?",
+    "a": "4 years",
+    "accept": ["4", "four years", "four"],
+    "wrong": ["2 years", "6 years", "14 years"],
+    "explain": "The Chair, Vice Chair and Vice Chair for Supervision are nominated by the President from among the governors, confirmed by the Senate, and serve four-year terms.",
+    "hook": "Chair term = 4 years; Board term = 14 years.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm", "title": "Federal Reserve Board - Board Members", "quote": "The Chairman and the Vice Chair of the Board, as well as the Vice Chair for Supervision, are nominated by the President from among the members and are confirmed by the Senate. They serve a term of four years."},
+      {"url": "https://www.britannica.com/topic/Federal-Reserve-System", "title": "Federal Reserve System | Britannica", "quote": "The Chairman of the Board of Governors is appointed to a four-year term by the president of the United States ."}
+    ]
+  },
+  {
+    "id": "floor-01-06",
+    "deck": "floor",
+    "topic": "Board of Governors",
+    "q": "Which chamber of Congress confirms nominees to the Fed's Board of Governors?",
+    "a": "Senate",
+    "accept": ["the Senate", "US Senate", "U.S. Senate"],
+    "wrong": ["House of Representatives", "House Financial Services Committee", "Joint Economic Committee"],
+    "explain": "Governors are nominated by the President and confirmed by the Senate.",
+    "hook": "President nominates, Senate confirms.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm", "title": "Federal Reserve Board - Board Members", "quote": "The seven members of the Board of Governors of the Federal Reserve System are nominated by the President and confirmed by the Senate."},
+      {"url": "https://www.britannica.com/money/federal-open-market-committee", "title": "Federal Open Market Committee | Britannica Money", "quote": "Led by the Federal Reserve Chair, these members are nominated by the President of the United States and confirmed by the Senate."}
+    ]
+  },
+  {
+    "id": "floor-01-07",
+    "deck": "floor",
+    "topic": "Board of Governors",
+    "q": "Can a Fed governor who has served a full term be reappointed?",
+    "a": "No",
+    "accept": ["no, they cannot", "cannot"],
+    "wrong": ["Yes, once", "Yes, without limit", "Yes, with a Senate supermajority"],
+    "explain": "A member who serves a full term may not be reappointed, but a member who completes an unexpired portion of a term may be.",
+    "hook": "Full term = one and done.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm", "title": "Federal Reserve Board - Board Members", "quote": "A member who serves a full term may not be reappointed. A member who completes an unexpired portion of a term may be reappointed."}
+    ]
+  },
+  {
+    "id": "floor-01-08",
+    "deck": "floor",
+    "topic": "FOMC composition",
+    "q": "How many voting members does the Federal Open Market Committee have?",
+    "a": "12",
+    "accept": ["twelve"],
+    "wrong": ["7", "9", "19"],
+    "explain": "The FOMC's 12 voting members are the seven governors, the New York Fed president and four rotating Reserve Bank presidents.",
+    "hook": "7 + 1 + 4 = 12.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm", "title": "The Fed - Federal Open Market Committee", "quote": "The Federal Open Market Committee (FOMC) consists of twelve members--the seven members of the Board of Governors of the Federal Reserve System; the president of the Federal Reserve Bank of New York; and four of the remaining eleven Reserve Bank presidents, who serve one-year terms on a rotating basis."},
+      {"url": "https://www.britannica.com/money/federal-open-market-committee", "title": "Federal Open Market Committee | Britannica Money", "quote": "Its 12 members include seven Fed board governors, the president of the Federal Reserve Bank of New York , and four of the remaining 11 Fed bank presidents, who enter and exit the FOMC on a rotating basis."}
+    ]
+  },
+  {
+    "id": "floor-01-09",
+    "deck": "floor",
+    "topic": "FOMC composition",
+    "q": "The president of which regional Reserve Bank is a permanent voting member of the FOMC?",
+    "a": "New York",
+    "accept": ["Federal Reserve Bank of New York", "New York Fed", "NY Fed", "NY"],
+    "wrong": ["Chicago", "San Francisco", "Boston"],
+    "explain": "The New York Fed president always votes; the New York Fed carries out the FOMC's open market operations.",
+    "hook": "New York runs the trading desk, so New York always votes.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm", "title": "The Fed - Federal Open Market Committee", "quote": "The Federal Open Market Committee (FOMC) consists of twelve members--the seven members of the Board of Governors of the Federal Reserve System; the president of the Federal Reserve Bank of New York; and four of the remaining eleven Reserve Bank presidents, who serve one-year terms on a rotating basis."},
+      {"url": "https://www.britannica.com/money/federal-open-market-committee", "title": "Federal Open Market Committee | Britannica Money", "quote": "The New York Fed bank president is always a voting member in the FOMC. That's because the NY Fed carries out the FOMC's open market operations (OMOs)--buying or selling securities to help steer interest rates as directed."}
+    ]
+  },
+  {
+    "id": "floor-01-10",
+    "deck": "floor",
+    "topic": "FOMC voting rotation",
+    "q": "How many of the eleven non-New York Reserve Bank presidents vote on the FOMC in a given year?",
+    "a": "4",
+    "accept": ["four"],
+    "wrong": ["3", "5", "11"],
+    "explain": "Four of the remaining eleven Reserve Bank presidents vote, each serving a one-year term on a rotating basis; non-voting presidents still attend and participate in discussions.",
+    "hook": "7 governors + NY + 4 rotators = 12 votes.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm", "title": "The Fed - Federal Open Market Committee", "quote": "four of the remaining eleven Reserve Bank presidents, who serve one-year terms on a rotating basis."},
+      {"url": "https://www.britannica.com/money/federal-open-market-committee", "title": "Federal Open Market Committee | Britannica Money", "quote": "All the Fed bank presidents participate in FOMC discussions and economic and policy assessments (think of it as a policy debate before the actual vote), but only four reserve bank presidents participate in the voting process. Each serves for one year on a rotating basis."}
+    ]
+  },
+  {
+    "id": "floor-01-11",
+    "deck": "floor",
+    "topic": "FOMC voting rotation",
+    "q": "Which Reserve Bank shares an FOMC rotation group with only Chicago?",
+    "a": "Cleveland",
+    "accept": ["Federal Reserve Bank of Cleveland", "Cleveland Fed"],
+    "wrong": ["New York", "Boston", "Kansas City"],
+    "explain": "The rotating seats come from four groups: Boston, Philadelphia and Richmond; Cleveland and Chicago; Atlanta, St. Louis and Dallas; and Minneapolis, Kansas City and San Francisco.",
+    "hook": "The two Great Lakes Feds - Cleveland and Chicago - share a seat.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm", "title": "The Fed - Federal Open Market Committee", "quote": "The rotating seats are filled from the following four groups of Banks, one Bank president from each group: Boston, Philadelphia, and Richmond; Cleveland and Chicago; Atlanta, St. Louis, and Dallas; and Minneapolis, Kansas City, and San Francisco."}
+    ]
+  },
+  {
+    "id": "floor-01-12",
+    "deck": "floor",
+    "topic": "Meeting cadence",
+    "q": "How many regularly scheduled meetings does the FOMC hold each year?",
+    "a": "8",
+    "accept": ["eight"],
+    "wrong": ["4", "6", "12"],
+    "explain": "The FOMC holds eight regularly scheduled meetings per year, roughly six weeks apart, and can also meet unscheduled when needed.",
+    "hook": "Eight meetings, about every six weeks.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm", "title": "The Fed - Federal Open Market Committee", "quote": "The FOMC holds eight regularly scheduled meetings per year."},
+      {"url": "https://www.britannica.com/money/federal-open-market-committee", "title": "Federal Open Market Committee | Britannica Money", "quote": "The FOMC meets eight times annually, although the actual dates vary from year to year. The meetings are typically spaced six weeks apart (with a longer break in the summer)"}
+    ]
+  },
+  {
+    "id": "floor-01-13",
+    "deck": "floor",
+    "topic": "Dual mandate",
+    "q": "Besides stable prices, what is the other goal of the Fed's dual mandate?",
+    "a": "Maximum employment",
+    "accept": ["max employment", "full employment", "maximum sustainable employment"],
+    "wrong": ["Stable exchange rate", "Balanced federal budget", "Maximum GDP growth"],
+    "explain": "Congress assigned the Fed to conduct monetary policy to support maximum employment and stable prices, together known as the dual mandate.",
+    "hook": "Jobs and prices.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/faqs/what-economic-goals-does-federal-reserve-seek-to-achieve-through-monetary-policy.htm", "title": "The Fed - What economic goals does the Federal Reserve seek to achieve through its monetary policy?", "quote": "Specifically, Congress has assigned the Fed to conduct the nation's monetary policy to support the goals of maximum employment and stable prices. Those two goals are often referred to as the Fed's \"dual mandate.\""},
+      {"url": "https://www.chicagofed.org/research/dual-mandate/dual-mandate", "title": "The Federal Reserve's Dual Mandate - Federal Reserve Bank of Chicago", "quote": "Our two goals of price stability and maximum sustainable employment are known collectively as the \"dual mandate.\""}
+    ]
+  },
+  {
+    "id": "floor-01-14",
+    "deck": "floor",
+    "topic": "Dual mandate",
+    "q": "Besides maximum employment and stable prices, what third goal does Section 2A of the Federal Reserve Act name?",
+    "a": "Moderate long-term interest rates",
+    "accept": ["moderate long term interest rates", "moderate long-term rates"],
+    "wrong": ["Financial stability", "A stable dollar exchange rate", "Low federal deficits"],
+    "explain": "Section 2A directs the Board and FOMC to promote maximum employment, stable prices and moderate long-term interest rates; the first two are commonly called the dual mandate.",
+    "hook": "Jobs, prices, and the quiet third: moderate long rates.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/aboutthefed/section2a.htm", "title": "Federal Reserve Board - Section 2A. Monetary policy objectives", "quote": "The Board of Governors of the Federal Reserve System and the Federal Open Market Committee shall maintain long run growth of the monetary and credit aggregates commensurate with the economy's long run potential to increase production, so as to promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates."},
+      {"url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125c.htm", "title": "Federal Reserve Board - Federal Reserve issues FOMC statement of longer-run goals and policy strategy", "quote": "The FOMC is firmly committed to fulfilling its statutory mandate from the Congress of promoting maximum employment, stable prices, and moderate long-term interest rates."}
+    ]
+  },
+  {
+    "id": "floor-01-15",
+    "deck": "floor",
+    "topic": "Dual mandate",
+    "q": "In what year did Congress add Section 2A, the monetary policy objectives, to the Federal Reserve Act?",
+    "a": "1977",
+    "accept": [],
+    "wrong": ["1913", "1946", "2010"],
+    "explain": "Section 2A was added by an act of November 16, 1977, directing the Board and FOMC to promote maximum employment, stable prices and moderate long-term interest rates.",
+    "hook": "The mandate arrived in the stagflation '70s.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/aboutthefed/section2a.htm", "title": "Federal Reserve Board - Section 2A. Monetary policy objectives", "quote": "[12 USC 225a. As added by act of November 16, 1977 (91 Stat. 1387) and amended by acts of October 27, 1978 (92 Stat. 1897); Aug. 23, 1988 (102 Stat. 1375); and Dec. 27, 2000 (114 Stat. 3028).]"},
+      {"url": "https://www.chicagofed.org/research/dual-mandate/dual-mandate", "title": "The Federal Reserve's Dual Mandate - Federal Reserve Bank of Chicago", "quote": "In 1977, Congress amended the Federal Reserve Act , directing the Board of Governors of the Federal Reserve System and the Federal Open Market Committee to \"maintain long run growth of the monetary and credit aggregates commensurate with the economy's long run potential to increase production, so as to promote effectively the goals of maximum employment, stable prices and moderate long-term interest rates.\""}
+    ]
+  },
+  {
+    "id": "floor-01-16",
+    "deck": "floor",
+    "topic": "Inflation target",
+    "q": "What longer-run annual inflation rate does the FOMC judge most consistent with its price-stability mandate?",
+    "a": "2%",
+    "accept": ["2", "2 percent", "two percent"],
+    "wrong": ["1%", "3%", "4%"],
+    "explain": "The FOMC judges that inflation of 2 percent over the longer run, measured by the annual change in the PCE price index, is most consistent with its mandate.",
+    "hook": "Two percent - the Fed's North Star.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/faqs/economy_14400.htm", "title": "The Fed - Why does the Federal Reserve aim for inflation of 2 percent over the longer run?", "quote": "the Federal Open Market Committee (FOMC) judges that inflation of 2 percent over the longer run, as measured by the annual change in the price index for personal consumption expenditures, is most consistent with the Federal Reserve's mandate for maximum"},
+      {"url": "https://www.chicagofed.org/research/dual-mandate/dual-mandate", "title": "The Federal Reserve's Dual Mandate - Federal Reserve Bank of Chicago", "quote": "The Committee judges that inflation at the rate of 2 percent, as measured by the annual change in the Price Index for Personal Consumption Expenditures (PCE), is most consistent over the longer run with the Federal Reserve's statutory mandate."}
+    ]
+  },
+  {
+    "id": "floor-01-17",
+    "deck": "floor",
+    "topic": "Inflation target",
+    "q": "Which price index does the FOMC use to define its 2% inflation goal?",
+    "a": "PCE price index",
+    "accept": ["PCE", "personal consumption expenditures", "personal consumption expenditures price index"],
+    "wrong": ["CPI", "PPI", "GDP deflator"],
+    "explain": "The 2 percent goal is measured by the annual change in the price index for personal consumption expenditures (PCE), not the CPI.",
+    "hook": "Fed targets PCE; headlines quote CPI.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/faqs/what-economic-goals-does-federal-reserve-seek-to-achieve-through-monetary-policy.htm", "title": "The Fed - What economic goals does the Federal Reserve seek to achieve through its monetary policy?", "quote": "The Federal Open Market Committee judges that an inflation rate of 2 percent over the longer run, as measured by the annual change in the price index for personal consumption expenditures, is most consistent with the Fed's price-stability mandate."},
+      {"url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125c.htm", "title": "Federal Reserve Board - Federal Reserve issues FOMC statement of longer-run goals and policy strategy", "quote": "The Committee judges that inflation at the rate of 2 percent, as measured by the annual change in the price index for personal consumption expenditures, is most consistent over the longer run with the Federal Reserve's statutory mandate."}
+    ]
+  },
+  {
+    "id": "floor-01-18",
+    "deck": "floor",
+    "topic": "Inflation target",
+    "q": "In what year did the FOMC first issue its Statement on Longer-Run Goals specifying a 2% inflation goal?",
+    "a": "2012",
+    "accept": [],
+    "wrong": ["1996", "2008", "2020"],
+    "explain": "The FOMC's statement of longer-run goals and policy strategy, which set the 2 percent PCE inflation goal, was first released on January 25, 2012.",
+    "hook": "2% made official in '12.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125c.htm", "title": "Federal Reserve Board - Federal Reserve issues FOMC statement of longer-run goals and policy strategy", "quote": "The Committee judges that inflation at the rate of 2 percent, as measured by the annual change in the price index for personal consumption expenditures, is most consistent over the longer run with the Federal Reserve's statutory mandate. ... Last Update: January 25, 2012"},
+      {"url": "https://www.chicagofed.org/research/dual-mandate/dual-mandate", "title": "The Federal Reserve's Dual Mandate - Federal Reserve Bank of Chicago", "quote": "The FOMC's longer-run goals were first articulated in its January 25, 2012, press release and have been reaffirmed annually thereafter."}
+    ]
+  },
+  {
+    "id": "floor-01-19",
+    "deck": "floor",
+    "topic": "Dot plot",
+    "q": "In which FOMC publication does the 'dot plot' of policymakers' rate projections appear?",
+    "a": "Summary of Economic Projections",
+    "accept": ["SEP", "the Summary of Economic Projections"],
+    "wrong": ["Beige Book", "FOMC Minutes", "H.4.1 release"],
+    "explain": "The Summary of Economic Projections includes each policymaker's projection of the appropriate federal funds rate, shown as the dot plot.",
+    "hook": "SEP = where the dots live.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/money/federal-open-market-committee", "title": "Federal Open Market Committee | Britannica Money", "quote": "Four times a year, the Fed publishes its Summary of Economic Projections report, which tracks how each Fed member projects future interest rates (see figure 1)."},
+      {"url": "https://www.federalreserve.gov/monetarypolicy/fomc_projectionsfaqs.htm", "title": "The Fed - FAQs (FOMC economic projections)", "quote": "Specifically, the projections include information about policymakers' projections of the appropriate level of the target federal funds rate--that is, the path that each policymaker judges likely to be most consistent with the Federal Reserve's statutory mandate to promote maximum employment and stable prices"}
+    ]
+  },
+  {
+    "id": "floor-01-20",
+    "deck": "floor",
+    "topic": "Dot plot",
+    "q": "How many times a year are FOMC economic projections (including the dot plot) published?",
+    "a": "4",
+    "accept": ["four", "quarterly", "4 times"],
+    "wrong": ["2", "8", "12"],
+    "explain": "Projections are collected four times a year, in connection with the March, June, September and December FOMC meetings.",
+    "hook": "Dots at the quarter marks: March, June, September, December.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/fomc_projectionsfaqs.htm", "title": "The Fed - FAQs (FOMC economic projections)", "quote": "Economic projections are collected from each member of the Board of Governors and each Federal Reserve Bank president four times a year, in connection with the Federal Open Market Committee's (FOMC's) meetings in March, June, September, and December."},
+      {"url": "https://www.britannica.com/money/federal-open-market-committee", "title": "Federal Open Market Committee | Britannica Money", "quote": "Four times a year, the Fed publishes its Summary of Economic Projections report, which tracks how each Fed member projects future interest rates (see figure 1)."}
+    ]
+  },
+  {
+    "id": "floor-01-21",
+    "deck": "floor",
+    "topic": "Policy tools: IORB",
+    "q": "Which Fed body determines the interest rate on reserve balances (IORB)?",
+    "a": "Board of Governors",
+    "accept": ["the Board", "Federal Reserve Board", "the Board of Governors"],
+    "wrong": ["U.S. Treasury", "Federal Reserve Bank of New York", "FDIC"],
+    "explain": "The IORB rate is determined by the Board and is an important tool for the Fed's conduct of monetary policy, supporting the FOMC's federal funds target range.",
+    "hook": "Board sets IORB.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/reserve-balances.htm", "title": "Federal Reserve Board - Interest on Reserve Balances", "quote": "The interest rate on reserve balances (IORB rate) is determined by the Board and is an important tool for the Federal Reserve's conduct of monetary policy."}
+    ]
+  },
+  {
+    "id": "floor-01-22",
+    "deck": "floor",
+    "topic": "Policy tools: ON RRP",
+    "q": "In an overnight reverse repo (ON RRP) operation, does the Fed initially buy or sell a security?",
+    "a": "Sell",
+    "accept": ["sells", "it sells"],
+    "wrong": ["Buy", "Lend it without collateral", "Retire it"],
+    "explain": "In an ON RRP the Fed sells a security to an eligible counterparty and agrees to buy it back the next day; it is a supplementary tool to keep the federal funds rate in the target range.",
+    "hook": "Reverse repo: Fed sells today, buys back tomorrow.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/overnight-reverse-repurchase-agreements.htm", "title": "Federal Reserve Board - Overnight Reverse Repurchase Agreement Operations", "quote": "When the Federal Reserve conducts an ON RRP operation, it sells a security to an eligible counterparty and simultaneously agrees to buy the security back the next day."}
+    ]
+  },
+  {
+    "id": "floor-01-23",
+    "deck": "floor",
+    "topic": "Fed funds rate",
+    "q": "Over what term do depository institutions lend reserve balances to each other at the federal funds rate?",
+    "a": "Overnight",
+    "accept": ["one night", "1 day"],
+    "wrong": ["One week", "One month", "Three months"],
+    "explain": "The federal funds rate is the interest rate at which depository institutions lend reserve balances to other depository institutions overnight.",
+    "hook": "Fed funds = overnight money.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm", "title": "Federal Reserve Board - Open Market Operations", "quote": "the federal funds rate--the interest rate at which depository institutions lend reserve balances to other depository institutions overnight"},
+      {"url": "https://www.chicagofed.org/research/dual-mandate/dual-mandate", "title": "The Federal Reserve's Dual Mandate - Federal Reserve Bank of Chicago", "quote": "The federal funds rate is the interest rate these institutions charge when they lend reserves to other institutions overnight."}
+    ]
+  },
+  {
+    "id": "floor-01-24",
+    "deck": "floor",
+    "topic": "Policy tools: discount window",
+    "q": "Relative to the FOMC's federal funds target range, where has the discount window primary credit rate been set since March 2020?",
+    "a": "Top of the range",
+    "accept": ["top of the target range", "upper bound", "at the top", "upper limit"],
+    "wrong": ["Bottom of the range", "Midpoint of the range", "50 bp above the top of the range"],
+    "explain": "The primary credit rate is set at the top of the FOMC's target range; it is established by each Reserve Bank's board of directors, subject to review and determination by the Board of Governors.",
+    "hook": "Discount window = the ceiling lender.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/discountrate.htm", "title": "Federal Reserve Board - Discount Window", "quote": "Rate: Since March 2020 the primary credit rate has been set at the top of the target range that the FOMC has set for the federal funds rate. The rate is established by each Reserve Bank's board of directors, subject to the review and determination of the Board of Governors of the Federal Reserve System."}
+    ]
+  },
+  {
+    "id": "floor-01-25",
+    "deck": "floor",
+    "topic": "Policy tools: QE/QT",
+    "q": "What is the common name for the Fed reducing its asset holdings to shrink its balance sheet?",
+    "a": "Quantitative tightening",
+    "accept": ["QT"],
+    "wrong": ["Quantitative easing", "Operation Twist", "Forward guidance"],
+    "explain": "The FOMC sets the direction for asset purchases (quantitative easing) or asset reductions (quantitative tightening) to influence long-term interest rates.",
+    "hook": "QE buys, QT shrinks.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/money/federal-open-market-committee", "title": "Federal Open Market Committee | Britannica Money", "quote": "The FOMC sets the direction for asset purchases or asset reductions (quantitative easing and quantitative tightening) to influence long-term interest rates."}
+    ]
+  },
+  {
+    "id": "floor-01-26",
+    "deck": "floor",
+    "topic": "Policy tools",
+    "q": "What does the FOMC view as its primary means of adjusting the stance of monetary policy?",
+    "a": "Federal funds target range",
+    "accept": ["target range for the federal funds rate", "fed funds rate", "federal funds rate", "the target range"],
+    "wrong": ["Reserve requirements", "Balance sheet size", "Discount window lending"],
+    "explain": "In its balance sheet principles the Committee states it views changes in the federal funds target range as its primary policy tool, with balance sheet reduction secondary.",
+    "hook": "Rates first, balance sheet second.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/policy-normalization.htm", "title": "Federal Reserve Board - Policy Normalization", "quote": "The Committee views changes in the target range for the federal funds rate as its primary means of adjusting the stance of monetary policy."}
+    ]
+  },
+  {
+    "id": "floor-01-27",
+    "deck": "floor",
+    "topic": "Structure",
+    "q": "Which Fed body is responsible for open market operations?",
+    "a": "FOMC",
+    "accept": ["Federal Open Market Committee", "the FOMC"],
+    "wrong": ["U.S. Treasury", "Federal Advisory Council", "Office of the Comptroller of the Currency"],
+    "explain": "The Board of Governors is responsible for the discount rate and reserve requirements, while the FOMC is responsible for open market operations.",
+    "hook": "Open Market operations - Open Market Committee.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm", "title": "The Fed - Federal Open Market Committee", "quote": "The Board of Governors of the Federal Reserve System is responsible for the discount rate and reserve requirements, and the Federal Open Market Committee is responsible for open market operations."}
+    ]
+  }
+]

@@ -1,0 +1,559 @@
+[
+  {
+    "id": "japan-cult-02-01",
+    "deck": "fareast",
+    "topic": "Tipping",
+    "q": "In Japan, what tip is customary at restaurants, hotels and taxis?",
+    "a": "None",
+    "accept": [
+      "no tip",
+      "zero",
+      "0",
+      "nothing",
+      "no tipping"
+    ],
+    "wrong": [
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "explain": "Japan does not have a tipping culture; you pay only the amount on the bill, and a tip will often be met with confusion.",
+    "hook": "No tip: say 'arigato gozaimashita' instead.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/faq",
+        "title": "FAQ | JNTO",
+        "quote": "No. Japan does not have a tipping culture. In restaurants, hotels, taxis, and other services, you only need to pay the amount shown on the bill."
+      },
+      {
+        "url": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette",
+        "title": "Japanese Customs and Etiquette | JNTO",
+        "quote": "Tipping is not customary in Japan and will often be met with confusion."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-02",
+    "deck": "fareast",
+    "topic": "Tipping",
+    "q": "What Japanese term, meaning 'coming from the heart', names a discretionary gratuity given in some situations?",
+    "a": "kokorozuke",
+    "accept": [
+      "kokoro-zuke",
+      "kokorodzuke"
+    ],
+    "wrong": [
+      "ikebana",
+      "origami",
+      "furoshiki"
+    ],
+    "explain": "Tipping is not common in Japan, but kokorozuke may be given in some situations; it should be discreet and customarily placed in an envelope.",
+    "hook": "Kokoro = heart.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/plan/tipping-in-japan",
+        "title": "Tipping in Japan | JNTO",
+        "quote": "However, there is a custom in Japan of giving a gratuity, called \"kokorozuke\", (coming from the heart), in some situations."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-03",
+    "deck": "fareast",
+    "topic": "Removing shoes",
+    "q": "Which indoor footwear, provided at the entrance, should be removed before stepping onto tatami mats?",
+    "a": "Slippers",
+    "accept": [
+      "slipper",
+      "indoor slippers"
+    ],
+    "wrong": [
+      "Geta",
+      "Zori",
+      "Waraji"
+    ],
+    "explain": "You swap shoes for slippers at the entrance, then remove the slippers on tatami; restrooms often have a separate pair.",
+    "hook": "Shoes off at the door, slippers off on tatami.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette",
+        "title": "Understanding and Mastering Japanese Manners and Etiquette | JNTO",
+        "quote": "The protocol is to take off your shoes at the entrance area inside the doorway and slip on the indoor-use slippers provided and then neatly place your shoes either in the shoebox provided or to the side out of the way. When inside, it's customary to remove your slippers when on the tatami mats or using the bathroom."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-04",
+    "deck": "fareast",
+    "topic": "Chopstick etiquette",
+    "q": "Besides sticking chopsticks upright in rice, what is the other biggest chopstick taboo in Japan?",
+    "a": "Passing food chopstick to chopstick",
+    "accept": [
+      "passing food from chopsticks to chopsticks",
+      "passing food between chopsticks",
+      "chopstick to chopstick passing"
+    ],
+    "wrong": [
+      "Using a chopstick rest",
+      "Lifting the dish toward your mouth",
+      "Slurping noodles"
+    ],
+    "explain": "JNTO names sticking chopsticks vertically in rice and passing food from chopsticks to chopsticks as the two biggest no-no's; it also says bring dishes to your mouth and feel free to slurp noodles.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/guide/japanese-food-etiquette",
+        "title": "Japanese Food Etiquette Guide | JNTO",
+        "quote": "The two biggest no-no's of chopstick use are sticking them vertically in your bowl of rice and passing food from chopsticks to chopsticks."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-05",
+    "deck": "fareast",
+    "topic": "Onsen etiquette",
+    "q": "At an onsen, what must you do before getting into the bath?",
+    "a": "Wash your body",
+    "accept": [
+      "wash",
+      "wash yourself",
+      "shower",
+      "take a shower",
+      "wash thoroughly"
+    ],
+    "wrong": [
+      "Put on a swimsuit",
+      "Dip your towel in the bath",
+      "Wrap your hair in a towel in the water"
+    ],
+    "explain": "Wash thoroughly at the shower area first; bathing is done without swimwear and towels must not go in the water.",
+    "hook": "Clean first, soak second.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/guide/bathing-manners-and-tips",
+        "title": "Guide to Bathing in Japan | JNTO",
+        "quote": "Wash yourself thoroughly in the shower area before you enter the baths"
+      },
+      {
+        "url": "https://www.japan.travel/en/faq",
+        "title": "FAQ | JNTO",
+        "quote": "Wash your body thoroughly before entering the bath. Swimsuits are not worn; bathing is done without clothing. Do not put towels in the bathwater."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-06",
+    "deck": "fareast",
+    "topic": "Onsen etiquette",
+    "q": "What is the Japanese term for a private charter bath you can book instead of a shared onsen bath?",
+    "a": "kashikiri",
+    "accept": [
+      "kashikiri buro",
+      "kashikiri-buro"
+    ],
+    "wrong": [
+      "sento",
+      "izakaya",
+      "tokonoma"
+    ],
+    "explain": "JNTO suggests a kashikiri for travelers uncomfortable bathing naked with others or worried about tattoos, which are prohibited at most hot springs.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/guide/bathing-manners-and-tips",
+        "title": "Guide to Bathing in Japan | JNTO",
+        "quote": "If you feel uncomfortable being naked in front of others or are worried about your tattoos, you can always look for private charter baths, called kashikiri, or a ryokan (traditional Japanese inn) with rooms that have en-suite baths."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-07",
+    "deck": "fareast",
+    "topic": "Ryokan customs",
+    "q": "What robe is a guest given to wear around the common areas of a ryokan?",
+    "a": "yukata",
+    "accept": [],
+    "wrong": [
+      "hakama",
+      "haori",
+      "furoshiki"
+    ],
+    "explain": "At an onsen or ryokan you receive a yukata to wear around common areas, sometimes even outside with geta; hand it back at checkout.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/guide/bathing-manners-and-tips-onsen-bathing-guide/",
+        "title": "Bathing Manners and Tips: Onsen Bathing Guide | JNTO",
+        "quote": "When checking in to the onsen or the traditional Japanese-style inn known as ryokan, you will be given a yukata to wear while walking around the common areas of the facility."
+      },
+      {
+        "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette",
+        "title": "Understanding and Mastering Japanese Manners and Etiquette | JNTO",
+        "quote": "The Yukata gowns that you will usually find in your rooms can sometimes be worn outside, sometimes not."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-08",
+    "deck": "fareast",
+    "topic": "Kaiseki",
+    "q": "What is the name of Japan's traditional multicourse meal prepared with seasonal ingredients?",
+    "a": "kaiseki",
+    "accept": [
+      "kaiseki ryori",
+      "kaiseki-ryori"
+    ],
+    "wrong": [
+      "donburi",
+      "bento",
+      "ramen"
+    ],
+    "explain": "Kaiseki is a multicourse seasonal meal usually served on special occasions; the term can also mean the light meal served before a tea ceremony.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/kaiseki",
+        "title": "Kaiseki | Britannica",
+        "quote": "Kaiseki is a traditional Japanese multicourse meal that is prepared with seasonal ingredients and is usually served on special occasions. It can refer to either a light meal before a tea ceremony or an elaborate meal with sake ."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-09",
+    "deck": "fareast",
+    "topic": "Tea ceremony",
+    "q": "What Japanese term for the tea ceremony literally means 'hot water for tea'?",
+    "a": "chanoyu",
+    "accept": [
+      "cha-no-yu",
+      "cha no yu"
+    ],
+    "wrong": [
+      "ikebana",
+      "shodo",
+      "kabuki"
+    ],
+    "explain": "Chanoyu is a ritualized practice of preparing and drinking matcha, powdered green tea, in a small tea room; it is also called chado or sado, 'the way of tea'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/toah/hd/jtea/hd_jtea.htm",
+        "title": "The Japanese Tea Ceremony - The Metropolitan Museum of Art",
+        "quote": "Although the Japanese word for the tea ceremony, chanoyu , literally means “hot water for tea,” the practice involves much more than its name implies."
+      },
+      {
+        "url": "https://www.britannica.com/topic/tea-ceremony",
+        "title": "Tea ceremony | Britannica",
+        "quote": "Japanese: chadō or sadō (“way of tea”) or cha-no-yu (“hot-water tea”)"
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-10",
+    "deck": "fareast",
+    "topic": "Tea ceremony",
+    "q": "Which 16th-century tea master codified the Japanese tea ceremony into the wabi-cha style?",
+    "a": "Sen no Rikyu",
+    "accept": [
+      "Sen no Rikyū",
+      "Sen Rikyu",
+      "Sen Rikyū",
+      "Rikyu",
+      "Rikyū"
+    ],
+    "wrong": [
+      "Toyotomi Hideyoshi",
+      "Katsushika Hokusai",
+      "Matsuo Basho"
+    ],
+    "explain": "Sen no Rikyu (1522-1591) served at the court of Toyotomi Hideyoshi and codified wabi-cha, valuing simplicity and quietude.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/tea-ceremony",
+        "title": "Tea ceremony | Britannica",
+        "quote": "The most famous exponent of the tea ceremony was Sen Rikyū , an aesthete at the 16th-century court of the military dictator Toyotomi Hideyoshi, who codified the ceremony into a style known as wabi-cha (meaning roughly “simplicity,” “quietude,” and “absence of ornament”), which still enjoys popularity in Japan."
+      },
+      {
+        "url": "https://www.metmuseum.org/toah/hd/jtea/hd_jtea.htm",
+        "title": "The Japanese Tea Ceremony - The Metropolitan Museum of Art",
+        "quote": "A shift occurred in the mid-sixteenth century, pioneered by influential tea masters such as Sen no Rikyū (1522–1591)."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-11",
+    "deck": "fareast",
+    "topic": "Shrines vs temples",
+    "q": "What gate marks the entrance to a Shinto shrine?",
+    "a": "torii",
+    "accept": [
+      "torii gate"
+    ],
+    "wrong": [
+      "sanmon",
+      "genkan",
+      "tokonoma"
+    ],
+    "explain": "A torii marks the boundary between the sacred space of a Shinto shrine and the ordinary world; Buddhist temples instead have a sanmon gate.",
+    "hook": "Torii = shrine; sanmon = temple.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/guide/shrine-and-temple-traditions",
+        "title": "Shrine and Temple Traditions | JNTO",
+        "quote": "Shrines are built to serve the Shinto religious tradition and are characterized by a torii gate at the entrance."
+      },
+      {
+        "url": "https://www.britannica.com/topic/torii",
+        "title": "Torii | Britannica",
+        "quote": "torii , symbolic gateway marking the entrance to the sacred precincts of a Shintō shrine in Japan ."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-12",
+    "deck": "fareast",
+    "topic": "Shrines vs temples",
+    "q": "What type of gate characterizes the entrance of a Buddhist temple in Japan?",
+    "a": "sanmon",
+    "accept": [
+      "san-mon"
+    ],
+    "wrong": [
+      "torii",
+      "shoji",
+      "fusuma"
+    ],
+    "explain": "Temples serve the Buddhist tradition and have a sanmon gate; large ones, like at Todaiji or Sensoji, hold guardian statues called niozo.",
+    "hook": "Torii = shrine; sanmon = temple.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/guide/shrine-and-temple-traditions",
+        "title": "Shrine and Temple Traditions | JNTO",
+        "quote": "Temples are built to serve the Buddhist religious tradition and are characterized by a sanmon gate at the entrance."
+      },
+      {
+        "url": "https://narashikanko.or.jp/en/feature/manner",
+        "title": "Etiquette when visiting Shinto shrines and temples | Nara Travelers Guide",
+        "quote": "Temples generally have a sanmon (main gate) at the entrance and a hondo or kondo (main hall) where Buddhist statues are enshrined."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-13",
+    "deck": "fareast",
+    "topic": "Shrine etiquette",
+    "q": "When passing through a torii gate, which part of the path is it customary to avoid?",
+    "a": "The center",
+    "accept": [
+      "center",
+      "centre",
+      "the centre",
+      "the middle",
+      "middle"
+    ],
+    "wrong": [
+      "The left side",
+      "The right side",
+      "The outer edges"
+    ],
+    "explain": "It is customary to walk slightly to the left or right, not directly through the center, and to bow once at the torii.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/guide/shrine-and-temple-traditions",
+        "title": "Shrine and Temple Traditions | JNTO",
+        "quote": "It is customary not to walk through the gate directly in the exact center. Walk through a little to the left or right of the center path."
+      },
+      {
+        "url": "https://narashikanko.or.jp/en/feature/manner",
+        "title": "Etiquette when visiting Shinto shrines and temples | Nara Travelers Guide",
+        "quote": "When passing through the gate, stand on either its left or right side, not the middle, and bow once."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-14",
+    "deck": "fareast",
+    "topic": "Bowing",
+    "q": "According to JNTO, what greeting works in most situations in Japan instead of a hug or handshake?",
+    "a": "A bow",
+    "accept": [
+      "bow",
+      "bowing",
+      "a polite bow"
+    ],
+    "wrong": [
+      "A hug",
+      "A kiss on the cheek",
+      "A high five"
+    ],
+    "explain": "Japanese people are less prone to body contact in everyday greetings; visitors are more likely to be bowed at than expected to bow.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.japan.travel/en/guide/japanese-manners-dos-and-donts/",
+        "title": "Japanese Manners Do’s and Don’ts | JNTO",
+        "quote": "In most situations, a polite bow will work as an appropriate greeting."
+      },
+      {
+        "url": "http://www.japan.travel/en/plan/custom-manners",
+        "title": "Custom & Manners | JNTO",
+        "quote": "As a guest in the country, you will more likely be bowed at, rather than expected to bow."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-15",
+    "deck": "fareast",
+    "topic": "Mount Fuji",
+    "q": "How tall is Mount Fuji, Japan's highest mountain, in meters?",
+    "a": "3,776 m",
+    "accept": [
+      "3776",
+      "3,776",
+      "3776 m",
+      "3776m",
+      "3,776 meters"
+    ],
+    "wrong": [
+      "3,067 m",
+      "4,092 m",
+      "2,983 m"
+    ],
+    "explain": "Mount Fuji rises to 3,776 m (12,388 ft) in Yamanashi and Shizuoka prefectures, about 100 km west of Tokyo.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/place/Mount-Fuji",
+        "title": "Mount Fuji | Britannica",
+        "quote": "It rises to 12,388 feet (3,776 meters) near the Pacific Ocean coast in Yamanashi and Shizuoka ken (prefectures) of central Honshu , about 60 miles (100 km) west of the Tokyo-Yokohama metropolitan area ."
+      },
+      {
+        "url": "https://www.fujisan-kouhai.metro.tokyo.lg.jp/en/fuji-eruption_en",
+        "title": "Learn about the eruption of Mount Fuji - Tokyo Metropolitan Government",
+        "quote": "With an elevation of 3,776m, it is the highest mountain in Japan, and with a volume of approximately 500km2, it is the largest volcano on land in Japan."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-16",
+    "deck": "fareast",
+    "topic": "Mount Fuji",
+    "q": "In what year did Mount Fuji last erupt?",
+    "a": "1707",
+    "accept": [],
+    "wrong": [
+      "1792",
+      "1854",
+      "1914"
+    ],
+    "explain": "The 1707 Hoei eruption spread ash as far as Edo (Tokyo); Fuji has been dormant since but is still classified as active.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/place/Mount-Fuji",
+        "title": "Mount Fuji | Britannica",
+        "quote": "It is a volcano that has been dormant since its last eruption, in 1707, but is still generally classified as active by geologists."
+      },
+      {
+        "url": "https://www.fujisan-kouhai.metro.tokyo.lg.jp/en/fuji-eruption_en",
+        "title": "Learn about the eruption of Mount Fuji - Tokyo Metropolitan Government",
+        "quote": "This eruption occurred on the southeastern slope of Mount Fuji on November 23rd (December 16th), 1707 (the 4th year of the Hoei era), approximately 300 years ago."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-17",
+    "deck": "fareast",
+    "topic": "Shinkansen",
+    "q": "In what year did the first Shinkansen line open between Tokyo and Osaka?",
+    "a": "1964",
+    "accept": [],
+    "wrong": [
+      "1958",
+      "1970",
+      "1972"
+    ],
+    "explain": "The Tokaido Shinkansen, Japan's first high-speed line, opened on October 1, 1964.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://global.jr-central.co.jp/en/company/ir/annualreport/_pdf/annualreport2024-13.pdf",
+        "title": "Tokaido Shinkansen: Constant Effort to Enhance Service | JR Central Annual Report 2024",
+        "quote": "Since its opening on October 1, 1964, the Tokaido Shinkansen has made ensuring safe and reliable transportation its number one priority and tirelessly continued to develop technology and improve services."
+      },
+      {
+        "url": "https://www.britannica.com/topic/Shinkansen",
+        "title": "Shinkansen | Britannica",
+        "quote": "The first section, between Tokyo and Osaka, opened in 1964 and was named the New Tōkaidō Line."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-18",
+    "deck": "fareast",
+    "topic": "Hanami",
+    "q": "What is the Japanese term for the custom of cherry blossom viewing?",
+    "a": "hanami",
+    "accept": [],
+    "wrong": [
+      "tsukimi",
+      "momijigari",
+      "hanabi"
+    ],
+    "explain": "Hana means 'flower' and mi 'to look'; people gather under blooming sakura, typically in March and April, for picnics.",
+    "hook": "Hana (flower) + mi (look).",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/articles/hanami.htm",
+        "title": "Hanami (U.S. National Park Service)",
+        "quote": "But in the trees’ homeland of Japan, the tradition of viewing the cherry blossoms, known as 'hanami,' dates back more than 1,200 years!"
+      },
+      {
+        "url": "https://www.japan.travel/en/au/experience/cherry-blossoms",
+        "title": "Cherry Blossoms | JNTO",
+        "quote": "there are some places that provide a truly incredible location to engage in hanami (enjoying the sakura’s transient beauty)."
+      }
+    ]
+  },
+  {
+    "id": "japan-cult-02-19",
+    "deck": "fareast",
+    "topic": "Golden Week",
+    "q": "Which Golden Week national holiday falls on May 5?",
+    "a": "Children's Day",
+    "accept": [
+      "Childrens Day",
+      "Children Day",
+      "Kodomo no Hi"
+    ],
+    "wrong": [
+      "Showa Day",
+      "Constitution Memorial Day",
+      "Greenery Day"
+    ],
+    "explain": "Golden Week groups Showa Day (Apr 29), Constitution Memorial Day (May 3), Greenery Day (May 4) and Children's Day (May 5).",
+    "hook": "Golden Week ends with the kids.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Golden-Week",
+        "title": "Golden Week | Britannica",
+        "quote": "The four holidays are Shōwa Day (April 29), Constitution Day (May 3), Greenery Day (May 4), and Children’s Day (May 5)."
+      },
+      {
+        "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/4846/en",
+        "title": "Act on National Holidays - Japanese Law Translation",
+        "quote": "Children's Day: May 5. This day is for honoring the personality of children, working towards their happiness, and expressing gratitude to mothers."
+      }
+    ]
+  }
+]

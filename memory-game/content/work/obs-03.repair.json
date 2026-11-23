@@ -1,0 +1,32 @@
+[
+  {
+    "id": "obs-03-02",
+    "deck": "observatory",
+    "topic": "DNA discovery",
+    "q": "Whose X-ray diffraction work produced 'Photo 51', the image that revealed DNA's helical shape?",
+    "a": "Rosalind Franklin",
+    "accept": [
+      "Franklin"
+    ],
+    "wrong": [
+      "Maurice Wilkins",
+      "Linus Pauling",
+      "Erwin Chargaff"
+    ],
+    "explain": "Rosalind Franklin used X-ray diffraction to study DNA, and her famous Photo 51 revealed its helical shape, helping to elucidate the double helix structure.",
+    "hook": "Photo 51 = Franklin's photo.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/science/DNA",
+        "title": "DNA | Britannica",
+        "quote": "In 1952, scientist Rosalind Franklin, using X-ray diffraction, captured her famous “Photo 51,” which revealed the helical shape of DNA."
+      },
+      {
+        "url": "https://openstax.org/books/concepts-biology/pages/9-1-the-structure-of-dna",
+        "title": "9.1 The Structure of DNA - Concepts of Biology | OpenStax",
+        "quote": "Scientist Rosalind Franklin discovered the X-ray diffraction pattern of DNA, which helped to elucidate its double helix structure."
+      }
+    ]
+  }
+]

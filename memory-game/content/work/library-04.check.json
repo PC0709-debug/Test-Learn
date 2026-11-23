@@ -1,0 +1,433 @@
+[
+ {
+  "id": "library-04-01",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Glorious-Revolution",
+   "https://researchbriefings.files.parliament.uk/documents/SN00293/SN00293.pdf"
+  ]
+ },
+ {
+  "id": "library-04-02",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/place/United-Kingdom/The-Revolution-of-1688",
+   "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/overview/billofrights/"
+  ]
+ },
+ {
+  "id": "library-04-03",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Principia",
+   "https://www.loc.gov/item/2021667054/"
+  ]
+ },
+ {
+  "id": "library-04-04",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/William-Harvey/Key-discoveries-and-influences",
+   "https://history.rcp.ac.uk/exhibitions/past-exhibitions/ceaseless-motion-experimentations-circulation"
+  ]
+ },
+ {
+  "id": "library-04-05",
+  "source": 18,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 80,
+  "hardFail": "Date July 4, 1776 cited only from two National Archives (archives",
+  "pass": false,
+  "issue": "Date July 4, 1776 cited only from two National Archives (archives.gov) pages - same publisher, not two independent sources. Add an independent source (e.g. Britannica or Library of Congress).",
+  "verifiedUrls": [
+   "https://www.archives.gov/milestone-documents/declaration-of-independence",
+   "https://www.archives.gov/founding-docs/timeline"
+  ]
+ },
+ {
+  "id": "library-04-06",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.archives.gov/milestone-documents/treaty-of-paris",
+   "https://history.state.gov/milestones/1776-1783/treaty"
+  ]
+ },
+ {
+  "id": "library-04-07",
+  "source": 18,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 80,
+  "hardFail": "Date July 14, 1789 cited only from two Britannica pages (article + summary timeline) - not independent",
+  "pass": false,
+  "issue": "Date July 14, 1789 cited only from two Britannica pages (article + summary timeline) - not independent. Add a non-Britannica source (e.g. elysee.fr, assemblee-nationale.fr).",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/storming-of-the-Bastille",
+   "https://www.britannica.com/summary/French-Revolution-Timeline"
+  ]
+ },
+ {
+  "id": "library-04-08",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Louis-XVI",
+   "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/proces-et-execution-de-louis-xvi"
+  ]
+ },
+ {
+  "id": "library-04-09",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/summary/French-Revolution-Timeline",
+   "https://marcuse.faculty.history.ucsb.edu/classes/4c/frrev.h96.htm"
+  ]
+ },
+ {
+  "id": "library-04-10",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.napoleon.org/en/history-of-the-two-empires/close-up/a-close-up-on-the-coronation-of-napoleon-i",
+   "https://digital.library.mcgill.ca/napoleon//english/timeline.htm"
+  ]
+ },
+ {
+  "id": "library-04-11",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.napoleon.org/en/history-of-the-two-empires/close-up/a-close-up-on-the-coronation-of-napoleon-i",
+   "https://collections.museumsvictoria.com.au/articles/17658"
+  ]
+ },
+ {
+  "id": "library-04-12",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Napoleonic-Code",
+   "https://digital.library.mcgill.ca/napoleon//english/timeline.htm"
+  ]
+ },
+ {
+  "id": "library-04-13",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Battle-of-Waterloo",
+   "https://www.nam.ac.uk/explore/battle-waterloo"
+  ]
+ },
+ {
+  "id": "library-04-14",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Battle-of-Waterloo",
+   "https://www.nam.ac.uk/explore/battle-waterloo"
+  ]
+ },
+ {
+  "id": "library-04-15",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/summary/Battle-of-Waterloo",
+   "https://www.nam.ac.uk/explore/battle-waterloo"
+  ]
+ },
+ {
+  "id": "library-04-16",
+  "source": 18,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 80,
+  "hardFail": "Stem's death year 1821 stated by only one cited source (Britannica); NAM page does not give the year",
+  "pass": false,
+  "issue": "Stem's death year 1821 stated by only one cited source (Britannica); NAM page does not give the year. Add a second source (e.g. McGill Napoleon timeline: '5 May. Death of Napoleon').",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Napoleon-I",
+   "https://www.nam.ac.uk/explore/battle-waterloo"
+  ]
+ },
+ {
+  "id": "library-04-17",
+  "source": 29,
+  "match": 30,
+  "unique": 13,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: accept list includes 'England' and 'UK' (UK formed 1801); acceptable but not strictly equivalent to Britain.",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Industrial-Revolution",
+   "https://www.britannica.com/summary/Industrial-Revolution-Key-Facts"
+  ]
+ },
+ {
+  "id": "library-04-18",
+  "source": 18,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 80,
+  "hardFail": "Date 1770 (and c",
+  "pass": false,
+  "issue": "Date 1770 (and c.1764) cited only from two Britannica pages - not independent. Add a non-Britannica source (e.g. Science Museum, university page).",
+  "verifiedUrls": [
+   "https://www.britannica.com/technology/spinning-jenny",
+   "https://www.britannica.com/biography/James-Hargreaves"
+  ]
+ },
+ {
+  "id": "library-04-19",
+  "source": 15,
+  "match": 22,
+  "unique": 11,
+  "current": 15,
+  "precise": 7,
+  "total": 70,
+  "hardFail": "Science Museum Group page returned no text; quote ('kept the cylinder hot",
+  "pass": false,
+  "issue": "Science Museum Group page returned no text; quote ('kept the cylinder hot... fuel efficiency') could not be confirmed, so explain's efficiency claim and the 1769 patent rest on Britannica alone. Also accept 'condenser' is not equivalent (Newcomen engines already condensed steam in-cylinder). Replace second source and drop 'condenser' from accept.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/James-Watt"
+  ]
+ },
+ {
+  "id": "library-04-20",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://home.nps.gov/gett/learn/historyculture/civil-war-timeline.htm",
+   "https://www.britannica.com/event/Battle-of-Fort-Sumter"
+  ]
+ },
+ {
+  "id": "library-04-21",
+  "source": 18,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 80,
+  "hardFail": "Year 1863 cited only from two National Archives pages - same publisher; transcript page excerpt did not show the cited line",
+  "pass": false,
+  "issue": "Year 1863 cited only from two National Archives pages - same publisher; transcript page excerpt did not show the cited line. Add an independent source (e.g. LOC, Britannica).",
+  "verifiedUrls": [
+   "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+   "https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation/transcript.html"
+  ]
+ },
+ {
+  "id": "library-04-22",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.loc.gov/item/today-in-history/november-19",
+   "https://home.nps.gov/gett/learn/historyculture/civil-war-timeline.htm"
+  ]
+ },
+ {
+  "id": "library-04-23",
+  "source": 18,
+  "match": 24,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 80,
+  "hardFail": "Year 1860 (and May 11 landing) cited only from two Britannica pages - not independent",
+  "pass": false,
+  "issue": "Year 1860 (and May 11 landing) cited only from two Britannica pages - not independent. Add a non-Britannica source.",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Expedition-of-the-Thousand",
+   "https://www.britannica.com/place/Italy/Garibaldi-and-the-Thousand"
+  ]
+ },
+ {
+  "id": "library-04-24",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://history.state.gov/countries/piedmont-sardinia",
+   "https://www.britannica.com/topic/unification-of-Italy/Piedmont-in-1850"
+  ]
+ },
+ {
+  "id": "library-04-25",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Second source is the 1911 Britannica (Wikisource); acceptable for no-number stem but not fully independent of modern Britannica.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Camillo-Benso-conte-di-Cavour",
+   "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cavour,_Camillo_Benso,_Count"
+  ]
+ },
+ {
+  "id": "library-04-26",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://en.chateauversailles.fr/discover/history/key-dates/proclamation-german-empire-1871",
+   "https://www.britannica.com/place/German-Empire/The-Franco-German-War"
+  ]
+ },
+ {
+  "id": "library-04-27",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/place/German-Empire",
+   "https://en.chateauversailles.fr/discover/history/key-dates/proclamation-german-empire-1871"
+  ]
+ }
+]

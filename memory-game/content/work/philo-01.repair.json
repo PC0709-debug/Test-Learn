@@ -1,0 +1,56 @@
+[
+  {
+    "id": "philo-01-16",
+    "deck": "library",
+    "topic": "Epictetus",
+    "q": "Which Roman emperor expelled Epictetus and other philosophers from Rome?",
+    "a": "Domitian",
+    "accept": [],
+    "wrong": [
+      "Augustus",
+      "Hadrian",
+      "Marcus Aurelius"
+    ],
+    "explain": "Domitian expelled philosophers from Rome, irritated by the favourable reception Stoics gave to opponents of his tyranny.",
+    "hook": "Domitian dominated, so the philosophers departed.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Epictetus-Greek-philosopher",
+        "title": "Epictetus | Britannica",
+        "quote": "In ad 90 he was expelled from Rome with other philosophers by the emperor Domitian, who was irritated by the favourable reception given by Stoics to opponents of his tyranny."
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "title": "Stoicism (Stanford Encyclopedia of Philosophy)",
+        "quote": "Epictetus, a former slave, was expelled from Rome by Domitian along with other"
+      }
+    ]
+  },
+  {
+    "id": "philo-01-26",
+    "deck": "library",
+    "topic": "Memento mori",
+    "q": "What does the Latin phrase 'memento mori' literally mean?",
+    "a": "Remember you must die",
+    "accept": [
+      "remember that you must die",
+      "remember you will die"
+    ],
+    "wrong": [
+      "Seize the day",
+      "Know thyself",
+      "Love your fate"
+    ],
+    "explain": "Memento mori is Latin for 'remember that you must die'; in English it names a reminder of mortality.",
+    "hook": "Memento = remember; mori = to die.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/memento%20mori",
+        "title": "MEMENTO MORI Definition & Meaning - Merriam-Webster",
+        "quote": "Memento mori literally means \"Remember you must die\"."
+      }
+    ]
+  }
+]

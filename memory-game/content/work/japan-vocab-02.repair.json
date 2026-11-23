@@ -1,0 +1,87 @@
+[
+  {
+    "id": "japan-vocab-02-04",
+    "deck": "fareast",
+    "topic": "Food and dining",
+    "q": "What is the polite Japanese word for the bill or check at a restaurant?",
+    "a": "okaikei",
+    "accept": [
+      "okaikei",
+      "o-kaikei",
+      "おかいけい",
+      "お会計",
+      "okanjō",
+      "okanjo",
+      "okanjou",
+      "おかんじょう",
+      "お勘定"
+    ],
+    "wrong": [
+      "yukata",
+      "eki",
+      "mizu"
+    ],
+    "explain": "お会計 (おかいけい, okaikei) is the polite form of 会計 (kaikei), 'check, bill (at a restaurant, etc.)'; お勘定 (okanjō) is also used for the bill.",
+    "hook": "O-kai-kei: 'OK, I pay'.",
+    "difficulty": 2,
+    "say": "oh-kye-kay",
+    "kana": "おかいけい",
+    "kanji": "お会計",
+    "romaji": "okaikei",
+    "sources": [
+      {
+        "url": "https://jisho.org/word/お会計",
+        "title": "お会計 - Jisho.org",
+        "quote": "かい けい お 会計 Common word ... Noun 1. bill (at a restaurant); check Polite (teineigo) language"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/会計",
+        "title": "会計 - Wiktionary, the free dictionary",
+        "quote": "( honorific ) お 会計 ( かいけい ) ( o-kaikei ) ... 会計 ( kaikei ) ... check , bill ( at a restaurant, etc. )"
+      },
+      {
+        "url": "https://jisho.org/word/お勘定",
+        "title": "お勘定 - Jisho.org",
+        "quote": "かん じょう お 勘定 ... Noun 1. bill (e.g. at a restaurant); check See also お会計"
+      }
+    ]
+  },
+  {
+    "id": "japan-vocab-02-06",
+    "deck": "fareast",
+    "topic": "Food and dining",
+    "q": "Which polite Japanese expression means 'thank you for the meal' after you have finished eating?",
+    "a": "gochisōsama deshita",
+    "accept": [
+      "gochisosama deshita",
+      "gochisousama deshita",
+      "gochisōsamadeshita",
+      "gochisosamadeshita",
+      "ごちそうさまでした"
+    ],
+    "wrong": [
+      "kippu",
+      "migi",
+      "tatami"
+    ],
+    "explain": "ごちそうさまでした is glossed 'thank you for the meal; that was a delicious meal; what a wonderful meal' and is usually written in kana.",
+    "hook": "Go-chiso: 'go cheese-o' - the feast is done.",
+    "difficulty": 2,
+    "say": "goh-chee-soh-sah-mah deh-shee-tah",
+    "kana": "ごちそうさまでした",
+    "kanji": "ご馳走様でした",
+    "romaji": "gochisōsama deshita",
+    "sources": [
+      {
+        "url": "https://jisho.org/search/gochisousamadeshita",
+        "title": "gochisousamadeshita - Jisho.org",
+        "quote": "Expressions (phrases, clauses, etc.) 1. thank you for the meal; that was a delicious meal; what a wonderful meal Polite (teineigo) language , Usually written using kana alone Other forms ご馳走さまでした 【ごちそうさまでした】 、 御馳走様でした 【ごちそうさまでした】"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/ごちそうさまでした",
+        "title": "ごちそうさまでした - Wiktionary, the free dictionary",
+        "quote": "【 ご馳走様でした 】 [phrase] it was delicious ... (This term, ごちそうさまでした ( gochisōsamadeshita ) , is the hiragana spelling of the above term.)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "library-05-03",
+    "deck": "library",
+    "topic": "World War I",
+    "q": "On what date did the armistice ending the fighting in World War I take effect?",
+    "a": "November 11, 1918",
+    "accept": [
+      "11 November 1918",
+      "Nov 11 1918",
+      "November 11 1918",
+      "11/11/1918"
+    ],
+    "wrong": [
+      "June 28, 1919",
+      "June 28, 1914",
+      "May 8, 1945"
+    ],
+    "explain": "An Armistice was granted to Germany on November 11, 1918, and World War I's fighting ended at 11:00 am that day.",
+    "hook": "The 11th hour of the 11th day of the 11th month.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/World-War-I/The-end-of-the-German-war",
+        "title": "World War I - Armistice, Treaty, Legacy | Britannica",
+        "quote": "At 5:00 am on November 11, 1918, the Armistice document was signed in Foch ’s railway carriage at Rethondes. At 11:00 am on the same day, World War I came to an end."
+      },
+      {
+        "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles",
+        "title": "The Treaty of Versailles - The National Archives",
+        "quote": "Bearing in mind that on the request of the Imperial German Government an Armistice was granted on November 11, 1918, to Germany by the Principal Allied and Associated Powers"
+      }
+    ]
+  },
+  {
+    "id": "library-05-04",
+    "deck": "library",
+    "topic": "World War I",
+    "q": "In which room of the Palace of Versailles was the Treaty of Versailles signed?",
+    "a": "Hall of Mirrors",
+    "accept": [
+      "the Hall of Mirrors",
+      "Galerie des Glaces"
+    ],
+    "wrong": [
+      "Royal Chapel",
+      "King's Bedchamber",
+      "Royal Opera"
+    ],
+    "explain": "The Treaty of Versailles was signed by the Allied and associated powers and Germany on June 28, 1919, in the Hall of Mirrors of the Palace of Versailles.",
+    "hook": "Peace was reflected in the Hall of Mirrors.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Treaty-of-Versailles-1919",
+        "title": "Treaty of Versailles | Definition, Summary, Terms, & Facts | Britannica",
+        "quote": "It was signed on June 28, 1919, by the Allied and associated powers and by Germany in the Hall of Mirrors in the Palace of Versailles and went into effect on January 10, 1920. ... The treaty also created the League of Nations ."
+      },
+      {
+        "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles",
+        "title": "The Treaty of Versailles - The National Archives",
+        "quote": "Signed at the conclusion of the Paris Peace Conference, on 28 June 1919, it was designed to establish peace, prevent war, and to ensure Germany would never be a military power again."
+      },
+      {
+        "url": "https://www.theworldwar.org/learn/peace/treaties-signed",
+        "title": "Treaties Signed | National WWI Museum and Memorial",
+        "quote": "After trying and failing to negotiate some of the more severe terms and facing threats of resumed war should they not sign, the German delegates signed the Treaty of Versailles on June 28, 1919 in the Hall of Mirrors."
+      }
+    ]
+  },
+  {
+    "id": "library-05-05",
+    "deck": "library",
+    "topic": "World War I / Russian Revolution",
+    "q": "Which March 1918 treaty took Soviet Russia out of World War I?",
+    "a": "Treaty of Brest-Litovsk",
+    "accept": [
+      "Brest-Litovsk",
+      "Brest Litovsk",
+      "Treaty of Brest Litovsk"
+    ],
+    "wrong": [
+      "Treaty of Versailles",
+      "Treaty of Rapallo",
+      "Treaty of Trianon"
+    ],
+    "explain": "On March 3, 1918, Soviet Russia signed the Treaty of Brest-Litovsk with the Central Powers, officially leaving World War I and losing Ukraine, its Polish and Baltic territories, and Finland.",
+    "hook": "Lenin traded land for peace at Brest-Litovsk.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/treaties-of-Brest-Litovsk",
+        "title": "Treaties of Brest-Litovsk | Russia, Germany, Austria-Hungary | Britannica",
+        "quote": "On March 3 the Soviet government accepted a treaty by which Russia lost Ukraine, its Polish and Baltic territories, and Finland . ... Both the Ukrainian and Russian treaties were annulled by the Armistice on Nov. 11, 1918, which marked the Allied defeat of Germany ."
+      },
+      {
+        "url": "https://www.theworldwar.org/learn/about-wwi/key-dates",
+        "title": "Key Dates | National WWI Museum and Memorial",
+        "quote": "March 3, 1918 Russia and Germany sign the Treaty of Brest-Litovsk, officially removing Russia from World War I."
+      }
+    ]
+  },
+  {
+    "id": "library-05-07",
+    "deck": "library",
+    "topic": "Russian Revolution",
+    "q": "Which Russian tsar abdicated in March 1917, ending the Romanov dynasty's rule?",
+    "a": "Nicholas II",
+    "accept": [
+      "Tsar Nicholas II",
+      "Czar Nicholas II"
+    ],
+    "wrong": [
+      "Alexander III",
+      "Alexander II",
+      "Peter the Great"
+    ],
+    "explain": "Nicholas II abdicated on March 15, 1917, after the Petrograd garrison joined the revolt; his brother Grand Duke Michael refused the throne, ending the Romanov dynasty.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/list/russian-revolution-timeline",
+        "title": "Russian Revolution Timeline | Britannica",
+        "quote": "After the majority of the Petrograd garrison of soldiers joins the revolt, Tsar Nicholas II is forced to abdicate. His brother Grand Duke Michael then refuses the throne, which brings an end to the Romanov dynasty ."
+      },
+      {
+        "url": "https://www.britannica.com/event/Russian-Revolution",
+        "title": "Russian Revolution | Definition, Causes, Summary, History, & Facts | Britannica",
+        "quote": "On March 15, 1917, Nicholas II abdicated the throne."
+      },
+      {
+        "url": "https://www.theworldwar.org/learn/about-wwi/key-dates",
+        "title": "Key Dates | National WWI Museum and Memorial",
+        "quote": "July 17, 1918 Bolsheviks murder the former czar of Russia, Nicholas II, and his family."
+      },
+      {
+        "url": "https://guides.loc.gov/chronicling-america-czar-nicholas-ii",
+        "title": "Czar Nicholas II: Topics in Chronicling America - Library of Congress",
+        "quote": "Nicholas II abdicated on March 15, 1917."
+      }
+    ]
+  },
+  {
+    "id": "library-05-08",
+    "deck": "library",
+    "topic": "Great Depression",
+    "q": "What name is given to October 29, 1929, the final day of the 1929 stock market crash?",
+    "a": "Black Tuesday",
+    "accept": [
+      "black tuesday"
+    ],
+    "wrong": [
+      "Black Friday",
+      "Black Wednesday",
+      "Black Sunday"
+    ],
+    "explain": "On Black Tuesday, October 29, 1929, more than 16 million shares were traded on the New York Stock Exchange; the crash led into the Great Depression.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/topic/Black-Tuesday-1929",
+        "title": "Black Tuesday | 1929 Stock Market Crash, Great Depression, Regulation, Investments, & Impact | Britannica",
+        "quote": "October 29, 1929, known as Black Tuesday, marked the final day of the stock market crash of 1929 , leading to the Great Depression ."
+      },
+      {
+        "url": "https://www.britannica.com/event/stock-market-crash-of-1929",
+        "title": "Stock market crash of 1929 | Summary, Causes, & Facts | Britannica",
+        "quote": "On Black Tuesday (October 29) more than 16 million shares were traded."
+      },
+      {
+        "url": "https://www.history.com/this-day-in-history/october-29/stock-market-crashes",
+        "title": "Stock market crashes on Black Tuesday | HISTORY",
+        "quote": "Black Tuesday hits Wall Street on October 29, 1929 as investors trade 16,410,030 shares on the New York Stock Exchange in a single day."
+      }
+    ]
+  },
+  {
+    "id": "library-05-09",
+    "deck": "library",
+    "topic": "Great Depression",
+    "q": "Which U.S. president launched the New Deal in 1933?",
+    "a": "Franklin D. Roosevelt",
+    "accept": [
+      "FDR",
+      "Franklin Roosevelt",
+      "Roosevelt",
+      "Franklin Delano Roosevelt"
+    ],
+    "wrong": [
+      "Herbert Hoover",
+      "Harry S. Truman",
+      "Woodrow Wilson"
+    ],
+    "explain": "Franklin D. Roosevelt's New Deal, intended to stem the effects of the Great Depression, began to take shape right after his inauguration in March 1933.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/summary/New-Deal-Key-Facts",
+        "title": "New Deal | Key Facts | Britannica",
+        "quote": "The domestic program known as the New Deal, intended to stem the effects of the Great Depression , was launched by the administration of U.S. President Franklin D. Roosevelt in 1933."
+      },
+      {
+        "url": "https://millercenter.org/president/fdroosevelt/domestic-affairs",
+        "title": "Franklin D. Roosevelt: Domestic Affairs | Miller Center",
+        "quote": "The New Deal Roosevelt had promised the American people began to take shape immediately after his inauguration in March 1933."
+      }
+    ]
+  },
+  {
+    "id": "library-05-10",
+    "deck": "library",
+    "topic": "World War II",
+    "q": "On what date did Japan attack the U.S. naval base at Pearl Harbor?",
+    "a": "December 7, 1941",
+    "accept": [
+      "7 December 1941",
+      "Dec 7 1941",
+      "December 7 1941"
+    ],
+    "wrong": [
+      "June 6, 1944",
+      "September 1, 1939",
+      "June 22, 1941"
+    ],
+    "explain": "On the morning of December 7, 1941, Japanese bombers staged a surprise attack on U.S. forces in Hawaii; the next day President Roosevelt asked Congress for a declaration of war against Japan.",
+    "hook": "\"A date which will live in infamy.\"",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.archives.gov/legislative/features/pearl-harbor",
+        "title": "Attack on Pearl Harbor | National Archives",
+        "quote": "On the morning of December 7, 1941, Japanese bombers staged a surprise attack on U.S. military and naval forces in Hawaii. ... The day after the attack, before a joint session of Congress, President Roosevelt asked Congress for a declaration of war against Japan."
+      },
+      {
+        "url": "https://www.britannica.com/topic/Timeline-of-World-War-II",
+        "title": "Timeline of World War II | Key Events, Europe, Pacific, & Battles | Britannica",
+        "quote": "December 7: Japanese air and naval units attack Pearl Harbor and Midway ."
+      }
+    ]
+  },
+  {
+    "id": "library-05-14",
+    "deck": "library",
+    "topic": "World War II",
+    "q": "What is the present-day name of the Russian city of Stalingrad, site of the 1942–43 battle?",
+    "a": "Volgograd",
+    "accept": [
+      "volgograd"
+    ],
+    "wrong": [
+      "Saint Petersburg",
+      "Yekaterinburg",
+      "Kaliningrad"
+    ],
+    "explain": "Stalingrad is now called Volgograd; the battle ended when the last German troops there surrendered on February 2, 1943.",
+    "hook": "Stalingrad sits on the Volga: Volgograd.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Stalingrad",
+        "title": "Battle of Stalingrad | History, Summary, Location, Deaths, & Facts | Britannica",
+        "quote": "The Battle of Stalingrad was won by the Soviet Union against a German offensive that attempted to take the city of Stalingrad (now Volgograd, Russia) during World War II ."
+      },
+      {
+        "url": "https://www.history.com/this-day-in-history/february-2/battle-of-stalingrad-ends",
+        "title": "Battle of Stalingrad ends | HISTORY",
+        "quote": "On January 31, Von Paulus surrendered German forces in the southern sector, and on February 2 the remaining German troops surrendered."
+      }
+    ]
+  },
+  {
+    "id": "library-05-19",
+    "deck": "library",
+    "topic": "Bretton Woods",
+    "q": "Which U.S. president suspended the dollar's convertibility into gold in August 1971?",
+    "a": "Richard Nixon",
+    "accept": [
+      "Nixon",
+      "Richard M. Nixon",
+      "richard nixon"
+    ],
+    "wrong": [
+      "Lyndon B. Johnson",
+      "Gerald Ford",
+      "Jimmy Carter"
+    ],
+    "explain": "In August 1971 Nixon suspended the dollar's convertibility into gold (the 'Nixon shock'), marking the beginning of the end of the Bretton Woods system of fixed exchange rates.",
+    "hook": "The 'Nixon shock' closed the gold window.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://history.state.gov/milestones/1969-1976/nixon-shock",
+        "title": "Milestones in the History of U.S. Foreign Relations - Office of the Historian (Nixon shock)",
+        "quote": "On August 15, 1971, President Richard M. Nixon announced his New Economic Policy, a program “to create a new prosperity without war.” Known colloquially as the “Nixon shock,” the initiative marked the beginning of the end for the Bretton Woods system of fixed exchange rates established at the end of World War II. ... to achieve the third, Nixon directed the suspension of the dollar’s convertibility into gold."
+      },
+      {
+        "url": "https://history.state.gov/milestones/1937-1945/bretton-woods",
+        "title": "Bretton Woods-GATT, 1941–1947 - Office of the Historian",
+        "quote": "only after the exchange crises of August 1971, when President Richard M. Nixon suspended the dollar’s convertibility into gold, and February/March 1973 did floating exchange rates become the norm for the major industrialized democracies."
+      }
+    ]
+  },
+  {
+    "id": "library-05-20",
+    "deck": "library",
+    "topic": "Cold War",
+    "q": "What was the official name of the Marshall Plan for rebuilding postwar Western Europe?",
+    "a": "European Recovery Program",
+    "accept": [
+      "ERP",
+      "European Recovery Programme",
+      "the European Recovery Program"
+    ],
+    "wrong": [
+      "Truman Doctrine",
+      "Lend-Lease",
+      "Dawes Plan"
+    ],
+    "explain": "Named for Secretary of State George C. Marshall, the European Recovery Program was authorized by Congress in 1948 to help rebuild Western Europe.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://history.state.gov/milestones/1945-1952/berlin-airlift",
+        "title": "The Berlin Airlift, 1948–1949 - Office of the Historian",
+        "quote": "In June, Secretary of State George Marshall announced the European Recovery Program. The purpose of the Marshall Plan—as the program came to be called—was not only to support economic recovery in Western Europe, but also to create a bulwark against Communism"
+      },
+      {
+        "url": "https://www.marshallfoundation.org/the-marshall-plan/",
+        "title": "The Marshall Plan - The George C. Marshall Foundation",
+        "quote": "Congress authorized the ERP in April 1948 which became known as the “Marshall Plan.”"
+      },
+      {
+        "url": "https://history.state.gov/milestones/1945-1952/marshall-plan",
+        "title": "Marshall Plan, 1948 - Office of the Historian",
+        "quote": "In a June 5, 1947, speech to the graduating class at Harvard University, Secretary of State George C. Marshall issued a call for a comprehensive program to rebuild Europe. ... Congress passed the Economic Cooperation Act in March 1948 and approved funding that would eventually rise to over $12 billion for the rebuilding of Western Europe."
+      }
+    ]
+  },
+  {
+    "id": "library-05-23",
+    "deck": "library",
+    "topic": "Cold War",
+    "q": "In what year did the Cuban Missile Crisis take place?",
+    "a": "1962",
+    "accept": [
+      "October 1962"
+    ],
+    "wrong": [
+      "1959",
+      "1961",
+      "1968"
+    ],
+    "explain": "In October 1962 the United States and the Soviet Union came closer to nuclear conflict over Soviet missiles in Cuba than at any other moment of the Cold War.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis",
+        "title": "The Cuban Missile Crisis, October 1962 - Office of the Historian",
+        "quote": "The Cuban Missile Crisis of October 1962 was a direct and dangerous confrontation between the United States and the Soviet Union during the Cold War and was the moment when the two superpowers came closest to nuclear conflict."
+      },
+      {
+        "url": "https://www.archives.gov/news/topics/cuban-missile-crisis",
+        "title": "Cuban Missile Crisis | National Archives",
+        "quote": "At the height of the Cold War, for two weeks in October 1962, the world teetered on the edge of thermonuclear war. ... For 13 agonizing days—from October 16 through October 28—the United States and the Soviet Union stood on the brink of nuclear war."
+      }
+    ]
+  },
+  {
+    "id": "library-05-25",
+    "deck": "library",
+    "topic": "Space race",
+    "q": "Who became the first human to travel into space, aboard Vostok 1 in 1961?",
+    "a": "Yuri Gagarin",
+    "accept": [
+      "Gagarin",
+      "yuri gagarin"
+    ],
+    "wrong": [
+      "John Glenn",
+      "Alan Shepard",
+      "Valentina Tereshkova"
+    ],
+    "explain": "Soviet cosmonaut Yuri Gagarin was launched on Vostok 1 on April 12, 1961, becoming the first human in space.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Yuri-Gagarin",
+        "title": "Yuri Gagarin | Biography & Facts | Britannica",
+        "quote": "Yuri Gagarin ... was a Soviet cosmonaut who in 1961 became the first man to travel into space. ... Gagarin’s 4 3/4-ton Vostok 1 spacecraft was launched at 9:07 am Moscow time on April 12, 1961"
+      },
+      {
+        "url": "https://airandspace.si.edu/explore/stories/apollo-11-moon-landing",
+        "title": "Apollo 11: The Moon Landing | National Air and Space Museum",
+        "quote": "The Soviet Union launched the first human, Yuri Gagarin, into space on April 12, 1961."
+      }
+    ]
+  },
+  {
+    "id": "library-05-27",
+    "deck": "library",
+    "topic": "Berlin Wall",
+    "q": "On what date was the Berlin Wall opened, marking its fall?",
+    "a": "November 9, 1989",
+    "accept": [
+      "9 November 1989",
+      "Nov 9 1989",
+      "November 9 1989"
+    ],
+    "wrong": [
+      "August 13, 1961",
+      "October 3, 1990",
+      "December 25, 1991"
+    ],
+    "explain": "After a new travel regulation was announced, the border between East and West Berlin was opened on November 9, 1989, ending the Wall's role as a barrier; it had stood since August 13, 1961.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://history.state.gov/milestones/1953-1960/berlin-crises",
+        "title": "The Berlin Crisis, 1958–1961 - Office of the Historian",
+        "quote": "The Berlin Wall remained in place until November 9, 1989, when the border between East and West Berlin was reopened and the wall itself was finally dismantled."
+      },
+      {
+        "url": "https://www.britannica.com/topic/Berlin-Wall",
+        "title": "Berlin Wall | Map, Video, Definition, Length, & Facts | Britannica",
+        "quote": "The border between East and West Germany was opened on November 9, 1989, following anti-government protests in East Germany and the democratization of other eastern and central European states."
+      },
+      {
+        "url": "https://www.stiftung-berliner-mauer.de/en/topics/berlin-wall",
+        "title": "The Berlin Wall | Berlin Wall Foundation",
+        "quote": "The 155-kilometer-long Berlin Wall, which cut through the middle of the city center, surrounded West Berlin from August 13, 1961 to November 9, 1989."
+      }
+    ]
+  }
+]

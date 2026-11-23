@@ -1,0 +1,441 @@
+[
+ {
+  "id": "library-03-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Charlemagne",
+   "https://www.aachenerdom.de/en/a-place-of-history/charlemagne",
+   "https://www.britannica.com/biography/Saint-Leo-III"
+  ]
+ },
+ {
+  "id": "library-03-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Saint-Leo-III",
+   "https://www.aachenerdom.de/en/a-place-of-history/charlemagne"
+  ]
+ },
+ {
+  "id": "library-03-03",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/summary/Charlemagne",
+   "https://www.aachenerdom.de/en/a-place-of-history/charlemagne",
+   "https://www.britannica.com/biography/Charlemagne"
+  ]
+ },
+ {
+  "id": "library-03-04",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/medieval/magna-carta",
+   "https://www.britannica.com/topic/Magna-Carta",
+   "https://www.nationalarchives.gov.uk/education/resources/magna-carta/british-library-magna-carta-1215-runnymede"
+  ]
+ },
+ {
+  "id": "library-03-05",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/medieval/magna-carta",
+   "https://www.nationalarchives.gov.uk/education/resources/magna-carta/british-library-magna-carta-1215-runnymede",
+   "https://www.britannica.com/topic/Magna-Carta"
+  ]
+ },
+ {
+  "id": "library-03-06",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Cited NA quote 'Given by our hand in the meadow that is called Runnymede...' not surfaced in excerpts; Runnymede confirmed by Britannica and NA explore page.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Magna-Carta",
+   "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/medieval/magna-carta"
+  ]
+ },
+ {
+  "id": "library-03-07",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Black-Death",
+   "https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1001134"
+  ]
+ },
+ {
+  "id": "library-03-08",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "ASM Messina quote not surfaced, but ASM states plague introduced to southern Europe in 1347; agrees.",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Black-Death/Cause-and-outbreak",
+   "https://journals.asm.org/doi/10.1128/cmr.00044-19"
+  ]
+ },
+ {
+  "id": "library-03-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/place/Mongol-empire",
+   "https://www.britannica.com/summary/Mongol-Empire-Timeline"
+  ]
+ },
+ {
+  "id": "library-03-10",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Yuan-dynasty",
+   "https://www.britannica.com/biography/Kublai-Khan"
+  ]
+ },
+ {
+  "id": "library-03-11",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Kublai bio 'original capital' quote not surfaced; Britannica Karakorum page confirms all explain dates (1220, 1235, 1267).",
+  "verifiedUrls": [
+   "https://www.britannica.com/place/Karakorum",
+   "https://www.britannica.com/summary/Mongol-Empire-Timeline"
+  ]
+ },
+ {
+  "id": "library-03-12",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "OUP says the Bank of Rome was founded 1397 (not the HQ move); de Roover (hosted on gwern) supports explain. Both give 1397.",
+  "verifiedUrls": [
+   "https://gwern.net/doc/history/medici/1963-deroover-theriseanddeclineofthemedicibank.pdf",
+   "https://academic.oup.com/reference/62416/reference-article-abstract/555922868"
+  ]
+ },
+ {
+  "id": "library-03-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Lorenzo-de-Medici",
+   "https://gwern.net/doc/history/medici/1963-deroover-theriseanddeclineofthemedicibank.pdf"
+  ]
+ },
+ {
+  "id": "library-03-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Gutenberg-Bible",
+   "https://guides.loc.gov/gutenberg/introduction",
+   "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html"
+  ]
+ },
+ {
+  "id": "library-03-15",
+  "source": 29,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 6,
+  "total": 93,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Explain claim that movable-type printing occurred earlier in Korea not found on cited pages; add a source or drop the clause.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Johannes-Gutenberg",
+   "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html"
+  ]
+ },
+ {
+  "id": "library-03-16",
+  "source": 26,
+  "match": 22,
+  "unique": 15,
+  "current": 15,
+  "precise": 6,
+  "total": 84,
+  "hardFail": "Cited sources disagree on completion date in explain (1498 vs 1497); flaking claim unsupported",
+  "pass": false,
+  "issue": "Explain dates 1495-1498 match Britannica but UNESCO source says 1495-1497; 'began to flake within a few years' not found on cited pages. Fix: say 'in the late 1490s' and drop or source the flaking claim.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Last-Supper-fresco-by-Leonardo-da-Vinci",
+   "https://unesco.cultura.gov.it/en/projects/chiesa-e-convento-domenicano-di-santa-maria-delle-grazie-con-l-ultima-cena-di-leonardo-da-vinci"
+  ]
+ },
+ {
+  "id": "library-03-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 14,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Mona-Lisa-painting",
+   "https://www.britannica.com/biography/Leonardo-da-Vinci/Arts-Culture"
+  ]
+ },
+ {
+  "id": "library-03-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Sistine-Chapel",
+   "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/storia-cappella-sistina.html"
+  ]
+ },
+ {
+  "id": "library-03-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Pieta-sculpture-by-Michelangelo",
+   "https://www.basilicasanpietro.va/en/san-pietro/the-pieta-of-saint-peter-s"
+  ]
+ },
+ {
+  "id": "library-03-20",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Christopher-Columbus",
+   "https://www.loc.gov/exhibits/1492/columbus.html"
+  ]
+ },
+ {
+  "id": "library-03-21",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Vasco-da-Gama",
+   "https://exploration.marinersmuseum.org/subject/vasco-da-gama"
+  ]
+ },
+ {
+  "id": "library-03-22",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/place/Cape-of-Good-Hope",
+   "https://exploration.marinersmuseum.org/subject/vasco-da-gama",
+   "https://www.britannica.com/biography/Christopher-Columbus"
+  ]
+ },
+ {
+  "id": "library-03-23",
+  "source": 28,
+  "match": 28,
+  "unique": 14,
+  "current": 15,
+  "precise": 7,
+  "total": 92,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Source says crew reduced to '18 famished and weakened seamen', not '18 European survivors'; change to '18 survivors'. Britannica intro quote not surfaced in excerpts but Elcano Institute confirms Basque birth and command of Victoria.",
+  "verifiedUrls": [
+   "https://www.realinstitutoelcano.org/en/about-elcano/juan-sebastian-de-elcano",
+   "https://www.britannica.com/biography/Juan-Sebastian-del-Cano"
+  ]
+ },
+ {
+  "id": "library-03-24",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 7,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Explain 'other European powers never accepted it' not found on cited pages; source it or drop it.",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Treaty-of-Tordesillas",
+   "https://avalon.law.yale.edu/15th_century/mod001.asp"
+  ]
+ },
+ {
+  "id": "library-03-25",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/Ninety-five-Theses",
+   "https://www.loc.gov/item/2021667736"
+  ]
+ },
+ {
+  "id": "library-03-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.loc.gov/item/2021667736",
+   "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/martin-luther-ninety-five-theses-october-31-1517",
+   "https://www.britannica.com/event/Ninety-five-Theses"
+  ]
+ },
+ {
+  "id": "library-03-27",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/collections/common-prayer/act-of-supremacy/",
+   "https://www.britannica.com/topic/Act-of-Supremacy-England-1534"
+  ]
+ }
+]

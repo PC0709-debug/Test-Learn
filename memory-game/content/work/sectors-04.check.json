@@ -1,0 +1,432 @@
+[
+ {
+  "id": "sectors-04-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.mastercard.com/us/en/business/support/merchant-interchange-rates.html",
+   "https://www.congress.gov/crs-products/product/pdf/R/R48216"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-02",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "CRS R48216 notes Discover also runs a three-party system; Discover is not among distractors so still a single right answer.",
+  "verifiedUrls": [
+   "https://www.congress.gov/crs-product/IF11893",
+   "https://www.sec.gov/Archives/edgar/data/4962/000000496218000032/axp201710k.htm"
+  ],
+  "total": 99,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.mastercard.com/us/en/business/support/merchant-interchange-rates.html",
+   "https://www.psr.org.uk/media/jnkltqt3/psr-card-acquiring-market-review-final-report-glossary-nov-2021.pdf"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-04",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.mastercard.com/us/en/business/support/merchant-interchange-rates.html",
+   "https://www.congress.gov/crs-product/IF11893"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-05",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.congress.gov/crs-product/IF11893",
+   "https://www.psr.org.uk/media/ilfo3wup/sp-fees-mr-final-report-glossary.pdf"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-06",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.ecfr.gov/current/title-12/part-235",
+   "https://www.congress.gov/crs-product/IF11893"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-07",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.ecfr.gov/current/title-12/section-235.5",
+   "https://www.federalreserve.gov/paymentsystems/2023-Interchange-Fee.htm"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.psr.org.uk/media/ilfo3wup/sp-fees-mr-final-report-glossary.pdf",
+   "https://www.psr.org.uk/media/jnkltqt3/psr-card-acquiring-market-review-final-report-glossary-nov-2021.pdf"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-09",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "OCC handbook quote not surfaced in fetched excerpt; fact confirmed instead by EMVCo, Federal Reserve 2023 interchange report and KC Fed paper.",
+  "verifiedUrls": [
+   "https://www.emvco.com/why-emv",
+   "https://www.federalreserve.gov/paymentsystems/2023-Interchange-Fee.htm",
+   "https://www.kansascityfed.org/Research%20Working%20Papers/documents/8241/rwp16-01HayashiMarkiewiczSullivan.pdf"
+  ],
+  "total": 98,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-10",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "Single cited source (EMVCo, authoritative standard-setter); no number/date involved.",
+  "verifiedUrls": [
+   "https://www.emvco.com/emv-technologies/payment-tokenisation"
+  ],
+  "total": 97,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-11",
+  "source": 30,
+  "match": 30,
+  "unique": 0,
+  "current": 15,
+  "precise": 10,
+  "hardFail": "Accept list includes 'dispute', which is not equivalent to a chargeback (a dispute may not result in a chargeback).",
+  "issue": "Remove 'dispute' from the accept list; facts otherwise verified on Visa and KC Fed pages.",
+  "verifiedUrls": [
+   "https://corporate.visa.com/en/solutions/acceptance/chargebacks.html",
+   "https://www.kansascityfed.org/Research%20Working%20Papers/documents/8241/rwp16-01HayashiMarkiewiczSullivan.pdf"
+  ],
+  "total": 85,
+  "pass": false
+ },
+ {
+  "id": "sectors-04-12",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nacha.org/news/same-day-ach-expansion-1-million-begins-today",
+   "https://www.nacha.org/content/ach-payments-fact-sheet"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-13",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "Only one cited source (Federal Reserve Board); fact is not a number/date/person, so not a hard fail.",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/paymentsystems/fedach_about.htm"
+  ],
+  "total": 96,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/paymentsystems/fedfunds_about.htm",
+   "https://www.frbservices.org/binaries/content/assets/crsocms/financial-services/wires/funds-service-disclosure.pdf"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.frbservices.org/binaries/content/assets/crsocms/financial-services/wires/funds-service-disclosure.pdf",
+   "https://www.theclearinghouse.org/about/history"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.theclearinghouse.org/payment-systems/Articles/2017/11/20171114-rtp-first-new-core-payments-system",
+   "https://www.mastercard.com/global/en/news-and-trends/Insights/2022/us-rtp-network.html"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-17",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreserve.gov/paymentsystems/fednow_about.htm",
+   "https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://usa.visa.com/dam/VCOM/global/support-legal/documents/visa-payment-facilitator-model.pdf",
+   "https://www.mastercard.com/content/dam/public/mastercardcom/na/global-site/documents/transaction-processing-rules.pdf"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://usa.visa.com/dam/VCOM/global/support-legal/documents/visa-acceptance-entities.pdf",
+   "https://www.psr.org.uk/media/jnkltqt3/psr-card-acquiring-market-review-final-report-glossary-nov-2021.pdf"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-20",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "Single cited source (Visa); acceptable since the question is Visa-specific classification.",
+  "verifiedUrls": [
+   "https://usa.visa.com/dam/VCOM/global/support-legal/documents/visa-acceptance-entities.pdf"
+  ],
+  "total": 96,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-21",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "Single cited source (PSR glossary); definitional, no number.",
+  "verifiedUrls": [
+   "https://www.psr.org.uk/media/jnkltqt3/psr-card-acquiring-market-review-final-report-glossary-nov-2021.pdf"
+  ],
+  "total": 97,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-22",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://files.consumerfinance.gov/f/documents/cfpb_buy-now-pay-later-market-trends-consumer-impacts_report_2022-09.pdf",
+   "https://www.congress.gov/crs-product/R48858"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-23",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreservehistory.org/essays/electronic-point-of-sale-payments",
+   "https://americanhistory.si.edu/collections/nmah_1444152"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-24",
+  "source": 28,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "Mastercard brand-history timeline also says ICA was 'formally chartered in 1967'; formation in 1966 is consistent across Britannica, Mastercard and Federal Reserve History, so OK.",
+  "verifiedUrls": [
+   "https://www.britannica.com/money/Mastercard-Inc",
+   "https://www.mastercard.com/brandcenter/en/brand-history",
+   "https://www.federalreservehistory.org/essays/electronic-point-of-sale-payments"
+  ],
+  "total": 97,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-25",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/print/article/19661",
+   "http://americanexpress.com/en-us/company/who-we-are"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.sec.gov/Archives/edgar/data/1103415/000091205702037693/a2090698zex-99_1.htm",
+   "https://www.britannica.com/money/PayPal"
+  ],
+  "total": 100,
+  "pass": true
+ },
+ {
+  "id": "sectors-04-27",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.congress.gov/119/meeting/house/117994/witnesses/HHRG-119-BA00-Bio-CollisonP-20250311.pdf",
+   "https://newsroom.haas.berkeley.edu/stripe-co-founder-and-ceo-patrick-collison-on-founding-a-company-that-should-have-already-existed"
+  ],
+  "total": 100,
+  "pass": true
+ }
+]

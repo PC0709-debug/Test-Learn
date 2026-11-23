@@ -1,0 +1,411 @@
+[
+ {
+  "id": "vault-01-01",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/learn/resources/accounting/three-financial-statements"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-02",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked",
+   "https://corporatefinanceinstitute.com/learn/resources/accounting/three-financial-statements"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-03",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/accounting-interview-questions",
+   "https://corporatefinanceinstitute.com/resources/accounting/indirect-method"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-04",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/accounting/3-financial-statements-linked",
+   "https://www.wallstreetprep.com/knowledge/accounting-interview-questions"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-05",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/learn/resources/accounting/three-financial-statements"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-06",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/accounting/3-financial-statements-linked",
+   "https://www.wallstreetprep.com/knowledge/accounting-interview-questions"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-07",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/accounting-interview-questions",
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-08",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked",
+   "https://corporatefinanceinstitute.com/learn/resources/accounting/three-financial-statements"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-09",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/retained-earnings/",
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-10",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked",
+   "https://corporatefinanceinstitute.com/resources/accounting/3-financial-statements-linked"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-11",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked",
+   "https://corporatefinanceinstitute.com/resources/accounting/indirect-method"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-12",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked",
+   "https://corporatefinanceinstitute.com/resources/accounting/indirect-method"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-13",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked",
+   "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-14",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/cash-flow-statement",
+   "https://corporatefinanceinstitute.com/resources/accounting/indirect-method"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-15",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/accounting-interview-questions",
+   "https://corporatefinanceinstitute.com/resources/accounting/indirect-method"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-16",
+  "source": 15,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 82,
+  "hardFail": "Number not stated by two independent agreeing cited sources",
+  "issue": "$8 (20% tax) is stated only by WSP interview page; the second cited source (WSP depreciation) uses 30%/$7, so no two independent sources agree on $8. Add an independent source stating the 20%/$8 result (e.g. BIWS/CFI) or reframe. Note WSP's bracketed formula '[$10 \u2013 (1 \u2013 20%)]' is itself mistyped.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/accounting-interview-questions"
+  ],
+  "pass": false
+ },
+ {
+  "id": "vault-01-17",
+  "source": 15,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 82,
+  "hardFail": "Number not stated by two independent agreeing cited sources",
+  "issue": "$2 cash increase at 20% is stated only by WSP interview page; second source (WSP depreciation, same publisher) gives $3 at 30%. Need a second independent source stating $2.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/accounting-interview-questions"
+  ],
+  "pass": false
+ },
+ {
+  "id": "vault-01-18",
+  "source": 15,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 82,
+  "hardFail": "Number not stated by two independent agreeing cited sources",
+  "issue": "$7 at 30% stated only on WSP depreciation page; WSP interview page (same publisher) only confirms the $10 EBIT drop. Need an independent source (non-WSP) stating $7.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/depreciation"
+  ],
+  "pass": false
+ },
+ {
+  "id": "vault-01-19",
+  "source": 15,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 82,
+  "hardFail": "Number not stated by two independent agreeing cited sources",
+  "issue": "$3 at 30% stated only on WSP depreciation page; BIWS quote is a different scenario ($2.5 at 25%, cash down $97.5). Need a second independent source stating $3.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/depreciation",
+   "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements"
+  ],
+  "pass": false
+ },
+ {
+  "id": "vault-01-20",
+  "source": 15,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 82,
+  "hardFail": "Number not stated by two independent agreeing cited sources",
+  "issue": "Both sources are Wall Street Prep pages (same publisher, not independent). Add a non-WSP source (e.g. BIWS, CFI) stating depreciation reduces PP&E by the full amount.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/accounting-interview-questions",
+   "https://www.wallstreetprep.com/knowledge/depreciation"
+  ],
+  "pass": false
+ },
+ {
+  "id": "vault-01-21",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/depreciation",
+   "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-22",
+  "source": 15,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 82,
+  "hardFail": "Number not stated by two independent agreeing cited sources",
+  "issue": "$7 total-asset decline stated only on WSP depreciation page (cited sentence 'both sides went down by $7' not located in fetch); second source is WSP (same publisher) with a different scenario ($8). Need independent corroboration of $7.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/depreciation"
+  ],
+  "pass": false
+ },
+ {
+  "id": "vault-01-23",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/accounting-interview-questions",
+   "https://www.wallstreetprep.com/knowledge/depreciation",
+   "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-24",
+  "source": 15,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 82,
+  "hardFail": "Number not stated by two independent agreeing cited sources",
+  "issue": "$90 stated only by BIWS; WSP gives the roll-forward formula but does not state the number. Strictly needs a second source stating the figure; the arithmetic itself is correct.",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements",
+   "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked"
+  ],
+  "pass": false
+ },
+ {
+  "id": "vault-01-25",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/accounting/3-financial-statements-linked"
+  ],
+  "pass": true
+ },
+ {
+  "id": "vault-01-26",
+  "source": 15,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 82,
+  "hardFail": "Number not stated by two independent agreeing cited sources",
+  "issue": "$7.50 at 25% stated only by BIWS; WSP depreciation quote does not state the number. Add a second independent source stating $7.50 at 25%.",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements"
+  ],
+  "pass": false
+ }
+]

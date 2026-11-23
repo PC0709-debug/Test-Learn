@@ -1,0 +1,414 @@
+[
+  {
+    "id": "vault-01-01",
+    "deck": "vault",
+    "topic": "Balance sheet basics",
+    "q": "Which financial statement shows a company's assets, liabilities and shareholders' equity at a particular point in time?",
+    "a": "Balance sheet",
+    "accept": ["the balance sheet", "BS", "statement of financial position"],
+    "wrong": ["Income statement", "Cash flow statement", "Statement of retained earnings"],
+    "explain": "The balance sheet is a point-in-time snapshot, while the income statement and cash flow statement cover a period of time.",
+    "hook": "Balance sheet = snapshot; the other two = movie.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/learn/resources/accounting/three-financial-statements", "title": "Three Financial Statements - Income, Balance Sheet, & Cash Flow", "quote": "The balance sheet shows a company’s assets, liabilities, and shareholders’ equity at a particular point in time."}
+    ]
+  },
+  {
+    "id": "vault-01-02",
+    "deck": "vault",
+    "topic": "Income statement basics",
+    "q": "What line item is the \"bottom line\" of the income statement?",
+    "a": "Net income",
+    "accept": ["net income", "NI", "net profit", "net earnings"],
+    "wrong": ["EBITDA", "Gross profit", "Revenue"],
+    "explain": "Net income sits at the bottom of the income statement and is the starting line item of cash from operations on the cash flow statement.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked", "title": "How are the Three Financial Statements Linked?", "quote": "Net income, or the “bottom line” of the income statement, is the starting line item at the top of the cash flow statement in the cash from operations (CFO) section."}
+    ]
+  },
+  {
+    "id": "vault-01-03",
+    "deck": "vault",
+    "topic": "IS to CFS link",
+    "q": "Under the indirect method, what is the starting line item of the cash flow statement?",
+    "a": "Net income",
+    "accept": ["net income", "NI", "net earnings"],
+    "wrong": ["Revenue", "EBITDA", "Beginning cash balance"],
+    "explain": "Net income from the income statement starts cash from operations, which then adjusts for non-cash items like D&A and changes in working capital.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "Net income on the income statement flows in as the starting line item on the cash flow statement."},
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/indirect-method", "title": "Indirect Method: Net Income to Operating Cash Flow | CFI", "quote": "This method starts with net income and then adjusts for non-cash expenses, non-operating items, and changes in working capital."}
+    ]
+  },
+  {
+    "id": "vault-01-04",
+    "deck": "vault",
+    "topic": "IS to BS link",
+    "q": "Net income from the income statement flows into which balance sheet account?",
+    "a": "Retained earnings",
+    "accept": ["retained earnings", "RE"],
+    "wrong": ["Cash", "Additional paid-in capital", "Accounts payable"],
+    "explain": "Net income feeds retained earnings in shareholders' equity and is also the starting point for cash from operations.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/3-financial-statements-linked", "title": "How the 3 Financial Statements are Linked Together - Step by Step", "quote": "On the balance sheet, it feeds into retained earnings and on the cash flow statement, it is the starting point for the cash from operations section."},
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "Net income flows into retained earnings in the shareholders' equity section of the balance sheet."}
+    ]
+  },
+  {
+    "id": "vault-01-05",
+    "deck": "vault",
+    "topic": "Balance sheet basics",
+    "q": "Assets equal liabilities plus what?",
+    "a": "Shareholders' equity",
+    "accept": ["shareholders equity", "equity", "stockholders' equity", "stockholders equity", "owners' equity"],
+    "wrong": ["Net income", "Revenue", "Cash flow from operations"],
+    "explain": "The two sides of the balance sheet must balance: assets must equal liabilities plus equity.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/learn/resources/accounting/three-financial-statements", "title": "Three Financial Statements - Income, Balance Sheet, & Cash Flow", "quote": "The two sides of the balance sheet must balance: assets must equal liabilities plus equity."}
+    ]
+  },
+  {
+    "id": "vault-01-06",
+    "deck": "vault",
+    "topic": "CFS sections",
+    "q": "Capital expenditures appear in which section of the cash flow statement?",
+    "a": "Investing activities",
+    "accept": ["investing", "cash from investing", "cash flow from investing", "CFI", "cash flow from investing activities"],
+    "wrong": ["Operating activities", "Financing activities", "Supplemental disclosures"],
+    "explain": "Capex is a cash outflow in investing activities and adds to PP&E on the balance sheet.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/3-financial-statements-linked", "title": "How the 3 Financial Statements are Linked Together - Step by Step", "quote": "Capital expenditures add to the PP&E account on the balance sheet and flow through cash from investing on the cash flow statement."},
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "Cash Flow from Investing Activities : Captures long-term investments made by the company, primarily capital expenditures (CapEx) as well as any acquisitions or divestitures."}
+    ]
+  },
+  {
+    "id": "vault-01-07",
+    "deck": "vault",
+    "topic": "CFS sections",
+    "q": "Dividends paid to shareholders are recorded as an outflow in which section of the cash flow statement?",
+    "a": "Financing activities",
+    "accept": ["financing", "cash from financing", "cash flow from financing", "CFF", "cash flow from financing activities"],
+    "wrong": ["Operating activities", "Investing activities", "Supplemental disclosures"],
+    "explain": "Cash from financing captures debt and equity issuances, debt repayments, share repurchases and dividends.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "Dividends paid to shareholders will also be recorded as an outflow in this section."},
+      {"url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked", "title": "How are the Three Financial Statements Linked?", "quote": "The cash from financing (CFF) captures the inflow of cash from raising capital through debt and equity issuances, and the outflow of cash from the paydown of debt principal or the issuance of shareholder dividends."}
+    ]
+  },
+  {
+    "id": "vault-01-08",
+    "deck": "vault",
+    "topic": "CFS to BS link",
+    "q": "The ending cash balance at the bottom of the cash flow statement flows to which balance sheet line item?",
+    "a": "Cash",
+    "accept": ["cash", "cash and cash equivalents", "cash and equivalents"],
+    "wrong": ["Retained earnings", "Accounts receivable", "Net PP&E"],
+    "explain": "Beginning cash plus the net change in cash gives ending cash, which becomes the current-period cash balance on the balance sheet.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked", "title": "How are the Three Financial Statements Linked?", "quote": "Finally, the ending cash balance at the bottom of the cash flow statement flows to the balance sheet as the cash balance for the current period."},
+      {"url": "https://corporatefinanceinstitute.com/learn/resources/accounting/three-financial-statements", "title": "Three Financial Statements - Income, Balance Sheet, & Cash Flow", "quote": "The asset section begins with cash and equivalents , which should equal the balance found at the end of the cash flow statement."}
+    ]
+  },
+  {
+    "id": "vault-01-09",
+    "deck": "vault",
+    "topic": "Retained earnings roll-forward",
+    "q": "Ending retained earnings equals beginning retained earnings plus net income minus what?",
+    "a": "Dividends",
+    "accept": ["dividends", "dividends paid", "dividend"],
+    "wrong": ["Depreciation", "Capital expenditures", "Interest expense"],
+    "explain": "Retained earnings is the cumulative net income kept by the company after dividends to shareholders.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/retained-earnings/", "title": "Retained Earnings | Formula + Calculator", "quote": "Retained Earnings = Beginning Retained Earnings + Net Income – Dividends"},
+      {"url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked", "title": "How are the Three Financial Statements Linked?", "quote": "The retained earnings balance in the current period is equal to the prior period’s retained earnings balance plus net income minus any dividends issued to shareholders in the current period."}
+    ]
+  },
+  {
+    "id": "vault-01-10",
+    "deck": "vault",
+    "topic": "PP&E roll-forward",
+    "q": "Ending PP&E equals beginning PP&E plus capital expenditures minus what?",
+    "a": "Depreciation",
+    "accept": ["depreciation", "depreciation expense"],
+    "wrong": ["Dividends", "Interest expense", "Net income"],
+    "explain": "Capex increases the PP&E balance, while depreciation reduces the recorded value of PP&E on the balance sheet.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked", "title": "How are the Three Financial Statements Linked?", "quote": "Ending PP&E = Beginning PP&E + Capital Expenditures (Capex) – Depreciation"},
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/3-financial-statements-linked", "title": "How the 3 Financial Statements are Linked Together - Step by Step", "quote": "Depreciation flows out of the balance sheet from Property Plant and Equipment (PP&E) onto the income statement as an expense, and then gets added back in the cash flow statement."}
+    ]
+  },
+  {
+    "id": "vault-01-11",
+    "deck": "vault",
+    "topic": "Working capital",
+    "q": "On the cash flow statement, what is the cash effect of an increase in an operating current asset such as accounts receivable?",
+    "a": "Cash outflow",
+    "accept": ["outflow", "decreases cash", "reduces cash", "use of cash", "cash decrease"],
+    "wrong": ["Cash inflow", "No cash effect", "Non-cash add-back"],
+    "explain": "An increase in an operating current asset is a use of cash, so it is subtracted in cash from operations.",
+    "hook": "Asset up, cash down.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked", "title": "How are the Three Financial Statements Linked?", "quote": "Increase in Operating Current Asset → Cash Outflow"},
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/indirect-method", "title": "Indirect Method: Net Income to Operating Cash Flow | CFI", "quote": "Subtract increases in current assets (uses of cash)."}
+    ]
+  },
+  {
+    "id": "vault-01-12",
+    "deck": "vault",
+    "topic": "Working capital",
+    "q": "On the cash flow statement, what is the cash effect of an increase in an operating current liability such as accounts payable?",
+    "a": "Cash inflow",
+    "accept": ["inflow", "increases cash", "source of cash", "cash increase"],
+    "wrong": ["Cash outflow", "No cash effect", "Investing outflow"],
+    "explain": "An increase in an operating current liability is a source of cash, so it is added in cash from operations.",
+    "hook": "Liability up, cash up.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked", "title": "How are the Three Financial Statements Linked?", "quote": "Increase in Operating Current Liability → Cash Inflow"},
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/indirect-method", "title": "Indirect Method: Net Income to Operating Cash Flow | CFI", "quote": "Add increases in current liabilities (sources of cash)."}
+    ]
+  },
+  {
+    "id": "vault-01-13",
+    "deck": "vault",
+    "topic": "Capex and depreciation",
+    "q": "Capex does not appear directly on the income statement; which expense allocates it across the asset's useful life instead?",
+    "a": "Depreciation",
+    "accept": ["depreciation", "depreciation expense"],
+    "wrong": ["Interest expense", "Cost of goods sold", "Income tax expense"],
+    "explain": "Capex increases PP&E without hitting the income statement directly; depreciation then spreads that cost over the useful life assumption.",
+    "hook": "",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked", "title": "How are the Three Financial Statements Linked?", "quote": "Capex increases the PP&E account on the balance sheet but does NOT appear on the income statement directly."},
+      {"url": "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements", "title": "CapEx & Depreciation: Full Tutorial and Excel Examples", "quote": "since they will be useful for many years, this CapEx spending must be allocated over time and recorded as “Depreciation” on the Income Statement."}
+    ]
+  },
+  {
+    "id": "vault-01-14",
+    "deck": "vault",
+    "topic": "CFS methods",
+    "q": "Which cash flow statement presentation method starts with net income and is the standard format among U.S. companies?",
+    "a": "Indirect method",
+    "accept": ["indirect", "the indirect method"],
+    "wrong": ["Direct method", "Accrual method", "Cash basis method"],
+    "explain": "The indirect method starts with net income and adjusts for non-cash items and working capital; the direct method lists actual cash received and paid.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/cash-flow-statement", "title": "Cash Flow Statement (CFS) | Formula + Calculator - Wall Street Prep", "quote": "The indirect method is the standard format among U.S. companies, whereby the starting line item is net income."},
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/indirect-method", "title": "Indirect Method: Net Income to Operating Cash Flow | CFI", "quote": "This method starts with net income and then adjusts for non-cash expenses, non-operating items, and changes in working capital."}
+    ]
+  },
+  {
+    "id": "vault-01-15",
+    "deck": "vault",
+    "topic": "Non-cash add-backs",
+    "q": "Besides D&A, which employee compensation expense is commonly added back in cash from operations as a non-cash expense?",
+    "a": "Stock-based compensation",
+    "accept": ["stock based compensation", "SBC", "share-based compensation", "share based compensation"],
+    "wrong": ["Salaries and wages", "Cash bonuses", "Payroll taxes"],
+    "explain": "Stock-based compensation reduces net income but is paid in shares rather than cash, so it is added back.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "Cash Flow from Operating Activities : From net income, non-cash expenses are added back such as D&A and stock-based compensation, and then changes in net working capital ."},
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/indirect-method", "title": "Indirect Method: Net Income to Operating Cash Flow | CFI", "quote": "Stock-based compensation : Expense related to employee compensation paid in shares and is not a cash outflow."}
+    ]
+  },
+  {
+    "id": "vault-01-16",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 20%, how much does net income change?",
+    "a": "Decreases by $8",
+    "accept": ["-8", "-$8", "down 8", "down $8", "decrease of $8", "$8 decrease", "falls by $8", "8 decrease"],
+    "wrong": ["Decreases by $10", "Decreases by $2", "Increases by $2"],
+    "explain": "EBIT falls by $10, and after the 20% tax saving of $2, net income falls by $8, i.e. $10 x (1 - tax rate).",
+    "hook": "NI falls by D x (1 - t).",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "A $10 depreciation expense is recognized on the income statement, which reduces operating income (EBIT) by $10. Assuming a 20% tax rate, net income would decrease by $8"},
+      {"url": "https://www.wallstreetprep.com/knowledge/depreciation", "title": "Depreciation Expense | Formula + Calculation Tutorial", "quote": "If depreciation increases by $10, operating income (EBIT) would decrease by $10. Assuming a 30% tax rate, net income would decline by $7."}
+    ]
+  },
+  {
+    "id": "vault-01-17",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 20%, how much does the ending cash balance change?",
+    "a": "Increases by $2",
+    "accept": ["+2", "+$2", "up 2", "up $2", "increase of $2", "$2 increase", "rises by $2", "2 increase"],
+    "wrong": ["Decreases by $8", "Decreases by $10", "No change"],
+    "explain": "Net income falls $8 but the $10 non-cash depreciation is added back, so cash rises by $2, the tax saving.",
+    "hook": "Cash rises by D x t.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "The $8 decrease in net income flows into the top of the cash flow statement, where the $10 depreciation expense is then added back to the cash flow from operations since it is a non-cash expense. Thus, the ending cash balance increases by $2."},
+      {"url": "https://www.wallstreetprep.com/knowledge/depreciation", "title": "Depreciation Expense | Formula + Calculation Tutorial", "quote": "The net impact on the ending cash balance is a $3 increase, which comes from the tax-deductibility of depreciation (i.e., the $10 in depreciation x 30% tax rate)."}
+    ]
+  },
+  {
+    "id": "vault-01-18",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 30%, how much does net income change?",
+    "a": "Decreases by $7",
+    "accept": ["-7", "-$7", "down 7", "down $7", "decrease of $7", "$7 decrease", "falls by $7", "7 decrease"],
+    "wrong": ["Decreases by $3", "Decreases by $10", "Increases by $3"],
+    "explain": "Pre-tax income falls $10; at a 30% tax rate taxes fall $3, so net income declines by $7.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/depreciation", "title": "Depreciation Expense | Formula + Calculation Tutorial", "quote": "If depreciation increases by $10, operating income (EBIT) would decrease by $10. Assuming a 30% tax rate, net income would decline by $7."},
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "A $10 depreciation expense is recognized on the income statement, which reduces operating income (EBIT) by $10."}
+    ]
+  },
+  {
+    "id": "vault-01-19",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 30%, how much does the ending cash balance change?",
+    "a": "Increases by $3",
+    "accept": ["+3", "+$3", "up 3", "up $3", "increase of $3", "$3 increase", "rises by $3", "3 increase"],
+    "wrong": ["Decreases by $7", "Decreases by $10", "No change"],
+    "explain": "The $3 cash increase comes from the tax-deductibility of depreciation: $10 of depreciation x 30% tax rate.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/depreciation", "title": "Depreciation Expense | Formula + Calculation Tutorial", "quote": "The net impact on the ending cash balance is a $3 increase, which comes from the tax-deductibility of depreciation (i.e., the $10 in depreciation x 30% tax rate)."},
+      {"url": "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements", "title": "CapEx & Depreciation: Full Tutorial and Excel Examples", "quote": "The intuition is that the CapEx reduced Cash by $100, but the Depreciation provided $2.5 in tax savings , so Cash is down by only $97.5"}
+    ]
+  },
+  {
+    "id": "vault-01-20",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10, how much does PP&E on the balance sheet change?",
+    "a": "Decreases by $10",
+    "accept": ["-10", "-$10", "down 10", "down $10", "decrease of $10", "$10 decrease", "falls by $10", "10 decrease"],
+    "wrong": ["Increases by $10", "No change", "Increases by $2"],
+    "explain": "Depreciation reduces the recorded value of PP&E by the full $10, regardless of the tax rate.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "The $2 increase in cash flows to the top of the balance sheet, but PP&E is decreased by $10 due to depreciation, so the assets side declines by $8."},
+      {"url": "https://www.wallstreetprep.com/knowledge/depreciation", "title": "Depreciation Expense | Formula + Calculation Tutorial", "quote": "PP&E will decrease by $10 from the depreciation, while cash will be up by $3 on the assets side."}
+    ]
+  },
+  {
+    "id": "vault-01-21",
+    "deck": "vault",
+    "topic": "Depreciation tax shield",
+    "q": "When tax-deductible depreciation rises, the resulting cash increase equals the depreciation increase multiplied by what?",
+    "a": "Tax rate",
+    "accept": ["the tax rate", "tax rate", "t"],
+    "wrong": ["One minus the tax rate", "Interest rate", "Useful life"],
+    "explain": "Depreciation is non-cash, but it is tax-deductible, so the cash benefit is the tax saving: depreciation x tax rate.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/depreciation", "title": "Depreciation Expense | Formula + Calculation Tutorial", "quote": "The net impact on the ending cash balance is a $3 increase, which comes from the tax-deductibility of depreciation (i.e., the $10 in depreciation x 30% tax rate)."},
+      {"url": "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements", "title": "CapEx & Depreciation: Full Tutorial and Excel Examples", "quote": "This Depreciation number reduces the company’s Pre-Tax Income and counts as a tax deduction in the current period, but the CapEx does not."}
+    ]
+  },
+  {
+    "id": "vault-01-22",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 30%, how much do total assets change?",
+    "a": "Decrease by $7",
+    "accept": ["-7", "-$7", "down 7", "down $7", "decrease of $7", "$7 decrease", "decreases by $7", "7 decrease"],
+    "wrong": ["Decrease by $10", "Increase by $3", "No change"],
+    "explain": "Cash rises $3 and PP&E falls $10, so assets fall $7, matching the $7 drop in retained earnings.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/depreciation", "title": "Depreciation Expense | Formula + Calculation Tutorial", "quote": "PP&E will decrease by $10 from the depreciation, while cash will be up by $3 on the assets side. On the liabilities and equity side, the $7 reduction in net income flows through to retained earnings. The balance sheet remains balanced since both sides went down by $7."},
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "The $8 decrease in assets is matched by the $8 decrease in retained earnings due to net income decreasing by that amount, thereby the two sides remain in balance."}
+    ]
+  },
+  {
+    "id": "vault-01-23",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "After a $10 depreciation increase, which liabilities-and-equity account falls to keep the balance sheet balanced?",
+    "a": "Retained earnings",
+    "accept": ["retained earnings", "RE", "shareholders' equity via retained earnings"],
+    "wrong": ["Accounts payable", "Long-term debt", "Deferred revenue"],
+    "explain": "The after-tax drop in net income flows through to retained earnings, matching the net decline in assets.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/accounting-interview-questions", "title": "Accounting Interview Questions | Financial Statement Concepts", "quote": "The $8 decrease in assets is matched by the $8 decrease in retained earnings due to net income decreasing by that amount, thereby the two sides remain in balance."},
+      {"url": "https://www.wallstreetprep.com/knowledge/depreciation", "title": "Depreciation Expense | Formula + Calculation Tutorial", "quote": "On the liabilities and equity side, the $7 reduction in net income flows through to retained earnings."}
+    ]
+  },
+  {
+    "id": "vault-01-24",
+    "deck": "vault",
+    "topic": "Capex plus depreciation walk",
+    "q": "If a company spends $100 on capex and records $10 of depreciation on it in the same year, how much does net PP&E change?",
+    "a": "Increases by $90",
+    "accept": ["+90", "+$90", "up 90", "up $90", "increase of $90", "$90 increase", "rises by $90", "90 increase"],
+    "wrong": ["Increases by $100", "Increases by $110", "Decreases by $10"],
+    "explain": "Net PP&E rises by the $100 of capex minus the $10 of depreciation, per the PP&E roll-forward.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements", "title": "CapEx & Depreciation: Full Tutorial and Excel Examples", "quote": "On the Balance Sheet, Cash is down by $97.5, Net PP&E is up by $90 due to the $100 of CapEx minus the $10 of Depreciation, and so Total Assets are down by $7.5."},
+      {"url": "https://www.wallstreetprep.com/knowledge/how-are-the-financial-statements-linked", "title": "How are the Three Financial Statements Linked?", "quote": "Ending PP&E = Beginning PP&E + Capital Expenditures (Capex) – Depreciation"}
+    ]
+  },
+  {
+    "id": "vault-01-25",
+    "deck": "vault",
+    "topic": "Debt financing links",
+    "q": "When a company issues debt, which income statement line reflects the cost of that financing?",
+    "a": "Interest expense",
+    "accept": ["interest", "interest expense"],
+    "wrong": ["Depreciation", "Cost of goods sold", "Revenue"],
+    "explain": "Interest expense hits the income statement, the principal sits on the balance sheet, and changes in principal show up in cash from financing.",
+    "hook": "",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/accounting/3-financial-statements-linked", "title": "How the 3 Financial Statements are Linked Together - Step by Step", "quote": "Financing events, such as issuing debt, affect all three statements in the following way: the interest expense appears on the income statement, the principal amount of debt owed is recorded on the balance sheet, and the change in the principal amount owed is reflected in the cash from financing section of the cash flow statement."}
+    ]
+  },
+  {
+    "id": "vault-01-26",
+    "deck": "vault",
+    "topic": "+$10 depreciation walk",
+    "q": "If depreciation increases by $10 and the tax rate is 25%, how much does net income change?",
+    "a": "Decreases by $7.50",
+    "accept": ["-7.5", "-$7.50", "-$7.5", "down 7.5", "down $7.50", "decrease of $7.50", "$7.50 decrease", "decreases by $7.5", "7.5 decrease"],
+    "wrong": ["Decreases by $2.50", "Decreases by $10", "Increases by $2.50"],
+    "explain": "Pre-tax income falls by $10; the 25% tax deduction saves $2.50, so net income falls by $7.50.",
+    "hook": "",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://breakingintowallstreet.com/kb/accounting/depreciation-on-the-3-financial-statements", "title": "CapEx & Depreciation: Full Tutorial and Excel Examples", "quote": "This appears on the Income Statement , reduces Pre-Tax Income by $10, and reduces Net Income by $7.5 at a 25% tax rate."},
+      {"url": "https://www.wallstreetprep.com/knowledge/depreciation", "title": "Depreciation Expense | Formula + Calculation Tutorial", "quote": "Tax Shield → While depreciation is treated as a non-cash expense and added back to the cash flow statement, the expense reduces the tax burden for the period since it is tax-deductible."}
+    ]
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "id": "sectors-03-01",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.moodys.com/sites/products/ProductAttachments/Moody%27s%20Rating%20System.pdf",
+      "https://www.moodys.com/sites/products/ProductAttachments/Moody%27s%20Investors%20Service%20Descriptor.pdf"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-02",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.moodys.com/sites/products/ProductAttachments/Moody%27s%20Rating%20System.pdf",
+      "https://www.congress.gov/crs-product/IF11916"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-03",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "issue": "Only one cited source (CRS IF11916); acceptable for a term, but consider adding Moody's Rating System PDF as a second source.",
+    "verifiedUrls": [
+      "https://www.congress.gov/crs-product/IF11916"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-04",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.sec.gov/ocr/ocr-learn-nrsros",
+      "https://www.congress.gov/crs-product/IF11916"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-05",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.sec.gov/ocr/ocr-learn-nrsros",
+      "https://www.congress.gov/crs-product/IF11916"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-06",
+    "source": 18,
+    "match": 25,
+    "unique": 15,
+    "current": 15,
+    "precise": 8,
+    "total": 81,
+    "hardFail": "Only one cited source for a date-bearing claim ('by the 1970s' switch to issuer-pays).",
+    "issue": "Add a second independent source (e.g. CRS IF11916 states CRAs are typically paid by issuers; an SEC or academic source for the 1970s timing) or drop the 1970s date from explain.",
+    "verifiedUrls": [
+      "https://www.congress.gov/crs-product/R40613"
+    ],
+    "pass": false
+  },
+  {
+    "id": "sectors-03-07",
+    "source": 29,
+    "match": 29,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "issue": "Minor: S&P DJI 'Icons' page lists the S&P 500 launch date as March 4, 1957; the Feb. 27, 1957 date in explain is the press introduction, which matches the cited source. Year 1957 confirmed by two sources.",
+    "verifiedUrls": [
+      "https://www.spglobal.com/spdji/en/documents/education/spdji-where-it-all-began.pdf",
+      "https://www.britannica.com/money/SandP-500"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-08",
+    "source": 30,
+    "match": 30,
+    "unique": 13,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "issue": "Accept entry 'market cap' is slightly looser than 'float-adjusted market cap' but acceptable.",
+    "verifiedUrls": [
+      "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow",
+      "https://www.britannica.com/money/SandP-500"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-09",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.spglobal.com/spdji/en/indices/equity/dow-jones-industrial-average",
+      "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-10",
+    "source": 24,
+    "match": 25,
+    "unique": 15,
+    "current": 15,
+    "precise": 6,
+    "total": 85,
+    "hardFail": "The ~$140 billion figure is stated only in the S&P press release (8-K does not state it), and explain's claim about adding commodities, energy and transportation data is not supported by either cited source.",
+    "issue": "Remove '$140 billion' or add a second source for it; remove or source the 'commodities, energy and transportation data' clause.",
+    "verifiedUrls": [
+      "https://www.sec.gov/Archives/edgar/data/1598014/000119312522056012/d315930d8k.htm",
+      "https://press.spglobal.com/2022-02-28-S-P-Global-Completes-Merger-with-IHS-Markit,-Creating-a-Global-Leader-to-Power-the-Markets-of-the-Future"
+    ],
+    "pass": false
+  },
+  {
+    "id": "sectors-03-11",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.spglobal.com/spdji/en/landing/topic/gics",
+      "https://www.msci.com/downloads/documents/indexes/gics/MSCI%20GICS%20Overview.pdf"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-12",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.spglobal.com/spdji/en/landing/topic/gics",
+      "https://www.msci.com/index/methodology/latest/GICS"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-13",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "issue": "Only one cited source; MSCI 10-K also expands EAFE as Europe, Australasia, and Far East; add it as a second source.",
+    "verifiedUrls": [
+      "https://www.msci.com/documents/1296102/16199723/MSCI+EAFE+Index+FAQ.pdf",
+      "https://ir.msci.com/static-files/c1383f1a-efd9-45b0-9c61-74750dbd8a83"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-14",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.msci.com/indexes/index/990300",
+      "https://www.msci.com/documents/1296102/16199723/MSCI+EAFE+Index+FAQ.pdf"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-15",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://ir.msci.com/static-files/c1383f1a-efd9-45b0-9c61-74750dbd8a83",
+      "https://ourhistory.morganstanley.com/timeline/era-3"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-16",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.msci.com/documents/1296102/34424357/MSCI+ESG+Ratings+Methodology.pdf",
+      "https://www.msci.com/downloads/web/msci-com/legal/disclosures/esg-disclosures/MSCI%20ESG%20Symbols%20and%20Definitions.pdf"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-17",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.factset.com/our-company",
+      "https://www.sec.gov/Archives/edgar/data/1013237/000119312505180759/dex992.htm"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.factset.com/our-company",
+      "https://www.sec.gov/Archives/edgar/data/1013237/000119312505180759/dex992.htm"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-19",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.equifax.co.uk/resources/what-we-do/credit-experts-since-1899.html",
+      "https://www.georgiaencyclopedia.org/articles/business-economy/equifax"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-20",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.experianplc.com/content/dam/marketing/global/plc/en/assets/documents/reports/2026/experian-annual-report-2026.pdf",
+      "https://www.experian.com/corporate/experian-locations"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-21",
+    "source": 18,
+    "match": 25,
+    "unique": 15,
+    "current": 15,
+    "precise": 8,
+    "total": 81,
+    "hardFail": "Only one cited source for dated facts (1968 creation; 1969 Credit Bureau of Cook County acquisition, and the 1969 year was not visible on the fetched page).",
+    "issue": "Add a second independent source (e.g. TransUnion 10-K/S-1) confirming 1968 and the Union Tank Car origin, and the 1969 CBCC year, or drop the dates from explain.",
+    "verifiedUrls": [
+      "https://www.transunion.com/about-us"
+    ],
+    "pass": false
+  },
+  {
+    "id": "sectors-03-22",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://consumer.ftc.gov/articles/free-credit-reports",
+      "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-23",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.myfico.com/credit-education/what-is-a-fico-score",
+      "https://www.myfico.com/credit-education/credit-scores"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-24",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.sec.gov/Archives/edgar/data/1442145/000143774926004452/vrsk20251231_10k.htm",
+      "https://www.verisk.com/company/newsroom/verisk-fact-sheet"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-25",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 14,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "issue": "Stamford HQ cited from 2015 10-K; consider a current source for HQ.",
+    "verifiedUrls": [
+      "https://emt.gartnerweb.com/ngw/globalassets/en/about/documents/gartner-at-a-glance.pdf",
+      "https://www.sec.gov/Archives/edgar/data/749251/000074925115000009/it-12312014x10k.htm"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-26",
+    "source": 25,
+    "match": 28,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 92,
+    "hardFail": null,
+    "issue": "Fetched Gartner methodology page showed Visionaries and Niche Players definitions but the Challengers line was truncated in the extract; answer follows by elimination and matches the four-category framework on the second page.",
+    "verifiedUrls": [
+      "https://www.gartner.com/en/research/methodologies/magic-quadrants-research?frame=0",
+      "https://www.gartner.com/en/research/magic-quadrant",
+      "https://www.gartner.com/en/research/methodologies/magic-quadrants-research"
+    ],
+    "pass": true
+  },
+  {
+    "id": "sectors-03-27",
+    "source": 26,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 96,
+    "hardFail": null,
+    "issue": "Only one cited source (Gartner, authoritative for its own methodology); consider adding a second.",
+    "verifiedUrls": [
+      "https://www.gartner.com/en/research/methodologies/gartner-hype-cycle"
+    ],
+    "pass": true
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "id": "obs-02-01",
+    "deck": "observatory",
+    "topic": "Newton's laws",
+    "q": "Newton's first law of motion is also known as the law of what?",
+    "a": "Inertia",
+    "accept": ["law of inertia", "the law of inertia"],
+    "wrong": ["Entropy", "Relativity", "Buoyancy"],
+    "explain": "The first law says a body at rest or in uniform straight-line motion stays that way unless acted on by a force; this tendency to resist changes in motion is inertia.",
+    "hook": "First law: things keep doing what they were already doing.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/science/Newtons-laws-of-motion", "title": "Newton's laws of motion | Britannica", "quote": "Newton's first law: the law of inertia ... This postulate is known as the law of inertia."},
+      {"url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion", "title": "Newton's Laws of Motion | Glenn Research Center | NASA", "quote": "This tendency to resist changes in a state of motion is inertia."}
+    ]
+  },
+  {
+    "id": "obs-02-02",
+    "deck": "observatory",
+    "topic": "Newton's laws",
+    "q": "What equation expresses Newton's second law of motion for an object of constant mass?",
+    "a": "F = ma",
+    "accept": ["F=ma", "force equals mass times acceleration", "F = m*a"],
+    "wrong": ["E = mc²", "PV = nRT", "F = mv²"],
+    "explain": "The second law states that the force on an object equals its mass times its acceleration.",
+    "hook": "Force = mass x acceleration.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/science/Newtons-laws-of-motion", "title": "Newton's laws of motion | Britannica", "quote": "In the second law, the force on an object is equal to its mass times its acceleration."},
+      {"url": "https://www.grc.nasa.gov/www/k-12/BGP/newton.html", "title": "Newton's Laws of Motion (NASA Glenn)", "quote": "For an object with a constant mass m, the second law states that the force F is the product of an object's mass and its acceleration a: F = m * a"}
+    ]
+  },
+  {
+    "id": "obs-02-03",
+    "deck": "observatory",
+    "topic": "Newton's laws",
+    "q": "Newton's third law says that for every action there is an equal and opposite what?",
+    "a": "Reaction",
+    "accept": ["a reaction"],
+    "wrong": ["Acceleration", "Velocity", "Temperature"],
+    "explain": "If object A exerts a force on object B, object B exerts an equal and opposite force on object A; this explains the thrust of a jet engine.",
+    "hook": "Push the wall, the wall pushes back.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion", "title": "Newton's Laws of Motion | Glenn Research Center | NASA", "quote": "His third law states that for every action (force) in nature there is an equal and opposite reaction."},
+      {"url": "https://www.britannica.com/science/Newtons-laws-of-motion", "title": "Newton's laws of motion | Britannica", "quote": "In the third law, when two objects interact, they apply forces to each other of equal magnitude and opposite direction."}
+    ]
+  },
+  {
+    "id": "obs-02-04",
+    "deck": "observatory",
+    "topic": "Speed of light",
+    "q": "What is the exact defined speed of light in a vacuum, in metres per second?",
+    "a": "299,792,458 m/s",
+    "accept": ["299792458", "299,792,458", "299 792 458", "299792458 m/s"],
+    "wrong": ["299,792,458 km/s", "343 m/s", "3,000,000 m/s"],
+    "explain": "Since the SI defines the metre using c, the speed of light in vacuum is exact by definition: 299,792,458 metres per second.",
+    "hook": "Roughly 300,000 km every second.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://physics.nist.gov/cuu/Constants/Value/c.html", "title": "CODATA Value: speed of light in vacuum (NIST)", "quote": "speed of light in vacuum c Numerical value 299 792 458 m s-1 Standard uncertainty (exact)"},
+      {"url": "https://www.britannica.com/science/speed-of-light", "title": "Speed of light | Britannica", "quote": "In particular, the value for the speed of light in a vacuum is now defined as exactly 299,792,458 metres per second."}
+    ]
+  },
+  {
+    "id": "obs-02-05",
+    "deck": "observatory",
+    "topic": "Relativity",
+    "q": "In what year did Albert Einstein publish his special theory of relativity?",
+    "a": "1905",
+    "accept": [],
+    "wrong": ["1895", "1915", "1927"],
+    "explain": "Einstein's 1905 paper 'On the Electrodynamics of Moving Bodies' set out the two postulates of special relativity.",
+    "hook": "1905: Einstein's 'miracle year'.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/science/special-relativity", "title": "Special relativity | Britannica", "quote": "special relativity, part of the wide-ranging physical theory of relativity formed by the German-born physicist Albert Einstein. It was conceived by Einstein in 1905."},
+      {"url": "https://educationalgames.nobelprize.org/educational/physics/relativity/history-1.html", "title": "History of Special Relativity (NobelPrize.org)", "quote": "On June 30, Einstein finished his famous article On the Electrodynamics of Moving Bodies, where he formulated the two postulates of special relativity."}
+    ]
+  },
+  {
+    "id": "obs-02-06",
+    "deck": "observatory",
+    "topic": "Relativity",
+    "q": "In Einstein's equation E = mc², what does the letter c stand for?",
+    "a": "Speed of light",
+    "accept": ["the speed of light", "speed of light in a vacuum", "light speed"],
+    "wrong": ["Electric charge", "Heat capacity", "Coulomb's constant"],
+    "explain": "In E = mc², the speed of light c acts as the constant linking mass and energy, showing they can be converted into each other.",
+    "hook": "c for 'celeritas', Latin for swiftness.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/science/speed-of-light", "title": "Speed of light | Britannica", "quote": "In the famous relativity equation, E = mc2, the speed of light (c) serves as a constant of proportionality, linking the formerly disparate concepts of mass (m) and energy (E)."},
+      {"url": "https://guides.loc.gov/einstein-annus-mirabilis/1905-papers", "title": "The 1905 Papers - Annus Mirabilis of Albert Einstein (Library of Congress)", "quote": "This equation showed that the energy of a body at rest equals its mass times the speed of light squared."}
+    ]
+  },
+  {
+    "id": "obs-02-07",
+    "deck": "observatory",
+    "topic": "Relativity",
+    "q": "In what year did Einstein publish the field equations of general relativity?",
+    "a": "1915",
+    "accept": [],
+    "wrong": ["1905", "1921", "1932"],
+    "explain": "On 25 November 1915 Einstein published the field equations of gravitation, the heart of general relativity, which describes gravity as the curvature of space-time.",
+    "hook": "Special 1905, general ten years later.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://asd.gsfc.nasa.gov/blueshift/index.php/2015/11/25/100-years-of-general-relativity", "title": "100 Years of General Relativity | NASA Blueshift", "quote": "On November 25, 1915, Einstein published the field equations of gravity which are the heart of the general relativity."},
+      {"url": "https://educationalgames.nobelprize.org/educational/physics/relativity/history-1.html", "title": "History of Special Relativity (NobelPrize.org)", "quote": "On November 25, nearly ten years after the foundation of special relativity, Einstein submitted his paper The Field Equations of Gravitation for publication, which gave the correct field equations for the theory of general relativity"}
+    ]
+  },
+  {
+    "id": "obs-02-08",
+    "deck": "observatory",
+    "topic": "Quantum basics",
+    "q": "Which German physicist formulated the uncertainty principle in 1927?",
+    "a": "Werner Heisenberg",
+    "accept": ["Heisenberg"],
+    "wrong": ["Niels Bohr", "Erwin Schrödinger", "Max Planck"],
+    "explain": "The uncertainty principle states that the position and momentum of a particle cannot both be known exactly at the same time; it matters on the atomic scale.",
+    "hook": "Heisenberg: 'not sure where, not sure how fast'.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/science/uncertainty-principle", "title": "Uncertainty principle | Britannica", "quote": "The uncertainty principle was formulated by the German physicist Werner Heisenberg in 1927."},
+      {"url": "https://www.britannica.com/science/quantum-mechanics-physics/Heisenberg-uncertainty-principle", "title": "Quantum mechanics - Heisenberg uncertainty principle | Britannica", "quote": "When Heisenberg first propounded the principle in 1927 his reasoning was based, however, on the wave-particle duality of the photon."}
+    ]
+  },
+  {
+    "id": "obs-02-09",
+    "deck": "observatory",
+    "topic": "Quantum basics",
+    "q": "Which German physicist discovered the quantum of action, now called his constant h, in 1900?",
+    "a": "Max Planck",
+    "accept": ["Planck"],
+    "wrong": ["Werner Heisenberg", "Albert Einstein", "Niels Bohr"],
+    "explain": "Planck's discovery laid the foundation for quantum theory and won him the 1918 Nobel Prize for Physics.",
+    "hook": "Planck's constant carries Planck's name.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/biography/Max-Planck", "title": "Max Planck | Britannica", "quote": "Max Planck was a German theoretical physicist who discovered the quantum of action, now known as Planck's constant, h, in 1900. This work laid the foundation for quantum theory, which won him the Nobel Prize for Physics in 1918."},
+      {"url": "https://www.britannica.com/science/quantum-mechanics-physics/Einstein-and-the-photoelectric-effect", "title": "Quantum mechanics - Einstein and the photoelectric effect | Britannica", "quote": "In 1905 Einstein extended Planck's hypothesis to explain the photoelectric effect"}
+    ]
+  },
+  {
+    "id": "obs-02-10",
+    "deck": "observatory",
+    "topic": "Quantum basics",
+    "q": "Einstein's 1921 Nobel Prize in Physics especially cited his discovery of the law of which effect?",
+    "a": "Photoelectric effect",
+    "accept": ["the photoelectric effect", "photoelectric"],
+    "wrong": ["Relativity", "Brownian motion", "Doppler effect"],
+    "explain": "Einstein explained that light consists of quanta (photons); he actually received the 1921 prize one year later, in 1922.",
+    "hook": "Light in, electrons out.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.nobelprize.org/prizes/physics/1921/summary", "title": "The Nobel Prize in Physics 1921 - NobelPrize.org", "quote": "The Nobel Prize in Physics 1921 was awarded to Albert Einstein \"for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect\""},
+      {"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts", "title": "Albert Einstein - Facts - NobelPrize.org", "quote": "Prize motivation: \"for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect\" Albert Einstein received his Nobel Prize one year later, in 1922."}
+    ]
+  },
+  {
+    "id": "obs-02-11",
+    "deck": "observatory",
+    "topic": "Thermodynamics",
+    "q": "The first law of thermodynamics is a statement of the law of conservation of what?",
+    "a": "Energy",
+    "accept": ["conservation of energy"],
+    "wrong": ["Mass", "Electric charge", "Momentum"],
+    "explain": "Energy cannot be created or destroyed, only converted from one form to another; for a non-isolated system, the change in internal energy is ΔU = Q − W.",
+    "hook": "First law: you can't get something for nothing.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/science/thermodynamics", "title": "Thermodynamics | Britannica", "quote": "The first law of thermodynamics, or the law of conservation of energy. ... In other words, energy can not be created or destroyed but merely converted from one form to another."},
+      {"url": "https://www.britannica.com/science/laws-of-thermodynamics", "title": "Laws of thermodynamics | Britannica", "quote": "(This is another way of stating the law of conservation of energy: that energy can not be created or destroyed but merely converted from one form to another.)"}
+    ]
+  },
+  {
+    "id": "obs-02-12",
+    "deck": "observatory",
+    "topic": "Thermodynamics",
+    "q": "According to the second law of thermodynamics, what does the entropy of a closed system do over time?",
+    "a": "Increases",
+    "accept": ["increase", "it increases", "goes up", "rises"],
+    "wrong": ["Decreases", "Falls to zero", "Oscillates"],
+    "explain": "Heat does not flow spontaneously from colder to hotter regions, so the entropy of a closed system increases toward a maximum value.",
+    "hook": "Rooms get messier on their own, never tidier.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.britannica.com/science/laws-of-thermodynamics", "title": "Laws of thermodynamics | Britannica", "quote": "Consequently, the entropy (measure of the disorder of the material) of a closed system, or heat energy per unit temperature, increases over time toward some maximum value."},
+      {"url": "https://www.britannica.com/science/thermodynamics", "title": "Thermodynamics | Britannica", "quote": "Consequently, the entropy of a closed system, or heat energy per unit temperature, increases over time toward some maximum value."}
+    ]
+  },
+  {
+    "id": "obs-02-13",
+    "deck": "observatory",
+    "topic": "Thermodynamics",
+    "q": "What is absolute zero on the Celsius scale?",
+    "a": "−273.15 °C",
+    "accept": ["-273.15", "-273.15 C", "-273.15 °C", "minus 273.15"],
+    "wrong": ["−459.67 °C", "−100 °C", "0 °C"],
+    "explain": "Absolute zero is −273.15 °C (−459.67 °F); the third law of thermodynamics implies it cannot actually be reached.",
+    "hook": "−459.67 is the Fahrenheit trap, not Celsius.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/science/laws-of-thermodynamics", "title": "Laws of thermodynamics | Britannica", "quote": "The entropy of an isolated system approaches a constant value as the temperature of the system approaches absolute zero (−273.15 °C, or −459.67 °F). In practical terms, this theorem implies the impossibility of attaining absolute zero"}
+    ]
+  },
+  {
+    "id": "obs-02-14",
+    "deck": "observatory",
+    "topic": "Thermodynamics",
+    "q": "Which law of thermodynamics says that two bodies each in thermal equilibrium with a third are in equilibrium with each other?",
+    "a": "Zeroth law",
+    "accept": ["the zeroth law", "zeroth law of thermodynamics", "0th law"],
+    "wrong": ["First law", "Second law", "Third law"],
+    "explain": "It was named the zeroth law by Ralph Fowler in the 1930s because it underpins the other three; it is what makes thermometers meaningful.",
+    "hook": "Added last, numbered first.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.britannica.com/science/laws-of-thermodynamics", "title": "Laws of thermodynamics | Britannica", "quote": "it was dubbed the zeroth law of thermodynamics by Ralph Fowler in the 1930s. The law states that if two bodies are each in thermal equilibrium with a third body, they must also be in equilibrium with each other."},
+      {"url": "https://www.britannica.com/science/thermodynamics", "title": "Thermodynamics | Britannica", "quote": "The zeroth law of thermodynamics. When two systems are each in thermal equilibrium with a third system, the first two systems are in thermal equilibrium with each other."}
+    ]
+  },
+  {
+    "id": "obs-02-15",
+    "deck": "observatory",
+    "topic": "Mendeleev",
+    "q": "In what year did Russian chemist Dmitri Mendeleev publish his periodic table?",
+    "a": "1869",
+    "accept": [],
+    "wrong": ["1789", "1829", "1905"],
+    "explain": "Mendeleev ordered the elements by atomic weight and left gaps for undiscovered elements whose properties he predicted.",
+    "hook": "2019 marked the table's 150th birthday.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/story/when-was-the-periodic-table-invented", "title": "When Was the Periodic Table Invented? | Britannica", "quote": "The periodic table was invented by Russian chemist Dmitri Mendeleev in 1869."},
+      {"url": "https://www.aip.org/library/a-look-at-the-first-published-periodic-table", "title": "A look at the first published periodic table - AIP", "quote": "None of those representations look very much like the first periodic table, published in 1869. ... The periodic table was the creation of Russian chemist Dmitri Mendeleev, then a professor at St Petersburg University."}
+    ]
+  },
+  {
+    "id": "obs-02-16",
+    "deck": "observatory",
+    "topic": "Marie Curie",
+    "q": "Which element did Marie Curie name after her native country?",
+    "a": "Polonium",
+    "accept": ["Po"],
+    "wrong": ["Francium", "Curium", "Germanium"],
+    "explain": "Polonium (element 84) was discovered by the Curies in 1898 and named after Poland, Marie Curie's homeland.",
+    "hook": "Polonium = Poland.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://periodic-table.rsc.org/element/84/Polonium", "title": "Polonium - Periodic Table (Royal Society of Chemistry)", "quote": "Polonium is named after Poland, the native country of Marie Curie, who first isolated the element."},
+      {"url": "https://www.britannica.com/summary/Marie-Curie", "title": "Marie Curie summary | Britannica", "quote": "Together they discovered the elements polonium (which Marie named after her native Poland) and radium"}
+    ]
+  },
+  {
+    "id": "obs-02-17",
+    "deck": "observatory",
+    "topic": "Marie Curie",
+    "q": "In which field did Marie Curie win her second Nobel Prize, in 1911?",
+    "a": "Chemistry",
+    "accept": ["Nobel Prize in Chemistry"],
+    "wrong": ["Physics", "Physiology or Medicine", "Peace"],
+    "explain": "She shared the 1903 Physics prize and won the 1911 Chemistry prize alone, becoming the first person ever awarded two Nobel Prizes.",
+    "hook": "Physics first (1903), chemistry second (1911).",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.nobelprize.org/prizes/facts/facts-on-the-nobel-prize-in-chemistry-2", "title": "Facts on the Nobel Prizes in Chemistry - NobelPrize.org", "quote": "Marie Curie herself was awarded the Nobel Prize a second time, receiving the 1911 Nobel Prize in Chemistry."},
+      {"url": "https://www.britannica.com/summary/Marie-Curie", "title": "Marie Curie summary | Britannica", "quote": "In 1911 she won a Nobel Prize for Chemistry for discovering polonium and isolating pure radium, becoming the first person to win two Nobel Prizes."}
+    ]
+  },
+  {
+    "id": "obs-02-18",
+    "deck": "observatory",
+    "topic": "Marie Curie",
+    "q": "Besides polonium, which radioactive element did Pierre and Marie Curie discover in 1898?",
+    "a": "Radium",
+    "accept": ["Ra"],
+    "wrong": ["Uranium", "Thorium", "Plutonium"],
+    "explain": "The Curies found both elements in pitchblende; radium was isolated in December 1898 and named because it glowed in the dark.",
+    "hook": "Radium radiates.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://edu.rsc.org/feature/four-curie-centennial-elements/2020149.article", "title": "Four Curie centennial elements | RSC Education", "quote": "In 1898 Pierre and Marie Curie discovered polonium and radium"},
+      {"url": "https://periodic-table.rsc.org/element/84/Polonium", "title": "Polonium - Periodic Table (Royal Society of Chemistry)", "quote": "With the polonium extracted, there was clearly something far more radioactive left behind and soon they had isolated the much more important element radium in December 1898. Radium was so named as it glowed in the dark."},
+      {"url": "https://www.britannica.com/summary/Marie-Curie", "title": "Marie Curie summary | Britannica", "quote": "Together they discovered the elements polonium (which Marie named after her native Poland) and radium"}
+    ]
+  },
+  {
+    "id": "obs-02-19",
+    "deck": "observatory",
+    "topic": "Periodic table",
+    "q": "What is the chemical symbol for gold?",
+    "a": "Au",
+    "accept": [],
+    "wrong": ["Ag", "Gd", "Go"],
+    "explain": "The symbol Au comes from the Latin word 'aurum'; gold is element 79.",
+    "hook": "Aurum, like aurora: shining dawn.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://pubchem.ncbi.nlm.nih.gov/element/79", "title": "Gold | Au (Element) - PubChem", "quote": "Gold is a chemical element with symbol Au and atomic number 79."},
+      {"url": "https://periodic-table.rsc.org/element/79/gold", "title": "Gold - Periodic Table (Royal Society of Chemistry)", "quote": "The name is the Anglo-Saxon word for the metal and the symbol comes from the Latin 'aurum', gold."}
+    ]
+  },
+  {
+    "id": "obs-02-20",
+    "deck": "observatory",
+    "topic": "Periodic table",
+    "q": "What is the most abundant element in the universe?",
+    "a": "Hydrogen",
+    "accept": ["H"],
+    "wrong": ["Helium", "Oxygen", "Carbon"],
+    "explain": "Hydrogen, made of a single proton and a single electron, is the simplest and most abundant element; it is the fuel most stars burn.",
+    "hook": "Element number 1 is number 1 in abundance.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://pubchem.ncbi.nlm.nih.gov/element/1", "title": "Hydrogen | H (Element) - PubChem", "quote": "Composed of a single proton and a single electron, hydrogen is the simplest and most abundant element in the universe. (Jefferson Lab, U.S. Department of Energy) ... Hydrogen is the most abundant of all elements in the universe. (Los Alamos National Laboratory, U.S. Department of Energy)"}
+    ]
+  },
+  {
+    "id": "obs-02-21",
+    "deck": "observatory",
+    "topic": "Periodic table",
+    "q": "In which group of the modern periodic table are the noble gases?",
+    "a": "Group 18",
+    "accept": ["18", "group eighteen", "VIIIA", "group VIIIA"],
+    "wrong": ["Group 1", "Group 2", "Group 17"],
+    "explain": "The noble gases (helium, neon, argon, krypton, xenon, radon and oganesson) make up Group 18, the far-right column.",
+    "hook": "Last column, least reactive.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/science/noble-gas", "title": "Noble gas | Britannica", "quote": "Noble gas, any of the seven chemical elements that make up Group 18 (VIIIA) of the periodic table."}
+    ]
+  },
+  {
+    "id": "obs-02-22",
+    "deck": "observatory",
+    "topic": "Atomic structure",
+    "q": "An element's atomic number equals the number of which particle in its nucleus?",
+    "a": "Protons",
+    "accept": ["proton", "number of protons"],
+    "wrong": ["Neutrons", "Nucleons", "Photons"],
+    "explain": "The modern periodic table orders elements by increasing atomic number, the number of protons in the nucleus.",
+    "hook": "Protons give an element its identity.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://periodic-table.rsc.org/about", "title": "Development of the periodic table (Royal Society of Chemistry)", "quote": "The modern periodic table lists the elements in order of increasing atomic number (the number of protons in the nucleus of an atom)."},
+      {"url": "https://www.britannica.com/story/when-was-the-periodic-table-invented", "title": "When Was the Periodic Table Invented? | Britannica", "quote": "It was not until the early 20th century that it was discovered that an element's position in the periodic table is determined by its atomic number (the amount of protons in its atomic nucleus)."}
+    ]
+  },
+  {
+    "id": "obs-02-23",
+    "deck": "observatory",
+    "topic": "States of matter",
+    "q": "Which state of matter, an ionized gas, is often called the fourth state of matter?",
+    "a": "Plasma",
+    "accept": [],
+    "wrong": ["Gel", "Foam", "Aerosol"],
+    "explain": "A gas becomes a plasma when enough energy strips electrons from its atoms; stars, lightning and auroras are plasmas.",
+    "hook": "Solid, liquid, gas, plasma.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://engage.aps.org/dpp/resources/what-is-plasma", "title": "What Is Plasma? - APS Division of Plasma Physics", "quote": "Plasmas, often called the fourth state of matter, are perhaps the most abundant form of matter ... Thus, a plasma is an 'ionized gas' - a collection of electrically charged particles"},
+      {"url": "http://www.britannica.com/science/plasma-state-of-matter", "title": "Plasma | Britannica", "quote": "Plasma is often referred to as the fourth state of matter, distinct from solid, liquid, and gas."}
+    ]
+  },
+  {
+    "id": "obs-02-24",
+    "deck": "observatory",
+    "topic": "States of matter",
+    "q": "What is the term for a substance changing directly from a solid to a gas without becoming a liquid?",
+    "a": "Sublimation",
+    "accept": ["sublimating"],
+    "wrong": ["Deposition", "Condensation", "Evaporation"],
+    "explain": "Dry ice (solid carbon dioxide) sublimates at ordinary pressure and temperature; freeze-drying food also relies on sublimation.",
+    "hook": "Dry ice skips the puddle.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/science/sublimation-phase-change", "title": "Sublimation | Britannica", "quote": "Sublimation, in physics, conversion of a substance from the solid to the gaseous state without its becoming liquid. An example is the vaporization of frozen carbon dioxide (dry ice) at ordinary atmospheric pressure and temperature."}
+    ]
+  },
+  {
+    "id": "obs-02-25",
+    "deck": "observatory",
+    "topic": "Atomic structure",
+    "q": "Which English physicist discovered the electron in 1897?",
+    "a": "J.J. Thomson",
+    "accept": ["JJ Thomson", "Thomson", "Joseph John Thomson", "J. J. Thomson"],
+    "wrong": ["Ernest Rutherford", "James Chadwick", "John Dalton"],
+    "explain": "Working with cathode rays, Thomson showed they were negatively charged particles, proving the atom has internal structure.",
+    "hook": "Thomson's 'plum pudding' had electron plums.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.britannica.com/science/atom/Discovery-of-electrons", "title": "Atom - Discovery of electrons | Britannica", "quote": "Their work culminated in the discovery by English physicist J.J. Thomson of the electron in 1897."},
+      {"url": "https://www.britannica.com/science/atomic-model", "title": "Atomic model | Britannica", "quote": "In 1897 English physicist J.J. Thomson discovered a negatively charged particle, which he called the electron."}
+    ]
+  },
+  {
+    "id": "obs-02-26",
+    "deck": "observatory",
+    "topic": "Atomic structure",
+    "q": "Which physicist discovered the atomic nucleus in 1911?",
+    "a": "Ernest Rutherford",
+    "accept": ["Rutherford"],
+    "wrong": ["J.J. Thomson", "Niels Bohr", "James Chadwick"],
+    "explain": "Rutherford's alpha-particle experiments on thin gold foil overturned Thomson's model and showed the atom is mostly empty space around a small, massive nucleus.",
+    "hook": "Gold foil, big surprise.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.aps.org/apsnews/2007/05/may-1932-chadwick-discovery-neutron", "title": "May 1932: Chadwick reports the discovery of the neutron | American Physical Society", "quote": "Rutherford had discovered the atomic nucleus in 1911, and had observed the proton in 1919."},
+      {"url": "https://www.britannica.com/science/atomic-model", "title": "Atomic model | Britannica", "quote": "In 1911 a former student of Thomson's, New Zealand-born British physicist Ernest Rutherford, in cooperation with other scientists, performed alpha particle experiments that led to the overturning of Thomson's model. They aimed alpha particles at a thin sheet of gold foil"}
+    ]
+  },
+  {
+    "id": "obs-02-27",
+    "deck": "observatory",
+    "topic": "Atomic structure",
+    "q": "Which British physicist discovered the neutron in 1932?",
+    "a": "James Chadwick",
+    "accept": ["Chadwick"],
+    "wrong": ["Ernest Rutherford", "J.J. Thomson", "Niels Bohr"],
+    "explain": "Chadwick proved the existence of a neutral particle with about the same mass as a proton, earning the 1935 Nobel Prize in Physics.",
+    "hook": "Neutron, neutral, no charge.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.nobelprize.org/prizes/physics/1935/chadwick/facts/", "title": "James Chadwick - Facts - NobelPrize.org", "quote": "In 1932, however, James Chadwick proved that it consisted of a neutral particle with about the same mass as a proton."},
+      {"url": "https://www.aps.org/apsnews/2007/05/may-1932-chadwick-discovery-neutron", "title": "May 1932: Chadwick reports the discovery of the neutron | American Physical Society", "quote": "In May 1932 James Chadwick announced that the core also contained a new uncharged particle, which he called the neutron."}
+    ]
+  }
+]

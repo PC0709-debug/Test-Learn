@@ -1,0 +1,410 @@
+[
+ {
+  "id": "vault-10-01",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/valuation/accretion-dilution/",
+   "https://www.wallstreetprep.com/knowledge/merger-model"
+  ]
+ },
+ {
+  "id": "vault-10-02",
+  "source": 20,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 90,
+  "hardFail": "Computed figure rests on a formula cited from only one source; numbers require two agreeing independent cited sources.",
+  "pass": false,
+  "issue": "Add a second independent source for the accretion formula, e.g. CFI or BIWS accretion/dilution page (WSP page itself shows a 10% example: ($1.10/$1.00)-1).",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/merger-model"
+  ]
+ },
+ {
+  "id": "vault-10-03",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution"
+  ]
+ },
+ {
+  "id": "vault-10-04",
+  "source": 20,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 90,
+  "hardFail": "Computed figure rests on a formula cited from only one source; numbers require two agreeing independent cited sources.",
+  "pass": false,
+  "issue": "Add a second independent source for cost of stock = 1/P/E (e.g. WSP or CFI accretion/dilution guide).",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution"
+  ]
+ },
+ {
+  "id": "vault-10-05",
+  "source": 20,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 90,
+  "hardFail": "Computed figure rests on a formula cited from only one source; numbers require two agreeing independent cited sources.",
+  "pass": false,
+  "issue": "Add a second independent source for after-tax cost of debt = rate x (1 - tax rate) (e.g. CFI or WSP).",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution"
+  ]
+ },
+ {
+  "id": "vault-10-06",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution"
+  ]
+ },
+ {
+  "id": "vault-10-07",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution"
+  ]
+ },
+ {
+  "id": "vault-10-08",
+  "source": 20,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 90,
+  "hardFail": "Computed figure rests on a formula cited from only one source; numbers require two agreeing independent cited sources.",
+  "pass": false,
+  "issue": "Add a second independent source for the weighted cost of acquisition formula.",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models/eps-accretion-dilution"
+  ]
+ },
+ {
+  "id": "vault-10-09",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models"
+  ]
+ },
+ {
+  "id": "vault-10-10",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models"
+  ]
+ },
+ {
+  "id": "vault-10-11",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/synergies-revenue-cost"
+  ]
+ },
+ {
+  "id": "vault-10-12",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/synergies-revenue-cost"
+  ]
+ },
+ {
+  "id": "vault-10-13",
+  "source": 12,
+  "match": 15,
+  "unique": 10,
+  "current": 15,
+  "precise": 5,
+  "total": 57,
+  "hardFail": "Single source; the cited WSP page's own worked example applies the 60% gross margin assumption to $18m of revenue synergies and gets $7m (i.e. $18m - $11m), which conflicts with $10m x 60% = $6m; the explain's claim that cost synergies flow through with only a tax adjustment is not quoted.",
+  "pass": false,
+  "issue": "Rewrite or drop: the source does not clearly support the $6m calculation and its example implies the opposite convention; need two clear sources, and support or remove the cost-synergy claim in explain.",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/synergies-revenue-cost"
+  ]
+ },
+ {
+  "id": "vault-10-14",
+  "source": 29,
+  "match": 30,
+  "unique": 12,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Minor: 'cost basis' in accept is not a strict synonym of stepped-up basis; consider removing.",
+  "verifiedUrls": [
+   "https://macabacus.com/accounting/types-of-acquisitions",
+   "https://corporatefinanceinstitute.com/resources/valuation/asset-purchase-vs-stock-purchase"
+  ]
+ },
+ {
+  "id": "vault-10-15",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://macabacus.com/accounting/types-of-acquisitions",
+   "https://www.ftb.ca.gov/tax-pros/procedures/s-corp-handbook/s-corp-chapter-16.pdf"
+  ]
+ },
+ {
+  "id": "vault-10-16",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://macabacus.com/accounting/types-of-acquisitions",
+   "https://www.wallstreetprep.com/knowledge/goodwill-amortization-difference-gaap-tax-accounting/",
+   "https://corporatefinanceinstitute.com/resources/valuation/asset-purchase-vs-stock-purchase"
+  ]
+ },
+ {
+  "id": "vault-10-17",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://macabacus.com/accounting/types-of-acquisitions",
+   "https://www.wallstreetprep.com/knowledge/goodwill-amortization-difference-gaap-tax-accounting/"
+  ]
+ },
+ {
+  "id": "vault-10-18",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/accounting/section-338/",
+   "https://uk.practicallaw.thomsonreuters.com/9-382-3203?contextData=(sc.Default)&transitionType=Default",
+   "https://www.ftb.ca.gov/tax-pros/procedures/s-corp-handbook/s-corp-chapter-16.pdf"
+  ]
+ },
+ {
+  "id": "vault-10-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.irs.gov/instructions/i8023",
+   "https://uk.practicallaw.thomsonreuters.com/9-382-3203?contextData=(sc.Default)&transitionType=Default",
+   "https://www.ftb.ca.gov/tax-pros/procedures/s-corp-handbook/s-corp-chapter-16.pdf"
+  ]
+ },
+ {
+  "id": "vault-10-20",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "IRS excerpt seen states Form 8023 must be signed by each S corporation shareholder regardless of whether they sell; Practical Law and CFI state the cited wording verbatim.",
+  "verifiedUrls": [
+   "https://www.irs.gov/instructions/i8023",
+   "https://uk.practicallaw.thomsonreuters.com/9-382-3203?contextData=(sc.Default)&transitionType=Default",
+   "https://corporatefinanceinstitute.com/resources/accounting/section-338/"
+  ]
+ },
+ {
+  "id": "vault-10-21",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://corporatefinanceinstitute.com/resources/accounting/section-338/",
+   "https://www.ftb.ca.gov/tax-pros/procedures/s-corp-handbook/s-corp-chapter-16.pdf"
+  ]
+ },
+ {
+  "id": "vault-10-22",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.irs.gov/instructions/i8023",
+   "https://uscode.house.gov/us/usc/119-136/t26/s338",
+   "https://www.ftb.ca.gov/tax-pros/procedures/s-corp-handbook/s-corp-chapter-16.pdf"
+  ]
+ },
+ {
+  "id": "vault-10-23",
+  "source": 28,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models/exchange-ratios-in-ma-deals-fixed-floating-and-collars/",
+   "https://www.wallstreetprep.com/knowledge/exchange-ratios-ma-fixed-vs-floating-exchange-ratios-collars-caps"
+  ]
+ },
+ {
+  "id": "vault-10-24",
+  "source": 28,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/exchange-ratios-ma-fixed-vs-floating-exchange-ratios-collars-caps",
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models/exchange-ratios-in-ma-deals-fixed-floating-and-collars/"
+  ]
+ },
+ {
+  "id": "vault-10-25",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://breakingintowallstreet.com/kb/ma-and-merger-models/exchange-ratios-in-ma-deals-fixed-floating-and-collars/",
+   "https://www.wallstreetprep.com/knowledge/exchange-ratios-ma-fixed-vs-floating-exchange-ratios-collars-caps"
+  ]
+ },
+ {
+  "id": "vault-10-26",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 95,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.wallstreetprep.com/knowledge/earn-outs-ma"
+  ]
+ }
+]

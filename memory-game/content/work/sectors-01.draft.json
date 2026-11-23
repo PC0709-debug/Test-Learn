@@ -1,0 +1,433 @@
+[
+  {
+    "id": "sectors-01-01",
+    "deck": "sectors",
+    "topic": "ARR/MRR",
+    "q": "To convert monthly recurring revenue (MRR) into annual recurring revenue (ARR), what do you multiply MRR by?",
+    "a": "12",
+    "accept": ["twelve", "x12", "12x"],
+    "wrong": ["4", "52", "365"],
+    "explain": "ARR is the annualized MRR of a subscription business: ARR = MRR × 12.",
+    "hook": "Twelve months in a year.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/annual-recurring-revenue-arr", "title": "Annual Recurring Revenue (ARR) | Formula + Calculator", "quote": "The formula to calculate the annual recurring revenue (ARR) is equal to the monthly recurring revenue (MRR) multiplied by twelve months."},
+      {"url": "https://corporatefinanceinstitute.com/learn/resources/valuation/annual-recurring-revenue-arr", "title": "Annual Recurring Revenue (ARR) - Calculation and Examples", "quote": "Annual Recurring Revenue (ARR) = Monthly Recurring Revenue (MRR) × 12"}
+    ]
+  },
+  {
+    "id": "sectors-01-02",
+    "deck": "sectors",
+    "topic": "ARR/MRR",
+    "q": "In ARR roll-forwards, what is the revenue lost from customers downgrading their subscriptions called?",
+    "a": "Contraction ARR",
+    "accept": ["contraction", "contraction revenue", "downgrade ARR"],
+    "wrong": ["Expansion ARR", "Reactivation ARR", "New ARR"],
+    "explain": "Contraction ARR is revenue lost from downgrades, while churned ARR is revenue lost from cancelled subscriptions.",
+    "hook": "Contract = shrink.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/annual-recurring-revenue-arr", "title": "Annual Recurring Revenue (ARR) | Formula + Calculator", "quote": "Contraction ARR is the revenue lost from downgraded subscriptions"},
+      {"url": "https://corporatefinanceinstitute.com/learn/resources/valuation/annual-recurring-revenue-arr", "title": "Annual Recurring Revenue (ARR) - Calculation and Examples", "quote": "Contraction ARR is reduced revenue from subscription downgrades or seat reductions."}
+    ]
+  },
+  {
+    "id": "sectors-01-03",
+    "deck": "sectors",
+    "topic": "Retention",
+    "q": "Which SaaS metric equals (Starting MRR + Expansion MRR − Churned MRR) ÷ Starting MRR?",
+    "a": "Net revenue retention",
+    "accept": ["NRR", "net dollar retention", "NDR"],
+    "wrong": ["Magic number", "Burn multiple", "CAC payback period"],
+    "explain": "NRR measures the percentage of revenue retained from existing customers after accounting for both expansion and churn.",
+    "hook": "Net = expansion netted against churn.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/net-revenue-retention-nrr", "title": "Net Revenue Retention (NRR) | Formula + Calculator", "quote": "Net Revenue Retention (NRR) = (Starting MRR + Expansion MRR − Churned MRR) ÷ Starting MRR"},
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/nrr-meaning-calculation-guide", "title": "Net Revenue Retention (NRR): Meaning, Formula, & How to Calculate", "quote": "The NRR formula is NRR = (Starting MRR + Expansion MRR − Churn MRR) ÷ Starting MRR."}
+    ]
+  },
+  {
+    "id": "sectors-01-04",
+    "deck": "sectors",
+    "topic": "Retention",
+    "q": "Which retention metric excludes expansion revenue from upsells and cross-sells?",
+    "a": "Gross revenue retention",
+    "accept": ["GRR", "gross dollar retention", "GDR"],
+    "wrong": ["Net revenue retention", "Net dollar retention", "Net revenue churn"],
+    "explain": "GRR only deducts churn and downgrades from starting recurring revenue, so it isolates how well a company keeps its existing revenue base.",
+    "hook": "Gross = before the upsell gravy.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/gross-revenue-retention/", "title": "Gross Revenue Retention (GRR) | Formula + Calculator", "quote": "The unique attribute of the gross revenue retention metric is that expansion revenue – i.e. the incremental revenue derived from existing customers via upselling and cross-selling strategies – is neglected in the calculation."},
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/grr-vs-nrr-saas-retention-metrics", "title": "GRR vs. NRR: What's the Difference? Meanings and Formulas | CFI", "quote": "Gross Revenue Retention (GRR) measures recurring revenue retention from existing customers, excluding upgrades, cross-sells, and expansions."}
+    ]
+  },
+  {
+    "id": "sectors-01-05",
+    "deck": "sectors",
+    "topic": "Retention",
+    "q": "Net revenue retention (NRR) is also commonly called what?",
+    "a": "Net dollar retention",
+    "accept": ["NDR", "net dollar revenue retention"],
+    "wrong": ["Gross dollar retention", "Logo retention", "Gross revenue retention"],
+    "explain": "NRR and net dollar retention (NDR) refer to the same concept: recurring revenue retained from existing customers including expansion.",
+    "hook": "Revenue = dollars.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/net-revenue-retention-nrr", "title": "Net Revenue Retention (NRR) | Formula + Calculator", "quote": "The net revenue retention (NRR)—or “net dollar retention ( NDR )”—is of particular importance in the SaaS industry"},
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/net-dollar-retention-ndr", "title": "Net Dollar Retention - Meaning and Calculation | CFI", "quote": "Net dollar retention is also referred to as net revenue retention ( NRR )."}
+    ]
+  },
+  {
+    "id": "sectors-01-06",
+    "deck": "sectors",
+    "topic": "Churn",
+    "q": "A SaaS company starts the month with $20 million of MRR and loses $5 million of it to churn; what is its gross revenue churn?",
+    "a": "25%",
+    "accept": ["25", "25 percent", "0.25"],
+    "wrong": ["20%", "75%", "4%"],
+    "explain": "Gross revenue churn = Churned MRR ÷ Beginning MRR, so $5m ÷ $20m = 25%.",
+    "hook": "5 out of 20 = one quarter.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/revenue-churn-mrr", "title": "Revenue Churn | Formula + Calculator", "quote": "Gross Revenue Churn = Churned MRR ÷ Beginning MRR For example, if a SaaS company with $20 million in MRR lost $5 million in that specific month, the gross churn is 25%."}
+    ]
+  },
+  {
+    "id": "sectors-01-07",
+    "deck": "sectors",
+    "topic": "Churn",
+    "q": "A SaaS company with $20 million of beginning MRR loses $5 million to churn but adds $3 million of expansion MRR; what is its net revenue churn?",
+    "a": "10%",
+    "accept": ["10", "10 percent", "0.10", "0.1"],
+    "wrong": ["25%", "40%", "15%"],
+    "explain": "Net revenue churn = (Churned MRR − Expansion MRR) ÷ Beginning MRR = ($5m − $3m) ÷ $20m = 10%.",
+    "hook": "Net churn nets expansion against losses.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/revenue-churn-mrr", "title": "Revenue Churn | Formula + Calculator", "quote": "Net Revenue Churn = (Churned MRR – Expansion MRR) ÷ Beginning MRR Continuing from the previous example, let’s say that the SaaS company was able to bring in $3 million in expansion revenue. In that case, the net churn is 10% instead of the 25% gross churn."},
+      {"url": "https://www.wallstreetprep.com/knowledge/recurring-revenue", "title": "Recurring Revenue | Formula + Calculator - Wall Street Prep", "quote": "Net Revenue Churn = (Churned MRR – Expansion MRR) ÷ Beginning MRR"}
+    ]
+  },
+  {
+    "id": "sectors-01-08",
+    "deck": "sectors",
+    "topic": "Churn",
+    "q": "Customer churn rate equals churned customers divided by what?",
+    "a": "Beginning customers",
+    "accept": ["customers at start of period", "beginning customer count", "starting customers", "number of customers at start of period"],
+    "wrong": ["New customers acquired", "Beginning MRR", "Expansion customers"],
+    "explain": "Customer (logo) churn asks what percentage of customers were lost since the start of the period, so the denominator is the customer count at the start.",
+    "hook": "Churn is measured against where you started.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/recurring-revenue", "title": "Recurring Revenue | Formula + Calculator - Wall Street Prep", "quote": "Churn Rate (%) = Churned Customers ÷ Beginning Customers Where: * Churned Customers ➝ Inactive Accounts (i.e. Lost Customers) * Beginning Customers ➝ Number of Customers at Start of Period"}
+    ]
+  },
+  {
+    "id": "sectors-01-09",
+    "deck": "sectors",
+    "topic": "Unit economics",
+    "q": "Customer acquisition cost (CAC) equals total sales and marketing expense divided by what?",
+    "a": "New customers acquired",
+    "accept": ["number of new customers", "new customers", "number of new customers acquired"],
+    "wrong": ["Total active customers", "Churned customers", "Beginning MRR"],
+    "explain": "CAC counts only the new customers acquired in the period in the denominator.",
+    "hook": "Cost to acquire per customer acquired.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/ltv-cac-ratio", "title": "LTV/CAC Ratio | SaaS Formula + Calculator", "quote": "Customer Acquisition Cost (CAC) = Σ Sales and Marketing (S&M) Expenses ÷ Number of New Customers Acquired"},
+      {"url": "https://www.wallstreetprep.com/knowledge/customer-acquisition-cost-cac", "title": "Customer Acquisition Cost (CAC) | Formula + Calculator", "quote": "Note: The formula to determine the customer acquisition cost (CAC) must count only the new customers acquired in the pre-defined period."}
+    ]
+  },
+  {
+    "id": "sectors-01-10",
+    "deck": "sectors",
+    "topic": "CAC payback",
+    "q": "In the CAC payback formula, sales and marketing expense is divided by new MRR multiplied by what?",
+    "a": "Gross margin",
+    "accept": ["gross margin %", "GM", "subscription gross margin"],
+    "wrong": ["Churn rate", "EBITDA margin", "Net revenue retention"],
+    "explain": "CAC payback = S&M ÷ (New MRR × Gross Margin), measuring the months of gross profit needed to recoup acquisition spend.",
+    "hook": "Payback comes from gross profit, not revenue.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/cac-payback-period", "title": "CAC Payback Period | Formula + Calculator", "quote": "CAC Payback Period = Sales and Marketing Expense (S&M) ÷ (New MRR × Gross Margin)"},
+      {"url": "https://www.craftventures.com/articles/the-saas-metrics-that-matter", "title": "The SaaS Metrics That Matter | Craft Ventures", "quote": "CAC Payback: To determine how many months it takes for a customer to produce enough gross profit to pay back its CAC, divide S&M spend by MRR x Gross Margin."}
+    ]
+  },
+  {
+    "id": "sectors-01-11",
+    "deck": "sectors",
+    "topic": "LTV/CAC",
+    "q": "What LTV/CAC ratio is widely cited as the target benchmark for SaaS companies?",
+    "a": "3x",
+    "accept": ["3.0x", "3:1", "3", "3.0", "three times"],
+    "wrong": ["1x", "0.5x", "20x"],
+    "explain": "An LTV/CAC of 3.0x means the company earns about $3 of lifetime value for each $1 spent acquiring a customer.",
+    "hook": "Spend $1, get $3 back.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/customer-acquisition-cost-cac", "title": "Customer Acquisition Cost (CAC) | Formula + Calculator", "quote": "In the SaaS industry, an LTV/CAC ratio of 3.0x is widely recognized as the standard target benchmark."},
+      {"url": "https://www.craftventures.com/articles/the-saas-metrics-that-matter", "title": "The SaaS Metrics That Matter | Craft Ventures", "quote": "Healthy cohorts cross the $0 LTV line before month 12, and LTV grows to at least 3x original CAC over time."}
+    ]
+  },
+  {
+    "id": "sectors-01-12",
+    "deck": "sectors",
+    "topic": "LTV/CAC",
+    "q": "In the common SaaS formula LTV = (ARPA × gross margin) ÷ X, what is X?",
+    "a": "Churn rate",
+    "accept": ["churn", "customer churn rate"],
+    "wrong": ["CAC", "Magic number", "Net revenue retention"],
+    "explain": "Dividing gross-margin-adjusted revenue per account by the churn rate approximates the profit earned over an average customer's lifetime.",
+    "hook": "1 ÷ churn = expected customer lifetime.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/ltv-cac-ratio", "title": "LTV/CAC Ratio | SaaS Formula + Calculator", "quote": "Customer Lifetime Value (CLV) = ( ARPA × Gross Margin) ÷ Churn Rate"},
+      {"url": "https://www.wallstreetprep.com/knowledge/customer-acquisition-cost-cac", "title": "Customer Acquisition Cost (CAC) | Formula + Calculator", "quote": "Company A – Lifetime Value (LTV)= $40.00 × 60.0% ÷ 2.5% = $960"}
+    ]
+  },
+  {
+    "id": "sectors-01-13",
+    "deck": "sectors",
+    "topic": "Magic number",
+    "q": "In the SaaS magic number, the quarter-over-quarter change in revenue is multiplied by what number to annualize it?",
+    "a": "4",
+    "accept": ["four", "x4", "4x"],
+    "wrong": ["12", "2", "52"],
+    "explain": "The magic number annualizes one quarter's revenue increase (×4) and divides it by the prior quarter's sales and marketing spend.",
+    "hook": "Four quarters in a year.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/saas-magic-number/", "title": "SaaS Magic Number | Formula + Calculator", "quote": "SaaS Magic Number = [(GAAP Revenue Current Quarter − GAAP Revenue Previous Quarter) × 4] ÷ (Sales & Marketing Spend Previous Quarter)"},
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/saas-magic-number/", "title": "The SaaS Magic Number: A Guide to Calculation and Analysis | CFI", "quote": "Annualize the revenue growth by multiplying the revenue growth by four."}
+    ]
+  },
+  {
+    "id": "sectors-01-14",
+    "deck": "sectors",
+    "topic": "Magic number",
+    "q": "The SaaS magic number divides annualized revenue growth by sales and marketing spend from which quarter?",
+    "a": "Previous quarter",
+    "accept": ["prior quarter", "the previous quarter", "last quarter"],
+    "wrong": ["Current quarter", "Next quarter", "Same quarter of the prior year"],
+    "explain": "The previous quarter's S&M expense is used because there is usually a lag between spend and the revenue it generates.",
+    "hook": "Spend first, revenue follows.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/saas-magic-number/", "title": "The SaaS Magic Number: A Guide to Calculation and Analysis | CFI", "quote": "Divide the annualized revenue by the previous quarter’s sales and marketing expense. We use the previous quarter’s expense since there is usually a lag between the expense and when the revenue is generated."},
+      {"url": "https://www.wallstreetprep.com/knowledge/saas-magic-number/", "title": "SaaS Magic Number | Formula + Calculator", "quote": "SaaS Magic Number = [(GAAP Revenue Current Quarter − GAAP Revenue Previous Quarter) × 4] ÷ (Sales & Marketing Spend Previous Quarter)"}
+    ]
+  },
+  {
+    "id": "sectors-01-15",
+    "deck": "sectors",
+    "topic": "Magic number",
+    "q": "Which venture capital firm developed the SaaS magic number?",
+    "a": "Scale Venture Partners",
+    "accept": ["Scale", "ScaleVP", "Scale VP", "SVP"],
+    "wrong": ["Craft Ventures", "Bessemer Venture Partners", "Foundry Group"],
+    "explain": "Scale Venture Partners created the magic number using GAAP revenue so that sales efficiency could be compared across public SaaS companies.",
+    "hook": "Scale your sales, check your magic number.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.scalevp.com/insights/a-primer-on-saas-sales-efficiency", "title": "SaaS Metrics: A Primer on SaaS Sales Efficiency - Scale Venture Partners", "quote": "Scale developed the “Magic Number” (MN) as a workaround, replacing ARR with GAAP revenue."},
+      {"url": "https://www.wallstreetprep.com/knowledge/saas-magic-number/", "title": "SaaS Magic Number | Formula + Calculator", "quote": "In response, Scale Venture Partners (SVP) developed its own “Magic Number” metric to bypass this hurdle and enable practical comparisons among public SaaS companies."}
+    ]
+  },
+  {
+    "id": "sectors-01-16",
+    "deck": "sectors",
+    "topic": "Magic number",
+    "q": "Below what magic number did Scale Venture Partners say a company still has not figured out its model?",
+    "a": "0.5x",
+    "accept": ["0.5", ".5", ".5x", "0.50"],
+    "wrong": ["1.5x", "2.0x", "3.0x"],
+    "explain": "Scale's original guidance: above 1x is a compelling investment, below 0.5x means the model is not yet working, and in between is likely to succeed but capital-inefficiently.",
+    "hook": "Under half = half-baked model.",
+    "difficulty": 3,
+    "sources": [
+      {"url": "https://www.scalevp.com/insights/magic-number-math/", "title": "Insights | ScaleVP | Magic Number Math", "quote": "A result greater than 1x, has proven to be a compelling business investment, a result below .5x is a company that still has not figured out it’s model, and a result in between, is a deal that will probably get to success and cashflow breakeven but only in a relatively capital in-efficient way."},
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/saas-magic-number/", "title": "The SaaS Magic Number: A Guide to Calculation and Analysis | CFI", "quote": "A SaaS Magic Number above 0.75 generally indicates efficient revenue generation from sales and marketing efforts, while a number below 0.5 suggests a need for strategic changes to improve sales efficiency."}
+    ]
+  },
+  {
+    "id": "sectors-01-17",
+    "deck": "sectors",
+    "topic": "Rule of 40",
+    "q": "The Rule of 40 says a SaaS company's revenue growth rate plus what should be at least 40%?",
+    "a": "Profit margin",
+    "accept": ["profitability margin", "EBITDA margin", "profit", "FCF margin", "free cash flow margin"],
+    "wrong": ["Churn rate", "Net revenue retention", "CAC payback period"],
+    "explain": "The Rule of 40 balances growth and profitability; EBITDA margin is a common profitability measure, though others such as free cash flow margin are also used.",
+    "hook": "Growth + profit ≥ 40.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://corporatefinanceinstitute.com/resources/valuation/rule-of-40", "title": "The SaaS Rule of 40 Explained | CFI", "quote": "The Rule of 40 says that the sum of the revenue growth rate and the profit margin should be 40% or higher."},
+      {"url": "https://www.wallstreetprep.com/knowledge/rule-of-40/", "title": "The Rule of 40 (Brad Feld) | SaaS Formula + Calculator", "quote": "The Rule of 40 states that, at scale, the combined value of revenue growth rate and profit margin should exceed 40% for healthy SaaS companies."}
+    ]
+  },
+  {
+    "id": "sectors-01-18",
+    "deck": "sectors",
+    "topic": "Rule of 40",
+    "q": "Which venture capitalist popularized the Rule of 40 for SaaS companies in a blog post?",
+    "a": "Brad Feld",
+    "accept": ["Feld"],
+    "wrong": ["David Sacks", "Rory O'Driscoll", "Marc Andreessen"],
+    "explain": "Brad Feld wrote about the '40% rule' after hearing a late-stage investor describe it at a board meeting; it is now commonly named after him.",
+    "hook": "Feld's forty.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://feld.com/archives/2015/02/rule-40-healthy-saas-company", "title": "The Rule of 40% For a Healthy SaaS Company | Feld Thoughts", "quote": "The 40% rule is that your growth rate + your profit should add up to 40%."},
+      {"url": "https://www.wallstreetprep.com/knowledge/rule-of-40/", "title": "The Rule of 40 (Brad Feld) | SaaS Formula + Calculator", "quote": "Step-by-Step Guide to Understanding The Rule of 40 (Brad Feld)"},
+      {"url": "https://www.scalevp.com/insights/a-quick-primer-on-the-rule-of-40/", "title": "A Quick Primer on the Rule of 40 - Scale Venture Partners", "quote": "Unlevered Free Cash Flow, Cash from Operations, Net Change In Cash, Operating Income, and EBITDA are all different measures of profitability (the margin of which is calculated as a % of GAAP revenue) and legitimate candidates for use in the RO40 calculation (as the legendary Brad Feld wrote about several years ago)."}
+    ]
+  },
+  {
+    "id": "sectors-01-19",
+    "deck": "sectors",
+    "topic": "Burn multiple",
+    "q": "The burn multiple equals net burn divided by what?",
+    "a": "Net new ARR",
+    "accept": ["net new annual recurring revenue", "net new ARR added"],
+    "wrong": ["Total ARR", "Gross profit", "Sales and marketing expense"],
+    "explain": "The burn multiple shows how much cash a startup burns to generate each incremental dollar of ARR; lower is more efficient.",
+    "hook": "Burn per new ARR dollar.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.craftventures.com/articles/the-burn-multiple", "title": "The Burn Multiple | Craft Ventures", "quote": "Burn Multiple = Net Burn / Net New ARR"},
+      {"url": "https://www.wallstreetprep.com/knowledge/burn-multiple/", "title": "Burn Multiple (David Sacks) | Formula + Calculator - Wall Street Prep", "quote": "Burn Multiple = Net Burn ÷ Net New Annual Recurring Revenue (ARR)"}
+    ]
+  },
+  {
+    "id": "sectors-01-20",
+    "deck": "sectors",
+    "topic": "Burn multiple",
+    "q": "Who created the burn multiple metric?",
+    "a": "David Sacks",
+    "accept": ["Sacks"],
+    "wrong": ["Brad Feld", "Rory O'Driscoll", "Marc Andreessen"],
+    "explain": "David Sacks, co-founder of Craft Ventures, introduced the burn multiple by flipping Bessemer's Efficiency Score (net new ARR ÷ net burn).",
+    "hook": "Sacks watches cash burn.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.craftventures.com/articles/the-burn-multiple", "title": "The Burn Multiple | Craft Ventures", "quote": "I think Bessemer has the right idea but I prefer to flip the numerator and denominator, so the ratio is an annualized version of the Hype Ratio. I call this the Burn Multiple:"},
+      {"url": "https://www.wallstreetprep.com/knowledge/burn-multiple/", "title": "Burn Multiple (David Sacks) | Formula + Calculator - Wall Street Prep", "quote": "Popularized by David Sacks , the general partner and co-founder of Craft Ventures, the burn multiple is a tool for evaluating the burn rate of a startup as a multiple of its revenue growth ."}
+    ]
+  },
+  {
+    "id": "sectors-01-21",
+    "deck": "sectors",
+    "topic": "Burn multiple",
+    "q": "A startup burns $2 million in a quarter while adding $1 million of net new ARR; what is its burn multiple?",
+    "a": "2x",
+    "accept": ["2", "2.0x", "2.0", "two"],
+    "wrong": ["0.5x", "1x", "3x"],
+    "explain": "Burn multiple = $2m net burn ÷ $1m net new ARR = 2x, which David Sacks called reasonable for an early-stage startup.",
+    "hook": "Two dollars burned per dollar of ARR.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.craftventures.com/articles/the-burn-multiple", "title": "The Burn Multiple | Craft Ventures", "quote": "The startup reports that it burned $2M in the quarter while adding $1M to its ARR. That’s a 2x Burn Multiple — reasonable for an early-stage startup."},
+      {"url": "https://www.wallstreetprep.com/knowledge/burn-multiple/", "title": "Burn Multiple (David Sacks) | Formula + Calculator - Wall Street Prep", "quote": "Burn Multiple = Net Burn ÷ Net New Annual Recurring Revenue (ARR)"}
+    ]
+  },
+  {
+    "id": "sectors-01-22",
+    "deck": "sectors",
+    "topic": "Gross margin",
+    "q": "Which cost is typically a major component of a SaaS company's cost of goods sold (COGS)?",
+    "a": "Hosting costs",
+    "accept": ["hosting", "cloud hosting", "hosting costs (e.g. AWS)"],
+    "wrong": ["Sales commissions", "Marketing spend", "R&D salaries"],
+    "explain": "SaaS COGS typically include hosting costs (such as AWS), data or software needed to run the product, and frontline operations such as onboarding.",
+    "hook": "You pay the cloud to serve every customer.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/cac-payback-period", "title": "CAC Payback Period | Formula + Calculator", "quote": "SaaS Gross Margin ➝ The remaining profits after deducting the cost of goods sold (COGS) from revenue – specific to the SaaS industry, the largest expenses are usually hosting costs (i.e. AWS platform) and onboarding costs."},
+      {"url": "https://www.craftventures.com/articles/the-saas-metrics-that-matter", "title": "The SaaS Metrics That Matter | Craft Ventures", "quote": "For SaaS companies, COGS typically consist of hosting costs, any data or software needed for the product to operate, and the cost of frontline operations."}
+    ]
+  },
+  {
+    "id": "sectors-01-23",
+    "deck": "sectors",
+    "topic": "Bookings/billings/revenue",
+    "q": "Which SaaS metric represents the value of committed customer contracts signed, before that value is recognized as revenue?",
+    "a": "Bookings",
+    "accept": ["TCV bookings", "booking"],
+    "wrong": ["Billings", "GAAP revenue", "Gross margin"],
+    "explain": "Bookings are a forward-looking measure of contract value; under subscription models, the revenue from those bookings is recognized over the life of the contract.",
+    "hook": "Book the deal, bill the invoice, recognize the revenue.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://www.wallstreetprep.com/knowledge/bookings", "title": "Bookings vs. Billings | SaaS Formula + Calculator", "quote": "TCV Bookings = Σ Value of Committed Customer Contracts"},
+      {"url": "https://www.scalevp.com/insights/magic-number-math/", "title": "Insights | ScaleVP | Magic Number Math", "quote": "For a subscription company, sales and marketing expenses drive bookings that only show up in revenues over the life of the contract (typically one year)."}
+    ]
+  },
+  {
+    "id": "sectors-01-24",
+    "deck": "sectors",
+    "topic": "Bookings/billings/revenue",
+    "q": "Billings are commonly calculated as revenue plus the change in which balance sheet account?",
+    "a": "Deferred revenue",
+    "accept": ["unearned revenue", "change in deferred revenue"],
+    "wrong": ["Inventory", "Prepaid expenses", "Accrued expenses"],
+    "explain": "Billings (a non-GAAP metric) add the change in deferred revenue to GAAP revenue; some companies make further adjustments, such as for acquired deferred revenue or unbilled receivables.",
+    "hook": "Billed but not earned sits in deferred revenue.",
+    "difficulty": 1,
+    "sources": [
+      {"url": "https://investor.fortinet.com/news-releases/news-release-details/fortinet-reports-strong-third-quarter-2026-financial-results", "title": "Fortinet Reports Strong Third Quarter 2026 Financial Results | Fortinet, Inc.", "quote": "We define billings as revenue recognized in accordance with GAAP plus the change in deferred revenue from the beginning to the end of the period less any deferred revenue balances acquired from business combination(s) during the period."},
+      {"url": "https://s206.q4cdn.com/200001835/files/doc_financials/2026/q1/VEEV-Q1-26-Earnings-Presentation.pdf", "title": "Veeva Q1'26 Earnings Presentation", "quote": "Calculated Billings – Revenue for the period plus the change in deferred revenue from the immediately preceding period minus the change in unbilled accounts receivable from the immediately preceding period."}
+    ]
+  },
+  {
+    "id": "sectors-01-25",
+    "deck": "sectors",
+    "topic": "RPO",
+    "q": "What do SaaS companies call contracted revenue not yet recognized, including deferred revenue plus unbilled non-cancellable amounts?",
+    "a": "Remaining performance obligations",
+    "accept": ["RPO", "remaining performance obligation"],
+    "wrong": ["Annual recurring revenue", "Billings", "Accounts receivable"],
+    "explain": "RPO captures both already-invoiced deferred revenue and non-cancellable amounts still to be invoiced, so it is broader than deferred revenue alone.",
+    "hook": "RPO = what you still owe the customer to earn.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm", "title": "ServiceNow Form 10-K (FY2025)", "quote": "Transaction price allocated to remaining performance obligations (“RPO”) represents contracted revenue that has not yet been recognized, which includes deferred revenue and non-cancellable amounts that will be invoiced and recognized as revenue in future periods."},
+      {"url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/crm-20260731.htm", "title": "Salesforce Form 10-Q (quarter ended July 31, 2026)", "quote": "Remaining performance obligation represents contracted revenue that has not yet been recognized and includes unearned revenue and unbilled amounts that will be recognized as revenue in future periods."}
+    ]
+  },
+  {
+    "id": "sectors-01-26",
+    "deck": "sectors",
+    "topic": "RPO",
+    "q": "Current remaining performance obligations (cRPO) is the portion of RPO expected to be recognized as revenue within how many months?",
+    "a": "12 months",
+    "accept": ["12", "twelve months", "twelve", "next 12 months", "one year"],
+    "wrong": ["3 months", "6 months", "24 months"],
+    "explain": "Companies split RPO into a current portion (next 12 months) and a noncurrent portion; cRPO is a closely watched near-term revenue indicator.",
+    "hook": "Current = within a year, like current liabilities.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm", "title": "ServiceNow Form 10-K (FY2025)", "quote": "Current remaining performance obligations (“cRPO”) represents RPO that will be recognized as revenue in the next 12 months."},
+      {"url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/crm-20260731.htm", "title": "Salesforce Form 10-Q (quarter ended July 31, 2026)", "quote": "Our current remaining performance obligation represents future revenue under contract that is expected to be recognized as revenue in the next 12 months."}
+    ]
+  },
+  {
+    "id": "sectors-01-27",
+    "deck": "sectors",
+    "topic": "RPO",
+    "q": "Which US GAAP topic requires disclosure of remaining performance obligations?",
+    "a": "ASC 606",
+    "accept": ["606", "Topic 606", "ASC Topic 606"],
+    "wrong": ["ASC 842", "ASC 718", "ASC 350"],
+    "explain": "ASC 606-10-50-13 requires disclosure of the transaction price allocated to unsatisfied (or partially unsatisfied) performance obligations at period end and when it is expected to be recognized.",
+    "hook": "606 = revenue recognition.",
+    "difficulty": 2,
+    "sources": [
+      {"url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/financial_statement_/financial_statement___18_US/Chapter-33--Revenue-and-contract-costs/33-4-Revenue-disclosures-ASC-606.html", "title": "33.4 Revenue disclosures (PwC Viewpoint)", "quote": "ASC 606-10-50-13 An entity shall disclose the following information about its remaining performance obligations: 1. The aggregate amount of the transaction price allocated to the performance obligations that are unsatisfied (or partially unsatisfied) as of the end of the reporting period"},
+      {"url": "https://www.grantthornton.com/content/dam/grantthornton/website/assets/content-page-files/audit/pdfs/2026/revenue-from-contracts-with-customers-navigating-the-guidance-in-asc-606-and-340-40-revised-april-2026.pdf", "title": "Navigating the guidance in ASC 606 and 340-40 (Grant Thornton, revised April 2026)", "quote": "Remaining unsatisfied performance obligation disclosures (RUPO) Financial statement users also requested additional information about an entity’s remaining performance obligations and when the entity expects to recognize revenue related to those remaining performance obligations"}
+    ]
+  }
+]

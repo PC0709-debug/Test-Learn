@@ -1,0 +1,800 @@
+[
+  {
+    "id": "vault-11-01",
+    "deck": "vault",
+    "topic": "Sell-side process",
+    "q": "What short, confidential one- or two-page document introduces a company for sale to potential buyers without naming it?",
+    "a": "Teaser",
+    "accept": [
+      "investment teaser",
+      "blind profile",
+      "the teaser"
+    ],
+    "wrong": [
+      "Fairness opinion",
+      "Merger proxy",
+      "Schedule 13D"
+    ],
+    "explain": "A teaser is a brief, confidential document designed to gauge and generate interest from potential buyers; it avoids naming the company, an approach called a 'no-names' basis.",
+    "hook": "Tease first, reveal later.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-an-investment-teaser",
+        "title": "Investment Teaser - Contents and Qualities of an Effective Teaser (CFI)",
+        "quote": "The teaser is a brief and confidential document designed both to gauge interest in, and to generate interest from, potential investors or buyers of a company or its securities."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/investment-teaser-template",
+        "title": "Investment Teaser Template - Definition, Free Download (CFI)",
+        "quote": "An investment teaser is a one- or two-slide summary of a potential sale process that avoids naming the company to maintain confidentiality."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-02",
+    "deck": "vault",
+    "topic": "Sell-side process",
+    "q": "In a sell-side auction, which detailed marketing document is distributed to potential buyers once NDAs are exchanged?",
+    "a": "CIM",
+    "accept": [
+      "Confidential Information Memorandum",
+      "confidential information memo",
+      "offering memorandum",
+      "OM"
+    ],
+    "wrong": [
+      "Letter of intent",
+      "Fairness opinion",
+      "Schedule TO"
+    ],
+    "explain": "In round 1 of an auction the banker contacts buyers, exchanges NDAs and distributes the CIM, which contains nonpublic information that helps buyers perform preliminary due diligence.",
+    "hook": "NDA in, CIM out.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/sell-side-process",
+        "title": "Sell Side M&A | Auction Process + Timeline Example - Wall Street Prep",
+        "quote": "Contact buyers: Exchange NDAs and distribute the CIM"
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/investment-bankers-guide-ma-due-diligence",
+        "title": "Due Diligence in M&A | Process + Checklist Examples - Wall Street Prep",
+        "quote": "For acquirers that choose to engage in the process, an NDA is negotiated, and the seller distributes a confidential information memorandum (CIM), also called an offering memorandum (OM). This document contains nonpublic information about the seller, and helps the buyer perform preliminary due diligence."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-03",
+    "deck": "vault",
+    "topic": "Sell-side process",
+    "q": "In the first round of a sell-side auction, what non-binding initial bids are used to narrow the buyer list?",
+    "a": "Indications of interest",
+    "accept": [
+      "IOI",
+      "IOIs",
+      "indication of interest",
+      "indications of interest (IOIs)"
+    ],
+    "wrong": [
+      "Definitive agreements",
+      "Fairness opinions",
+      "Tender offers"
+    ],
+    "explain": "Round 1 ends with non-binding indications of interest that narrow the buyer list; final bids or letters of intent come later in round 2.",
+    "hook": "IOI comes before LOI.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/sell-side-process",
+        "title": "Sell Side M&A | Auction Process + Timeline Example - Wall Street Prep",
+        "quote": "Receive initial bids: Non-binding indications of interest used to narrow the buyer's list"
+      }
+    ]
+  },
+  {
+    "id": "vault-11-04",
+    "deck": "vault",
+    "topic": "Letter of intent",
+    "q": "A letter of intent is generally non-binding, but which provision that stops the target from seriously engaging with other parties is typically binding?",
+    "a": "Exclusivity",
+    "accept": [
+      "exclusivity provision",
+      "exclusivity clause"
+    ],
+    "wrong": [
+      "Purchase price",
+      "Earnout",
+      "Working capital peg"
+    ],
+    "explain": "CFI describes an LOI as a short non-binding contract preceding the definitive agreement, but notes that provisions such as non-disclosure, exclusivity and governing law are binding.",
+    "hook": "Price is soft; exclusivity is hard.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/letter-of-intent-loi-template",
+        "title": "Letter of Intent (LOI) Template (CFI)",
+        "quote": "A Letter of Intent (LOI) is a short non-binding contract that precedes a binding agreement, such as a share purchase agreement or asset purchase agreement ( definitive agreements ).  There are some provisions, however, that are binding such as non-disclosure, exclusivity, and governing law."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-05",
+    "deck": "vault",
+    "topic": "Fairness opinion",
+    "q": "In M&A, the seller's investment banker delivers a fairness opinion to which body?",
+    "a": "Board of directors",
+    "accept": [
+      "the board",
+      "board",
+      "seller's board",
+      "target board",
+      "seller's board of directors"
+    ],
+    "wrong": [
+      "The SEC",
+      "The FTC",
+      "The buyer's lenders"
+    ],
+    "explain": "A fairness opinion is a document provided by the seller's investment banker to the seller's board attesting to the fairness of a transaction from a financial point of view.",
+    "hook": "Banker to board.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/fairness-opinions-whats-dont-really-tell-much",
+        "title": "Fairness Opinion | M&A Definition + Examples - Wall Street Prep",
+        "quote": "In the M&A context, a fairness opinion is a document provided by the seller's investment banker to the seller's board of directors attesting to the fairness of a transaction from a financial point of view."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-06",
+    "deck": "vault",
+    "topic": "MAC / MAE",
+    "q": "A material adverse change (MAC) clause is also known as a material adverse what?",
+    "a": "Effect",
+    "accept": [
+      "material adverse effect",
+      "MAE"
+    ],
+    "wrong": [
+      "Event",
+      "Condition",
+      "Impairment"
+    ],
+    "explain": "MACs are also known as material adverse effects (MAEs); the clause outlines circumstances in which parties may terminate the agreement.",
+    "hook": "MAC = MAE.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/material-adverse-change-mac",
+        "title": "Material Adverse Change (MAC) - Overview, Uses, Example (CFI)",
+        "quote": "MACs are also known as material adverse effects (MAEs)."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/material-adverse-change-mac",
+        "title": "Material Adverse Change (MAC) | M&A Clause + Examples - Wall Street Prep",
+        "quote": "virtually all buyers will include a clause in the merger agreement called the material adverse change (MAC) or material adverse effect (MAE)."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-07",
+    "deck": "vault",
+    "topic": "Termination fees",
+    "q": "Which party to an M&A deal owes a standard breakup fee if the deal falls through for reasons specified in the merger agreement?",
+    "a": "Seller",
+    "accept": [
+      "the seller",
+      "target",
+      "the target",
+      "target company"
+    ],
+    "wrong": [
+      "Buyer",
+      "Financing banks",
+      "Seller's advisor"
+    ],
+    "explain": "A breakup fee is a payment a seller owes a buyer if the deal falls through for specified reasons, such as the target accepting a competing bid.",
+    "hook": "Seller breaks up, seller pays.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/break-fees-reverse-termination-fees-ma",
+        "title": "Reverse Termination Fee and Breakup Fee | M&A Definition + Example - Wall Street Prep",
+        "quote": "A breakup fee refers to a payment a seller owes a buyer should a deal fall through due to reasons explicitly specified in the merger agreement."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-08",
+    "deck": "vault",
+    "topic": "Termination fees",
+    "q": "Which party pays a reverse termination fee?",
+    "a": "Buyer",
+    "accept": [
+      "the buyer",
+      "acquirer",
+      "the acquirer"
+    ],
+    "wrong": [
+      "Seller",
+      "Target's board",
+      "Seller's investment bank"
+    ],
+    "explain": "Reverse termination fees let the seller collect a fee should the buyer walk away, protecting against risks such as the buyer failing to secure financing or antitrust approval.",
+    "hook": "Reverse the fee, reverse the payer.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/break-fees-reverse-termination-fees-ma",
+        "title": "Reverse Termination Fee and Breakup Fee | M&A Definition + Example - Wall Street Prep",
+        "quote": "As the name suggests, RTFs allow the seller to collect a fee should the buyer walk away from a deal ."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-09",
+    "deck": "vault",
+    "topic": "Termination fees",
+    "q": "Reverse termination fees are most prevalent in deals with which type of buyer?",
+    "a": "Financial buyers",
+    "accept": [
+      "financial buyer",
+      "private equity",
+      "PE",
+      "private equity buyers",
+      "financial sponsors"
+    ],
+    "wrong": [
+      "Strategic buyers",
+      "Sovereign governments",
+      "Employee-owned buyers"
+    ],
+    "explain": "Financing risk is most common with private equity buyers; a Houlihan Lokey survey cited by Wall Street Prep found RTFs in 83% of deals with a financial buyer versus 41% with a strategic buyer.",
+    "hook": "Sponsors need debt, sellers need an RTF.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/break-fees-reverse-termination-fees-ma",
+        "title": "Reverse Termination Fee and Breakup Fee | M&A Definition + Example - Wall Street Prep",
+        "quote": "Concerns about securing financing tend to be most common with financial buyers (private equity ), which explains why RTFs are prevalent in non-strategic deals (i.e. the buyer is private equity ). A Houlihan Lokey survey looking at 126 public targets found that an RTF was included in only 41% of deals with a strategic buyer but included in 83% of deals with a financial buyer."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-10",
+    "deck": "vault",
+    "topic": "Deal protection",
+    "q": "What is the merger agreement section limiting the target's ability to solicit other offers more commonly known as?",
+    "a": "No-shop",
+    "accept": [
+      "no shop",
+      "no-shop provision",
+      "no-shop clause",
+      "no solicitation"
+    ],
+    "wrong": [
+      "Go-shop",
+      "Fiduciary out",
+      "Standstill"
+    ],
+    "explain": "In the Microsoft/LinkedIn merger agreement this section is titled 'No Solicitation', more commonly known as a no-shop; it protects the buyer from the seller using its bid to shop for better offers.",
+    "hook": "No shopping after signing.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/no-shop-go-shop-ma",
+        "title": "Go-Shop vs. No-Shop Provision | M&A Definition + Examples - Wall Street Prep",
+        "quote": "This section of the merger agreement is called “No Solicitation,” and is more commonly known as a \"no-shop\" provision. No-shops are designed to protect the buyer from the seller continuing to accept bids and using the buyer’s bid to improve its position elsewhere."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/no-shop-provision",
+        "title": "No Shop Provision - Preventing a Target from Soliciting Offers in M&A (CFI)",
+        "quote": "A No Shop Provision is a clause included in an agreement between the seller and the buyer that prevents the seller from soliciting purchase proposals from other parties for a given duration of time."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-11",
+    "deck": "vault",
+    "topic": "Deal protection",
+    "q": "Which provision lets a target actively solicit competing proposals for a set period after signing a merger agreement?",
+    "a": "Go-shop",
+    "accept": [
+      "go shop",
+      "go-shop provision",
+      "go-shop clause"
+    ],
+    "wrong": [
+      "No-shop",
+      "Standstill",
+      "Lock-up"
+    ],
+    "explain": "In contrast to a no-shop, a go-shop gives the seller the ability to actively solicit competing proposals (usually for 1-2 months) with a lower breakup fee if a superior proposal emerges.",
+    "hook": "Go out and shop.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/no-shop-go-shop-ma",
+        "title": "Go-Shop vs. No-Shop Provision | M&A Definition + Examples - Wall Street Prep",
+        "quote": "the buyer and seller can negotiate a go-shop provision which, in contrast to the no-shop, gives the seller the ability to actively solicit competing proposals (usually for 1-2 months) while keeping it on the hook for a lower breakup fee should a superior proposal emerge."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/no-shop-provision",
+        "title": "No Shop Provision - Preventing a Target from Soliciting Offers in M&A (CFI)",
+        "quote": "Go-shop provisions allow the board of a company to actively seek and receive alternative bids from third parties within a specified period, e.g., 30-60 days after the signing of the agreement."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-12",
+    "deck": "vault",
+    "topic": "Take-privates",
+    "q": "Go-shop provisions are increasingly popular in which type of transaction, where a public company undergoes an LBO?",
+    "a": "Go-private transactions",
+    "accept": [
+      "go-private",
+      "take-private",
+      "take-privates",
+      "going private",
+      "go-private transaction",
+      "take-private transaction"
+    ],
+    "wrong": [
+      "IPOs",
+      "Spin-offs",
+      "Rights offerings"
+    ],
+    "explain": "Go-shops generally appear with financial (PE) buyers and are increasingly popular in go-private transactions; a Weil study of 22 go-privates found 50% included a go-shop.",
+    "hook": "Going private? Go shop.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/no-shop-go-shop-ma",
+        "title": "Go-Shop vs. No-Shop Provision | M&A Definition + Examples - Wall Street Prep",
+        "quote": "They are increasingly popular in go-private transactions, where a public company undergoes an LBO . A 2017 study conducted by law firm Weil reviewed 22 go-private transactions with a purchase price above $100 million and found that 50% included a go-shop provision."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-13",
+    "deck": "vault",
+    "topic": "Deal protection",
+    "q": "Which merger agreement provision lets a target board change its recommendation if continuing with the deal would breach its duty to stockholders?",
+    "a": "Fiduciary out",
+    "accept": [
+      "fiduciary-out",
+      "fiduciary out clause"
+    ],
+    "wrong": [
+      "MAC clause",
+      "Go-shop",
+      "Standstill"
+    ],
+    "explain": "A fiduciary out gives the board an 'out' even if it agreed to a no-shop; it must be included in the signed agreement between seller and buyer.",
+    "hook": "Duty first, deal second.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/no-shop-provision",
+        "title": "No Shop Provision - Preventing a Target from Soliciting Offers in M&A (CFI)",
+        "quote": "A fiduciary out allows the board of a company to change its recommendations contained in the agreement with the buyer if there are concerns that continuing with the agreement as it is would breach the board’s duty of care to stockholders. Therefore, the board’s fiduciary responsibility provides it with an “out” even if the board has agreed to a no shop provision."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-14",
+    "deck": "vault",
+    "topic": "Deal protection",
+    "q": "Which exception to a no-shop provision allows the target to talk with interested third parties to see if a better offer exists, but only in specific circumstances?",
+    "a": "Window shop",
+    "accept": [
+      "window-shop",
+      "window shop exception"
+    ],
+    "wrong": [
+      "Drag-along",
+      "Lock-up",
+      "Standstill"
+    ],
+    "explain": "CFI lists go-shop, window shop and fiduciary out as exceptions to a no-shop; the window shop lets the target talk with interested buyers only in specific circumstances.",
+    "hook": "Look through the window, don't go into the store.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/no-shop-provision",
+        "title": "No Shop Provision - Preventing a Target from Soliciting Offers in M&A (CFI)",
+        "quote": "The window shop exception to the no shop provision allows the target company to talk with third parties who are interested in buying the company to see if they can get a better offer than they already have. However, the window shop exceptions occur only in specific circumstances."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-15",
+    "deck": "vault",
+    "topic": "HSR antitrust",
+    "q": "HSR premerger notifications are filed with the FTC and which other federal body?",
+    "a": "Department of Justice",
+    "accept": [
+      "DOJ",
+      "Justice Department",
+      "DOJ Antitrust Division",
+      "Antitrust Division"
+    ],
+    "wrong": [
+      "SEC",
+      "Federal Reserve",
+      "Treasury Department"
+    ],
+    "explain": "Parties file with both the FTC and DOJ, but through the clearance process only one agency reviews a given merger.",
+    "hook": "Two agencies, one reviewer.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process",
+        "title": "Premerger Notification and the Merger Review Process | Federal Trade Commission",
+        "quote": "Parties proposing a deal file with both the FTC and DOJ, but only one antitrust agency will review the proposed merger."
+      },
+      {
+        "url": "https://www.ftc.gov/legal-library/browse/statutes/hart-scott-rodino-antitrust-improvements-act-1976",
+        "title": "Hart-Scott-Rodino Antitrust Improvements Act of 1976 | Federal Trade Commission",
+        "quote": "This Act, amending the Clayton Act, requires companies to file premerger notifications with the Federal Trade Commission and the Antitrust Division of the Justice Department for certain acquisitions."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-16",
+    "deck": "vault",
+    "topic": "HSR antitrust",
+    "q": "For most transactions, how many days is the initial HSR waiting period after filing?",
+    "a": "30 days",
+    "accept": [
+      "30",
+      "thirty",
+      "thirty days"
+    ],
+    "wrong": [
+      "10 days",
+      "45 days",
+      "60 days"
+    ],
+    "explain": "Parties must wait 30 days (15 for a cash tender offer or bankruptcy) or until the agencies grant early termination before closing.",
+    "hook": "HSR: a month on the bench.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process",
+        "title": "Premerger Notification and the Merger Review Process | Federal Trade Commission",
+        "quote": "Once the filing is complete, the parties must wait 30 days (15 days in the case of a cash tender offer or a bankruptcy) or until the agencies grant early termination of the waiting period before they can consummate the deal."
+      },
+      {
+        "url": "https://www.ftc.gov/sites/default/files/attachments/premerger-introductory-guides/guide1.pdf",
+        "title": "Introductory Guide 1 - What is the Premerger Notification Program? An Overview (FTC)",
+        "quote": "The waiting period is usually 30 days, except in the case of a cash tender offer or a section 363(b) bankruptcy sale, when the waiting period is only 15 days."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-17",
+    "deck": "vault",
+    "topic": "HSR antitrust",
+    "q": "How many days is the initial HSR waiting period for a cash tender offer?",
+    "a": "15 days",
+    "accept": [
+      "15",
+      "fifteen",
+      "fifteen days"
+    ],
+    "wrong": [
+      "5 days",
+      "20 days",
+      "45 days"
+    ],
+    "explain": "The HSR waiting period is usually 30 days but only 15 days for a cash tender offer or a section 363(b) bankruptcy sale.",
+    "hook": "Cash moves twice as fast: 30 halves to 15.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.ftc.gov/sites/default/files/attachments/premerger-introductory-guides/guide1.pdf",
+        "title": "Introductory Guide 1 - What is the Premerger Notification Program? An Overview (FTC)",
+        "quote": "The waiting period is usually 30 days, except in the case of a cash tender offer or a section 363(b) bankruptcy sale, when the waiting period is only 15 days."
+      },
+      {
+        "url": "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process",
+        "title": "Premerger Notification and the Merger Review Process | Federal Trade Commission",
+        "quote": "Once the filing is complete, the parties must wait 30 days (15 days in the case of a cash tender offer or a bankruptcy) or until the agencies grant early termination of the waiting period before they can consummate the deal."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-18",
+    "deck": "vault",
+    "topic": "HSR antitrust",
+    "q": "What is the common name for the agency's Request for Additional Information that extends the HSR waiting period?",
+    "a": "Second Request",
+    "accept": [
+      "second request",
+      "a second request"
+    ],
+    "wrong": [
+      "Wells notice",
+      "Comment letter",
+      "Civil investigative demand"
+    ],
+    "explain": "If the agency needs more information it sends both parties a Second Request, which extends the waiting period until they have substantially complied and observed a second waiting period.",
+    "hook": "First filing, then a Second Request.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process",
+        "title": "Premerger Notification and the Merger Review Process | Federal Trade Commission",
+        "quote": "issue a Request for Additional Information (\"Second Request\") to each party, asking for more information."
+      },
+      {
+        "url": "https://www.ftc.gov/enforcement/competition-matters/2017/08/getting-sync-hsr-timing-considerations",
+        "title": "Getting in Sync with HSR Timing Considerations | Federal Trade Commission",
+        "quote": "A Second Request stops the waiting period until both parties substantially comply with the Second Request."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-19",
+    "deck": "vault",
+    "topic": "Tender offers",
+    "q": "Under SEC Rule 14e-1, a tender offer must generally be held open for at least how many business days?",
+    "a": "20 business days",
+    "accept": [
+      "20",
+      "twenty",
+      "twenty business days",
+      "20 days"
+    ],
+    "wrong": [
+      "5 business days",
+      "10 business days",
+      "60 business days"
+    ],
+    "explain": "Rule 14e-1(a) bars holding a tender offer open for less than twenty business days from first publication; the SEC staff has granted exemptions permitting shorter periods for certain offers.",
+    "hook": "Twenty to tender.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://ecfr.gov/current/title-17/section-240.14e-1",
+        "title": "eCFR :: 17 CFR 240.14e-1 -- Unlawful tender offer practices",
+        "quote": "Hold such tender offer open for less than twenty business days from the date such tender offer is first published or sent to security holders"
+      },
+      {
+        "url": "https://www.sec.gov/files/rules/exorders/2026/exemptive-order-tender-offers-equity-securities-041626.pdf",
+        "title": "SEC Division of Corporation Finance - Exemptive Order for Tender Offers for Equity Securities (April 16, 2026)",
+        "quote": "Exchange Act Rules 13e-4(f)(1)(i) and 14e-1(a) require tender offers to be open for at least 20 business days."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-20",
+    "deck": "vault",
+    "topic": "Tender offers",
+    "q": "Under SEC Rule 14e-2, within how many business days must a target company state its position on a tender offer?",
+    "a": "10 business days",
+    "accept": [
+      "10",
+      "ten",
+      "ten business days",
+      "10 days"
+    ],
+    "wrong": [
+      "2 business days",
+      "5 business days",
+      "30 business days"
+    ],
+    "explain": "No later than 10 business days after the offer is first published, the target must say whether it recommends acceptance or rejection, remains neutral, or cannot take a position, with reasons.",
+    "hook": "Bidder gets 20, target answers in 10.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://ecfr.gov/current/title-17/section-240.14e-2",
+        "title": "eCFR :: 17 CFR 240.14e-2 -- Position of subject company with respect to a tender offer",
+        "quote": "the subject company, no later than 10 business days from the date the tender offer is first published or sent or given, shall publish, send or give to security holders a statement disclosing that the subject company: ( 1 ) Recommends acceptance or rejection of the bidder's tender offer; ( 2 ) Expresses no opinion and is remaining neutral toward the bidder's tender offer; or ( 3 ) Is unable to take a position with respect to the bidder's tender offer."
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title17-vol4/pdf/CFR-2025-title17-vol4-sec240-14e-2.pdf",
+        "title": "17 CFR 240.14e-2 (GovInfo, 4-1-25 Edition)",
+        "quote": "the subject company, no later than 10 business days from the date the tender offer is first published or sent or given, shall publish, send or give to security hold- ers a statement disclosing that the subject company: (1) Recommends acceptance or rejec- tion of the bidder’s tender offer;"
+      }
+    ]
+  },
+  {
+    "id": "vault-11-21",
+    "deck": "vault",
+    "topic": "Tender offers",
+    "q": "Which SEC schedule is the target's solicitation/recommendation statement in response to a third-party tender offer?",
+    "a": "Schedule 14D-9",
+    "accept": [
+      "14D-9",
+      "Schedule 14D9",
+      "14D9"
+    ],
+    "wrong": [
+      "Schedule TO",
+      "Schedule 13G",
+      "Schedule 13E-3"
+    ],
+    "explain": "Schedule 14D-9 is the solicitation/recommendation statement under Section 14(d)(4); the bidder's own tender offer statement is Schedule TO.",
+    "hook": "Bidder files TO; target answers with 14D-9.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/information-certain-types-transactions-filers",
+        "title": "SEC.gov | Information for Certain Types of Transactions and Filers",
+        "quote": "Schedule 14D-9 | Solicitation/recommendation statement under Section 14(d)(4) of the Exchange Act [17 CFR 240.14d-101]"
+      },
+      {
+        "url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/information-certain-types-transactions-filers",
+        "title": "SEC.gov | Information for Certain Types of Transactions and Filers",
+        "quote": "Schedule TO | Tender offer statement under Section 14(d)(1) or 13(e)(1) of the Exchange Act [17 CFR 240.14d-100]"
+      }
+    ]
+  },
+  {
+    "id": "vault-11-22",
+    "deck": "vault",
+    "topic": "Tender offers",
+    "q": "SEC Rule 14d-10 requires that each tendering holder receive the highest consideration paid to any other holder; what is this rule commonly called?",
+    "a": "Best price rule",
+    "accept": [
+      "best price",
+      "best-price rule",
+      "all holders best price rule",
+      "equal treatment rule"
+    ],
+    "wrong": [
+      "Business judgment rule",
+      "Short-swing profit rule",
+      "Market-out rule"
+    ],
+    "explain": "Rule 14d-10 (titled 'Equal treatment of security holders') requires a tender offer to be open to all holders of the class and the consideration paid to any holder to be the highest paid to any other holder.",
+    "hook": "One price for all: the best one.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.ecfr.gov/current/title-17/chapter-II/part-240/section-240.14d-10",
+        "title": "eCFR :: 17 CFR 240.14d-10 -- Equal treatment of security holders",
+        "quote": "( 1 ) The tender offer is open to all security holders of the class of securities subject to the tender offer; and ( 2 ) The consideration paid to any security holder for securities tendered in the tender offer is the highest consideration paid to any other security holder for securities tendered in the tender offer."
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title17-vol4/pdf/CFR-2025-title17-vol4-sec240-14d-10.pdf",
+        "title": "17 CFR 240.14d-10 (GovInfo, 4-1-25 Edition)",
+        "quote": "(2) The consideration paid to any se- curity holder for securities tendered in the tender offer is the highest consider- ation paid to any other security holder for securities tendered in the tender offer."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-23",
+    "deck": "vault",
+    "topic": "13D / 13G",
+    "q": "Acquiring beneficial ownership of more than what percentage of a registered voting equity class triggers a Schedule 13D (or 13G) filing?",
+    "a": "5%",
+    "accept": [
+      "5",
+      "five percent",
+      "5 percent",
+      "more than 5%"
+    ],
+    "wrong": [
+      "1%",
+      "10%",
+      "20%"
+    ],
+    "explain": "Investors who beneficially own more than 5% of a covered class must file Schedule 13D, or the shorter Schedule 13G if eligible.",
+    "hook": "Five percent, file the paper.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/schedules-13d-and-13g",
+        "title": "Schedules 13D and 13G | Investor.gov",
+        "quote": "When a person or group of persons acquires beneficial ownership of more than five percent of a voting class of a company’s equity securities registered under the Securities Exchange Act, they are required to file a Schedule 13D with the SEC."
+      },
+      {
+        "url": "https://www.sec.gov/newsroom/press-releases/2023-219",
+        "title": "SEC.gov | SEC Adopts Amendments to Rules Governing Beneficial Ownership Reporting",
+        "quote": "Exchange Act Sections 13(d) and 13(g), along with Regulation 13D-G, require an investor who beneficially owns more than 5 percent of a covered class of equity securities to publicly file either a Schedule 13D or a Schedule 13G, as applicable."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-24",
+    "deck": "vault",
+    "topic": "13D / 13G",
+    "q": "Under the SEC's 2023 amendments, an initial Schedule 13D must be filed within how many business days after crossing 5%?",
+    "a": "5 business days",
+    "accept": [
+      "5",
+      "five",
+      "five business days",
+      "5 days"
+    ],
+    "wrong": [
+      "2 business days",
+      "10 business days",
+      "45 business days"
+    ],
+    "explain": "The SEC shortened the initial Schedule 13D deadline from 10 days to five business days and requires 13D amendments within two business days.",
+    "hook": "Cross 5%, file in 5.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/newsroom/press-releases/2023-219",
+        "title": "SEC.gov | SEC Adopts Amendments to Rules Governing Beneficial Ownership Reporting",
+        "quote": "shorten the deadline for initial Schedule 13D filings from 10 days to five business days and require that Schedule 13D amendments be filed within two business days"
+      },
+      {
+        "url": "https://www.ecfr.gov/current/title-17/section-240.13d-1",
+        "title": "17 CFR § 240.13d-1 Filing of Schedules 13D and 13G",
+        "quote": "is directly or indirectly the beneficial owner of more than five percent of the class shall, within five business days after the date of the acquisition, file with the Commission, a statement containing the information required by Schedule 13D (§ 240.13d-101)."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-25",
+    "deck": "vault",
+    "topic": "13D / 13G",
+    "q": "Which beneficial ownership schedule do passive investors without control intent file instead of Schedule 13D?",
+    "a": "Schedule 13G",
+    "accept": [
+      "13G",
+      "Schedule 13-G"
+    ],
+    "wrong": [
+      "Schedule 14D-9",
+      "Schedule TO",
+      "Schedule 13E-3"
+    ],
+    "explain": "An investor with control intent files Schedule 13D, while exempt investors and those without control intent, such as qualified institutional and passive investors, file the shorter Schedule 13G.",
+    "hook": "G for 'gentle' (passive); D for 'demanding' (activist).",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/newsroom/press-releases/2023-219",
+        "title": "SEC.gov | SEC Adopts Amendments to Rules Governing Beneficial Ownership Reporting",
+        "quote": "An investor with control intent files Schedule 13D, while Exempt Investors and investors without a control intent, such as Qualified Institutional Investors and Passive Investors, file Schedule 13G."
+      },
+      {
+        "url": "https://www.ecfr.gov/current/title-17/section-240.13d-1",
+        "title": "17 CFR § 240.13d-1 Filing of Schedules 13D and 13G",
+        "quote": "A person who would otherwise be obligated under paragraph (a) of this section to file a statement on Schedule 13D (§ 240.13d-101) may, in lieu thereof, file with the Commission, within five business days after the date of an acquisition described in paragraph (a) of this section, a short-form statement on Schedule 13G (§ 240.13d-102). Provided, that the person: (1) Has not acquired the securities with any purpose, or with the effect, of changing or influencing the control of the issuer"
+      }
+    ]
+  },
+  {
+    "id": "vault-11-26",
+    "deck": "vault",
+    "topic": "Take-privates",
+    "q": "Which SEC Exchange Act rule governs going-private transactions and requires a Schedule 13E-3?",
+    "a": "Rule 13e-3",
+    "accept": [
+      "13e-3",
+      "Exchange Act Rule 13e-3",
+      "Rule 13E-3"
+    ],
+    "wrong": [
+      "Rule 10b-5",
+      "Rule 144",
+      "Rule 14a-8"
+    ],
+    "explain": "Rule 13e-3 covers going-private transactions; the related filing is Schedule 13E-3, the Rule 13e-3 transaction statement under Section 13(e).",
+    "hook": "13e-3: 'e' for exit the public markets.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/information-certain-types-transactions-filers",
+        "title": "SEC.gov | Information for Certain Types of Transactions and Filers",
+        "quote": "Rule 13e-3 | Going private transactions [17 CFR 240.13e-3] Schedule 13E-3 | Rule 13e-3 transaction statement under Section 13(e) of the Exchange Act [17 CFR 240.13e-100]"
+      },
+      {
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations-cfis/going-private-transactions-exchange-act-rule-13e-3-schedule-13e-3",
+        "title": "SEC.gov | Going Private Transactions, Exchange Act Rule 13e-3 and Schedule 13E-3",
+        "quote": "These Corporation Finance Interpretations (\"CFIs\") comprise the Division’s interpretations of Exchange Act Rule 13e-3 as it applies to “going private” transactions and related Schedule 13E-3."
+      }
+    ]
+  }
+]

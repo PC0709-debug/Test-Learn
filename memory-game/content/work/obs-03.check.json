@@ -1,0 +1,434 @@
+[
+  {
+    "id": "obs-03-01",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.nobelprize.org/prizes/medicine/1962/speedread/",
+      "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix"
+    ]
+  },
+  {
+    "id": "obs-03-02",
+    "source": 26,
+    "match": 28,
+    "unique": 13,
+    "current": 15,
+    "precise": 6,
+    "total": 88,
+    "hardFail": null,
+    "pass": false,
+    "issue": "Explain's '1952' date rests on Britannica only (OpenStax does not give a year). Photo 51 was physically taken by Franklin's student Raymond Gosling under her direction, so 'captured' is contestable. Fix: rephrase to 'whose X-ray diffraction work produced Photo 51' and cite a second source for 1952 (e.g. King's College London or Nature).",
+    "verifiedUrls": [
+      "https://www.britannica.com/science/DNA",
+      "https://openstax.org/books/concepts-biology/pages/9-1-the-structure-of-dna"
+    ]
+  },
+  {
+    "id": "obs-03-03",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix",
+      "https://profiles.nlm.nih.gov/spotlight/sc/feature/biographical-overview"
+    ]
+  },
+  {
+    "id": "obs-03-04",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/science/DNA",
+      "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix"
+    ]
+  },
+  {
+    "id": "obs-03-05",
+    "source": 25,
+    "match": 30,
+    "unique": 13,
+    "current": 15,
+    "precise": 10,
+    "total": 93,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Only one source cited (genome.gov); 'Mitochondrium' in accept is a rare/nonstandard form, consider removing.",
+    "verifiedUrls": [
+      "https://www.genome.gov/genetics-glossary/Mitochondria"
+    ]
+  },
+  {
+    "id": "obs-03-06",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 8,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Royal Society Notes and Records paper notes 'cell' was already an established term before Hooke; card's narrow wording (naming the cork cavities) still holds.",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Robert-Hooke",
+      "https://royalsocietypublishing.org/rsnr/article/80/1/37/116621/The-cells-of-Robert-Hooke-wombs-brains-and"
+    ]
+  },
+  {
+    "id": "obs-03-07",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Robert-Hooke",
+      "https://royalsocietypublishing.org/rsnr/article/80/1/37/116621/The-cells-of-Robert-Hooke-wombs-brains-and"
+    ]
+  },
+  {
+    "id": "obs-03-08",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://my.clevelandclinic.org/health/articles/organs-in-the-body",
+      "https://my.clevelandclinic.org/health/body/21481-liver"
+    ]
+  },
+  {
+    "id": "obs-03-09",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.cdc.gov/heart-defects/how-the-heart-works/index.html",
+      "https://www.nhlbi.nih.gov/health/heart/anatomy"
+    ]
+  },
+  {
+    "id": "obs-03-10",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.cdc.gov/heart-defects/how-the-heart-works/index.html",
+      "https://www.nhlbi.nih.gov/health/heart/blood-flow"
+    ]
+  },
+  {
+    "id": "obs-03-11",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK470256",
+      "https://kids.britannica.com/students/article/muscle/275991"
+    ]
+  },
+  {
+    "id": "obs-03-12",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+      "https://www.ncbi.nlm.nih.gov/books/NBK279249"
+    ]
+  },
+  {
+    "id": "obs-03-13",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://training.seer.cancer.gov/anatomy/muscular/types.html",
+      "https://www.ncbi.nlm.nih.gov/books/NBK607446"
+    ]
+  },
+  {
+    "id": "obs-03-14",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK482280/",
+      "https://journals.physiology.org/doi/full/10.1152/physrev.00039.2022"
+    ]
+  },
+  {
+    "id": "obs-03-15",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 8,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Explain drops 'generally' from 'generally considered the best indicator'; restore hedge.",
+    "verifiedUrls": [
+      "https://med.virginia.edu/research/core/exercise-physiology-core-laboratory/fitness-assessment-for-community-members/vo2-max-testing",
+      "https://www.ncbi.nlm.nih.gov/books/NBK482280/"
+    ]
+  },
+  {
+    "id": "obs-03-16",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Harvard Health URL is on harvardhealth.org; canonical Harvard Health domain is health.harvard.edu - consider updating URL.",
+    "verifiedUrls": [
+      "https://www.harvardhealth.org/healthy-aging-and-longevity/vo2-max-what-is-it-and-how-can-you-improve-it",
+      "https://health.clevelandclinic.org/what-is-vo2-max-and-how-to-calculate-it"
+    ]
+  },
+  {
+    "id": "obs-03-17",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+      "https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html"
+    ]
+  },
+  {
+    "id": "obs-03-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+      "https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html"
+    ]
+  },
+  {
+    "id": "obs-03-19",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.cdc.gov/sleep/about/index.html",
+      "https://health.nih.gov/health-topics-a-z/healthy-sleep"
+    ]
+  },
+  {
+    "id": "obs-03-20",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep",
+      "https://www.nichd.nih.gov/health/topics/factsheets/sleep"
+    ]
+  },
+  {
+    "id": "obs-03-21",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep",
+      "https://www.nichd.nih.gov/health/topics/factsheets/sleep"
+    ]
+  },
+  {
+    "id": "obs-03-22",
+    "source": 25,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 95,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Both cited URLs are the same ODS page (print variant), so the 'mid-1700s' Lind claim in explain is single-sourced; add an independent source or drop it.",
+    "verifiedUrls": [
+      "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional",
+      "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional?print=1"
+    ]
+  },
+  {
+    "id": "obs-03-23",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://ods.od.nih.gov/factsheets/VitaminK-Consumer",
+      "https://ods.od.nih.gov/factsheets/vitaminK-HealthProfessional"
+    ]
+  },
+  {
+    "id": "obs-03-24",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Alexander-Fleming",
+      "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html"
+    ]
+  },
+  {
+    "id": "obs-03-25",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Alexander-Fleming",
+      "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html"
+    ]
+  },
+  {
+    "id": "obs-03-26",
+    "source": 27,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "'May' and 'Sarah Nelmes' in explain are each supported by only one source (WHO, CDC respectively); answer year 1796 is triple-sourced.",
+    "verifiedUrls": [
+      "https://www.who.int/news-room/spotlight/history-of-vaccination/a-brief-history-of-vaccination",
+      "https://www.britannica.com/science/smallpox-vaccine",
+      "https://www.cdc.gov/smallpox/about/history.html"
+    ]
+  },
+  {
+    "id": "obs-03-27",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-polio-vaccination",
+      "https://www.britannica.com/biography/Jonas-Salk"
+    ]
+  }
+]

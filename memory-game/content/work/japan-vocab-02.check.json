@@ -1,0 +1,288 @@
+[
+ {
+  "id": "japan-vocab-02-01",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/search/mizu",
+   "https://en.wiktionary.org/wiki/水"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/search/gohan",
+   "https://en.wiktionary.org/wiki/ご飯"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/word/美味しい",
+   "https://en.wiktionary.org/wiki/美味しい"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-04",
+  "source": 15,
+  "match": 28,
+  "unique": 6,
+  "current": 15,
+  "precise": 8,
+  "total": 72,
+  "hardFail": "Only one cited source (jisho.org); not independently corroborated. Also not unique: お勘定 (okanjō) is an equally standard polite word for the restaurant bill and is not in accept list.",
+  "pass": false,
+  "issue": "Add an independent second source (e.g. Wiktionary 会計/お会計) and either add 'okanjō/お勘定' to accept or reword q to target okaikei specifically (e.g. 'お会計 is read how?').",
+  "verifiedUrls": [
+   "https://jisho.org/word/お会計"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-05",
+  "source": 22,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 92,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Both sources are jisho.org (same JMdict data), not independent; consider replacing one with Wiktionary いただきます.",
+  "verifiedUrls": [
+   "https://jisho.org/search/itadakimasu",
+   "https://jisho.org/word/頂きます"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-06",
+  "source": 15,
+  "match": 28,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 81,
+  "hardFail": "Only one cited source (jisho.org search page); no independent corroboration.",
+  "pass": false,
+  "issue": "Add an independent second source, e.g. https://en.wiktionary.org/wiki/ご馳走様でした or ごちそうさま, quoting reading and gloss.",
+  "verifiedUrls": [
+   "https://jisho.org/search/gochisousamadeshita"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-07",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/word/箸",
+   "https://en.wiktionary.org/wiki/箸"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/word/駅",
+   "https://en.wiktionary.org/wiki/駅"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-09",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/word/電車",
+   "https://en.wiktionary.org/wiki/電車"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-10",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/search/%E5%B7%A6%20%23words",
+   "https://en.wiktionary.org/wiki/左"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-11",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/word/右",
+   "https://en.wiktionary.org/wiki/右"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-12",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://en.wiktionary.org/wiki/どこ",
+   "https://jisho.org/word/%E4%BD%95%E5%87%A6"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/word/切符",
+   "https://en.wiktionary.org/wiki/切符"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/word/温泉",
+   "https://en.wiktionary.org/wiki/温泉"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/word/浴衣",
+   "https://en.wiktionary.org/wiki/浴衣"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Hook 'Same word in English' slightly overclaims: Wiktionary notes English futon can mean a sofa-bed, a sense the Japanese lacks. Consider 'Borrowed into English as futon'.",
+  "verifiedUrls": [
+   "https://jisho.org/word/布団",
+   "https://en.wiktionary.org/wiki/布団"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-17",
+  "source": 22,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 92,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Both sources are jisho.org; consider replacing one with Wiktionary 畳.",
+  "verifiedUrls": [
+   "https://jisho.org/search/%E7%95%B3%20%E3%81%9F%E3%81%9F%E3%81%BF%20%23words",
+   "https://jisho.org/word/畳"
+  ]
+ },
+ {
+  "id": "japan-vocab-02-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://jisho.org/word/旅館",
+   "https://en.wiktionary.org/wiki/旅館"
+  ]
+ }
+]

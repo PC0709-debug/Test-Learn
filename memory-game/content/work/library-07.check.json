@@ -1,0 +1,433 @@
+[
+  {
+    "id": "library-07-01",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Dutch-East-India-Company",
+      "https://www.beursgeschiedenis.nl/en/the-story"
+    ]
+  },
+  {
+    "id": "library-07-02",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.beursgeschiedenis.nl/en/the-story",
+      "https://pure.uva.nl/ws/files/1427403/85967_06.pdf"
+    ]
+  },
+  {
+    "id": "library-07-03",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/money/Tulip-Mania",
+      "https://guides.loc.gov/business-booms-busts/tulip-mania"
+    ]
+  },
+  {
+    "id": "library-07-04",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/money/Tulip-Mania"
+    ]
+  },
+  {
+    "id": "library-07-05",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/money/South-Sea-Bubble",
+      "https://curiosity.lib.harvard.edu/south-sea-bubble/feature/the-crash"
+    ]
+  },
+  {
+    "id": "library-07-06",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/money/South-Sea-Bubble",
+      "https://guides.loc.gov/business-booms-busts/mississippi-company"
+    ]
+  },
+  {
+    "id": "library-07-07",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/money/South-Sea-Bubble",
+      "https://curiosity.lib.harvard.edu/south-sea-bubble/feature/the-bubble"
+    ]
+  },
+  {
+    "id": "library-07-08",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.nyse.com/history-of-nyse",
+      "https://www.britannica.com/money/New-York-Stock-Exchange"
+    ]
+  },
+  {
+    "id": "library-07-09",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.nyse.com/history-of-nyse",
+      "https://guides.loc.gov/wall-street-history/exchanges"
+    ]
+  },
+  {
+    "id": "library-07-10",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/money/New-York-Stock-Exchange",
+      "https://www.nyse.com/history-of-nyse"
+    ]
+  },
+  {
+    "id": "library-07-11",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/money/New-York-Stock-Exchange",
+      "https://www.gilderlehrman.org/history-resources/essays/rise-american-institution-stock-market"
+    ]
+  },
+  {
+    "id": "library-07-12",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.federalreservehistory.org/essays/panic-of-1907",
+      "https://www.federalreserve.gov/newsevents/speech/bernanke20131108a.htm"
+    ]
+  },
+  {
+    "id": "library-07-13",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.federalreservehistory.org/essays/federal-reserve-act-signed",
+      "https://www.senate.gov/artandhistory/history/minute/Senate_Passes_the_Federal_Reserve_Act.htm"
+    ]
+  },
+  {
+    "id": "library-07-14",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.federalreservehistory.org/essays/panic-of-1907",
+      "https://libertystreeteconomics.newyorkfed.org/2016/11/the-final-crisis-chronicle-the-panic-of-1907-and-the-birth-of-the-fed"
+    ]
+  },
+  {
+    "id": "library-07-15",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.federalreservehistory.org/essays/federal-reserve-act-signed",
+      "https://www.senate.gov/artandhistory/history/minute/Senate_Passes_the_Federal_Reserve_Act.htm"
+    ]
+  },
+  {
+    "id": "library-07-16",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.federalreservehistory.org/essays/federal-reserve-act-signed",
+      "https://www.senate.gov/artandhistory/history/minute/Senate_Passes_the_Federal_Reserve_Act.htm"
+    ]
+  },
+  {
+    "id": "library-07-17",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://guides.loc.gov/this-month-in-business-history/december/federal-reserve-act-signed",
+      "https://libertystreeteconomics.newyorkfed.org/2016/11/the-final-crisis-chronicle-the-panic-of-1907-and-the-birth-of-the-fed"
+    ]
+  },
+  {
+    "id": "library-07-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Black-Tuesday-1929",
+      "https://www.britannica.com/event/stock-market-crash-of-1929"
+    ]
+  },
+  {
+    "id": "library-07-19",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Black-Thursday",
+      "https://www.britannica.com/event/stock-market-crash-of-1929"
+    ]
+  },
+  {
+    "id": "library-07-20",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.federalreservehistory.org/essays/glass-steagall-act",
+      "https://www.congress.gov/crs-product/R44349"
+    ]
+  },
+  {
+    "id": "library-07-21",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.federalreservehistory.org/essays/glass-steagall-act",
+      "https://www.britannica.com/topic/Black-Tuesday-1929"
+    ]
+  },
+  {
+    "id": "library-07-22",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 6,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Explain adds 'signed by President Clinton in November 1999' and 'led to the creation of financial holding companies', which neither cited page states; cite the Fed History Gramm-Leach-Bliley essay or trim those clauses.",
+    "verifiedUrls": [
+      "https://www.federalreservehistory.org/essays/glass-steagall-act",
+      "https://www.congress.gov/crs-product/R44349"
+    ]
+  },
+  {
+    "id": "library-07-23",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.federalreservehistory.org/essays/bretton-woods-created",
+      "https://guides.loc.gov/this-month-in-business-history/july/bretton-woods-conference"
+    ]
+  },
+  {
+    "id": "library-07-24",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.federalreservehistory.org/essays/bretton-woods-created",
+      "https://history.state.gov/milestones/1969-1976/nixon-shock"
+    ]
+  },
+  {
+    "id": "library-07-25",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://history.state.gov/milestones/1969-1976/nixon-shock",
+      "https://www.federalreservehistory.org/essays/gold-convertibility-ends"
+    ]
+  },
+  {
+    "id": "library-07-26",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://edison.rutgers.edu/life-of-edison/inventions?catid=91&id=539%3Astock-ticker&view=article",
+      "https://americanhistory.si.edu/collections/object/nmah_890544"
+    ]
+  },
+  {
+    "id": "library-07-27",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Second source (CultureNow) calls it the 'Universal Stock Ticker', not 'Universal Stock Printer'; accept list already covers both. Consider adding a second source using the exact 'Universal Stock Printer' name.",
+    "verifiedUrls": [
+      "https://edison.rutgers.edu/life-of-edison/inventions?catid=91&id=539%3Astock-ticker&view=article",
+      "https://culturenow.org/site/invention-of-the-universal-stock-ticker"
+    ]
+  }
+]

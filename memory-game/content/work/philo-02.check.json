@@ -1,0 +1,431 @@
+[
+ {
+  "id": "philo-02-01",
+  "source": 15,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 85,
+  "hardFail": "Named-person attribution backed only by two Britannica pages (same publisher, not independent).",
+  "pass": false,
+  "issue": "Add an independent source (e.g. SEP Socrates or IEP) stating Socrates wrote nothing and is known through Plato and Xenophon.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Socrates",
+   "https://www.britannica.com/biography/Plato"
+  ]
+ },
+ {
+  "id": "philo-02-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Plato",
+   "https://plato.stanford.edu/entries/socrates/"
+  ]
+ },
+ {
+  "id": "philo-02-03",
+  "source": 27,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Single cited source, but the fact is a concept, not a number/date/name; the Britannica Plato page also links Euthyphro with piety.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Socratic-method",
+   "https://www.britannica.com/biography/Plato"
+  ]
+ },
+ {
+  "id": "philo-02-04",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Plato",
+   "https://iep.utm.edu/aristotle/"
+  ]
+ },
+ {
+  "id": "philo-02-05",
+  "source": 26,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "The SEP 'Sun, Line, and Cave' quote did not show up in the fetched excerpts; IEP confirms 514a-517c in the Republic.",
+  "verifiedUrls": [
+   "https://iep.utm.edu/republic/"
+  ]
+ },
+ {
+  "id": "philo-02-06",
+  "source": 26,
+  "match": 30,
+  "unique": 13,
+  "current": 15,
+  "precise": 9,
+  "total": 93,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Only Britannica confirmed ('the Good, or the One'). 'The Beautiful' is a slightly risky distractor because of the Symposium; consider 'The Equal'/'The Large' instead.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Plato"
+  ]
+ },
+ {
+  "id": "philo-02-07",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 7,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "The hook claim that French 'lycee' descends from the Lyceum is unsourced (true, but add a source or drop it).",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Aristotle",
+   "https://iep.utm.edu/aristotle/"
+  ]
+ },
+ {
+  "id": "philo-02-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Aristotle",
+   "https://iep.utm.edu/aristotle/"
+  ]
+ },
+ {
+  "id": "philo-02-09",
+  "source": 18,
+  "match": 20,
+  "unique": 12,
+  "current": 15,
+  "precise": 5,
+  "total": 70,
+  "hardFail": "Disputed etymology: the Britannica 'peripatein, to walk up and down' line is an AI quick summary, while Britannica's Aristotle article derives 'peripatetics' from the peripatos (cloister/covered walk) where they walked.",
+  "pass": false,
+  "issue": "Reword the question to drop the etymology (e.g. 'What name was given to Aristotle's followers at the Lyceum?') or cite the peripatos (covered walkway) derivation, which has better sourcing.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Peripatetic",
+   "https://iep.utm.edu/aristotle/"
+  ]
+ },
+ {
+  "id": "philo-02-10",
+  "source": 27,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "The golden-mean quote is a Britannica AI summary; Britannica eudaimonia corroborates it (foolhardiness).",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/golden-mean",
+   "https://www.britannica.com/topic/eudaimonia"
+  ]
+ },
+ {
+  "id": "philo-02-11",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://plato.stanford.edu/entries/aristotle-causality/",
+   "https://plato.stanford.edu/entries/aristotle/"
+  ]
+ },
+ {
+  "id": "philo-02-12",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Both citations are the same Britannica URL; this is acceptable because the answer is a term, but adding SEP/IEP would be better.",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/eudaimonia"
+  ]
+ },
+ {
+  "id": "philo-02-13",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "SEP dates the return to Athens 307/06; Britannica says 306. Consistent.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Epicurus",
+   "https://plato.stanford.edu/entries/epicurus/"
+  ]
+ },
+ {
+  "id": "philo-02-14",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/ataraxia",
+   "https://plato.stanford.edu/entries/epicurus/"
+  ]
+ },
+ {
+  "id": "philo-02-15",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 6,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "The explain claim 'almost certainly exiled from Sinope' was not confirmed in the fetched excerpts; source it or drop it.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Diogenes-Greek-philosopher",
+   "https://iep.utm.edu/cynics/"
+  ]
+ },
+ {
+  "id": "philo-02-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://iep.utm.edu/cynics/",
+   "https://www.britannica.com/biography/Antisthenes"
+  ]
+ },
+ {
+  "id": "philo-02-17",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "IEP calls Antisthenes' status as the first Cynic controversial; the card's hedged wording ('is considered... though Diogenes often gets the credit') is acceptable.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Antisthenes",
+   "https://iep.utm.edu/cynics/"
+  ]
+ },
+ {
+  "id": "philo-02-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 6,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "The explain states as fact that Thales pictured Earth as a flat disk; IEP says no ancient testimony supports the flat-disk view. Hedge it ('Britannica reports...') or drop it.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Thales-of-Miletus",
+   "https://iep.utm.edu/thales/"
+  ]
+ },
+ {
+  "id": "philo-02-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Heraclitus",
+   "https://plato.stanford.edu/entries/heraclitus/"
+  ]
+ },
+ {
+  "id": "philo-02-20",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Democritus",
+   "https://plato.stanford.edu/entries/democritus/"
+  ]
+ },
+ {
+  "id": "philo-02-21",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Lunyu",
+   "https://plato.stanford.edu/entries/confucius/"
+  ]
+ },
+ {
+  "id": "philo-02-22",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Confucius",
+   "https://plato.stanford.edu/entries/confucius/",
+   "https://www.britannica.com/topic/Lunyu"
+  ]
+ },
+ {
+  "id": "philo-02-23",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 98,
+  "hardFail": null,
+  "pass": true,
+  "issue": "The SEP quote was not surfaced verbatim; Britannica confirms it.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Laozi",
+   "https://plato.stanford.edu/entries/laozi/"
+  ]
+ },
+ {
+  "id": "philo-02-24",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Laozi",
+   "https://plato.stanford.edu/entries/laozi/"
+  ]
+ },
+ {
+  "id": "philo-02-25",
+  "source": 15,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 85,
+  "hardFail": "Named-person answer backed only by two Britannica pages (not independent); the golden-mean quote was not surfaced.",
+  "pass": false,
+  "issue": "Add an independent source (e.g. SEP Buddha entry) naming Siddhartha Gautama.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Buddha-founder-of-Buddhism"
+  ]
+ },
+ {
+  "id": "philo-02-26",
+  "source": 15,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 85,
+  "hardFail": "Place-name answer backed only by two Britannica pages (not independent).",
+  "pass": false,
+  "issue": "Add an independent source (e.g. UNESCO Mahabodhi Temple Complex at Bodh Gaya) confirming the enlightenment site.",
+  "verifiedUrls": [
+   "https://www.britannica.com/place/Bodh-Gaya",
+   "https://www.britannica.com/biography/Buddha-founder-of-Buddhism"
+  ]
+ },
+ {
+  "id": "philo-02-27",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/topic/Four-Noble-Truths",
+   "https://plato.stanford.edu/entries/buddha/"
+  ]
+ }
+]

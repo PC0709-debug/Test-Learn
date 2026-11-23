@@ -1,0 +1,18 @@
+[
+  {
+    "id": "library-03-16",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/topic/Last-Supper-fresco-by-Leonardo-da-Vinci",
+      "https://unesco.cultura.gov.it/en/projects/chiesa-e-convento-domenicano-di-santa-maria-delle-grazie-con-l-ultima-cena-di-leonardo-da-vinci"
+    ]
+  }
+]

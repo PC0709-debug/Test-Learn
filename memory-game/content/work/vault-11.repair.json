@@ -1,0 +1,192 @@
+[
+  {
+    "id": "vault-11-01",
+    "deck": "vault",
+    "topic": "Sell-side process",
+    "q": "What short, confidential one- or two-slide summary introduces a company for sale to potential buyers without naming it?",
+    "a": "Teaser",
+    "accept": [
+      "investment teaser",
+      "the teaser"
+    ],
+    "wrong": [
+      "Fairness opinion",
+      "Merger proxy",
+      "Schedule 13D"
+    ],
+    "explain": "A teaser is a brief, confidential document designed to gauge and generate interest from potential buyers; it is a one- or two-slide summary that avoids naming the company to maintain confidentiality.",
+    "hook": "Tease first, reveal later.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-an-investment-teaser",
+        "title": "Investment Teaser - Contents and Qualities of an Effective Teaser (CFI)",
+        "quote": "The teaser is a brief and confidential document designed both to gauge interest in, and to generate interest from, potential investors or buyers of a company or its securities."
+      },
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/investment-teaser-template",
+        "title": "Investment Teaser Template - Definition, Free Download (CFI)",
+        "quote": "An investment teaser is a one- or two-slide summary of a potential sale process that avoids naming the company to maintain confidentiality."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-06",
+    "deck": "vault",
+    "topic": "MAC / MAE",
+    "q": "A material adverse change (MAC) clause is also known as a material adverse what?",
+    "a": "Effect",
+    "accept": [
+      "material adverse effect",
+      "MAE"
+    ],
+    "wrong": [
+      "Expense",
+      "Condition",
+      "Impairment"
+    ],
+    "explain": "MACs are also known as material adverse effects (MAEs); the clause outlines circumstances in which parties may terminate the agreement.",
+    "hook": "MAC = MAE.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/material-adverse-change-mac",
+        "title": "Material Adverse Change (MAC) - Overview, Uses, Example (CFI)",
+        "quote": "MACs are also known as material adverse effects (MAEs)."
+      },
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/material-adverse-change-mac",
+        "title": "Material Adverse Change (MAC) | M&A Clause + Examples - Wall Street Prep",
+        "quote": "virtually all buyers will include a clause in the merger agreement called the material adverse change (MAC) or material adverse effect (MAE)."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-09",
+    "deck": "vault",
+    "topic": "Termination fees",
+    "q": "Reverse termination fees are most prevalent in deals with which type of buyer?",
+    "a": "Financial buyers",
+    "accept": [
+      "financial buyer",
+      "private equity",
+      "PE",
+      "private equity buyers",
+      "financial sponsors"
+    ],
+    "wrong": [
+      "Strategic buyers",
+      "Sovereign governments",
+      "Employee-owned buyers"
+    ],
+    "explain": "Concerns about securing financing tend to be most common with financial (private equity) buyers, which is why RTFs are prevalent in non-strategic deals.",
+    "hook": "Sponsors need debt, sellers need an RTF.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/break-fees-reverse-termination-fees-ma",
+        "title": "Reverse Termination Fee and Breakup Fee | M&A Definition + Example - Wall Street Prep",
+        "quote": "Concerns about securing financing tend to be most common with financial buyers (private equity ), which explains why RTFs are prevalent in non-strategic deals (i.e. the buyer is private equity )."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-12",
+    "deck": "vault",
+    "topic": "Take-privates",
+    "q": "Go-shop provisions are increasingly popular in which type of transaction, where a public company undergoes an LBO?",
+    "a": "Go-private transactions",
+    "accept": [
+      "go-private",
+      "take-private",
+      "take-privates",
+      "going private",
+      "go-private transaction",
+      "take-private transaction"
+    ],
+    "wrong": [
+      "IPOs",
+      "Spin-offs",
+      "Rights offerings"
+    ],
+    "explain": "Go-shop provisions are increasingly popular in go-private transactions, where a public company undergoes an LBO.",
+    "hook": "Going private? Go shop.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://www.wallstreetprep.com/knowledge/no-shop-go-shop-ma",
+        "title": "Go-Shop vs. No-Shop Provision | M&A Definition + Examples - Wall Street Prep",
+        "quote": "They are increasingly popular in go-private transactions, where a public company undergoes an LBO ."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-19",
+    "deck": "vault",
+    "topic": "Tender offers",
+    "q": "Under the text of SEC Rule 14e-1(a), a tender offer may not be held open for less than how many business days?",
+    "a": "20 business days",
+    "accept": [
+      "20",
+      "twenty",
+      "twenty business days"
+    ],
+    "wrong": [
+      "5 business days",
+      "30 business days",
+      "60 business days"
+    ],
+    "explain": "Rule 14e-1(a) bars holding a tender offer open for less than twenty business days from first publication; the SEC staff has granted exemptions permitting shorter periods for certain offers.",
+    "hook": "Twenty to tender.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://ecfr.gov/current/title-17/section-240.14e-1",
+        "title": "eCFR :: 17 CFR 240.14e-1 -- Unlawful tender offer practices",
+        "quote": "Hold such tender offer open for less than twenty business days from the date such tender offer is first published or sent to security holders"
+      },
+      {
+        "url": "https://www.sec.gov/files/rules/exorders/2026/exemptive-order-tender-offers-equity-securities-041626.pdf",
+        "title": "SEC Division of Corporation Finance - Exemptive Order for Tender Offers for Equity Securities (April 16, 2026)",
+        "quote": "Exchange Act Rules 13e-4(f)(1)(i) and 14e-1(a) require tender offers to be open for at least 20 business days."
+      }
+    ]
+  },
+  {
+    "id": "vault-11-22",
+    "deck": "vault",
+    "topic": "Tender offers",
+    "q": "SEC Rule 14d-10 requires that each tendering holder receive the highest consideration paid to any other holder; what is this rule commonly called?",
+    "a": "Best price rule",
+    "accept": [
+      "best price",
+      "best-price rule",
+      "tender offer best-price rule"
+    ],
+    "wrong": [
+      "Business judgment rule",
+      "Short-swing profit rule",
+      "Market-out rule"
+    ],
+    "explain": "Rule 14d-10(a)(2) (with Rule 13e-4(f)(8)(ii) for issuer offers) is known as the best-price rule: the consideration paid to any holder for tendered securities must be the highest paid to any other holder.",
+    "hook": "One price for all: the best one.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/files/rules/final/2006/34-54684.pdf",
+        "title": "Final Rule: Amendments to the Tender Offer Best-Price Rules; Rel. No. 34-54684 (SEC)",
+        "quote": "For purposes of this release, unless otherwise indicated, our references to the “tender offer best-price rule” or the “best-price rule” are intended to refer to both Exchange Act Rule 13e-4(f)(8)(ii) (17 CFR 240.13e-4(f)(8)(ii)) and Exchange Act Rule 14d-10(a)(2) (17 CFR 240.14d-10(a)(2))."
+      },
+      {
+        "url": "https://www.kirkland.com/sitefiles/kirkexp/publications/2267/document1/ma_notes_november_2006.pdf",
+        "title": "Amendment of the Tender Offer Best-price Rule - Kirkland & Ellis M&A Notes, November 2006",
+        "quote": "The U.S. Securities and Exchange Commission (the \"SEC\") has amended Rules 13e- 4(f)(8)(ii) and 14d-10(a)(2) promulgated under the Securities Exchange Act of 1934 (the \"Exchange Act\"), which are generally referred to collectively as the \"best-price rule.\""
+      },
+      {
+        "url": "https://www.ecfr.gov/current/title-17/chapter-II/part-240/section-240.14d-10",
+        "title": "eCFR :: 17 CFR 240.14d-10 -- Equal treatment of security holders",
+        "quote": "( 2 ) The consideration paid to any security holder for securities tendered in the tender offer is the highest consideration paid to any other security holder for securities tendered in the tender offer."
+      }
+    ]
+  }
+]

@@ -1,0 +1,441 @@
+[
+ {
+  "id": "library-06-01",
+  "source": 29,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Johannes-Gutenberg",
+   "https://guides.loc.gov/gutenberg"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-02",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://guides.loc.gov/gutenberg",
+   "https://www.britannica.com/topic/Gutenberg-Bible"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-03",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://guides.loc.gov/gutenberg",
+   "https://www.britannica.com/topic/Gutenberg-Bible"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-04",
+  "source": 18,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 85,
+  "hardFail": "Date (May 1765) and patent year (1769) rest on two Britannica pages carrying identical text (Newcomen page only reproduces the Watt article snippet); not two independent sources",
+  "issue": "Add an independent second source (e.g. Science Museum Group, BBC History, university page) for 1765 condenser and 1769 patent.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/James-Watt",
+   "https://www.britannica.com/technology/Newcomen-steam-engine"
+  ],
+  "pass": false
+ },
+ {
+  "id": "library-06-05",
+  "source": 18,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 85,
+  "hardFail": "Year 1712 is supported only by Britannica pages (Newcomen bio + a Britannica Abraham Darby snippet on the engine page); not two independent sources",
+  "issue": "Add an independent second source (e.g. Science Museum, Dudley/Black Country Living Museum, ASME landmark) for 1712 / Dudley Castle.",
+  "verifiedUrls": [
+   "https://www.britannica.com/biography/Thomas-Newcomen",
+   "https://www.britannica.com/technology/Newcomen-steam-engine"
+  ],
+  "pass": false
+ },
+ {
+  "id": "library-06-06",
+  "source": 29,
+  "match": 29,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 96,
+  "hardFail": null,
+  "issue": "Minor: cited LoC Today-in-History page calls Annie 'daughter of a friend'; the 'commissioner of patents' detail is on loc.gov/item/mcc.019 - cite it.",
+  "verifiedUrls": [
+   "https://www.loc.gov/item/today-in-history/may-24",
+   "https://history.house.gov/Exhibitions-and-Publications/Electronic-Technology/Telegraph",
+   "https://www.loc.gov/item/mcc.019"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-07",
+  "source": 20,
+  "match": 25,
+  "unique": 15,
+  "current": 15,
+  "precise": 7,
+  "total": 82,
+  "hardFail": "Cited Britannica quote ('In 1843 Morse obtained financial support... 60 km (35 miles)') not found in fetched page excerpts; the 60 km/35 miles figure in explain has only one (unconfirmed) source",
+  "issue": "Answer Baltimore is fine (LoC, House). Drop the 60 km/35 miles length and '1843 funding' from explain or add a second confirmed source; re-quote Britannica's 'public use initiated on May 24, 1844'.",
+  "verifiedUrls": [
+   "https://www.loc.gov/item/today-in-history/may-24",
+   "https://www.britannica.com/technology/telegraph"
+  ],
+  "pass": false
+ },
+ {
+  "id": "library-06-08",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 99,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.loc.gov/item/mcc.019",
+   "https://history.house.gov/Exhibitions-and-Publications/Electronic-Technology/Telegraph",
+   "https://www.britannica.com/technology/telegraph"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-09",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "issue": "Minor: 'often referred to as the most valuable' phrasing not visible in excerpt; Britannica bio says 'said to be one of the most valuable patents in history' - soften to 'one of the most valuable'.",
+  "verifiedUrls": [
+   "https://www.britannica.com/technology/telephone/Development-of-the-telephone-instrument",
+   "https://www.loc.gov/item/who-is-credited-with-inventing-the-telephone",
+   "https://www.britannica.com/biography/Alexander-Graham-Bell"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-10",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/technology/telephone/Development-of-the-telephone-instrument",
+   "https://www.loc.gov/item/who-is-credited-with-inventing-the-telephone",
+   "https://www.britannica.com/biography/Alexander-Graham-Bell"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-11",
+  "source": 29,
+  "match": 29,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "Britannica wording seen is 'just two hours before a rival, Elisha Gray, filed a declaration of intent'; LoC says 'a few hours later'. Consistent with card.",
+  "verifiedUrls": [
+   "https://www.britannica.com/technology/telephone/Development-of-the-telephone-instrument",
+   "https://www.loc.gov/item/who-is-credited-with-inventing-the-telephone",
+   "https://www.britannica.com/biography/Alexander-Graham-Bell"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-12",
+  "source": 24,
+  "match": 28,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 91,
+  "hardFail": "Explain date 'November 21, 1877' has only one cited source (Census Bureau)",
+  "issue": "Answer Edison is confirmed by two sources. Add a second source for Nov 21, 1877 (e.g. NPS Edison NHP, Rutgers Edison Papers) or drop the date from explain.",
+  "verifiedUrls": [
+   "https://www.britannica.com/technology/phonograph",
+   "https://www.census.gov/about/history/stories/monthly/2017/november-2017.html"
+  ],
+  "pass": false
+ },
+ {
+  "id": "library-06-13",
+  "source": 22,
+  "match": 27,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 88,
+  "hardFail": "Patent No. 372,786 and date Nov 8, 1887 in explain rest on LoC only; cited Britannica quote ('These records... Berliner named a Gramophone') not seen in fetched excerpts",
+  "issue": "Answer Berliner/coined 'gramophone' confirmed by LoC; Britannica summary says Berliner 'called his version... a gramophone'. Add second source for patent number/date or drop it; replace Britannica quote with verifiable text.",
+  "verifiedUrls": [
+   "https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/",
+   "https://www.britannica.com/technology/phonograph"
+  ],
+  "pass": false
+ },
+ {
+  "id": "library-06-14",
+  "source": 30,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 98,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/technology/phonograph",
+   "https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-15",
+  "source": 22,
+  "match": 24,
+  "unique": 13,
+  "current": 15,
+  "precise": 6,
+  "total": 80,
+  "hardFail": "Explain overclaims: Rutgers page says carbonized-thread lamp 'showed promise' but commercial lamp difficulties remained, not a 'commercially promising lamp'; Nov 4, 1879 patent date single-sourced (Census only)",
+  "issue": "Reword explain to 'first long-lasting carbonized cotton-thread filament on Oct 22, 1879' and add a second source for the Nov 4, 1879 application or drop it. Accept list 'carbonized cotton thread' is narrower than 'carbon' but OK.",
+  "verifiedUrls": [
+   "https://www.census.gov/about/history/stories/monthly/2017/november-2017.html",
+   "https://edison.rutgers.edu/life-of-edison/biographical-essays/lighting/the-carbon-filament-lamp"
+  ],
+  "pass": false
+ },
+ {
+  "id": "library-06-16",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://airandspace.si.edu/collection-objects/1903-wrightflyer/nasm_A19610048000",
+   "https://www.nasa.gov/history/120-years-ago-the-first-powered-flight-at-kitty-hawk",
+   "https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-17",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "issue": "Kill Devil Hills accepted as the exact site; fine.",
+  "verifiedUrls": [
+   "https://www.nasa.gov/history/120-years-ago-the-first-powered-flight-at-kitty-hawk",
+   "https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk",
+   "https://airandspace.si.edu/collection-objects/1903-wrightflyer/nasm_A19610048000"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-18",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://airandspace.si.edu/collection-objects/1903-wrightflyer/nasm_A19610048000",
+   "https://www.nasa.gov/history/120-years-ago-the-first-powered-flight-at-kitty-hawk",
+   "https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-19",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nasa.gov/history/120-years-ago-the-first-powered-flight-at-kitty-hawk",
+   "https://airandspace.si.edu/collection-objects/1903-wrightflyer/nasm_A19610048000",
+   "https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-20",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nobelprize.org/prizes/medicine/1945/fleming/facts/",
+   "https://www.nobelprize.org/prizes/medicine/1945/florey/facts/"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-21",
+  "source": 20,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 90,
+  "hardFail": "Only one source cited (Nobel presentation speech); species name needs two independent sources",
+  "issue": "Quote verified on page. Add a second independent source naming Penicillium notatum (e.g. ACS landmark, Britannica penicillin).",
+  "verifiedUrls": [
+   "https://www.nobelprize.org/prizes/medicine/1945/ceremony-speech/"
+  ],
+  "pass": false
+ },
+ {
+  "id": "library-06-22",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nokia.com/bell-labs/about/awards/1956-nobel-prize-physics",
+   "https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-23",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nobelprize.org/prizes/physics/1956/shockley/facts/",
+   "https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-24",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 7,
+  "total": 97,
+  "hardFail": null,
+  "issue": "Minor: sources say 'the system crashed'/'the network crashed', not specifically the SRI system; reword explain.",
+  "verifiedUrls": [
+   "https://www.lk.cs.ucla.edu/internet_first_words.html",
+   "https://www.universityofcalifornia.edu/news/lo-and-behold-internet"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-25",
+  "source": 20,
+  "match": 27,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 86,
+  "hardFail": "Named-person attribution rests on two DARPA pages (same organization, not independent); vignette quote only partially visible and calls Kahn IPTO director rather than program manager",
+  "issue": "Add an independent source (e.g. Britannica 'Robert Kahn' / 'Internet', ACM Turing Award page) confirming Cerf and Kahn co-developed TCP/IP.",
+  "verifiedUrls": [
+   "https://www.darpa.mil/about/innovation-timeline/tcp-ip",
+   "https://www.darpa.mil/sites/default/files/attachment/2025-01/darpa-vignette-arpanet.pdf"
+  ],
+  "pass": false
+ },
+ {
+  "id": "library-06-26",
+  "source": 30,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 100,
+  "hardFail": null,
+  "issue": "",
+  "verifiedUrls": [
+   "https://home.cern/science/computing/birth-web/short-history-web",
+   "https://www.w3.org/People/Berners-Lee/"
+  ],
+  "pass": true
+ },
+ {
+  "id": "library-06-27",
+  "source": 20,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 90,
+  "hardFail": "Only one source cited (Apple Newsroom) for the date and event name",
+  "issue": "Quote verified. Add a second independent source (e.g. Britannica iPhone) for Macworld / Jan 9, 2007.",
+  "verifiedUrls": [
+   "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone"
+  ],
+  "pass": false
+ }
+]

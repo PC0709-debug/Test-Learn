@@ -1,0 +1,433 @@
+[
+ {
+  "id": "floor-04-01",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow",
+   "https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-brochure.pdf"
+  ]
+ },
+ {
+  "id": "floor-04-02",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow"
+  ]
+ },
+ {
+  "id": "floor-04-03",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow",
+   "https://indexes.nasdaqomx.com/docs/NDX%20Extended%20Presentation.pdf"
+  ]
+ },
+ {
+  "id": "floor-04-04",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Fetched excerpt confirmed numerator/divisor calculation; the divisor-adjustment-for-splits wording in explain was not surfaced in the excerpt (true, standard fact). Single source acceptable for a concept term.",
+  "verifiedUrls": [
+   "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow"
+  ]
+ },
+ {
+  "id": "floor-04-05",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow",
+   "https://indexes.nasdaqomx.com/docs/NDX%20Extended%20Presentation.pdf"
+  ]
+ },
+ {
+  "id": "floor-04-06",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.nasdaq.com/newsroom/what-is-the-nasdaq-100-guide-to-one-of-worlds-most-watched-indexes",
+   "https://indexes.nasdaq.com/docs/Methodology_NDX.pdf"
+  ]
+ },
+ {
+  "id": "floor-04-07",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://indexes.nasdaq.com/docs/Methodology_NDX.pdf",
+   "https://www.nasdaq.com/newsroom/what-is-the-nasdaq-100-guide-to-one-of-worlds-most-watched-indexes"
+  ]
+ },
+ {
+  "id": "floor-04-08",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 9,
+  "total": 97,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Cited NDX presentation also contains a garbled timeline line '1971 Nasdaq-100 Index was launched' (likely the Nasdaq Composite); consider replacing the second source with a cleaner one or dropping 1971 as a distractor to avoid confusion with the Composite launch year.",
+  "verifiedUrls": [
+   "https://www.nasdaq.com/newsroom/what-is-the-nasdaq-100-guide-to-one-of-worlds-most-watched-indexes",
+   "https://indexes.nasdaqomx.com/docs/NDX%20Extended%20Presentation.pdf"
+  ]
+ },
+ {
+  "id": "floor-04-09",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "Explain says 'default US small-cap benchmark'; LSEG calls it 'the original benchmark for US small caps'. Reword to 'original/widely used'.",
+  "verifiedUrls": [
+   "https://www.lseg.com/en/ftse-russell/indices/russell-2000-index"
+  ]
+ },
+ {
+  "id": "floor-04-10",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.lseg.com/content/dam/ftse-russell/en_us/documents/research/russell-2000-index-the-original-benchmark-for-us-small-caps.pdf",
+   "https://www.lseg.com/en/ftse-russell/indices/russell-3000-index"
+  ]
+ },
+ {
+  "id": "floor-04-11",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://cdn.cboe.com/resources/indices/Volatility_Index_Methodology_Cboe_Volatility_Index.pdf",
+   "https://www.spglobal.com/spdji/en/vix-intro/"
+  ]
+ },
+ {
+  "id": "floor-04-12",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://cdn.cboe.com/resources/indices/Volatility_Index_Methodology_Cboe_Volatility_Index.pdf",
+   "http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-faqs",
+   "https://www.spglobal.com/spdji/en/vix-intro/"
+  ]
+ },
+ {
+  "id": "floor-04-13",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://cdn.cboe.com/resources/indices/Volatility_Index_Methodology_Cboe_Volatility_Index.pdf",
+   "https://corporatefinanceinstitute.com/resources/capital_markets/vix-volatility-index/"
+  ]
+ },
+ {
+  "id": "floor-04-14",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://cdn.cboe.com/resources/indices/Volatility_Index_Methodology_Cboe_Volatility_Index.pdf",
+   "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/rfbr-moran-vix-volatility.pdf"
+  ]
+ },
+ {
+  "id": "floor-04-15",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.investor.gov/introduction-investing/investing-basics/glossary/price-earnings-pe-ratio"
+  ]
+ },
+ {
+  "id": "floor-04-16",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.investor.gov/introduction-investing/investing-basics/glossary/bear-market",
+   "https://www.finra.org/investors/insights/key-terms-tough-times-vocabulary-stressed-markets"
+  ]
+ },
+ {
+  "id": "floor-04-17",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.finra.org/investors/insights/key-terms-tough-times-vocabulary-stressed-markets",
+   "https://corporatefinanceinstitute.com/resources/capital_markets/market-correction"
+  ]
+ },
+ {
+  "id": "floor-04-18",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-51",
+   "https://www.sec.gov/investor/pubs/regsho.htm"
+  ]
+ },
+ {
+  "id": "floor-04-19",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-63",
+   "https://www.sec.gov/oiea/investor-alerts-bulletins/ib_introductionoptions"
+  ]
+ },
+ {
+  "id": "floor-04-20",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.sec.gov/oiea/investor-alerts-bulletins/ib_introductionoptions",
+   "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-63"
+  ]
+ },
+ {
+  "id": "floor-04-21",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.investor.gov/introduction-investing/investing-basics/glossary/stock-market-circuit-breakers",
+   "https://www.sec.gov/investor/alerts/circuitbreakersbulletin.htm"
+  ]
+ },
+ {
+  "id": "floor-04-22",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.investor.gov/introduction-investing/investing-basics/glossary/stock-market-circuit-breakers",
+   "https://www.sec.gov/investor/alerts/circuitbreakersbulletin.htm"
+  ]
+ },
+ {
+  "id": "floor-04-23",
+  "source": 29,
+  "match": 30,
+  "unique": 14,
+  "current": 15,
+  "precise": 8,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "'Final day of the 1929 crash' slightly overclaims; Britannica frames Black Tuesday as the last of four days Oct 24-29 but declines continued. Consider 'climax of the 1929 crash'.",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/stock-market-crash-of-1929",
+   "https://guides.loc.gov/this-month-in-business-history/october/black-monday-stock-market-crash"
+  ]
+ },
+ {
+  "id": "floor-04-24",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987",
+   "https://www.nyse.com/publicdocs/nyse/markets/nyse/Report_of_the_Market-Wide_Circuit_Breaker_Working_Group.pdf",
+   "https://guides.loc.gov/this-month-in-business-history/october/black-monday-stock-market-crash"
+  ]
+ },
+ {
+  "id": "floor-04-25",
+  "source": 28,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 8,
+  "total": 96,
+  "hardFail": null,
+  "pass": true,
+  "issue": "5,048 is the closing peak (Mar 10, 2000); intraday high was higher. Consider 'closing peak' in q.",
+  "verifiedUrls": [
+   "https://www.britannica.com/money/dot-com-bubble",
+   "https://www.goldmansachs.com/our-firm/history/moments/2000-dot-com-bubble"
+  ]
+ },
+ {
+  "id": "floor-04-26",
+  "source": 29,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 99,
+  "hardFail": null,
+  "pass": true,
+  "issue": "",
+  "verifiedUrls": [
+   "https://www.britannica.com/event/bankruptcy-of-Lehman-Brothers",
+   "https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/Support-for-Specific-Institutions-_-Federal-Reserve-History.pdf",
+   "https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1000&context=journal-of-financial-crises"
+  ]
+ },
+ {
+  "id": "floor-04-27",
+  "source": 15,
+  "match": 30,
+  "unique": 15,
+  "current": 15,
+  "precise": 10,
+  "total": 85,
+  "hardFail": "Number supported by only one independent source (same report cited twice).",
+  "pass": false,
+  "issue": "Both cited sources are the same MWCB Working Group report (NYSE copy and SEC filing exhibit), so the number has only one independent source. Add an independent source (e.g. SEC/Fed/exchange notice listing halts on Mar 9, 12, 16, 18, 2020).",
+  "verifiedUrls": [
+   "https://www.nyse.com/publicdocs/nyse/markets/nyse/Report_of_the_Market-Wide_Circuit_Breaker_Working_Group.pdf",
+   "https://www.sec.gov/files/rules/sro/nyse/2021/34-92428-ex3.pdf"
+  ]
+ }
+]
