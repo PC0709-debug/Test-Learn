@@ -1,0 +1,4 @@
+[
+  {"id":"philo-01-16","source":30,"match":30,"unique":15,"current":15,"precise":9,"total":99,"hardFail":false,"pass":true,"issue":"Britannica and SEP both confirm Domitian expelled Epictetus with other philosophers (they disagree on the year, 90 vs 93 CE, but the card gives no date). Britannica quote is verbatim. The SEP quote is cut off mid-sentence but is on the page.","verifiedUrls":["https://www.britannica.com/biography/Epictetus-Greek-philosopher","https://plato.stanford.edu/entries/stoicism/"]},
+  {"id":"philo-01-26","source":28,"match":30,"unique":14,"current":15,"precise":10,"total":97,"hardFail":false,"pass":true,"issue":"Merriam-Webster has the quote verbatim, and its etymology gives 'remember that you must die'. The accepted answer 'remember you will die' is a near-equivalent. Only one source, but this is a meaning, not a number.","verifiedUrls":["https://www.merriam-webster.com/dictionary/memento%20mori"]}
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "library-04-05",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "NARA and Britannica both verbatim: adopted July 4, 1776; signing began Aug 2, 1776.",
+    "verifiedUrls": [
+      "https://www.archives.gov/milestone-documents/declaration-of-independence",
+      "https://www.britannica.com/topic/Declaration-of-Independence"
+    ]
+  },
+  {
+    "id": "library-04-07",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica and HISTORY both verbatim: July 14, 1789; fortress/state prison symbolizing monarchy's despotism.",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/storming-of-the-Bastille",
+      "https://www.history.com/articles/bastille-day"
+    ]
+  },
+  {
+    "id": "library-04-16",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica and napoleon.org verbatim: St Helena Oct 1815, died 5 May 1821, Elba first exile 1814.",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/Napoleon-I",
+      "https://www.napoleon.org/en/young-historians/napodoc/from-waterloo-to-the-island-of-st-helena"
+    ]
+  },
+  {
+    "id": "library-04-18",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica (two pages) and DNB agree: Hargreaves, invented c.1764, patent 12 July 1770. Spinning-jenny lead quote not shown in excerpt verbatim but same facts appear on page.",
+    "verifiedUrls": [
+      "https://www.britannica.com/technology/spinning-jenny",
+      "https://www.britannica.com/biography/James-Hargreaves",
+      "https://en.wikisource.org/wiki/Dictionary_of_National_Biography%2C_1885-1900/Hargreaves%2C_James_%28d.1778%29"
+    ]
+  },
+  {
+    "id": "library-04-19",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica, Science Museum Group and Science Museum blog verbatim: conceived 1765, patented 1769 (5 Jan).",
+    "verifiedUrls": [
+      "https://www.britannica.com/biography/James-Watt",
+      "https://collection.sciencemuseumgroup.org.uk/people/ap24508/watt-james",
+      "https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser"
+    ]
+  },
+  {
+    "id": "library-04-21",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "NARA and LOC verbatim: issued January 1, 1863.",
+    "verifiedUrls": [
+      "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+      "https://guides.loc.gov/emancipation-proclamation"
+    ]
+  },
+  {
+    "id": "library-04-23",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica (two pages) and Wikipedia verbatim: Garibaldi, 1860, landed Marsala May 11, 1860, overthrew Two Sicilies.",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Expedition-of-the-Thousand",
+      "https://www.britannica.com/place/Italy/Garibaldi-and-the-Thousand",
+      "https://en.wikipedia.org/wiki/Expedition_of_the_Thousand"
+    ]
+  }
+]

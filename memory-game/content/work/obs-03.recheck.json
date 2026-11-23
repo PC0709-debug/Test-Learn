@@ -1,0 +1,18 @@
+[
+  {
+    "id": "obs-03-02",
+    "source": 29,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 97,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Both quotes verified verbatim on Britannica and OpenStax; name and 1952 date agree. Minor: Photo 51 was physically taken by Franklin's student Raymond Gosling, but question wording ('whose X-ray diffraction work') makes Franklin the single correct answer; Wilkins/Pauling/Chargaff are definitely wrong.",
+    "verifiedUrls": [
+      "https://www.britannica.com/science/DNA",
+      "https://openstax.org/books/concepts-biology/pages/9-1-the-structure-of-dna"
+    ]
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "obs-01-01",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 9,
+    "total": 99,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Both NASA quotes verified verbatim; Saturn/Neptune/Uranus definitely smaller. Hook mythology is common knowledge, not cited (minor).",
+    "verifiedUrls": [
+      "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system",
+      "https://science.nasa.gov/solar-system/planets/"
+    ]
+  },
+  {
+    "id": "obs-01-02",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Both NASA quotes verified; distractors wrong.",
+    "verifiedUrls": [
+      "https://science.nasa.gov/Mercury/facts/",
+      "https://science.nasa.gov/solar-system/planets/"
+    ]
+  },
+  {
+    "id": "obs-01-04",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "NASA Mars facts and Britannica quotes verified.",
+    "verifiedUrls": [
+      "https://science.nasa.gov/mars/facts",
+      "https://www.britannica.com/place/Olympus-Mons"
+    ]
+  },
+  {
+    "id": "obs-01-05",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Both NASA quotes verified (tilt 97.77 deg). Venus distractor has ~177 deg tilt (upside down, not sideways) so wrong.",
+    "verifiedUrls": [
+      "https://science.nasa.gov/Uranus/facts",
+      "https://science.nasa.gov/uranus/"
+    ]
+  },
+  {
+    "id": "obs-01-08",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "NASA quote verified; Smithsonian confirms Collins piloted CSM Columbia; Britannica corroborates.",
+    "verifiedUrls": [
+      "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program",
+      "https://www.si.edu/newsdesk/factsheets/brief-history-apollo-program"
+    ]
+  },
+  {
+    "id": "obs-01-10",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "NASA and Britannica both state 12 walked on Moon; Artemis II (2026) was a flyby, no new moonwalkers as of Nov 2026.",
+    "verifiedUrls": [
+      "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program",
+      "https://www.britannica.com/story/how-many-people-have-been-to-the-moon"
+    ]
+  },
+  {
+    "id": "obs-01-12",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica 149.6 million km / 92.96 million miles and NASA 93 million mi / 150 million km verified; accept list equivalent approximations.",
+    "verifiedUrls": [
+      "https://www.britannica.com/science/astronomical-unit",
+      "https://science.nasa.gov/universe/cosmic-distances"
+    ]
+  },
+  {
+    "id": "obs-01-14",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Imagine the Universe quote and NASA Sun facts (4.24 ly) verified; distractors farther.",
+    "verifiedUrls": [
+      "https://imagine.gsfc.nasa.gov/features/cosmic/nearest_star_info.html",
+      "https://science.nasa.gov/sun/facts"
+    ]
+  },
+  {
+    "id": "obs-01-16",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "MSFC and NASA basics-of-space-flight quotes verified; NASA Sun facts corroborates.",
+    "verifiedUrls": [
+      "https://solarscience.msfc.nasa.gov/interior.shtml",
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter1-1"
+    ]
+  },
+  {
+    "id": "obs-01-18",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "EHT quote and NASA quote verified.",
+    "verifiedUrls": [
+      "https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy",
+      "https://www.nasa.gov/universe/black-hole-image-makes-history-nasa-telescopes-coordinated-observations/"
+    ]
+  },
+  {
+    "id": "obs-01-20",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "Britannica (2.48M ly) and NASA (2.5M ly) agree with 'about 2.5 million'; Triangulum is smaller and farther.",
+    "verifiedUrls": [
+      "https://www.britannica.com/place/Andromeda-Galaxy",
+      "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/"
+    ]
+  },
+  {
+    "id": "obs-01-22",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "NASA and Britannica both give December 25, 2021, Ariane 5, French Guiana.",
+    "verifiedUrls": [
+      "https://science.nasa.gov/mission/webb/launch",
+      "https://www.britannica.com/science/James-Webb-Space-Telescope"
+    ]
+  },
+  {
+    "id": "obs-01-23",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "NASA Science, NASA news release and JPL quotes verified; Aug 2012 agreed.",
+    "verifiedUrls": [
+      "https://science.nasa.gov/mission/voyager/interstellar-mission/",
+      "https://www.nasa.gov/news-release/nasa-spacecraft-embarks-on-historic-journey-into-interstellar-space",
+      "https://www.jpl.nasa.gov/missions/voyager-1/"
+    ]
+  },
+  {
+    "id": "obs-01-24",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "JPL and NASA Science quotes verified verbatim.",
+    "verifiedUrls": [
+      "https://www.jpl.nasa.gov/missions/voyager-1/",
+      "https://science.nasa.gov/mission/voyager/voyager-golden-record-overview/"
+    ]
+  }
+]
