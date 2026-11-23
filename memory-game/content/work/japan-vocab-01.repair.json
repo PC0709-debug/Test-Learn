@@ -1,0 +1,421 @@
+[
+  {
+    "id": "japan-vocab-01-03",
+    "deck": "fareast",
+    "topic": "Courtesy",
+    "q": "How do you say 'thank you' in Japanese?",
+    "a": "arigatō",
+    "accept": [
+      "arigato",
+      "arigatou"
+    ],
+    "wrong": [
+      "konnichiwa",
+      "dōzo",
+      "sayōnara"
+    ],
+    "explain": "Arigatō is the normal 'thank you'; adding gozaimasu (arigatō gozaimasu) makes it more polite.",
+    "hook": "'Alligator' said quickly: ah-ree-gah-toh.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Thank you. (normal) ありがとう。 Arigatō. (ah-ree-GAH-toh)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Thank you. (less formal) ありがとうございます。 Arigatō gozaimasu."
+      }
+    ],
+    "say": "ah-ree-gah-toh",
+    "kana": "ありがとう",
+    "romaji": "arigatō"
+  },
+  {
+    "id": "japan-vocab-01-06",
+    "deck": "fareast",
+    "topic": "Courtesy",
+    "q": "How do you say 'please' when making a request in Japanese?",
+    "a": "onegaishimasu",
+    "accept": [
+      "onegai shimasu"
+    ],
+    "wrong": [
+      "arigatō",
+      "itadakimasu",
+      "oyasuminasai"
+    ],
+    "explain": "Onegai shimasu is 'please' for a request; for offering something, Japanese uses dōzo instead.",
+    "hook": "'Oh-neh-guy she-mahs'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Please. (request) お願いします。 Onegai shimasu. (oh-neh-gah-ee shee-mahs)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Please. (offer) どうぞ。 Dōzo. (Dohh-zoh)"
+      }
+    ],
+    "say": "oh-neh-gah-ee-shee-mahs",
+    "kana": "おねがいします",
+    "romaji": "onegaishimasu",
+    "kanji": "お願いします"
+  },
+  {
+    "id": "japan-vocab-01-10",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "How do you say the number 1 in Japanese?",
+    "a": "ichi",
+    "accept": [],
+    "wrong": [
+      "ni",
+      "san",
+      "hachi"
+    ],
+    "explain": "Ichi (一) is the standard reading of 1; the native counting form is hitotsu.",
+    "hook": "'Itchy' - number one.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "1 一 / 壱 ( ichi )"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "| 1 | 一 | ichi ( いち ) | hito(tsu) ( ひと・つ ) | ichi ( いち ) |"
+      }
+    ],
+    "say": "ee-chee",
+    "kana": "いち",
+    "romaji": "ichi",
+    "kanji": "一"
+  },
+  {
+    "id": "japan-vocab-01-11",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "How do you say the number 3 in Japanese?",
+    "a": "san",
+    "accept": [],
+    "wrong": [
+      "ni",
+      "go",
+      "roku"
+    ],
+    "explain": "San (三) is the standard reading of 3; the native counting form is mittsu.",
+    "hook": "Three = 'sahn'.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "3 三 / 参 ( san )"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "| 3 | 三 | san ( さん ) | mit(tsu) ( みっ・つ ) | san ( さん ) |"
+      }
+    ],
+    "say": "sahn",
+    "kana": "さん",
+    "romaji": "san",
+    "kanji": "三"
+  },
+  {
+    "id": "japan-vocab-01-12",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "What is the usual way to say the number 4 in Japanese?",
+    "a": "yon",
+    "accept": [],
+    "wrong": [
+      "go",
+      "roku",
+      "hachi"
+    ],
+    "explain": "4 can be read yon or shi; yon is used in most situations, reportedly due to superstition because shi also means 'death'.",
+    "hook": "4 = 'yawn'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "4 四 ( yon or shi )"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Note that, due to superstition ( shi also means \"death\"), the native Japanese readings yon and nana or 4 and 7 are used instead in most situations, though the Sino-Japanese readings shi and shichi respectively are more commonly used when counting."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "As noted above, yon (4) and nana (7) are preferred to shi and shichi."
+      }
+    ],
+    "say": "yohn",
+    "kana": "よん",
+    "romaji": "yon",
+    "kanji": "四"
+  },
+  {
+    "id": "japan-vocab-01-13",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "What is the usual way to say the number 7 in Japanese?",
+    "a": "nana",
+    "accept": [],
+    "wrong": [
+      "hachi",
+      "kyū",
+      "roku"
+    ],
+    "explain": "7 is read nana or shichi; nana is preferred in most situations, while shichi is common when counting.",
+    "hook": "7 = 'nah-nah' (like 'nana').",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "7 七 ( nana or shichi )"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "| 7 | 七 | shichi ( しち ) | nana(tsu) ( なな・つ ) | nana ( なな ) |"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "As noted above, yon (4) and nana (7) are preferred to shi and shichi."
+      }
+    ],
+    "say": "nah-nah",
+    "kana": "なな",
+    "romaji": "nana",
+    "kanji": "七"
+  },
+  {
+    "id": "japan-vocab-01-14",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "How do you say the number 9 in Japanese?",
+    "a": "kyū",
+    "accept": [
+      "kyu",
+      "kyuu",
+      "ku"
+    ],
+    "wrong": [
+      "jū",
+      "hachi",
+      "roku"
+    ],
+    "explain": "Kyū (九) is the preferred reading of 9; ku is an alternative reading.",
+    "hook": "Nine = 'cue'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "9 九 ( kyū )"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "| 9 | 九 | ku , kyū ( く, きゅう ) | kokono(tsu) ( ここの・つ ) | kyū ( きゅう ) |"
+      }
+    ],
+    "say": "kyoo",
+    "kana": "きゅう",
+    "romaji": "kyū",
+    "kanji": "九"
+  },
+  {
+    "id": "japan-vocab-01-15",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "How do you say the number 10 in Japanese?",
+    "a": "jū",
+    "accept": [
+      "ju",
+      "juu",
+      "jyuu"
+    ],
+    "wrong": [
+      "kyū",
+      "hyaku",
+      "sen"
+    ],
+    "explain": "Jū (十) is the standard reading of 10; tens are built from it, e.g. ni-jū for 20.",
+    "hook": "Ten = 'joo'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "10 十 / 拾 ( jū )"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "| 10 | 十 | jū ( じゅう ) | tō ( とお ) | jū ( じゅう ) |"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "Tens from 20 to 90 are \"(digit) -jū \" as in 二十 ( ni-jū ) to 九十 ( kyū-jū ) ."
+      }
+    ],
+    "say": "joo",
+    "kana": "じゅう",
+    "romaji": "jū",
+    "kanji": "十"
+  },
+  {
+    "id": "japan-vocab-01-16",
+    "deck": "fareast",
+    "topic": "Question words",
+    "q": "How do you say 'what?' in Japanese?",
+    "a": "nani",
+    "accept": [
+      "nan"
+    ],
+    "wrong": [
+      "doko",
+      "dare",
+      "itsu"
+    ],
+    "explain": "Nani means 'what?'; it often becomes nan before desu, as in kore wa nan desu ka ('what is this?').",
+    "hook": "'Nah-nee?' - what?",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "What? 何？ Nani? (nah-nee)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "これは何ですか？ Kore wa nan desu ka? (\"What [is] this?\")"
+      }
+    ],
+    "say": "nah-nee",
+    "kana": "なに",
+    "romaji": "nani",
+    "kanji": "何"
+  },
+  {
+    "id": "japan-vocab-01-19",
+    "deck": "fareast",
+    "topic": "Question words",
+    "q": "How do you say 'who?' in Japanese?",
+    "a": "dare",
+    "accept": [
+      "dare?"
+    ],
+    "wrong": [
+      "dore",
+      "doko",
+      "nani"
+    ],
+    "explain": "Dare means 'who?', as in anata wa dare desu ka ('who are you?'). Do not confuse it with dore ('which?').",
+    "hook": "'Dah-reh' - who dares?",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Who? 誰？ Dare? (dah-reh)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "あなたはだれですか？ Anata wa dare desu ka? (\"Who [are] you?\")"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Which? どれ？ Dore? (doh-reh)"
+      }
+    ],
+    "say": "dah-reh",
+    "kana": "だれ",
+    "romaji": "dare",
+    "kanji": "誰"
+  },
+  {
+    "id": "japan-vocab-01-22",
+    "deck": "fareast",
+    "topic": "Polite phrases",
+    "q": "How do you say 'I don't understand' in Japanese?",
+    "a": "wakarimasen",
+    "accept": [],
+    "wrong": [
+      "sumimasen",
+      "hanasemasen",
+      "irimasen"
+    ],
+    "explain": "Wakarimasen means 'I don't understand'.",
+    "hook": "'Wah-kah-ree-mah-sen' - lost at sea.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "I don't understand. 分かりません。 Wakarimasen. (wah-kah-ree-mah-sen)"
+      }
+    ],
+    "say": "wah-kah-ree-mah-sen",
+    "kana": "わかりません",
+    "romaji": "wakarimasen",
+    "kanji": "分かりません"
+  },
+  {
+    "id": "japan-vocab-01-23",
+    "deck": "fareast",
+    "topic": "Polite phrases",
+    "q": "What do you say when finishing a meal to thank the host or chef in Japanese?",
+    "a": "gochisōsama deshita",
+    "accept": [
+      "gochisosama deshita",
+      "gochisousama deshita",
+      "gochisōsama"
+    ],
+    "wrong": [
+      "itadakimasu",
+      "dō itashimashite",
+      "otsukaresama deshita"
+    ],
+    "explain": "Gochisōsama deshita ('it was delicious') is said when finishing a meal; itadakimasu is said before starting one.",
+    "hook": "Done eating = 'go-chee-soh-sah-mah'.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "It was delicious. (when finishing a meal) ご馳走さまでした。 ( Gochisōsama deshita. )"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "If your meal was good, thank the chef or staff with Gochisōsama deshita when leaving, and you'll get an extra-hearty thank you in return!"
+      }
+    ],
+    "say": "goh-chee-soh-sah-mah deh-shee-tah",
+    "kana": "ごちそうさまでした",
+    "romaji": "gochisōsama deshita",
+    "kanji": "ご馳走さまでした"
+  }
+]

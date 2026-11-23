@@ -1,0 +1,745 @@
+[
+  {
+    "id": "japan-vocab-01-01",
+    "deck": "fareast",
+    "topic": "Greetings",
+    "q": "How do you say 'hello' (daytime greeting) in Japanese?",
+    "a": "konnichiwa",
+    "accept": [
+      "konnichi wa",
+      "konnichiha"
+    ],
+    "wrong": [
+      "sayōnara",
+      "kombanwa",
+      "oyasuminasai"
+    ],
+    "explain": "Konnichiwa (こんにちは) is the everyday greeting; the Wikivoyage phrasebook glosses it as 'Good afternoon.'",
+    "hook": "Sounds like 'cone-knee-chee-wah'.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Good afternoon. こんにちは。 Konnichiwa. (kon-nee-chee-wah)"
+      }
+    ],
+    "say": "kon-nee-chee-wah",
+    "kana": "こんにちは",
+    "romaji": "konnichiwa"
+  },
+  {
+    "id": "japan-vocab-01-02",
+    "deck": "fareast",
+    "topic": "Greetings",
+    "q": "How do you say 'good morning' (polite) in Japanese?",
+    "a": "ohayō gozaimasu",
+    "accept": [
+      "ohayo gozaimasu",
+      "ohayou gozaimasu"
+    ],
+    "wrong": [
+      "oyasuminasai",
+      "kombanwa",
+      "arigatō gozaimasu"
+    ],
+    "explain": "Ohayō gozaimasu is the polite form; plain ohayō is the informal version.",
+    "hook": "'Ohio' + 'go-zai-mahs'.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Good morning. お早うございます。 Ohayō gozaimasu. (oh-hah-YOH go-zah-ee-mahs)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Good morning. (informal) おはよう。 Ohayō."
+      }
+    ],
+    "say": "oh-hah-yoh go-zah-ee-mahs",
+    "kana": "おはようございます",
+    "romaji": "ohayō gozaimasu"
+  },
+  {
+    "id": "japan-vocab-01-03",
+    "deck": "fareast",
+    "topic": "Courtesy",
+    "q": "How do you say 'thank you' in Japanese?",
+    "a": "arigatō",
+    "accept": [
+      "arigato",
+      "arigatou"
+    ],
+    "wrong": [
+      "sumimasen",
+      "dōzo",
+      "sayōnara"
+    ],
+    "explain": "Arigatō is the normal 'thank you'; adding gozaimasu (arigatō gozaimasu) makes it more polite.",
+    "hook": "'Alligator' said quickly: ah-ree-gah-toh.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Thank you. (normal) ありがとう。 Arigatō. (ah-ree-GAH-toh)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Thank you. (less formal) ありがとうございます。 Arigatō gozaimasu."
+      }
+    ],
+    "say": "ah-ree-gah-toh",
+    "kana": "ありがとう",
+    "romaji": "arigatō"
+  },
+  {
+    "id": "japan-vocab-01-04",
+    "deck": "fareast",
+    "topic": "Courtesy",
+    "q": "How do you say 'excuse me' in Japanese?",
+    "a": "sumimasen",
+    "accept": [
+      "suimasen"
+    ],
+    "wrong": [
+      "arigatō",
+      "onegaishimasu",
+      "wakarimasen"
+    ],
+    "explain": "Sumimasen means 'excuse me' and is also what you say to get a waiter's attention.",
+    "hook": "'Sue-me-mah-sen'.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Excuse me. すみません。 Sumimasen. (soo-mee-mah-sen)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Excuse me, waiter? ( getting attention of server ) すみません。 ( sumimasen )"
+      }
+    ],
+    "say": "soo-mee-mah-sen",
+    "kana": "すみません",
+    "romaji": "sumimasen"
+  },
+  {
+    "id": "japan-vocab-01-05",
+    "deck": "fareast",
+    "topic": "Courtesy",
+    "q": "How do you say 'I'm sorry' in Japanese?",
+    "a": "gomen nasai",
+    "accept": [
+      "gomennasai",
+      "gomen"
+    ],
+    "wrong": [
+      "hai",
+      "dōzo",
+      "arigatō"
+    ],
+    "explain": "Gomen nasai means 'I'm sorry'; the shorter gomen is the informal version.",
+    "hook": "'Go-men, nah-sigh'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "I'm sorry. ごめんなさい。 Gomen nasai. (goh-men-nah-sah-ee)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "I'm sorry. (informal) ごめん Gomen. (goh-men)"
+      }
+    ],
+    "say": "goh-men-nah-sah-ee",
+    "kana": "ごめんなさい",
+    "romaji": "gomen nasai"
+  },
+  {
+    "id": "japan-vocab-01-06",
+    "deck": "fareast",
+    "topic": "Courtesy",
+    "q": "How do you say 'please' when making a request in Japanese?",
+    "a": "onegaishimasu",
+    "accept": [
+      "onegai shimasu"
+    ],
+    "wrong": [
+      "dōzo",
+      "itadakimasu",
+      "sumimasen"
+    ],
+    "explain": "Onegai shimasu is 'please' for a request; for offering something, Japanese uses dōzo instead.",
+    "hook": "'Oh-neh-guy she-mahs'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Please. (request) お願いします。 Onegai shimasu. (oh-neh-gah-ee shee-mahs)"
+      }
+    ],
+    "say": "oh-neh-gah-ee-shee-mahs",
+    "kana": "お願いします",
+    "romaji": "onegaishimasu"
+  },
+  {
+    "id": "japan-vocab-01-07",
+    "deck": "fareast",
+    "topic": "Courtesy",
+    "q": "How do you say 'please' when offering something (as in 'go ahead') in Japanese?",
+    "a": "dōzo",
+    "accept": [
+      "dozo",
+      "douzo"
+    ],
+    "wrong": [
+      "onegaishimasu",
+      "dōmo",
+      "hai"
+    ],
+    "explain": "Dōzo is 'please' when offering; onegai shimasu is 'please' when requesting.",
+    "hook": "Offering? 'Doh-zoh' - 'do, go ahead'.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Please. (offer) どうぞ。 Dōzo. (Dohh-zoh)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Please. (request) お願いします。 Onegai shimasu."
+      }
+    ],
+    "say": "doh-zoh",
+    "kana": "どうぞ",
+    "romaji": "dōzo"
+  },
+  {
+    "id": "japan-vocab-01-08",
+    "deck": "fareast",
+    "topic": "Courtesy",
+    "q": "How do you say 'yes' in Japanese?",
+    "a": "hai",
+    "accept": [],
+    "wrong": [
+      "iie",
+      "dare",
+      "nani"
+    ],
+    "explain": "Hai means 'yes' and is pronounced like the English word 'high'.",
+    "hook": "Yes = 'high' five.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "yes はい。 hai (High)"
+      }
+    ],
+    "say": "high",
+    "kana": "はい",
+    "romaji": "hai"
+  },
+  {
+    "id": "japan-vocab-01-09",
+    "deck": "fareast",
+    "topic": "Courtesy",
+    "q": "How do you say 'no' in Japanese?",
+    "a": "iie",
+    "accept": [
+      "iye"
+    ],
+    "wrong": [
+      "hai",
+      "ikura",
+      "itsu"
+    ],
+    "explain": "Iie means 'no' and is pronounced roughly 'EE-eh'.",
+    "hook": "'Ee-eh?' - no way.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "no いいえ。 iie (EE-eh)"
+      }
+    ],
+    "say": "ee-eh",
+    "kana": "いいえ",
+    "romaji": "iie"
+  },
+  {
+    "id": "japan-vocab-01-10",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "How do you say the number 1 in Japanese?",
+    "a": "ichi",
+    "accept": [],
+    "wrong": [
+      "ni",
+      "san",
+      "hachi"
+    ],
+    "explain": "Ichi (一) is the standard reading of 1; the native counting form is hitotsu.",
+    "hook": "'Itchy' - number one.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "1 一 / 壱 ( ichi )"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "| 1 | 一 | ichi ( いち ) | hito(tsu) ( ひと・つ ) | ichi ( いち ) |"
+      }
+    ],
+    "say": "ee-chee",
+    "kana": "一",
+    "romaji": "ichi"
+  },
+  {
+    "id": "japan-vocab-01-11",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "How do you say the number 3 in Japanese?",
+    "a": "san",
+    "accept": [],
+    "wrong": [
+      "ni",
+      "go",
+      "roku"
+    ],
+    "explain": "San (三) is the standard reading of 3; the native counting form is mittsu.",
+    "hook": "Three = 'sahn'.",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "3 三 / 参 ( san )"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "| 3 | 三 | san ( さん ) | mit(tsu) ( みっ・つ ) | san ( さん ) |"
+      }
+    ],
+    "say": "sahn",
+    "kana": "三",
+    "romaji": "san"
+  },
+  {
+    "id": "japan-vocab-01-12",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "What is the usual way to say the number 4 in Japanese?",
+    "a": "yon",
+    "accept": [
+      "shi"
+    ],
+    "wrong": [
+      "go",
+      "roku",
+      "hachi"
+    ],
+    "explain": "4 is read yon or shi, but yon is preferred in most situations because shi also means 'death'.",
+    "hook": "4 = 'yawn'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "4 四 ( yon or shi )"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Note that, due to superstition ( shi also means \"death\"), the native Japanese readings yon and nana or 4 and 7 are used instead in most situations, though the Sino-Japanese readings shi and shichi respectively are more commonly used when counting."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "As noted above, yon (4) and nana (7) are preferred to shi and shichi."
+      }
+    ],
+    "say": "yohn",
+    "kana": "四",
+    "romaji": "yon"
+  },
+  {
+    "id": "japan-vocab-01-13",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "What is the usual way to say the number 7 in Japanese?",
+    "a": "nana",
+    "accept": [
+      "shichi"
+    ],
+    "wrong": [
+      "hachi",
+      "kyū",
+      "roku"
+    ],
+    "explain": "7 is read nana or shichi; nana is preferred in most situations, while shichi is common when counting.",
+    "hook": "7 = 'nah-nah' (like 'nana').",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "7 七 ( nana or shichi )"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "| 7 | 七 | shichi ( しち ) | nana(tsu) ( なな・つ ) | nana ( なな ) |"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "As noted above, yon (4) and nana (7) are preferred to shi and shichi."
+      }
+    ],
+    "say": "nah-nah",
+    "kana": "七",
+    "romaji": "nana"
+  },
+  {
+    "id": "japan-vocab-01-14",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "How do you say the number 9 in Japanese?",
+    "a": "kyū",
+    "accept": [
+      "kyu",
+      "kyuu",
+      "ku"
+    ],
+    "wrong": [
+      "jū",
+      "hachi",
+      "roku"
+    ],
+    "explain": "Kyū (九) is the preferred reading of 9; ku is an alternative reading.",
+    "hook": "Nine = 'cue'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "9 九 ( kyū )"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "| 9 | 九 | ku , kyū ( く, きゅう ) | kokono(tsu) ( ここの・つ ) | kyū ( きゅう ) |"
+      }
+    ],
+    "say": "kyoo",
+    "kana": "九",
+    "romaji": "kyū"
+  },
+  {
+    "id": "japan-vocab-01-15",
+    "deck": "fareast",
+    "topic": "Numbers",
+    "q": "How do you say the number 10 in Japanese?",
+    "a": "jū",
+    "accept": [
+      "ju",
+      "juu",
+      "jyuu"
+    ],
+    "wrong": [
+      "kyū",
+      "hyaku",
+      "sen"
+    ],
+    "explain": "Jū (十) is the standard reading of 10; tens are built from it, e.g. ni-jū for 20.",
+    "hook": "Ten = 'joo'.",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "10 十 / 拾 ( jū )"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "| 10 | 十 | jū ( じゅう ) | tō ( とお ) | jū ( じゅう ) |"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_numerals",
+        "title": "Japanese numerals - Wikipedia",
+        "quote": "Tens from 20 to 90 are \"(digit) -jū \" as in 二十 ( ni-jū ) to 九十 ( kyū-jū ) ."
+      }
+    ],
+    "say": "joo",
+    "kana": "十",
+    "romaji": "jū"
+  },
+  {
+    "id": "japan-vocab-01-16",
+    "deck": "fareast",
+    "topic": "Question words",
+    "q": "How do you say 'what?' in Japanese?",
+    "a": "nani",
+    "accept": [
+      "nan"
+    ],
+    "wrong": [
+      "doko",
+      "dare",
+      "itsu"
+    ],
+    "explain": "Nani means 'what?'; it often becomes nan before desu, as in kore wa nan desu ka ('what is this?').",
+    "hook": "'Nah-nee?' - what?",
+    "difficulty": 1,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "What? 何？ Nani? (nah-nee)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "これは何ですか？ Kore wa nan desu ka? (\"What [is] this?\")"
+      }
+    ],
+    "say": "nah-nee",
+    "kana": "何",
+    "romaji": "nani"
+  },
+  {
+    "id": "japan-vocab-01-17",
+    "deck": "fareast",
+    "topic": "Question words",
+    "q": "How do you say 'where?' in Japanese?",
+    "a": "doko",
+    "accept": [],
+    "wrong": [
+      "dore",
+      "itsu",
+      "nani"
+    ],
+    "explain": "Doko means 'where?', as in toire wa doko desu ka ('where is the toilet?').",
+    "hook": "'Dough-co' - where's the dough?",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Where? どこ？ Doko? (doh-koh)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Where is the toilet? お手洗い・トイレはどこですか？ Otearai/toire wa doko desu ka?"
+      }
+    ],
+    "say": "doh-koh",
+    "kana": "どこ",
+    "romaji": "doko"
+  },
+  {
+    "id": "japan-vocab-01-18",
+    "deck": "fareast",
+    "topic": "Question words",
+    "q": "How do you say 'when?' in Japanese?",
+    "a": "itsu",
+    "accept": [],
+    "wrong": [
+      "doko",
+      "dare",
+      "ikura"
+    ],
+    "explain": "Itsu means 'when?'.",
+    "hook": "'It-soo' - when is it, Sue?",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "When? いつ？ Itsu? (it-soo)"
+      }
+    ],
+    "say": "ee-tsoo",
+    "kana": "いつ",
+    "romaji": "itsu"
+  },
+  {
+    "id": "japan-vocab-01-19",
+    "deck": "fareast",
+    "topic": "Question words",
+    "q": "How do you say 'who?' in Japanese?",
+    "a": "dare",
+    "accept": [
+      "dare?"
+    ],
+    "wrong": [
+      "dore",
+      "doko",
+      "nani"
+    ],
+    "explain": "Dare means 'who?', as in anata wa dare desu ka ('who are you?'). Do not confuse it with dore ('which?').",
+    "hook": "'Dah-reh' - who dares?",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Who? 誰？ Dare? (dah-reh)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "あなたはだれですか？ Anata wa dare desu ka? (\"Who [are] you?\")"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "Which? どれ？ Dore? (doh-reh)"
+      }
+    ],
+    "say": "dah-reh",
+    "kana": "誰",
+    "romaji": "dare"
+  },
+  {
+    "id": "japan-vocab-01-20",
+    "deck": "fareast",
+    "topic": "Question words",
+    "q": "How do you say 'how much?' (price) in Japanese?",
+    "a": "ikura",
+    "accept": [],
+    "wrong": [
+      "itsu",
+      "doko",
+      "dore"
+    ],
+    "explain": "Ikura means 'how much?'; ikura desu ka is 'how much is this?' when shopping.",
+    "hook": "'Ee-koo-rah?' - how much?",
+    "difficulty": 2,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "How much? いくら？ Ikura? (ee-koo-rah)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "How much is this? いくらですか？ ( Ikura desu ka? )"
+      }
+    ],
+    "say": "ee-koo-rah",
+    "kana": "いくら",
+    "romaji": "ikura"
+  },
+  {
+    "id": "japan-vocab-01-21",
+    "deck": "fareast",
+    "topic": "Polite phrases",
+    "q": "How do you say 'you're welcome' in Japanese?",
+    "a": "dō itashimashite",
+    "accept": [
+      "do itashimashite",
+      "dou itashimashite",
+      "doitashimashite"
+    ],
+    "wrong": [
+      "arigatō gozaimasu",
+      "gochisōsama deshita",
+      "sumimasen"
+    ],
+    "explain": "Dō itashimashite is the reply to a thank-you, meaning 'you're welcome'.",
+    "hook": "'Don't touch my mustache' - doh-ee-tah-shee-mah-shteh.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "You're welcome. どういたしまして。 Dō itashimashite. (doh EE-tah-shee mah-shteh)"
+      }
+    ],
+    "say": "doh-ee-tah-shee-mah-shteh",
+    "kana": "どういたしまして",
+    "romaji": "dō itashimashite"
+  },
+  {
+    "id": "japan-vocab-01-22",
+    "deck": "fareast",
+    "topic": "Polite phrases",
+    "q": "How do you say 'I don't understand' in Japanese?",
+    "a": "wakarimasen",
+    "accept": [],
+    "wrong": [
+      "sumimasen",
+      "hanasemasen",
+      "irimasen"
+    ],
+    "explain": "Wakarimasen means 'I don't understand'.",
+    "hook": "'Wah-kah-ree-mah-sen' - lost at sea.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "I don't understand. 分かりません。 Wakarimasen. (wah-kah-ree-mah-sen)"
+      }
+    ],
+    "say": "wah-kah-ree-mah-sen",
+    "kana": "分かりません",
+    "romaji": "wakarimasen"
+  },
+  {
+    "id": "japan-vocab-01-23",
+    "deck": "fareast",
+    "topic": "Polite phrases",
+    "q": "What do you say when finishing a meal to thank the host or chef in Japanese?",
+    "a": "gochisōsama deshita",
+    "accept": [
+      "gochisosama deshita",
+      "gochisousama deshita",
+      "gochisōsama"
+    ],
+    "wrong": [
+      "itadakimasu",
+      "dō itashimashite",
+      "otsukaresama deshita"
+    ],
+    "explain": "Gochisōsama deshita ('it was delicious') is said when finishing a meal; itadakimasu is said before starting one.",
+    "hook": "Done eating = 'go-chee-soh-sah-mah'.",
+    "difficulty": 3,
+    "sources": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "It was delicious. (when finishing a meal) ご馳走さまでした。 ( Gochisōsama deshita. )"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+        "title": "Japanese phrasebook – Travel guide at Wikivoyage",
+        "quote": "If your meal was good, thank the chef or staff with Gochisōsama deshita when leaving, and you'll get an extra-hearty thank you in return!"
+      }
+    ],
+    "say": "goh-chee-soh-sah-mah deh-shee-tah",
+    "kana": "ご馳走さまでした",
+    "romaji": "gochisōsama deshita"
+  }
+]

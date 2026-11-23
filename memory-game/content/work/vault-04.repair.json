@@ -1,0 +1,26 @@
+[
+ {
+  "id": "vault-04-09",
+  "deck": "vault",
+  "topic": "EV bridge",
+  "q": "Going from equity value to enterprise value, are equity method investments added or subtracted?",
+  "a": "Subtracted",
+  "accept": ["subtract", "subtracted", "deducted", "deduct", "minus", "removed"],
+  "wrong": ["Added", "Ignored", "Added at book value"],
+  "explain": "Equity method investees are not consolidated, so they generate no EBITDA for the parent; removing their value from EV keeps the same assets in the numerator and denominator of EV/EBITDA.",
+  "hook": "No EBITDA from it, so no EV for it.",
+  "difficulty": 3,
+  "sources": [
+   {
+    "url": "https://trainingthestreet.com/resources/what-is-enterprise-value",
+    "title": "What is Enterprise Value? - Training The Street",
+    "quote": "Depending on the ownership level, the parent may use the Equity Method of accounting or it may simply account for the stake as an investment on the balance sheet. In either case, the stake would be categorized as a long-term investment (LTI). When calculating the EV of the parent, LTI is subtracted from the total. ... Because the LTIs are not consolidated, they are not part of the parent's “operating” assets and do not generate EBITDA."
+   },
+   {
+    "url": "https://premieur.co/institute/valuation/enterprise-value-and-equity-value",
+    "title": "Enterprise value vs equity value · Premieur Institute",
+    "quote": "When a company owns a stake of roughly 20 to 50 percent in another business, it accounts for it under the equity method: one line on the balance sheet and a share of the investee's profit below operating income. That profit is not in EBITDA, so the investment's value must be taken out of EV, otherwise the numerator includes value the denominator does not."
+   }
+  ]
+ }
+]

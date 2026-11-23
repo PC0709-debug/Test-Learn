@@ -1,0 +1,195 @@
+[
+  {
+    "id": "japan-vocab-01-03",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": false,
+    "issue": "Both Wikivoyage quotes verified verbatim. Wiktionary and Jisho confirm ありがとう = thank you (arigatō); Jisho marks arigatō gozaimasu as polite (teineigo), supporting explain. Distractors clearly wrong.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wiktionary.org/wiki/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86",
+      "https://jisho.org/search/arigatou"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-06",
+    "source": 28,
+    "match": 30,
+    "unique": 12,
+    "current": 15,
+    "precise": 10,
+    "total": 95,
+    "hardFail": false,
+    "issue": "Quotes verified on Wikivoyage. Wiktionary confirms お願いします (onegai shimasu) = 'Please' (request) and lists dōzo for offering. Minor: kudasai is another request 'please' that the accept list does not include, but no distractor is arguably correct.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wiktionary.org/wiki/%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-10",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": false,
+    "issue": "Wikivoyage '1 一 / 壱 (ichi)' and Wikipedia table row (ichi, hito(tsu), preferred ichi) both verified; hitotsu also on Wikivoyage native-count list.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-11",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": false,
+    "issue": "Wikivoyage and Wikipedia agree: 三 san, kun mit(tsu); mittsu in Wikivoyage native-count list.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-12",
+    "source": 29,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 97,
+    "hardFail": false,
+    "issue": "Wikivoyage '4 四 (yon or shi)' and superstition note verified; Wikipedia 'yon (4) and nana (7) are preferred' and 'It is purported...death' verified. 'reportedly' hedge preserved. shi not among distractors.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-13",
+    "source": 29,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 97,
+    "hardFail": false,
+    "issue": "Wikivoyage '7 七 (nana or shichi)' and Wikipedia table row/preference sentence verified. 'shichi common when counting' is from Wikivoyage only.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-14",
+    "source": 29,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": false,
+    "issue": "Wikivoyage '9 九 (kyū)' and Wikipedia row (ku, kyū; preferred kyū) verified; accepting 'ku' is supported as a valid reading.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-15",
+    "source": 29,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 99,
+    "hardFail": false,
+    "issue": "Wikivoyage '10 十 / 拾 (jū)', Wikipedia row and 'Tens from 20 to 90...ni-jū' all verified; Wikivoyage also lists 20 = ni-jū.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-16",
+    "source": 28,
+    "match": 29,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 95,
+    "hardFail": false,
+    "issue": "Wikivoyage 'What? 何？ Nani?' and 'Kore wa nan desu ka?' verified. Wiktionary 何: read なに, but なん before だ/で/の, supporting the nan-before-desu note.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wiktionary.org/wiki/%E4%BD%95"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-19",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": false,
+    "issue": "Wikivoyage Who?/Dore?/Anata wa dare desu ka quotes verified. Wiktionary 誰 (だれ, dare) = who; lists dore separately as 'which'.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wiktionary.org/wiki/%E8%AA%B0"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-22",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": false,
+    "issue": "Wikivoyage 'I don't understand. 分かりません。 Wakarimasen.' verified; Wiktionary: polite negative of wakaru (understand). Distractors (sumimasen, hanasemasen, irimasen) clearly different meanings.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wiktionary.org/wiki/%E5%88%86%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93"
+    ],
+    "pass": true
+  },
+  {
+    "id": "japan-vocab-01-23",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 9,
+    "total": 96,
+    "hardFail": false,
+    "issue": "Both Wikivoyage quotes verified; Wikivoyage also gives itadakimasu 'when starting a meal'. Wiktionary ごちそうさまでした = 'it was delicious' (ご馳走様でした). Short form 'gochisōsama' in accept is a casual equivalent.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wiktionary.org/wiki/%E3%81%94%E3%81%A1%E3%81%9D%E3%81%86%E3%81%95%E3%81%BE%E3%81%A7%E3%81%97%E3%81%9F"
+    ],
+    "pass": true
+  }
+]

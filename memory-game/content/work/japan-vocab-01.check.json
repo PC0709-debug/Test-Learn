@@ -1,0 +1,373 @@
+[
+  {
+    "id": "japan-vocab-01-01",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Minor: accept 'konnichiha' is a kana-literal spelling, not a pronunciation; harmless.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/konnichiwa"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-02",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-03",
+    "source": 28,
+    "match": 30,
+    "unique": 5,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "distractor 'sumimasen' can mean 'thank you' per jisho.org",
+    "pass": false,
+    "issue": "Distractor 'sumimasen' can be argued correct: jisho.org (JMdict) lists sense 2 of すみません as 'thank you; you shouldn't have'. Replace it with an unambiguous distractor (e.g. 'konnichiwa' or 'oyasuminasai').",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86",
+      "https://jisho.org/search/%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-04",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Accept 'suimasen' confirmed as colloquial variant on jisho.org.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93",
+      "https://jisho.org/search/%E3%81%99%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-05",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-06",
+    "source": 26,
+    "match": 22,
+    "unique": 5,
+    "current": 15,
+    "precise": 10,
+    "total": 78,
+    "hardFail": "distractor 'dōzo' arguably correct for requests; kana field contains kanji",
+    "pass": false,
+    "issue": "(1) Distractor 'dōzo' can be argued correct for a request: jisho.org sense 1 of どうぞ is 'please; kindly; pray; I beg (of you)' with example 写真をどうぞ見せて下さい 'Please show me your picture'. Replace with an unambiguous distractor (e.g. 'arigatō'). (2) kana field is お願いします (contains kanji 願); use おねがいします.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99",
+      "https://jisho.org/search/%E3%81%A9%E3%81%86%E3%81%9E"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-07",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%A9%E3%81%86%E3%81%9E"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-08",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%AF%E3%81%84"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-09",
+    "source": 28,
+    "match": 30,
+    "unique": 13,
+    "current": 15,
+    "precise": 10,
+    "total": 96,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Minor: accept 'iye' is not a standard romanization; consider removing.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%84%E3%81%84%E3%81%88"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-10",
+    "source": 28,
+    "match": 20,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "kana field contains kanji, not kana",
+    "pass": false,
+    "issue": "kana field is '一' (kanji), not kana; set kana to 'いち' (optionally keep the kanji in a separate field). ",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-11",
+    "source": 28,
+    "match": 20,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "kana field contains kanji, not kana",
+    "pass": false,
+    "issue": "kana field is '三' (kanji), not kana; set kana to 'さん' (optionally keep the kanji in a separate field). ",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-12",
+    "source": 28,
+    "match": 20,
+    "unique": 10,
+    "current": 15,
+    "precise": 10,
+    "total": 83,
+    "hardFail": "kana field contains kanji, not kana",
+    "pass": false,
+    "issue": "kana field is '四' (kanji), not kana; set kana to 'よん' (optionally keep the kanji in a separate field). Also: q asks for the 'usual' way yet accept list includes 'shi', which the card itself says is not usual; drop 'shi' from accept or reword q. Wikipedia hedges the death etymology ('It is purported'); keep explain hedged.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-13",
+    "source": 28,
+    "match": 20,
+    "unique": 10,
+    "current": 15,
+    "precise": 10,
+    "total": 83,
+    "hardFail": "kana field contains kanji, not kana",
+    "pass": false,
+    "issue": "kana field is '七' (kanji), not kana; set kana to 'なな' (optionally keep the kanji in a separate field). Also: q asks for the 'usual' way yet accept list includes 'shichi'; drop it from accept or reword q.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-14",
+    "source": 28,
+    "match": 20,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "kana field contains kanji, not kana",
+    "pass": false,
+    "issue": "kana field is '九' (kanji), not kana; set kana to 'きゅう' (optionally keep the kanji in a separate field). ",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-15",
+    "source": 28,
+    "match": 20,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "kana field contains kanji, not kana",
+    "pass": false,
+    "issue": "kana field is '十' (kanji), not kana; set kana to 'じゅう' (optionally keep the kanji in a separate field). ",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://en.wikipedia.org/wiki/Japanese_numerals"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-16",
+    "source": 28,
+    "match": 20,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "kana field contains kanji, not kana",
+    "pass": false,
+    "issue": "kana field is '何' (kanji), not kana; set kana to 'なに' (optionally keep the kanji in a separate field). ",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E4%BD%95"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-17",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%A9%E3%81%93"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-18",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "Minor: 'say' ee-tsoo differs from Wikivoyage's it-soo, but ee-tsoo is the more faithful respelling of romaji 'itsu'.",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%84%E3%81%A4"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-19",
+    "source": 28,
+    "match": 20,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "kana field contains kanji, not kana",
+    "pass": false,
+    "issue": "kana field is '誰' (kanji), not kana; set kana to 'だれ' (optionally keep the kanji in a separate field). ",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E8%AA%B0"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-20",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%84%E3%81%8F%E3%82%89"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-21",
+    "source": 28,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 98,
+    "hardFail": null,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%A9%E3%81%86%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%A6"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-22",
+    "source": 28,
+    "match": 20,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "kana field contains kanji, not kana",
+    "pass": false,
+    "issue": "kana field is '分かりません' (kanji), not kana; set kana to 'わかりません' (optionally keep the kanji in a separate field). ",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E5%88%86%E3%81%8B%E3%82%8B"
+    ]
+  },
+  {
+    "id": "japan-vocab-01-23",
+    "source": 28,
+    "match": 20,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 88,
+    "hardFail": "kana field contains kanji, not kana",
+    "pass": false,
+    "issue": "kana field is 'ご馳走さまでした' (kanji), not kana; set kana to 'ごちそうさまでした' (optionally keep the kanji in a separate field). ",
+    "verifiedUrls": [
+      "https://en.wikivoyage.org/wiki/Japanese_phrasebook",
+      "https://jisho.org/search/%E3%81%94%E3%81%A1%E3%81%9D%E3%81%86%E3%81%95%E3%81%BE%E3%81%A7%E3%81%97%E3%81%9F"
+    ]
+  }
+]

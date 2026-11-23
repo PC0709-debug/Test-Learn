@@ -1,0 +1,45 @@
+<!doctype html>
+<!--
+  index.html — the single page the whole game lives in.
+  Big picture: HTML is the skeleton, style.css is the look, and the js/ files
+  are the behaviour. Scripts load in order at the bottom: data first, then
+  the helpers, then app.js, which uses all of them.
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>The Ticker</title>
+  <meta name="description" content="A 1920s Wall Street memory roguelike with spaced repetition.">
+
+  <!-- Home Screen app settings (iPhone/iPad) -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="The Ticker">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="icon" href="icons/icon-192.png">
+  <meta name="theme-color" content="#14110c">
+
+  <!-- Fonts: Limelight (Art Deco headlines), Old Standard TT (1920s newsprint),
+       Courier Prime (ticker tape). The service worker caches them for offline. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Limelight&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="tape" class="tape" aria-hidden="true"></div>
+  <main id="app"></main>
+
+  <script src="js/cards-data.js"></script>
+  <script src="js/srs.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/answer.js"></script>
+  <script src="js/fx.js"></script>
+  <script src="js/theme.js"></script>
+  <script src="js/art.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
