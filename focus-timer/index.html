@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <!-- These make it behave like an app when added to the iPhone Home Screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Still">
+  <meta name="theme-color" content="#05080d">
+  <title>Still</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="icon" href="icons/icon-180.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-state="idle">
+  <!-- The animated nature scene sits behind everything -->
+  <canvas id="scene" aria-hidden="true"></canvas>
+
+  <!-- Three side-by-side pages you swipe between: Stats ← Focus → Insights -->
+  <main id="pager">
+    <section class="page panel" id="page-stats" aria-label="Stats">
+      <div class="page-inner" id="stats-body"></div>
+    </section>
+
+    <section class="page" id="page-focus" aria-label="Focus">
+      <!-- Before a session -->
+      <div class="view" id="view-idle">
+        <header class="brand">Still</header>
+        <div class="hero">
+          <div id="big-time" class="big-time">10:00</div>
+          <div id="big-caption" class="caption"></div>
+        </div>
+        <div class="controls">
+          <div class="segmented" role="radiogroup" aria-label="Mode">
+            <button data-mode="trained" role="radio">Trained</button>
+            <button data-mode="pure" role="radio">Pure focus</button>
+          </div>
+          <div class="chips" role="radiogroup" aria-label="Soundscape">
+            <button data-scene="rain" role="radio">Rain</button>
+            <button data-scene="ocean" role="radio">Ocean</button>
+            <button data-scene="forest" role="radio">Forest night</button>
+          </div>
+          <label class="switch-row">
+            <span>Flip to focus<small>Face down starts it. Picking up counts.</small></span>
+            <input type="checkbox" id="flip-toggle">
+            <span class="switch" aria-hidden="true"></span>
+          </label>
+        </div>
+        <button id="start-btn" class="start">Begin</button>
+      </div>
+
+      <!-- After running the "Focus On" Shortcut, waiting for a tap to begin -->
+      <div class="view" id="view-prepped" hidden>
+        <p class="lead">Focus mode on?</p>
+        <p class="caption">Tap when you're ready.</p>
+        <button id="begin-btn" class="start">Begin</button>
+        <button class="link" data-cancel>Cancel</button>
+      </div>
+
+      <!-- Waiting for the phone to go face down -->
+      <div class="view" id="view-arming" hidden>
+        <div class="flip-icon" aria-hidden="true"><div></div></div>
+        <p class="lead" id="arming-text">Place your phone face down to begin</p>
+        <button class="link" data-cancel id="arming-cancel">Cancel</button>
+      </div>
+
+      <!-- During a session: almost nothing on screen. Tap to show controls. -->
+      <div class="view" id="view-run" hidden>
+        <div id="run-time" class="run-time">00:00</div>
+        <div class="run-ui">
+          <p class="caption" id="run-caption"></p>
+          <button id="end-btn" class="ghost">End</button>
+        </div>
+        <p class="tap-hint">Tap to show controls</p>
+      </div>
+
+      <!-- Session summary -->
+      <div class="view" id="view-done" hidden>
+        <p class="lead" id="done-title"></p>
+        <p class="caption" id="done-detail"></p>
+        <p class="caption" id="done-ladder"></p>
+        <button id="done-btn" class="start">Done</button>
+      </div>
+    </section>
+
+    <section class="page panel" id="page-insights" aria-label="Insights">
+      <div class="page-inner">
+        <div id="insights-body"></div>
+
+        <section class="card">
+          <div class="card-head"><h2>Focus Mode shortcut</h2></div>
+          <label class="switch-row">
+            <span>Run Shortcuts on start/end<small>Silences notifications automatically</small></span>
+            <input type="checkbox" id="sc-toggle">
+            <span class="switch" aria-hidden="true"></span>
+          </label>
+          <div class="field"><label for="sc-start">Start shortcut name</label><input id="sc-start" autocomplete="off"></div>
+          <div class="field"><label for="sc-end">End shortcut name</label><input id="sc-end" autocomplete="off"></div>
+          <details>
+            <summary>How to set it up (2 min)</summary>
+            <ol class="small">
+              <li>Open the <b>Shortcuts</b> app → tap <b>+</b>.</li>
+              <li>Add the action <b>Set Focus</b> → choose <b>Do Not Disturb</b> → <b>Turn On</b> → <b>Until Turned Off</b>.</li>
+              <li>Name it exactly <b>Focus On</b> (or match the name above).</li>
+              <li>Make a second shortcut that turns it <b>Off</b>, named <b>Focus Off</b>.</li>
+              <li>Turn the switch above on. When you tap Begin, Still opens the shortcut; tap <b>◀ Still</b> in the top-left corner to come back.</li>
+            </ol>
+          </details>
+          <button class="ghost small" id="sc-test">Test start shortcut</button>
+        </section>
+
+        <section class="card">
+          <div class="card-head"><h2>Settings</h2></div>
+          <div class="field"><label for="volume">Sound volume</label><input type="range" id="volume" min="0" max="1" step="0.05"></div>
+          <div class="row-buttons">
+            <button class="ghost small" id="export-btn">Export data</button>
+            <button class="ghost small danger" id="reset-btn">Reset all data</button>
+          </div>
+          <p class="muted small">Your data stays on this device.</p>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <nav id="dots" aria-label="Screens">
+    <button data-page="0" aria-label="Stats"></button>
+    <button data-page="1" aria-label="Focus"></button>
+    <button data-page="2" aria-label="Insights"></button>
+  </nav>
+
+  <!-- Urge-surfing sheet: appears when you leave, pick up, or try to end early -->
+  <div id="sheet" class="sheet" hidden role="dialog" aria-modal="true" aria-labelledby="sheet-title">
+    <div class="sheet-card">
+      <h2 id="sheet-title"></h2>
+      <p class="caption" id="sheet-sub"></p>
+      <div class="breath"><div class="breath-circle"></div><div class="breath-label" id="breath-label">Breathe in</div></div>
+      <p class="caption" id="breath-count">1:00</p>
+      <p class="q">What pulled you?</p>
+      <div class="chips" id="reason-chips">
+        <button data-reason="bored">Bored</button>
+        <button data-reason="notification">Notification</button>
+        <button data-reason="needed">Needed something</button>
+        <button data-reason="other">Other</button>
+      </div>
+      <button id="back-btn" class="start small">Back to focus</button>
+      <button id="end-session-btn" class="link" hidden>End session</button>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" hidden></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
