@@ -49,7 +49,7 @@ content/verification-report.md   audit trail for every card
 
 1. On github.com, open the repo → **Settings** → **General** → scroll to **Danger Zone** → **Change visibility** → **Public**. Free accounts need a public repo for Pages.
 2. **Settings** → **Pages** → Source **Deploy from a branch** → Branch `memory-game`, folder `/ (root)` → **Save**.
-3. After about a minute, open `https://pc0709-debug.github.io/test-learn/memory-game/` in Safari.
+3. After about a minute, open `https://pc0709-debug.github.io/Test-Learn/memory-game/` (capital T and L: the repo was renamed `Test-Learn`, and this part of the address is case-sensitive) in Safari.
 4. Tap **Share** → **Add to Home Screen**. Open it once while online so it caches everything. After that it works with no signal.
 
 Note: Pages serves one branch per repo. When the focus timer is ready, merge both branches into `main` and point Pages at `main`.
