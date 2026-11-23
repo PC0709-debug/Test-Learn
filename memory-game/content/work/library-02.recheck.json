@@ -1,0 +1,20 @@
+[
+  {
+    "id": "library-02-10",
+    "source": 30,
+    "match": 30,
+    "unique": 15,
+    "current": 15,
+    "precise": 10,
+    "total": 100,
+    "hardFail": false,
+    "pass": true,
+    "issue": "",
+    "verifiedUrls": [
+      "https://www.britannica.com/event/Battle-of-Cannae",
+      "https://www.britannica.com/summary/Battle-of-Cannae",
+      "https://www.ebsco.com/research-starters/military-history-and-science/battle-cannae",
+      "https://warontherocks.com/the-importance-of-the-battle-of-cannae/"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "floor-03-23",
+    "source": 28,
+    "match": 30,
+    "unique": 14,
+    "current": 15,
+    "precise": 10,
+    "total": 97,
+    "hardFail": false,
+    "pass": true,
+    "issue": "All three cited ISM pages (Oct 2026, May 2026, Aug 2026 PDF) contain the quoted sentence verbatim. Sources are all ISM (primary/official) rather than fully independent, but three separate official reports agree. Accept list entry 'Non-Manufacturing Report' is slightly loose but unambiguous in context. Distractors (Chicago PMI, Beige Book, Empire State Survey) are distinct reports.",
+    "verifiedUrls": [
+      "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october",
+      "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/may",
+      "https://www.ismworld.org/globalassets/pub/research-and-surveys/rob/nmi/stats202608svcs.pdf"
+    ]
+  }
+]
